@@ -1,5 +1,6 @@
 import 'package:baby_names/Pages/Dashboard/dashboard.dart';
 import 'package:baby_names/Pages/NamesList/nameList.dart';
+import 'package:baby_names/Pages/LikedList/nameList.dart' as likedList;
 import 'package:flutter/material.dart';
 
 void main() {
@@ -40,11 +41,12 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      initialRoute: '/nameList',
+      initialRoute: '/likedList',
       routes: {
         // When navigating to the "/" route, build the FirstScreen widget.
         '/': (context) => const dashboard(),
         '/nameList': (context) => const nameList(),
+        '/likedList': (context) => const likedList.nameList(),
         // When navigating to the "/second" route, build the SecondScreen widget.
       },
     );

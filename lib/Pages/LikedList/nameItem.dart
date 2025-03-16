@@ -71,7 +71,7 @@ class nameItem extends StatelessWidget {
                   color: Colors.transparent,
                   child: InkWell(
                     onTap: () {
-                      print("Tapped2!");
+                      print("Tapped1!");
                     },
                     splashColor: Colors.blue.withOpacity(1), // Ripple effect
                     highlightColor: Colors.blue.withOpacity(0.2), // Pressed effect
@@ -87,7 +87,7 @@ class nameItem extends StatelessWidget {
                 SizedBox(width: 10),
                 isLiked?
                 Image.asset(
-                  "assets/images/heartBlack1.png",
+                  "assets/images/heartGreen1.png",
                   height: 30,
                   width: 30,
                 ):
