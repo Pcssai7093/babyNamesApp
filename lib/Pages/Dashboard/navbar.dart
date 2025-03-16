@@ -44,7 +44,7 @@ class _navbarState extends State<navbar> {
 
   void scrollToIndex(int index) {
     double itemHeight =
-    80.0; // Approximate height of each item (change as needed)
+    60; // Approximate height of each item (change as needed)
     scrollController?.animateTo(
       index * itemHeight,
       duration: Duration(milliseconds: 700), // Adjust speed as needed
