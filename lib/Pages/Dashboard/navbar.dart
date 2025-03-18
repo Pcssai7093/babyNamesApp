@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import '../../Providers/darkMode.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key});
@@ -68,18 +71,22 @@ class _navbarState extends State<navbar> {
     });
   }
 
+  late DarkModeProvder darkModeProvder;
   @override
   Widget build(BuildContext context) {
+    darkModeProvder = Provider.of<DarkModeProvder>(context);
+    double screenWidth = MediaQuery.of(context).size.width; // Get screen width
+    double screenHeight = MediaQuery.of(context).size.height; // Get screen height
+
     return Container(
       width: double.infinity,
-      height: 320,
       padding: EdgeInsets.only(
         top: MediaQuery.of(context).viewPadding.top,
         // left: 0,
         right: 20,
       ),
       decoration: BoxDecoration(
-          color: Colors.blue,
+          color: darkModeProvder.isDarkMode ? Colors.blueGrey.shade800 : Colors.blueAccent,
           border: Border(
             // top: BorderSide(color: Colors.blue, width: 10),
             // left: BorderSide(color: Colors.green, width: 10),
@@ -121,6 +128,7 @@ class _navbarState extends State<navbar> {
                       child: Padding(
                         padding: EdgeInsets.symmetric(vertical: 10),
                         child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             GestureDetector(
                               onTap: () {
@@ -137,8 +145,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                                 child: Image.asset(
                                   "assets/images/boyIcon1.png",
-                                  height: 60,
-                                  width: 60,
+                                  height: MediaQuery.of(context).size.height * 0.07,
+                                  width:  MediaQuery.of(context).size.height * 0.07,
                                 ),
                               ),
                             ),
@@ -158,8 +166,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                                 child: Image.asset(
                                   "assets/images/girlIcon1.png",
-                                  height: 60,
-                                  width: 60,
+                                  height: MediaQuery.of(context).size.height * 0.07,
+                                  width:  MediaQuery.of(context).size.height * 0.07,
                                 ),
                               ),
                             ),
@@ -192,6 +200,7 @@ class _navbarState extends State<navbar> {
                     child: Padding(
                       padding: EdgeInsets.symmetric(vertical: 10),
                       child: Row(
+                        mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           GestureDetector(
                             onTap: () {
@@ -208,8 +217,8 @@ class _navbarState extends State<navbar> {
                                   Border.all(color: Colors.black, width: 1)),
                               child: Image.asset(
                                 "assets/images/vishnu.png",
-                                height: 60,
-                                width: 60,
+                                height: MediaQuery.of(context).size.height * 0.07,
+                                width:  MediaQuery.of(context).size.height * 0.07,
                               ),
                             ),
                           ),
@@ -229,8 +238,8 @@ class _navbarState extends State<navbar> {
                                   Border.all(color: Colors.black, width: 1)),
                               child: Image.asset(
                                 "assets/images/jesus.png",
-                                height: 60,
-                                width: 60,
+                                height: MediaQuery.of(context).size.height * 0.07,
+                                width:  MediaQuery.of(context).size.height * 0.07,
                               ),
                             ),
                           ),
@@ -250,8 +259,8 @@ class _navbarState extends State<navbar> {
                                   Border.all(color: Colors.black, width: 1)),
                               child: Image.asset(
                                 "assets/images/prayingMuslim.png",
-                                height: 60,
-                                width: 60,
+                                height: MediaQuery.of(context).size.height * 0.07,
+                                width:  MediaQuery.of(context).size.height * 0.07,
                               ),
                             ),
                           )
@@ -335,20 +344,32 @@ class _navbarState extends State<navbar> {
               )
             ],
           ),
-          // Column(
-          //   children: [
-          //    Container(
-          //       alignment: Alignment.center,
-          //       child: Text(
-          //         "అక్షరం",
-          //         style: TextStyle(
-          //             color: Colors.white,
-          //             fontSize: 20,
-          //             fontFamily: "anekTeluguSemiBold"),
-          //       ),
-          //     ),
-          //   ],
-          // )
+          Row(
+            mainAxisAlignment: MainAxisAlignment.end,
+            children: [
+              Container(
+                padding: EdgeInsets.all(screenWidth * 0.03),
+                margin: EdgeInsets.only(bottom: screenWidth * 0.03 ),
+                decoration: BoxDecoration(
+                    border: Border.all(color: Colors.black, width: 1.5),
+                    color: Colors.lightGreen,
+                    borderRadius: BorderRadius.only(
+                      topLeft: Radius.circular(screenWidth * 0.04),
+                      topRight: Radius.circular(screenWidth * 0.04),
+                      bottomRight: Radius.circular(screenWidth * 0.04),
+                      bottomLeft: Radius.circular(screenWidth * 0.04),
+                    ),
+                ),
+                child: Text(
+                  "అన్వేషించు",
+                  style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 20,
+                      fontFamily: "anekTeluguSemiBold"),
+                ),
+              )
+            ],
+          )
         ],
       ), // Takes full available width
     );

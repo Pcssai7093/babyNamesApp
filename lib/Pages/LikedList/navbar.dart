@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import '../../Providers/darkMode.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key});
@@ -67,16 +70,23 @@ class _navbarState extends State<navbar> {
     });
   }
 
+  late DarkModeProvder darkModeProvder;
+
   @override
   Widget build(BuildContext context) {
+    darkModeProvder = Provider.of<DarkModeProvder>(context);
+
+    double screenWidth = MediaQuery.of(context).size.width; // Get screen width
+    double screenHeight = MediaQuery.of(context).size.height;
+
     return Container(
       width: double.infinity,
-      height: 150,
+      // height: 150,
       padding: EdgeInsets.only(
         top: MediaQuery.of(context).viewPadding.top,
       ),
       decoration: BoxDecoration(
-          color: Colors.blue,
+          color: darkModeProvder.isDarkMode ? Colors.blueGrey.shade800 : Colors.blueAccent,
           border: Border(
               // top: BorderSide(color: Colors.blue, width: 10),
               // left: BorderSide(color: Colors.green, width: 10),

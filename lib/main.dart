@@ -1,10 +1,23 @@
 import 'package:baby_names/Pages/Dashboard/dashboard.dart';
 import 'package:baby_names/Pages/NamesList/nameList.dart';
 import 'package:baby_names/Pages/LikedList/nameList.dart' as likedList;
+import 'package:baby_names/Providers/darkMode.dart';
 import 'package:flutter/material.dart';
+import 'package:device_preview/device_preview.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    DevicePreview(
+      enabled: false, // Enable/disable DevicePreview
+      builder: (context) => MultiProvider(
+          providers: [
+            ChangeNotifierProvider(create: (context) => DarkModeProvder()),
+          ],
+        child: MyApp(),
+      ), // Wrap MyApp correctly
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -15,6 +28,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      useInheritedMediaQuery: true,
+      locale: DevicePreview.locale(context),
+      builder: DevicePreview.appBuilder,
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -41,7 +57,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       // home: const MyHomePage(title: 'Flutter Demo Home Page'),
-      initialRoute: '/likedList',
+      initialRoute: '/',
       routes: {
         // When navigating to the "/" route, build the FirstScreen widget.
         '/': (context) => const dashboard(),

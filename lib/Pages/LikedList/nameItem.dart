@@ -1,3 +1,5 @@
+import 'dart:math';
+
 import 'package:flutter/material.dart';
 
 class nameItem extends StatelessWidget {
@@ -6,6 +8,9 @@ class nameItem extends StatelessWidget {
   final dynamic? nameData;
   @override
   Widget build(BuildContext context) {
+    double screenWidth = MediaQuery.of(context).size.width; // Get screen width
+    double screenHeight = MediaQuery.of(context).size.height;
+
     return Container(
       width: double.infinity,
       constraints: BoxConstraints(
@@ -19,6 +24,7 @@ class nameItem extends StatelessWidget {
       ),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           /*
           boy/girl icon or some identitfier,
@@ -26,27 +32,29 @@ class nameItem extends StatelessWidget {
           name like button,
            */
           Row(
+            crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               nameData?["gender"] == "male" ?
               Image.asset(
                 "assets/images/boyIcon1.png",
-                height: 30,
-                width: 30,
+                height: min(100,screenWidth * 0.07), // Scaled height
+                width: min(100,screenWidth * 0.07), // Scaled width
               ):
               nameData?["gender"] == "female" ?
               Image.asset(
                 "assets/images/girlIcon1.png",
-                height: 30,
-                width: 30,
+                height: min(100,screenWidth * 0.07), // Scaled height
+                width: min(100,screenWidth * 0.07), // Scaled width
               ):
               Image.asset(
                 "assets/images/boyGirl1.png",
-                height: 30,
-                width: 30,
+                height: min(100,screenWidth * 0.07), // Scaled height
+                width: min(100,screenWidth * 0.07), // Scaled width
               ),
               Container(
-                padding: EdgeInsets.only(left: 4,right: 4),
+                padding: EdgeInsets.only(left: max(4,screenWidth * 0.01),right: max(4,screenWidth * 0.01)),
                 child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     /*
                 name in native language big,
@@ -78,8 +86,8 @@ class nameItem extends StatelessWidget {
                     borderRadius: BorderRadius.circular(80), // Optional rounded effect
                     child: Image.asset(
                       "assets/images/megaphone1.png",
-                      height: 30,
-                      width: 30,
+                      height: min(100,screenWidth * 0.07), // Scaled height
+                      width: min(100,screenWidth * 0.07),
                     ),
                   ),
                 ),
@@ -88,13 +96,13 @@ class nameItem extends StatelessWidget {
                 isLiked?
                 Image.asset(
                   "assets/images/heartGreen1.png",
-                  height: 30,
-                  width: 30,
+                  height: min(100,screenWidth * 0.07), // Scaled height
+                  width: min(100,screenWidth * 0.07),
                 ):
                 Image.asset(
                   "assets/images/heartBlack1.png",
-                  height: 30,
-                  width: 30,
+                  height: min(100,screenWidth * 0.07), // Scaled height
+                  width: min(100,screenWidth * 0.07),
                 ),
               ],
             )

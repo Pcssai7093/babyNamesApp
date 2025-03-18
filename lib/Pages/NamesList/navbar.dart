@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
+
+import '../../Providers/darkMode.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key});
@@ -66,17 +69,19 @@ class _navbarState extends State<navbar> {
       });
     });
   }
+  late DarkModeProvder darkModeProvder;
 
   @override
   Widget build(BuildContext context) {
+    darkModeProvder = Provider.of<DarkModeProvder>(context);
+
     return Container(
       width: double.infinity,
-      height: 220,
       padding: EdgeInsets.only(
         top: MediaQuery.of(context).viewPadding.top,
       ),
       decoration: BoxDecoration(
-          color: Colors.blue,
+          color: darkModeProvder.isDarkMode ? Colors.blueGrey.shade800 : Colors.blueAccent,
           border: Border(
               // top: BorderSide(color: Colors.blue, width: 10),
               // left: BorderSide(color: Colors.green, width: 10),
@@ -96,93 +101,6 @@ class _navbarState extends State<navbar> {
                 /*
               should contain filter and letter selector
                */
-                // Row(
-                //   mainAxisAlignment: MainAxisAlignment.spaceAround,
-                //   children: [
-                //     Container(
-                //       margin: EdgeInsets.only(left:5,right: 5),
-                //       padding: EdgeInsets.all(3),
-                //       decoration: BoxDecoration(
-                //           color: selectedPage == "Hindu" ? Colors.greenAccent : null,
-                //           borderRadius: BorderRadius.circular(10),
-                //           border: Border.all(color: Colors.black, width: 1)
-                //       ),
-                //       child: Image.asset(
-                //         "assets/images/house.png",
-                //         height: 35,
-                //         width: 35,
-                //       ),
-                //     ),
-                //     Container(
-                //       margin: EdgeInsets.only(left:5,right: 5),
-                //       padding: EdgeInsets.all(3),
-                //       decoration: BoxDecoration(
-                //           color: selectedPage == "Hindu" ? Colors.greenAccent : null,
-                //           borderRadius: BorderRadius.circular(10),
-                //           border: Border.all(color: Colors.black, width: 1)
-                //       ),
-                //       child: Image.asset(
-                //         "assets/images/bookNavigation.png",
-                //         height: 35,
-                //         width: 35,
-                //       ),
-                //     ),
-                //     Container(
-                //       margin: EdgeInsets.only(left:5,right: 15),
-                //       padding: EdgeInsets.all(3),
-                //       decoration: BoxDecoration(
-                //           color: selectedPage == "Hindu" ? Colors.greenAccent : null,
-                //           borderRadius: BorderRadius.circular(10),
-                //           border: Border.all(color: Colors.black, width: 1)
-                //       ),
-                //       child: Image.asset(
-                //         "assets/images/heartGreen1.png",
-                //         height: 35,
-                //         width: 35,
-                //       ),
-                //     ),
-                //     Expanded(
-                //       child: Container(
-                //         decoration: BoxDecoration(
-                //             color: Colors.white,
-                //             borderRadius: BorderRadius.circular(20)
-                //         ),
-                //         padding: EdgeInsets.only(left: 10,right:10),
-                //         child: Row(
-                //           mainAxisAlignment: MainAxisAlignment.center,
-                //           mainAxisSize: MainAxisSize.min,
-                //           children: [
-                //             // Image.asset(
-                //             //   "assets/images/search.png",
-                //             //   height: 30,
-                //             //   width: 30,
-                //             // ),
-                //             Expanded(
-                //               child: SizedBox(
-                //                 child: TextField(
-                //                   style: TextStyle(
-                //                   color: Colors.black, // Text color
-                //                   fontSize: 18, // Font size
-                //                   fontWeight: FontWeight.normal,// Font weight
-                //                 ),
-                //                   decoration: InputDecoration(
-                //                     border: InputBorder.none,
-                //                     hintText: 'Enter a search term',
-                //                   ),
-                //                 ),
-                //               ),
-                //             ),
-                //             Image.asset(
-                //               "assets/images/clear.png",
-                //               height: 30,
-                //               width: 30,
-                //             ),
-                //           ],
-                //         ),
-                //       ),
-                //     ),
-                //   ],
-                // ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
@@ -203,8 +121,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                             child: Image.asset(
                               "assets/images/vishnu.png",
-                              height: 50,
-                              width: 50,
+                              height: MediaQuery.of(context).size.height * 0.05,
+                              width:  MediaQuery.of(context).size.height * 0.05,
                             ),
                           ),
                         ),
@@ -224,8 +142,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                             child: Image.asset(
                               "assets/images/jesus.png",
-                              height: 50,
-                              width: 50,
+                              height: MediaQuery.of(context).size.height * 0.05,
+                              width:  MediaQuery.of(context).size.height * 0.05,
                             ),
                           ),
                         ),
@@ -245,8 +163,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                             child: Image.asset(
                               "assets/images/prayingMuslim.png",
-                              height: 50,
-                              width: 50,
+                              height: MediaQuery.of(context).size.height * 0.05,
+                              width:  MediaQuery.of(context).size.height * 0.05,
                             ),
                           ),
                         )
@@ -269,8 +187,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                             child: Image.asset(
                               "assets/images/boyIcon1.png",
-                              height: 40,
-                              width: 40,
+                              height: MediaQuery.of(context).size.height * 0.05,
+                              width:  MediaQuery.of(context).size.height * 0.05,
                             ),
                           ),
                         ),
@@ -290,8 +208,8 @@ class _navbarState extends State<navbar> {
                                     Border.all(color: Colors.black, width: 1)),
                             child: Image.asset(
                               "assets/images/girlIcon1.png",
-                              height: 40,
-                              width: 40,
+                              height: MediaQuery.of(context).size.height * 0.05,
+                              width:  MediaQuery.of(context).size.height * 0.05,
                             ),
                           ),
                         ),
@@ -300,7 +218,7 @@ class _navbarState extends State<navbar> {
                   ],
                 ),
                 SizedBox(
-                  height: 100,
+                  height: MediaQuery.of(context).size.height * 0.1,
                   child: RotatedBox(
                     quarterTurns: 1,
                     child: ListWheelScrollView.useDelegate(
