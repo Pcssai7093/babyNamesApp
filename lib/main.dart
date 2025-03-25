@@ -4,9 +4,25 @@ import 'package:baby_names/Pages/LikedList/nameList.dart' as likedList;
 import 'package:baby_names/Providers/darkMode.dart';
 import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 import 'package:provider/provider.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'ObjectBox/ObjectBox.dart';
+import 'firebase_options.dart';
 
-void main() {
+late ObjectBox objectbox;
+late FlutterTts flutterTts;
+
+void main() async{
+
+  WidgetsFlutterBinding.ensureInitialized();
+  objectbox = await ObjectBox.create();
+  flutterTts = FlutterTts();
+  await configureTts(flutterTts);
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   runApp(
     DevicePreview(
       enabled: false, // Enable/disable DevicePreview
@@ -19,6 +35,13 @@ void main() {
     ),
   );
 }
+
+Future<void> configureTts(FlutterTts flutterTts) async {
+  await flutterTts.setLanguage('te-IN');
+  await flutterTts.setSpeechRate(0.5);
+  await flutterTts.setVolume(1.0);
+}
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});

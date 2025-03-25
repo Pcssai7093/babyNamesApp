@@ -92,3 +92,4 @@ linux/flutter/ephemeral/
 *.swo
 *.swn
 .metadata
+lib/firebase_options.dart

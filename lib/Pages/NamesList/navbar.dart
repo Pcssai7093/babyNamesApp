@@ -1,10 +1,17 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../Providers/darkMode.dart';
 
 class navbar extends StatefulWidget {
-  const navbar({super.key});
+  const navbar({super.key,required this.filtersSelectd, required this.setLoader});
+
+  final void Function(String, String, String) filtersSelectd;
+
+  final void Function(bool) setLoader;
 
   @override
   State<navbar> createState() => _navbarState();
@@ -29,6 +36,7 @@ class _navbarState extends State<navbar> {
   String selectedGender = "female";
   String selectedPage = "nameBook";
   int selectedLetterIndex = 3;
+  Timer? _debounce;
 
   FixedExtentScrollController? scrollController = FixedExtentScrollController();
 
@@ -46,28 +54,50 @@ class _navbarState extends State<navbar> {
     setState(() {
       selectedReligion = religion;
     });
+    widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
   }
 
   void setGender(String gender) {
     setState(() {
       selectedGender = gender;
     });
+    widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
   }
 
+  late SharedPreferences prefs;
   @override
   void initState() {
     super.initState();
 
     // Scroll to the 4th item (index 3) after the first frame is rendered
-    WidgetsBinding.instance.addPostFrameCallback((_) {
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      widget.setLoader(true);
       scrollToIndex(selectedLetterIndex);
+
+      scrollController?.addListener((){
+        setState(() {
+          selectedLetterIndex = scrollController?.selectedItem ?? 0;
+        });
+        if (_debounce?.isActive ?? false) _debounce?.cancel();
+
+        _debounce = Timer(Duration(milliseconds: 300), () {
+          widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
+        });
+      });
+
+      prefs = await SharedPreferences.getInstance();
+      setState(() {
+        selectedGender = prefs.getString("prefGender") ?? "male";
+        selectedReligion = prefs.getString("prefReligion") ?? "Hindu";
+        var index = teluguAlphabets.indexOf(prefs.getString("prefLetter") ?? "ఈ");
+        selectedLetterIndex = index == -1 ? 4 : index;
+       });
+      scrollToIndex(selectedLetterIndex);
+      widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
+      widget.setLoader(false);
     });
 
-    scrollController?.addListener((){
-      setState(() {
-        selectedLetterIndex = scrollController?.selectedItem ?? 0;
-      });
-    });
+
   }
   late DarkModeProvder darkModeProvder;
 

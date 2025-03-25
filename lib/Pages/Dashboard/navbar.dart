@@ -1,10 +1,14 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../Providers/darkMode.dart';
 
 class navbar extends StatefulWidget {
-  const navbar({super.key});
+  const navbar({super.key, required this.setLoader});
+  final void Function(bool) setLoader;
 
   @override
   State<navbar> createState() => _navbarState();
@@ -28,17 +32,25 @@ class _navbarState extends State<navbar> {
 
   String selectedReligion = "Hindu";
   String selectedGender = "female";
+  Timer? _debounce;
+  late SharedPreferences prefs;
 
-  void setReligion(String religion) {
+  void setReligion(String religion) async {
+    widget.setLoader(true);
     setState(() {
       selectedReligion = religion;
     });
+    await prefs.setString('prefReligion', religion);
+    widget.setLoader(false);
   }
 
-  void setGender(String gender) {
+  void setGender(String gender) async {
+    widget.setLoader(true);
     setState(() {
       selectedGender = gender;
     });
+    await prefs.setString('prefGender', gender);
+    widget.setLoader(false);
   }
 
   int selectedLetterIndex = 3;
@@ -64,11 +76,38 @@ class _navbarState extends State<navbar> {
       scrollToIndex(selectedLetterIndex);
     });
 
-    scrollController?.addListener((){
+    initialize();
+  }
+
+  void initialize() async{
+    WidgetsBinding.instance.addPostFrameCallback((_) async{
+      widget.setLoader(true);
+      print("hello");
+      prefs = await SharedPreferences.getInstance();
+
       setState(() {
-        selectedLetterIndex = scrollController?.selectedItem ?? 0;
+        selectedGender = prefs.getString("prefGender") ?? "male";
+        selectedReligion = prefs.getString("prefReligion") ?? "Hindu";
+        var index = teluguAlphabets.indexOf(prefs.getString("prefLetter") ?? "ఈ");
+        selectedLetterIndex = index == -1 ? 4 : index;
       });
+
+      scrollController?.addListener((){
+        setState(() {
+          selectedLetterIndex = scrollController?.selectedItem ?? 0;
+        });
+        if (_debounce?.isActive ?? false) _debounce?.cancel();
+
+        _debounce = Timer(Duration(milliseconds: 300), () async{
+          widget.setLoader(true);
+          await prefs.setString("prefLetter", teluguAlphabets[selectedLetterIndex]);
+          widget.setLoader(false);
+          print(prefs.getKeys());
+        });
+      });
+      widget.setLoader(false);
     });
+
   }
 
   late DarkModeProvder darkModeProvder;
@@ -347,25 +386,30 @@ class _navbarState extends State<navbar> {
           Row(
             mainAxisAlignment: MainAxisAlignment.end,
             children: [
-              Container(
-                padding: EdgeInsets.all(screenWidth * 0.03),
-                margin: EdgeInsets.only(bottom: screenWidth * 0.03 ),
-                decoration: BoxDecoration(
-                    border: Border.all(color: Colors.black, width: 1.5),
-                    color: Colors.lightGreen,
-                    borderRadius: BorderRadius.only(
-                      topLeft: Radius.circular(screenWidth * 0.04),
-                      topRight: Radius.circular(screenWidth * 0.04),
-                      bottomRight: Radius.circular(screenWidth * 0.04),
-                      bottomLeft: Radius.circular(screenWidth * 0.04),
-                    ),
-                ),
-                child: Text(
-                  "అన్వేషించు",
-                  style: TextStyle(
-                      color: Colors.white,
-                      fontSize: 20,
-                      fontFamily: "anekTeluguSemiBold"),
+              GestureDetector(
+                onTap: (){
+                  Navigator.pushNamed(context, "/nameList");
+                },
+                child: Container(
+                  padding: EdgeInsets.all(screenWidth * 0.03),
+                  margin: EdgeInsets.only(bottom: screenWidth * 0.03 ),
+                  decoration: BoxDecoration(
+                      border: Border.all(color: Colors.black, width: 1.5),
+                      color: Colors.lightGreen,
+                      borderRadius: BorderRadius.only(
+                        topLeft: Radius.circular(screenWidth * 0.04),
+                        topRight: Radius.circular(screenWidth * 0.04),
+                        bottomRight: Radius.circular(screenWidth * 0.04),
+                        bottomLeft: Radius.circular(screenWidth * 0.04),
+                      ),
+                  ),
+                  child: Text(
+                    "అన్వేషించు",
+                    style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 20,
+                        fontFamily: "anekTeluguSemiBold"),
+                  ),
                 ),
               )
             ],

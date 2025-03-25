@@ -24,7 +24,7 @@ class card extends StatelessWidget {
           color: bgColor,
           borderRadius: BorderRadius.circular(20),
         ),
-        child: Column(
+        child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
             Text(title,

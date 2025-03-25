@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739165707041",
+    "project_id": "babynamestelugu-382c2",
+    "storage_bucket": "babynamestelugu-382c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739165707041:android:e174e40fd1449392593c60",
+        "android_client_info": {
+          "package_name": "com.potti.baby_names"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3-715ia4w0JcIfpMt2C5rt9o_TmrLy2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,7 @@
 import 'package:baby_names/Providers/darkMode.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class bottomNavBar extends StatefulWidget {
   const bottomNavBar({super.key});
@@ -42,7 +43,14 @@ class _bottomNavBarState extends State<bottomNavBar> {
     setState(() {
       isDarkMode = !isDarkMode;
     });
+    prefs.setBool("isDarkMode", !isDarkMode);
     darkModeProvder.toggle();
+  }
+  late SharedPreferences prefs;
+  void initState(){
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
+      prefs = await SharedPreferences.getInstance();
+    });
   }
 
 

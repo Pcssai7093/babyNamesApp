@@ -1,10 +1,16 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../../Providers/darkMode.dart';
 
 class navbar extends StatefulWidget {
-  const navbar({super.key});
+  const navbar({super.key, required this.filtersSelectd, required this.setLoader});
+
+  final void Function(String) filtersSelectd;
+
+  final void Function(bool) setLoader;
 
   @override
   State<navbar> createState() => _navbarState();
@@ -29,6 +35,7 @@ class _navbarState extends State<navbar> {
   String selectedGender = "female";
   String selectedPage = "nameBook";
   int selectedLetterIndex = 3;
+  Timer? _debounce;
 
   FixedExtentScrollController? scrollController = FixedExtentScrollController();
 
@@ -61,11 +68,18 @@ class _navbarState extends State<navbar> {
     // Scroll to the 4th item (index 3) after the first frame is rendered
     WidgetsBinding.instance.addPostFrameCallback((_) {
       scrollToIndex(selectedLetterIndex);
-    });
 
-    scrollController?.addListener((){
-      setState(() {
-        selectedLetterIndex = scrollController?.selectedItem ?? 0;
+      scrollController?.addListener((){
+        setState(() {
+          selectedLetterIndex = scrollController?.selectedItem ?? 0;
+        });
+
+        if (_debounce?.isActive ?? false) _debounce?.cancel();
+
+        _debounce = Timer(Duration(milliseconds: 300), () {
+          widget.filtersSelectd(teluguAlphabets[selectedLetterIndex]);
+        });
+        widget.filtersSelectd(teluguAlphabets[selectedLetterIndex]);
       });
     });
   }
