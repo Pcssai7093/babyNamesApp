@@ -1,8 +1,11 @@
 import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';
 import 'package:baby_names/Components/bottomNavBar.dart';
+import 'package:baby_names/Components/nativeAdMedium.dart';
 import 'package:baby_names/ObjectBox/NamesModelTeluguLiked.dart';
 import 'package:baby_names/Pages/NamesList/nameItem.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -58,6 +61,10 @@ class _nameListState extends State<nameList> {
   late DarkModeProvder darkModeProvder;
   late SharedPreferences prefs;
 
+  bool _nativeAdIsLoaded = false;
+
+  NativeAd? _nativeAd ;
+
   void initState() {
     super.initState();
     initialize();
@@ -71,7 +78,44 @@ class _nameListState extends State<nameList> {
       // setState(() {
       //   names = nameBox.getAll();
       // });
-      setLoader(false);
+      // setLoader(false);
+
+      // _nativeAd =  NativeAd(
+      //     adUnitId: "ca-app-pub-3940256099942544/2247696110",
+      //     listener: NativeAdListener(
+      //       onAdLoaded: (ad) {
+      //         print('$NativeAd loaded.');
+      //         setState(() {
+      //           _nativeAdIsLoaded = true;
+      //           setLoader(false);
+      //         });
+      //       },
+      //       onAdFailedToLoad: (ad, error) {
+      //         print('$NativeAd failedToLoad: $error');
+      //         setLoader(false);
+      //       },
+      //     ),
+      //     request: const AdRequest(),
+      //     nativeTemplateStyle: NativeTemplateStyle(
+      //         templateType: TemplateType.medium,
+      //         mainBackgroundColor: const Color(0xfffffbed),
+      //         callToActionTextStyle: NativeTemplateTextStyle(
+      //             textColor: Colors.white,
+      //             style: NativeTemplateFontStyle.monospace,
+      //             size: 16.0),
+      //         primaryTextStyle: NativeTemplateTextStyle(
+      //             textColor: Colors.black,
+      //             style: NativeTemplateFontStyle.bold,
+      //             size: 16.0),
+      //         secondaryTextStyle: NativeTemplateTextStyle(
+      //             textColor: Colors.black,
+      //             style: NativeTemplateFontStyle.italic,
+      //             size: 16.0),
+      //         tertiaryTextStyle: NativeTemplateTextStyle(
+      //             textColor: Colors.black,
+      //             style: NativeTemplateFontStyle.normal,
+      //             size: 16.0)))
+      //   ..load();
     });
 
   }
@@ -136,19 +180,24 @@ class _nameListState extends State<nameList> {
                             constraints.maxWidth > 600 ? 2 : 1;
                             // 1 column if width < 600px (mobile), 3 columns if wider (tablet/desktop)
 
-                            return GridView.builder(
-                              itemCount: names.length,
-                              padding: EdgeInsets.zero,
-                              gridDelegate:
-                              SliverGridDelegateWithFixedCrossAxisCount(
-                                crossAxisCount: crossAxisCount,
-                                crossAxisSpacing: 10,
-                                mainAxisSpacing: 5,
-                                childAspectRatio:
-                                4, // Adjust height-to-width ratio
+                            return MasonryGridView.builder(
+                              gridDelegate: SliverSimpleGridDelegateWithFixedCrossAxisCount(
+                                crossAxisCount: crossAxisCount, // Number of columns
                               ),
+                              mainAxisSpacing: 5,
+                              crossAxisSpacing: 10,
+                              itemCount: names.length,
                               itemBuilder: (context, index) {
-                                return nameItem(nameData: names[index], setLoader: setLoader);
+                                if (index != 0 && index % 20 == 0) {
+                                  return Column(
+                                    children: [
+                                      nativeAdMedium(),
+                                      nameItem(index: index, nameData: names[index], setLoader: setLoader),
+                                    ],
+                                  );
+                                } else {
+                                  return nameItem(index: index, nameData: names[index], setLoader: setLoader);
+                                }
                               },
                             );
                           },

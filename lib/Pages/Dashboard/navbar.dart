@@ -119,6 +119,7 @@ class _navbarState extends State<navbar> {
 
     return Container(
       width: double.infinity,
+      // height: screenHeight-100,
       padding: EdgeInsets.only(
         top: MediaQuery.of(context).viewPadding.top,
         // left: 0,

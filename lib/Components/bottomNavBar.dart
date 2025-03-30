@@ -63,7 +63,7 @@ class _bottomNavBarState extends State<bottomNavBar> {
     return Positioned(
       left: 20,
       right: 20,
-      bottom: MediaQuery.of(context).viewPadding.bottom + 30, //
+      bottom: MediaQuery.of(context).viewPadding.bottom + MediaQuery.of(context).size.height * 0.06, //
       child: Align(
         alignment: Alignment.center,
         child: Container(

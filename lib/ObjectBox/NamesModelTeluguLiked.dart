@@ -46,7 +46,7 @@ class NameDataLiked {
       firstLetterEnglish: json["first_letter"]["english"],
       firstLetterTelugu: json["first_letter"]["telugu"],
       gender: json["gender"],
-      language: json["language"],
+      language: json["language"] ?? "",
       religion: json["religion"],
       meaningEnglish: json["meanings"]["english"],
       meaningTelugu: json["meanings"]["telugu"],

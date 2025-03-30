@@ -5,6 +5,7 @@ import 'package:baby_names/Pages/LikedList/nameItem.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../../Components/bottomBannerAd.dart';
 import '../../Providers/darkMode.dart';
 import '../../constants/string.dart';
 import '../../main.dart';
@@ -131,6 +132,7 @@ class _nameListState extends State<nameList> {
               ],
             ),
             bottomNavBar(),
+            bottomBannerAd(),
           ],
         ),
       ),

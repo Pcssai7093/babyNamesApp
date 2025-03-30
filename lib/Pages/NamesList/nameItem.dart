@@ -9,9 +9,11 @@ import '../../main.dart';
 import '../../objectbox.g.dart';
 
 class nameItem extends StatefulWidget {
-  const nameItem({super.key, this.nameData, required this.setLoader});
+  const nameItem({super.key, this.nameData, required this.setLoader, required this.index});
 
   final NameData? nameData;
+
+  final int index;
 
   final void Function(bool) setLoader;
 
@@ -40,7 +42,7 @@ class _nameItemState extends State<nameItem> {
       setState(() {
         isLiked = widget.nameData?.isLiked ?? false;
       });
-      print(isLiked);
+      // print(isLiked);
       widget.setLoader(false);
     });
   }
@@ -116,27 +118,35 @@ class _nameItemState extends State<nameItem> {
           Row(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
+              Text(
+                  "${widget.index + 1}. ",
+                style: TextStyle(
+                  fontSize: max(20,screenWidth*0.03),
+                  fontFamily: "anekTeluguSemiBold"
+                ),
+              ),
               widget.nameData?.gender == "male" ?
               Image.asset(
                 "assets/images/boyIcon1.png",
-                height: min(100,screenWidth * 0.07), // Scaled height
-                width: min(100,screenWidth * 0.07), // Scaled width
+                height: min(100,screenWidth * 0.06), // Scaled height
+                width: min(100,screenWidth * 0.06), // Scaled width
               ):
               widget.nameData?.gender == "female" ?
               Image.asset(
                 "assets/images/girlIcon1.png",
-                height: min(100,screenWidth * 0.07), // Scaled height
-                width: min(100,screenWidth * 0.07), // Scaled width
+                height: min(100,screenWidth * 0.06), // Scaled height
+                width: min(100,screenWidth * 0.06), // Scaled width
               ):
               Image.asset(
                 "assets/images/boyGirl1.png",
-                height: min(100,screenWidth * 0.07), // Scaled height
-                width: min(100,screenWidth * 0.07), // Scaled width
+                height: min(100,screenWidth * 0.06), // Scaled height
+                width: min(100,screenWidth * 0.06), // Scaled width
               ),
               Container(
                 padding: EdgeInsets.only(left: max(4,screenWidth * 0.01),right: max(4,screenWidth * 0.01)),
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     /*
                 name in native language big,
@@ -169,8 +179,8 @@ class _nameItemState extends State<nameItem> {
                   borderRadius: BorderRadius.circular(80), // Optional rounded effect
                   child: Image.asset(
                     "assets/images/megaphone1.png",
-                    height: min(100,screenWidth * 0.07), // Scaled height
-                    width: min(100,screenWidth * 0.07),
+                    height: min(100,screenWidth * 0.06), // Scaled height
+                    width: min(100,screenWidth * 0.06),
                   ),
                 ),
               ),
@@ -189,13 +199,13 @@ class _nameItemState extends State<nameItem> {
                 child: widget.nameData?.isLiked ?? false?
                 Image.asset(
                   "assets/images/heartGreen1.png",
-                  height: min(100,screenWidth * 0.07), // Scaled height
-                  width: min(100,screenWidth * 0.07),
+                  height: min(100,screenWidth * 0.06), // Scaled height
+                  width: min(100,screenWidth * 0.06),
                 ):
                 Image.asset(
                   "assets/images/heartBlack1.png",
-                  height: min(100,screenWidth * 0.07), // Scaled height
-                  width: min(100,screenWidth * 0.07),
+                  height: min(100,screenWidth * 0.06), // Scaled height
+                  width: min(100,screenWidth * 0.06),
                 ),
               )
             ],

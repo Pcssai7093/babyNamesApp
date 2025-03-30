@@ -1,5 +1,6 @@
 import 'dart:ui';
 
+import 'package:baby_names/Components/bottomBannerAd.dart';
 import 'package:baby_names/Components/bottomNavBar.dart';
 import 'package:baby_names/Pages/Dashboard/card.dart';
 import 'package:baby_names/Pages/Dashboard/navbar.dart';
@@ -16,6 +17,9 @@ import '../../ObjectBox/NamesModelTelugu.dart';
 import '../../Providers/darkMode.dart';
 import '../../main.dart';
 import '../../objectbox.g.dart';
+import 'dart:convert';
+import 'dart:io';
+import 'package:flutter/services.dart' show rootBundle;
 
 class dashboard extends StatefulWidget {
   const dashboard({super.key});
@@ -35,34 +39,116 @@ class _dashboardState extends State<dashboard> {
   late SharedPreferences prefs;
 
   Future<void> getAllNames() async {
-    CollectionReference users =
-        FirebaseFirestore.instance.collection('teluguNames');
+    SharedPreferences prefs = await SharedPreferences.getInstance();
 
-    QuerySnapshot snapshot = await users.get();
+    // checking if the pref has date of last fetchecd
+    int lastTimeFetched = prefs.getInt("lastTimeFetched") ?? -1;
+
+    if (lastTimeFetched != -1) {
+      if (!isMoreThan24HoursOld(lastTimeFetched)) {
+        print("fetched recently so skipping");
+        return;
+      }
+    }
+    prefs.setInt("lastTimeFetched", DateTime.now().millisecondsSinceEpoch);
+    // CollectionReference users =
+    //     FirebaseFirestore.instance.collection('teluguNames');
+    //
+    // QuerySnapshot snapshot = await users.get();
 
     final userBox = objectbox.store.box<NameData>();
-    SharedPreferences prefs = await SharedPreferences.getInstance();
     List<String> likedNames = prefs.getStringList("liked_names") ?? [];
 
-    for (var doc in snapshot.docs) {
-      final existingQuery =
-          userBox.query(NameData_.docId.equals(doc.id)).build();
-      final existingNames = existingQuery.find();
-      existingQuery.close();
+    final manifest = await rootBundle.loadString('AssetManifest.json');
+    final Map<String, dynamic> manifestMap = json.decode(manifest);
 
-      if (existingNames.isNotEmpty) continue;
+    // Filter JSON files in your folder
+    final jsonFiles = manifestMap.keys.where((path) =>
+        path.startsWith('assets/boyNames/') && path.endsWith('.json'));
 
-      NameData? nameData;
-      if (likedNames.contains(doc.id)) {
-        nameData = NameData.fromJson(
-            doc.data() as Map<String, dynamic>, 0, doc.id, true);
-      } else {
-        nameData = NameData.fromJson(
-            doc.data() as Map<String, dynamic>, 0, doc.id, false);
+    final jsonFilesGirls = manifestMap.keys.where((path) =>
+    path.startsWith('assets/girlNames/') && path.endsWith('.json'));
+
+    print(jsonFiles.length);
+    print(jsonFilesGirls.length);
+
+    for (final filePath in jsonFiles) {
+      try {
+        final fileContent = await rootBundle.loadString(filePath);
+        final jsonList = json.decode(fileContent) as List<dynamic>;
+
+        for (var item in jsonList) {
+          final existingQuery =
+              userBox.query(NameData_.docId.equals(item["id"])).build();
+          final existingNames = existingQuery.find();
+          existingQuery.close();
+
+          if (existingNames.isNotEmpty) continue;
+
+          NameData? nameData;
+          if (likedNames.contains(item["id"])) {
+            nameData = NameData.fromJson(
+                item as Map<String, dynamic>, 0, item["id"], true);
+          } else {
+            nameData = NameData.fromJson(
+                item as Map<String, dynamic>, 0, item["id"], false);
+          }
+
+          userBox.put(nameData);
+        }
+      } catch (e) {
+        print('Error loading $filePath: $e');
       }
-
-      userBox.put(nameData);
     }
+
+    for (final filePath in jsonFilesGirls) {
+      try {
+        final fileContent = await rootBundle.loadString(filePath);
+        final jsonList = json.decode(fileContent) as List<dynamic>;
+
+        for (var item in jsonList) {
+          final existingQuery =
+          userBox.query(NameData_.docId.equals(item["id"])).build();
+          final existingNames = existingQuery.find();
+          existingQuery.close();
+
+          if (existingNames.isNotEmpty) continue;
+
+          NameData? nameData;
+          if (likedNames.contains(item["id"])) {
+            nameData = NameData.fromJson(
+                item as Map<String, dynamic>, 0, item["id"], true);
+          } else {
+            nameData = NameData.fromJson(
+                item as Map<String, dynamic>, 0, item["id"], false);
+          }
+
+          userBox.put(nameData);
+        }
+      } catch (e) {
+        print('Error loading $filePath: $e');
+      }
+    }
+
+    // for (var doc in snapshot.docs) {
+    //   final existingQuery =
+    //       userBox.query(NameData_.docId.equals(doc.id)).build();
+    //   final existingNames = existingQuery.find();
+    //   existingQuery.close();
+    //
+    //   if (existingNames.isNotEmpty) continue;
+    //
+    //   NameData? nameData;
+    //   if (likedNames.contains(doc.id)) {
+    //     nameData = NameData.fromJson(
+    //         doc.data() as Map<String, dynamic>, 0, doc.id, true);
+    //   } else {
+    //     nameData = NameData.fromJson(
+    //         doc.data() as Map<String, dynamic>, 0, doc.id, false);
+    //   }
+    //
+    //   userBox.put(nameData);
+    // }
 
     print("total name fetched are ${userBox.count()}");
   }
@@ -73,7 +159,7 @@ class _dashboardState extends State<dashboard> {
   }
 
   void initialize() async {
-    WidgetsBinding.instance.addPostFrameCallback((_) async{
+    WidgetsBinding.instance.addPostFrameCallback((_) async {
       setLoader(true);
       await getAllNames();
       prefs = await SharedPreferences.getInstance();
@@ -85,6 +171,21 @@ class _dashboardState extends State<dashboard> {
     setState(() {
       isLoading = value;
     });
+  }
+
+  bool isMoreThan24HoursOld(int millisecondsSinceEpoch) {
+    // Convert stored timestamp to DateTime
+    final storedDate =
+        DateTime.fromMillisecondsSinceEpoch(millisecondsSinceEpoch);
+
+    // Get current DateTime
+    final now = DateTime.now();
+
+    // Calculate the difference
+    final difference = now.difference(storedDate);
+
+    // Check if difference is more than 24 hours
+    return difference.inHours > 24;
   }
 
   @override
@@ -112,28 +213,103 @@ class _dashboardState extends State<dashboard> {
                     child: Column(
                       children: [
                         SizedBox(height: 5),
-                        const card(
-                          title: Strings.GenZ,
-                          bgColor: Color.fromARGB(255, 190, 213, 221),
-                          image: "assets/images/babyBoss1.png",
+                        Row(
+                          children: [
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: () async {
+                                  await prefs.setString('prefGender', "male");
+                                  await prefs.setString('prefReligion', "Hindu");
+                                  Navigator.pushNamed(context, "/nameList");
+                                },
+                                child: const card(
+                                  title: Strings.GenZ,
+                                  bgColor: Color.fromARGB(255, 190, 213, 221),
+                                  image: "assets/images/hinduBoy1.png",
+                                ),
+                              ),
+                            ),
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: () async {
+                                  await prefs.setString('prefGender', "female");
+                                  await prefs.setString('prefReligion', "Hindu");
+                                  Navigator.pushNamed(context, "/nameList");
+                                },
+                                child: const card(
+                                  title: Strings.traditional,
+                                  bgColor: Color.fromARGB(255, 235, 163, 164),
+                                  image: "assets/images/hinduGirl1.png",
+                                ),
+                              ),
+                            ),
+                          ],
                         ),
                         SizedBox(height: 5),
-                        const card(
-                          title: Strings.traditional,
-                          bgColor: Color.fromARGB(255, 235, 163, 164),
-                          image: "assets/images/tradBaby1.png",
+                        Row(
+                          children: [
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: () async {
+                                  await prefs.setString('prefGender', "male");
+                                  await prefs.setString('prefReligion', "Muslim");
+                                  Navigator.pushNamed(context, "/nameList");
+                                },
+                                child: const card(
+                                  title: Strings.spiritual,
+                                  bgColor: Color.fromARGB(255, 168, 206, 180),
+                                  image: "assets/images/muslimBoy1.png",
+                                ),
+                              ),
+                            ),
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: () async {
+                                  await prefs.setString('prefGender', "female");
+                                  await prefs.setString('prefReligion', "Muslim");
+                                  Navigator.pushNamed(context, "/nameList");
+                                },
+                                child: const card(
+                                  title: Strings.modern,
+                                  bgColor: Color.fromARGB(255, 168, 206, 180),
+                                  image: "assets/images/muslimGirl1.png",
+                                ),
+                              ),
+                            ),
+                          ],
                         ),
                         SizedBox(height: 5),
-                        const card(
-                          title: Strings.spiritual,
-                          bgColor: Color.fromARGB(255, 168, 206, 180),
-                          image: "assets/images/spirBaby1.png",
-                        ),
-                        SizedBox(height: 5),
-                        const card(
-                          title: Strings.modern,
-                          bgColor: Color.fromARGB(255, 168, 206, 180),
-                          image: "assets/images/modernBaby1.png",
+                        Row(
+                          children: [
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: () async {
+                                  await prefs.setString('prefGender', "male");
+                                  await prefs.setString('prefReligion', "Christian");
+                                  Navigator.pushNamed(context, "/nameList");
+                                },
+                                child: const card(
+                                  title: Strings.GenZ,
+                                  bgColor: Color.fromARGB(255, 190, 213, 221),
+                                  image: "assets/images/christBoy1.png",
+                                ),
+                              ),
+                            ),
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: () async {
+                                  await prefs.setString('prefGender', "female");
+                                  await prefs.setString('prefReligion', "Christian");
+                                  Navigator.pushNamed(context, "/nameList");
+                                },
+                                child: const card(
+                                  title: Strings.traditional,
+                                  bgColor: Color.fromARGB(255, 235, 163, 164),
+                                  image: "assets/images/christGirl1.png",
+                                ),
+                              ),
+                            ),
+                          ],
                         ),
                         SizedBox(height: 150),
                         // Row(
@@ -155,6 +331,7 @@ class _dashboardState extends State<dashboard> {
               ],
             ),
             bottomNavBar(),
+            bottomBannerAd(),
             if (isLoading)
               Positioned.fill(
                 child: BackdropFilter(

@@ -40,17 +40,17 @@ class NameData {
     return NameData(
       id: objectBoxId,
       docId : docId,
-      englishName: json["name"]["english"],
-      teluguName: json["name"]["telugu"],
-      firstLetterEnglish: json["first_letter"]["english"],
-      firstLetterTelugu: json["first_letter"]["telugu"],
-      gender: json["gender"],
-      language: json["language"],
-      religion: json["religion"],
-      meaningEnglish: json["meanings"]["english"],
-      meaningTelugu: json["meanings"]["telugu"],
-      origin: json["origin"],
-      tags: json["tags"].cast<String>(),
+      englishName: json["eng"],
+      teluguName: json["tel"],
+      firstLetterEnglish: json["fLE"],
+      firstLetterTelugu: json["fLTel"],
+      gender: json["gen"],
+      language: json["language"] ?? "",
+      religion: json["rel"],
+      meaningEnglish: json["meanings"]?["english"] ?? "",
+      meaningTelugu: json["meanings"]?["telugu"] ?? "",
+      origin: json["origin"] ?? "",
+      tags: json["tags"]?.cast<String>() ?? [],
       isLiked: isLiked
     );
   }

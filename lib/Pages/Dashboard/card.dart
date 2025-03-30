@@ -14,7 +14,6 @@ class card extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-        width: double.infinity,
         constraints: BoxConstraints(
           minHeight: 100, // Minimum height of 100 pixels
         ),
@@ -27,12 +26,12 @@ class card extends StatelessWidget {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: [
-            Text(title,
-              style: TextStyle(
-                fontSize: 20,
-                fontFamily: "anekTeluguSemiBold"
-              ),
-            ),
+            // Text(title,
+            //   style: TextStyle(
+            //     fontSize: 20,
+            //     fontFamily: "anekTeluguSemiBold"
+            //   ),
+            // ),
             Offstage(
               offstage: image.isEmpty,
               child: Image.asset(

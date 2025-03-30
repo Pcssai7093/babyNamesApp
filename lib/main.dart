@@ -5,6 +5,7 @@ import 'package:baby_names/Providers/darkMode.dart';
 import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
 import 'package:flutter_tts/flutter_tts.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'ObjectBox/ObjectBox.dart';
@@ -16,6 +17,8 @@ late FlutterTts flutterTts;
 void main() async{
 
   WidgetsFlutterBinding.ensureInitialized();
+  MobileAds.instance.initialize();
+  // FlutterNativeAd.init();
   objectbox = await ObjectBox.create();
   flutterTts = FlutterTts();
   await configureTts(flutterTts);
