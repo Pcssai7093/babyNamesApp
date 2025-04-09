@@ -4,7 +4,7 @@ import 'package:baby_names/Pages/LikedList/nameList.dart' as likedList;
 import 'package:baby_names/Providers/darkMode.dart';
 import 'package:flutter/material.dart';
 import 'package:device_preview/device_preview.dart';
-import 'package:flutter_tts/flutter_tts.dart';
+// import 'package:flutter_tts/flutter_tts.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -12,7 +12,7 @@ import 'ObjectBox/ObjectBox.dart';
 import 'firebase_options.dart';
 
 late ObjectBox objectbox;
-late FlutterTts flutterTts;
+// late FlutterTts flutterTts;
 
 void main() async{
 
@@ -20,8 +20,8 @@ void main() async{
   MobileAds.instance.initialize();
   // FlutterNativeAd.init();
   objectbox = await ObjectBox.create();
-  flutterTts = FlutterTts();
-  await configureTts(flutterTts);
+  // flutterTts = FlutterTts();
+  // await configureTts(flutterTts);
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
@@ -39,11 +39,11 @@ void main() async{
   );
 }
 
-Future<void> configureTts(FlutterTts flutterTts) async {
-  await flutterTts.setLanguage('te-IN');
-  await flutterTts.setSpeechRate(0.5);
-  await flutterTts.setVolume(1.0);
-}
+// Future<void> configureTts(FlutterTts flutterTts) async {
+//   await flutterTts.setLanguage('te-IN');
+//   await flutterTts.setSpeechRate(0.5);
+//   await flutterTts.setVolume(1.0);
+// }
 
 
 class MyApp extends StatelessWidget {

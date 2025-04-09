@@ -56,6 +56,7 @@ class _nameListState extends State<nameList> {
   bool isLoading = false;
 
   final nameBox = objectbox.store.box<NameData>();
+  final ScrollController _scrollController = ScrollController();
   // final likedNameBox = objectbox.store.box<NameDataLiked>();
 
   late DarkModeProvder darkModeProvder;
@@ -73,49 +74,12 @@ class _nameListState extends State<nameList> {
   void initialize() async {
     WidgetsBinding.instance.addPostFrameCallback((_) async{
       setLoader(true);
-      await Future.delayed(Duration(seconds: 1));
+      await Future.delayed(Duration(seconds: 2));
       prefs = await SharedPreferences.getInstance();
-      // setState(() {
-      //   names = nameBox.getAll();
-      // });
-      // setLoader(false);
-
-      // _nativeAd =  NativeAd(
-      //     adUnitId: "ca-app-pub-3940256099942544/2247696110",
-      //     listener: NativeAdListener(
-      //       onAdLoaded: (ad) {
-      //         print('$NativeAd loaded.');
-      //         setState(() {
-      //           _nativeAdIsLoaded = true;
-      //           setLoader(false);
-      //         });
-      //       },
-      //       onAdFailedToLoad: (ad, error) {
-      //         print('$NativeAd failedToLoad: $error');
-      //         setLoader(false);
-      //       },
-      //     ),
-      //     request: const AdRequest(),
-      //     nativeTemplateStyle: NativeTemplateStyle(
-      //         templateType: TemplateType.medium,
-      //         mainBackgroundColor: const Color(0xfffffbed),
-      //         callToActionTextStyle: NativeTemplateTextStyle(
-      //             textColor: Colors.white,
-      //             style: NativeTemplateFontStyle.monospace,
-      //             size: 16.0),
-      //         primaryTextStyle: NativeTemplateTextStyle(
-      //             textColor: Colors.black,
-      //             style: NativeTemplateFontStyle.bold,
-      //             size: 16.0),
-      //         secondaryTextStyle: NativeTemplateTextStyle(
-      //             textColor: Colors.black,
-      //             style: NativeTemplateFontStyle.italic,
-      //             size: 16.0),
-      //         tertiaryTextStyle: NativeTemplateTextStyle(
-      //             textColor: Colors.black,
-      //             style: NativeTemplateFontStyle.normal,
-      //             size: 16.0)))
-      //   ..load();
+      setState(() {
+        names = nameBox.getAll();
+      });
+      setLoader(false);
     });
 
   }
@@ -135,6 +99,7 @@ class _nameListState extends State<nameList> {
     setState(() {
       names = results;
     });
+    _scrollController.jumpTo(0);
     print(names);
     setLoader(false);
   }
@@ -184,6 +149,7 @@ class _nameListState extends State<nameList> {
                               gridDelegate: SliverSimpleGridDelegateWithFixedCrossAxisCount(
                                 crossAxisCount: crossAxisCount, // Number of columns
                               ),
+                              controller: _scrollController,
                               mainAxisSpacing: 5,
                               crossAxisSpacing: 10,
                               itemCount: names.length,
@@ -220,5 +186,11 @@ class _nameListState extends State<nameList> {
         ),
       ),
     );
+  }
+
+  @override
+  void dispose() {
+    _scrollController.dispose();
+    super.dispose();
   }
 }

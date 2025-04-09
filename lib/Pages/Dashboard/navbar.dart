@@ -419,4 +419,10 @@ class _navbarState extends State<navbar> {
       ), // Takes full available width
     );
   }
+
+  @override
+  void dispose(){
+    super.dispose();
+    scrollController?.dispose();
+  }
 }

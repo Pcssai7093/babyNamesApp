@@ -304,5 +304,6 @@ class _navbarState extends State<navbar> {
   @override
   void dispose() {
     super.dispose();
+    scrollController?.dispose();
   }
 }

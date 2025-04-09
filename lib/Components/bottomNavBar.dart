@@ -17,6 +17,7 @@ class _bottomNavBarState extends State<bottomNavBar> {
   bool expandTools = false;
   bool opacityTools = false;
   bool isDarkMode = false;
+  bool _isNavigating = false;
 
   late DarkModeProvder darkModeProvder;
 
@@ -135,9 +136,31 @@ class _bottomNavBarState extends State<bottomNavBar> {
                                   ),
                                 ),
                               ),
+                              GestureDetector(
+                                onTap: () {
+                                  toggleDarkMode();
+                                },
+                                child: Container(
+                                  margin: EdgeInsets.only(left: 5, right: 5),
+                                  padding: EdgeInsets.all(5),
+                                  decoration: BoxDecoration(
+                                  ),
+                                  child: darkModeProvder.isDarkMode ? Image.asset(
+                                    "assets/images/bulbOff.png",
+                                    height: MediaQuery.of(context).size.height * 0.05,
+                                    width: MediaQuery.of(context).size.height * 0.05,
+                                  ):
+                                  Image.asset(
+                                    "assets/images/bulbOn.png",
+                                    height: MediaQuery.of(context).size.height * 0.05,
+                                    width: MediaQuery.of(context).size.height * 0.05,
+                                  ),
+                                ),
+                              ),
+
                             ],
                           ),
-                          // SizedBox(height: 30)
+                      // SizedBox(height: 30)
                         ],
                       ),
                     ),
@@ -163,7 +186,14 @@ class _bottomNavBarState extends State<bottomNavBar> {
                     children: [
                       GestureDetector(
                         onTap: () {
-                          Navigator.pushNamed(context, "/");
+                          if (!_isNavigating) {
+                            _isNavigating = true;
+                            Navigator.pushReplacementNamed(context, "/").then((_) {
+                              _isNavigating = false;
+                            });
+                          }
+
+                          // Navigator.pushNamed(context, "/");
                         },
                         child: Container(
                           margin: EdgeInsets.only(left: 5, right: 5),
@@ -182,7 +212,13 @@ class _bottomNavBarState extends State<bottomNavBar> {
                       ),
                       GestureDetector(
                         onTap: () {
-                          Navigator.pushNamed(context, "/nameList");
+                          if (!_isNavigating) {
+                            _isNavigating = true;
+                            Navigator.pushReplacementNamed(context, "/nameList").then((_) {
+                              _isNavigating = false;
+                            });
+                          }
+                          // Navigator.pushNamed(context, "/nameList");
                         },
                         child: Container(
                           margin: EdgeInsets.only(left: 5, right: 5),
@@ -203,7 +239,13 @@ class _bottomNavBarState extends State<bottomNavBar> {
                       ),
                       GestureDetector(
                         onTap: () {
-                          Navigator.pushNamed(context, "/likedList");
+                          if (!_isNavigating) {
+                            _isNavigating = true;
+                            Navigator.pushReplacementNamed(context, "/likedList").then((_) {
+                              _isNavigating = false;
+                            });
+                          }
+                          // Navigator.pushNamed(context, "/likedList");
                         },
                         child: Container(
                           margin: EdgeInsets.only(left: 5, right: 15),

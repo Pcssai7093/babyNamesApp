@@ -39,6 +39,7 @@ class _dashboardState extends State<dashboard> {
   late SharedPreferences prefs;
 
   Future<void> getAllNames() async {
+    setLoader(true);
     SharedPreferences prefs = await SharedPreferences.getInstance();
 
     // checking if the pref has date of last fetchecd
@@ -129,28 +130,8 @@ class _dashboardState extends State<dashboard> {
         print('Error loading $filePath: $e');
       }
     }
-
-    // for (var doc in snapshot.docs) {
-    //   final existingQuery =
-    //       userBox.query(NameData_.docId.equals(doc.id)).build();
-    //   final existingNames = existingQuery.find();
-    //   existingQuery.close();
-    //
-    //   if (existingNames.isNotEmpty) continue;
-    //
-    //   NameData? nameData;
-    //   if (likedNames.contains(doc.id)) {
-    //     nameData = NameData.fromJson(
-    //         doc.data() as Map<String, dynamic>, 0, doc.id, true);
-    //   } else {
-    //     nameData = NameData.fromJson(
-    //         doc.data() as Map<String, dynamic>, 0, doc.id, false);
-    //   }
-    //
-    //   userBox.put(nameData);
-    // }
-
     print("total name fetched are ${userBox.count()}");
+    setLoader(false);
   }
 
   void initState() {
@@ -160,8 +141,8 @@ class _dashboardState extends State<dashboard> {
 
   void initialize() async {
     WidgetsBinding.instance.addPostFrameCallback((_) async {
-      setLoader(true);
       await getAllNames();
+      setLoader(true);
       prefs = await SharedPreferences.getInstance();
       setLoader(false);
     });
@@ -351,5 +332,10 @@ class _dashboardState extends State<dashboard> {
         ),
       ),
     );
+  }
+
+  @override
+  void dispose(){
+    super.dispose();
   }
 }
