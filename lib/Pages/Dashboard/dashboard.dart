@@ -35,11 +35,12 @@ class _dashboardState extends State<dashboard> {
   Dio dio = DioClient().dio;
 
   bool isLoading = false;
+  bool isLoading2 = false;
 
   late SharedPreferences prefs;
 
   Future<void> getAllNames() async {
-    setLoader(true);
+    setLoader2(true);
     SharedPreferences prefs = await SharedPreferences.getInstance();
 
     // checking if the pref has date of last fetchecd
@@ -131,7 +132,7 @@ class _dashboardState extends State<dashboard> {
       }
     }
     print("total name fetched are ${userBox.count()}");
-    setLoader(false);
+    setLoader2(false);
   }
 
   void initState() {
@@ -142,15 +143,21 @@ class _dashboardState extends State<dashboard> {
   void initialize() async {
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       await getAllNames();
-      setLoader(true);
+      setLoader2(true);
+      print("set loder trye");
       prefs = await SharedPreferences.getInstance();
-      setLoader(false);
+      setLoader2(false);
     });
   }
 
   void setLoader(bool value) {
     setState(() {
       isLoading = value;
+    });
+  }
+  void setLoader2(bool value) {
+    setState(() {
+      isLoading2 = value;
     });
   }
 
@@ -166,7 +173,11 @@ class _dashboardState extends State<dashboard> {
     final difference = now.difference(storedDate);
 
     // Check if difference is more than 24 hours
-    return difference.inHours > 24;
+    return difference.inHours > 120;
+  }
+
+  void prefLangSelectHanlder(String selectedLang) async{
+
   }
 
   @override
@@ -311,9 +322,9 @@ class _dashboardState extends State<dashboard> {
                 )
               ],
             ),
-            bottomNavBar(),
+            bottomNavBar(prefLangSelectHanlder: prefLangSelectHanlder),
             bottomBannerAd(),
-            if (isLoading)
+            if (isLoading || isLoading2)
               Positioned.fill(
                 child: BackdropFilter(
                   filter: ImageFilter.blur(sigmaX: 0, sigmaY: 0), // Blur effect

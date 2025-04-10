@@ -76,9 +76,11 @@ class _nameListState extends State<nameList> {
       setLoader(true);
       await Future.delayed(Duration(seconds: 2));
       prefs = await SharedPreferences.getInstance();
-      setState(() {
-        names = nameBox.getAll();
-      });
+      if (mounted) {
+        setState(() {
+          names = nameBox.getAll();
+        });
+      }
       setLoader(false);
     });
 
@@ -96,18 +98,28 @@ class _nameListState extends State<nameList> {
         .build();
     final results = query.find();
     query.close();
-    setState(() {
-      names = results;
-    });
-    _scrollController.jumpTo(0);
+    if (mounted) {
+      setState(() {
+        names = results;
+      });
+    }
+    if(_scrollController.hasClients){
+    _scrollController?.jumpTo(0);
+    }
     print(names);
     setLoader(false);
   }
 
   void setLoader(bool value) {
-    setState(() {
-      isLoading = value;
-    });
+    if (mounted) {
+      setState(() {
+        isLoading = value;
+      });
+    } 
+  }
+
+  void prefLangSelectHanlder(String selectedLang) async{
+
   }
 
   @override
@@ -181,7 +193,7 @@ class _nameListState extends State<nameList> {
                 ),
               ],
             ),
-            bottomNavBar(),
+            bottomNavBar(prefLangSelectHanlder:prefLangSelectHanlder),
           ],
         ),
       ),

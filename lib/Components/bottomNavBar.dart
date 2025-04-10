@@ -1,10 +1,13 @@
 import 'package:baby_names/Providers/darkMode.dart';
 import 'package:flutter/material.dart';
+import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class bottomNavBar extends StatefulWidget {
-  const bottomNavBar({super.key});
+  const bottomNavBar({super.key, required this.prefLangSelectHanlder});
+
+  final void Function(String) prefLangSelectHanlder;
 
   @override
   State<bottomNavBar> createState() => _bottomNavBarState();
@@ -12,6 +15,20 @@ class bottomNavBar extends StatefulWidget {
 
 class _bottomNavBarState extends State<bottomNavBar> {
   String? selectedPage = "/";
+
+  Map<String, String> firstAlphabets = {
+    "english": "A", // Latin
+    "hindi": "अ", // Devanagari
+    "bengali": "অ", // Bengali
+    "marathi": "अ", // Devanagari
+    "telugu": "అ", // Telugu
+    "tamil": "அ", // Tamil
+    "gujarati": "અ", // Gujarati
+    "kannada": "ಅ", // Kannada
+    "odia": "ଅ", // Odia
+    "malayalam": "അ", // Malayalam
+    "punjabi": "ਅ" // Gurmukhi
+  };
 
   bool isMoreToolsSelected = false;
   bool expandTools = false;
@@ -21,18 +38,20 @@ class _bottomNavBarState extends State<bottomNavBar> {
 
   late DarkModeProvder darkModeProvder;
 
-  void toggleMoreTools(){
+  bool isLoading = false;
+
+  void toggleMoreTools() {
     print("togg");
     setState(() {
       isMoreToolsSelected = !isMoreToolsSelected;
     });
     print(isMoreToolsSelected);
-    if(isMoreToolsSelected) {
+    if (isMoreToolsSelected) {
       setState(() {
         expandTools = true;
         opacityTools = true;
       });
-    }else {
+    } else {
       setState(() {
         expandTools = false;
         opacityTools = false;
@@ -40,21 +59,124 @@ class _bottomNavBarState extends State<bottomNavBar> {
     }
   }
 
-  void toggleDarkMode(){
+  void toggleDarkMode() {
     setState(() {
       isDarkMode = !isDarkMode;
     });
     prefs.setBool("isDarkMode", !isDarkMode);
     darkModeProvder.toggle();
   }
+
   late SharedPreferences prefs;
-  void initState(){
+  void initState() {
     WidgetsBinding.instance.addPostFrameCallback((_) async {
       prefs = await SharedPreferences.getInstance();
     });
   }
 
+  void setLoader(bool value) {
+    print(value);
+    setState(() {
+      isLoading = value;
+    });
+  }
 
+  void showSimpleAlertDialog(BuildContext context, String title, String message,
+      VoidCallback onOkPressed) {
+    showDialog(
+        context: context,
+        builder: (BuildContext context) {
+          String prefLanguageState = prefs.getString("prefLang") ?? "";
+
+          return StatefulBuilder(
+            builder: (context, setState) {
+              return AlertDialog(
+                title: Text(title),
+                backgroundColor: darkModeProvder.isDarkMode
+                    ? Colors.blueGrey.shade400
+                    : Colors.blueAccent,
+                content: Stack(
+                  children: [
+                    Container(
+                      width: MediaQuery.of(context).size.width * 0.8,
+                      height: MediaQuery.of(context).size.height * 0.4,
+                      child: GridView.builder(
+                        gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                          crossAxisCount: 3, // Number of items per row
+                          crossAxisSpacing: 10,
+                          mainAxisSpacing: 10,
+                          childAspectRatio: 1, // Width/height ratio
+                        ),
+                        itemCount: firstAlphabets.entries.length,
+                        padding: EdgeInsets.all(16),
+                        itemBuilder: (context, index) {
+                          var entry = firstAlphabets.entries.toList()[index];
+                          String language = entry.key;
+                          String prefLanguage =
+                              prefs.getString("prefLang") ?? "";
+                          bool isLangSelected = language == prefLanguage;
+                          return Container(
+                              alignment: Alignment.center,
+                              decoration: BoxDecoration(
+                                color: isLangSelected
+                                    ? Colors.pinkAccent
+                                    : Colors.greenAccent,
+                                borderRadius: BorderRadius.circular(12),
+                              ),
+                              child: GestureDetector(
+                                onTap: () {
+                                  setState(() {
+                                    isLoading = true;
+                                  });
+                                  Future.delayed(Duration(seconds: 3),
+                                      () async {
+                                    setState(() {
+                                      prefLanguageState = language;
+                                    });
+                                    await prefs.setString("prefLang", language);
+                                    setState(() {
+                                      isLoading = false;
+                                    });
+                                  });
+                                },
+                                child: Text(
+                                  entry.value,
+                                  style: TextStyle(fontSize: 20),
+                                ),
+                              ));
+                        },
+                      ),
+                    ),
+                    if (isLoading)
+                      Container(
+                        width: MediaQuery.of(context).size.width * 0.8,
+                        height: MediaQuery.of(context).size.height * 0.4,
+                        alignment: Alignment.center,
+                        child: LoadingAnimationWidget.staggeredDotsWave(
+                          color: Colors.blueAccent,
+                          size: 50,
+                        ),
+                      ),
+                  ],
+                ),
+                actions: [
+                  TextButton(
+                    child: Image.asset(
+                      "assets/images/close.png",
+                      height: MediaQuery.of(context).size.height * 0.05,
+                      width: MediaQuery.of(context).size.height * 0.05,
+                    ),
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                      onOkPressed();
+                    },
+                  ),
+                ],
+              );
+            },
+          );
+        });
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -64,14 +186,14 @@ class _bottomNavBarState extends State<bottomNavBar> {
     return Positioned(
       left: 20,
       right: 20,
-      bottom: MediaQuery.of(context).viewPadding.bottom + MediaQuery.of(context).size.height * 0.06, //
+      bottom: MediaQuery.of(context).viewPadding.bottom +
+          MediaQuery.of(context).size.height * 0.06, //
       child: Align(
         alignment: Alignment.center,
         child: Container(
           decoration: BoxDecoration(
               color: Colors.transparent,
-              borderRadius: BorderRadius.circular(20)
-          ),
+              borderRadius: BorderRadius.circular(20)),
           // padding: EdgeInsets.all(10),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.end,
@@ -83,13 +205,14 @@ class _bottomNavBarState extends State<bottomNavBar> {
                   opacity: 0.9,
                   child: Container(
                     decoration: BoxDecoration(
-                      color: Colors.blueAccent,
-                        borderRadius: !expandTools ? BorderRadius.circular(20) :
-                        BorderRadius.only(
-                            topRight: Radius.circular(20),
-                            topLeft: Radius.circular(20)
-                        )
-                    ),
+                        color: darkModeProvder.isDarkMode
+                            ? Colors.blueGrey.shade400
+                            : Colors.blueAccent,
+                        borderRadius: !expandTools
+                            ? BorderRadius.circular(20)
+                            : BorderRadius.only(
+                                topRight: Radius.circular(20),
+                                topLeft: Radius.circular(20))),
                     padding: expandTools ? EdgeInsets.all(10) : null,
                     child: Offstage(
                       offstage: expandTools ? false : true,
@@ -122,45 +245,70 @@ class _bottomNavBarState extends State<bottomNavBar> {
                                 child: Container(
                                   margin: EdgeInsets.only(left: 5, right: 5),
                                   padding: EdgeInsets.all(5),
-                                  decoration: BoxDecoration(
-                                  ),
-                                  child: darkModeProvder.isDarkMode ? Image.asset(
-                                    "assets/images/bulbOff.png",
-                                    height: MediaQuery.of(context).size.height * 0.05,
-                                    width: MediaQuery.of(context).size.height * 0.05,
-                                  ):
-                                  Image.asset(
-                                    "assets/images/bulbOn.png",
-                                    height: MediaQuery.of(context).size.height * 0.05,
-                                    width: MediaQuery.of(context).size.height * 0.05,
-                                  ),
+                                  decoration: BoxDecoration(),
+                                  child: darkModeProvder.isDarkMode
+                                      ? Image.asset(
+                                          "assets/images/bulbOff.png",
+                                          height: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                          width: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                        )
+                                      : Image.asset(
+                                          "assets/images/bulbOn.png",
+                                          height: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                          width: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                        ),
                                 ),
                               ),
                               GestureDetector(
                                 onTap: () {
-                                  toggleDarkMode();
+                                  // toggleDarkMode();
+                                  showSimpleAlertDialog(context,
+                                      "Select Language", "messag", () => {});
                                 },
                                 child: Container(
                                   margin: EdgeInsets.only(left: 5, right: 5),
                                   padding: EdgeInsets.all(5),
-                                  decoration: BoxDecoration(
-                                  ),
-                                  child: darkModeProvder.isDarkMode ? Image.asset(
-                                    "assets/images/bulbOff.png",
-                                    height: MediaQuery.of(context).size.height * 0.05,
-                                    width: MediaQuery.of(context).size.height * 0.05,
-                                  ):
-                                  Image.asset(
-                                    "assets/images/bulbOn.png",
-                                    height: MediaQuery.of(context).size.height * 0.05,
-                                    width: MediaQuery.of(context).size.height * 0.05,
-                                  ),
+                                  decoration: BoxDecoration(),
+                                  child: darkModeProvder.isDarkMode
+                                      ? Image.asset(
+                                          "assets/images/bulbOff.png",
+                                          height: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                          width: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                        )
+                                      : Image.asset(
+                                          "assets/images/bulbOn.png",
+                                          height: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                          width: MediaQuery.of(context)
+                                                  .size
+                                                  .height *
+                                              0.05,
+                                        ),
                                 ),
                               ),
-
                             ],
                           ),
-                      // SizedBox(height: 30)
+                          // SizedBox(height: 30)
                         ],
                       ),
                     ),
@@ -171,14 +319,15 @@ class _bottomNavBarState extends State<bottomNavBar> {
                 opacity: 0.9,
                 child: Container(
                   decoration: BoxDecoration(
-                      color: Colors.blueAccent,
-                      borderRadius: !expandTools ? BorderRadius.circular(20) :
-                          BorderRadius.only(
+                      color: darkModeProvder.isDarkMode
+                          ? Colors.blueGrey.shade400
+                          : Colors.blueAccent,
+                      borderRadius: !expandTools
+                          ? BorderRadius.circular(20)
+                          : BorderRadius.only(
                               topLeft: Radius.circular(20),
-                            bottomLeft: Radius.circular(20),
-                            bottomRight: Radius.circular(20)
-                          )
-                  ),
+                              bottomLeft: Radius.circular(20),
+                              bottomRight: Radius.circular(20))),
                   padding: EdgeInsets.all(10),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.start,
@@ -188,7 +337,8 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         onTap: () {
                           if (!_isNavigating) {
                             _isNavigating = true;
-                            Navigator.pushReplacementNamed(context, "/").then((_) {
+                            Navigator.pushReplacementNamed(context, "/")
+                                .then((_) {
                               _isNavigating = false;
                             });
                           }
@@ -199,7 +349,8 @@ class _bottomNavBarState extends State<bottomNavBar> {
                           margin: EdgeInsets.only(left: 5, right: 5),
                           padding: EdgeInsets.all(5),
                           decoration: BoxDecoration(
-                            color: selectedPage == "/" ? Colors.greenAccent : null,
+                            color:
+                                selectedPage == "/" ? Colors.greenAccent : null,
                             borderRadius: BorderRadius.circular(10),
                             // border: Border.all(color: Colors.black, width: 1)
                           ),
@@ -214,7 +365,8 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         onTap: () {
                           if (!_isNavigating) {
                             _isNavigating = true;
-                            Navigator.pushReplacementNamed(context, "/nameList").then((_) {
+                            Navigator.pushReplacementNamed(context, "/nameList")
+                                .then((_) {
                               _isNavigating = false;
                             });
                           }
@@ -241,7 +393,9 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         onTap: () {
                           if (!_isNavigating) {
                             _isNavigating = true;
-                            Navigator.pushReplacementNamed(context, "/likedList").then((_) {
+                            Navigator.pushReplacementNamed(
+                                    context, "/likedList")
+                                .then((_) {
                               _isNavigating = false;
                             });
                           }
@@ -271,19 +425,22 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         child: Container(
                           margin: EdgeInsets.only(left: 5, right: 15),
                           padding: EdgeInsets.all(5),
-                          decoration: BoxDecoration(
-
-                          ),
-                          child: !expandTools ? Image.asset(
-                            "assets/images/tool.png",
-                            height: MediaQuery.of(context).size.height * 0.05,
-                            width: MediaQuery.of(context).size.height * 0.05,
-                          ):
-                          Image.asset(
-                            "assets/images/close.png",
-                            height: MediaQuery.of(context).size.height * 0.05,
-                            width: MediaQuery.of(context).size.height * 0.05,
-                          ),
+                          decoration: BoxDecoration(),
+                          child: !expandTools
+                              ? Image.asset(
+                                  "assets/images/tool.png",
+                                  height:
+                                      MediaQuery.of(context).size.height * 0.05,
+                                  width:
+                                      MediaQuery.of(context).size.height * 0.05,
+                                )
+                              : Image.asset(
+                                  "assets/images/close.png",
+                                  height:
+                                      MediaQuery.of(context).size.height * 0.05,
+                                  width:
+                                      MediaQuery.of(context).size.height * 0.05,
+                                ),
                         ),
                       ),
                     ],

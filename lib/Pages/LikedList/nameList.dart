@@ -65,18 +65,25 @@ class _nameListState extends State<nameList> {
         .build();
     final results2 = query2.find();
     query2.close();
-
+    if(mounted){
     setState(() {
       names = [...results,...results2];
     });
+    }
     print(names.length);
     setLoader(false);
   }
 
   void setLoader(bool value) {
+    if(mounted){
     setState(() {
       isLoading = value;
     });
+    }
+  }
+
+  void prefLangSelectHanlder(String selectedLang) async{
+
   }
 
   late DarkModeProvder darkModeProvder;
@@ -131,7 +138,7 @@ class _nameListState extends State<nameList> {
                 ),
               ],
             ),
-            bottomNavBar(),
+            bottomNavBar(prefLangSelectHanlder:prefLangSelectHanlder),
             bottomBannerAd(),
           ],
         ),
