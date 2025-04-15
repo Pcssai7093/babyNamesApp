@@ -1,0 +1,884 @@
+[
+  {
+    "id": "130282",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soundari",
+    "FLeng": "S",
+    "tel": "సౌందరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130283",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soundarya",
+    "FLeng": "S",
+    "tel": "సౌందర్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130284",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soundharya",
+    "FLeng": "S",
+    "tel": "సౌందర్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130285",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soundhika",
+    "FLeng": "S",
+    "tel": "సౌంధిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130286",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soundhiya",
+    "FLeng": "S",
+    "tel": "సౌంధియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130287",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sourabhi",
+    "FLeng": "S",
+    "tel": "సౌరభి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130288",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Souraiya",
+    "FLeng": "S",
+    "tel": "సౌరయ్యా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130289",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sourashmi",
+    "FLeng": "S",
+    "tel": "సౌరశ్మి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130290",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Souravi",
+    "FLeng": "S",
+    "tel": "సౌరవి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130291",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Souri",
+    "FLeng": "S",
+    "tel": "సూరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130292",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sourita",
+    "FLeng": "S",
+    "tel": "సౌరిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130293",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sousan",
+    "FLeng": "S",
+    "tel": "సౌసం",
+    "FLtel": "స"
+  },
+  {
+    "id": "130294",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sousanna",
+    "FLeng": "S",
+    "tel": "సౌసన్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "130295",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soushilya",
+    "FLeng": "S",
+    "tel": "సౌశీల్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130296",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Soussan",
+    "FLeng": "S",
+    "tel": "సౌస్సం",
+    "FLtel": "స"
+  },
+  {
+    "id": "130297",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Souvika",
+    "FLeng": "S",
+    "tel": "సౌవిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130298",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Souvira",
+    "FLeng": "S",
+    "tel": "సౌవీర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130299",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Souzan",
+    "FLeng": "S",
+    "tel": "సౌజాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130300",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Souzanna",
+    "FLeng": "S",
+    "tel": "సౌజాన్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "130301",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sova",
+    "FLeng": "S",
+    "tel": "సోవ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130302",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sovaga",
+    "FLeng": "S",
+    "tel": "స్లోవ్గా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130303",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Sovannah",
+    "FLeng": "S",
+    "tel": "సోవణ్ణహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130304",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sovhona",
+    "FLeng": "S",
+    "tel": "సోవహోనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130305",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sovia",
+    "FLeng": "S",
+    "tel": "సోవియ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130306",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowbarnika",
+    "FLeng": "S",
+    "tel": "సౌబర్నికా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130307",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowbhagya",
+    "FLeng": "S",
+    "tel": "సౌభాగ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130308",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sowena",
+    "FLeng": "S",
+    "tel": "సవన",
+    "FLtel": "స"
+  },
+  {
+    "id": "130309",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowgandhi",
+    "FLeng": "S",
+    "tel": "సౌగంధి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130310",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowjanya",
+    "FLeng": "S",
+    "tel": "సౌజన్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130311",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowkya",
+    "FLeng": "S",
+    "tel": "సౌఖ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130312",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowmea",
+    "FLeng": "S",
+    "tel": "సౌమీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130313",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowmini",
+    "FLeng": "S",
+    "tel": "సౌమిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130314",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowmitha",
+    "FLeng": "S",
+    "tel": "సౌమిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130315",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowmiya",
+    "FLeng": "S",
+    "tel": "సౌమియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130316",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowmya",
+    "FLeng": "S",
+    "tel": "సౌమ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130317",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowmyatha",
+    "FLeng": "S",
+    "tel": "సౌమ్యత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130318",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowndarya",
+    "FLeng": "S",
+    "tel": "సౌందర్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130319",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowrabha",
+    "FLeng": "S",
+    "tel": "సౌరభ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130320",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowrasena",
+    "FLeng": "S",
+    "tel": "సౌరసేన",
+    "FLtel": "స"
+  },
+  {
+    "id": "130321",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowri",
+    "FLeng": "S",
+    "tel": "సౌర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130322",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowseel",
+    "FLeng": "S",
+    "tel": "సౌశీల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130323",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sowshya",
+    "FLeng": "S",
+    "tel": "సౌష్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130324",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Soyala",
+    "FLeng": "S",
+    "tel": "సోయాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "130325",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sozan",
+    "FLeng": "S",
+    "tel": "సోజాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130326",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spandana",
+    "FLeng": "S",
+    "tel": "స్పందన",
+    "FLtel": "స"
+  },
+  {
+    "id": "130327",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spanjana",
+    "FLeng": "S",
+    "tel": "స్పంజన",
+    "FLtel": "స"
+  },
+  {
+    "id": "130328",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sparghai",
+    "FLeng": "S",
+    "tel": "స్పేర్ఘి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130329",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sparsha",
+    "FLeng": "S",
+    "tel": "స్పర్శ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130330",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sparshi",
+    "FLeng": "S",
+    "tel": "స్పర్శి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130331",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sparshita",
+    "FLeng": "S",
+    "tel": "స్పర్శిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130332",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Spasenka",
+    "FLeng": "S",
+    "tel": "స్పేసేంకా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130333",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spatika",
+    "FLeng": "S",
+    "tel": "స్పటిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130334",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Speranza",
+    "FLeng": "S",
+    "tel": "స్పెరంజా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130335",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "speranza",
+    "FLeng": "s",
+    "tel": "స్పెరంజా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130336",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Spes",
+    "FLeng": "S",
+    "tel": "స్పీడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130337",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Spezala",
+    "FLeng": "S",
+    "tel": "స్పెజాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "130338",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sphatika",
+    "FLeng": "S",
+    "tel": "స్ఫటిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130339",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sphoorthy",
+    "FLeng": "S",
+    "tel": "స్పీహూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130340",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sphuritha",
+    "FLeng": "S",
+    "tel": "స్ఫూరిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130341",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sphurthy",
+    "FLeng": "S",
+    "tel": "స్ఫూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130342",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sphurti",
+    "FLeng": "S",
+    "tel": "స్ఫూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130343",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Splanna",
+    "FLeng": "S",
+    "tel": "స్పీలన్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "130344",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Splendora",
+    "FLeng": "S",
+    "tel": "స్ప్లీన్దొర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130345",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Spomenka",
+    "FLeng": "S",
+    "tel": "స్పామింకా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130346",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spoorthi",
+    "FLeng": "S",
+    "tel": "స్ఫూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130347",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spoorthy",
+    "FLeng": "S",
+    "tel": "స్ఫూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130348",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spoorti",
+    "FLeng": "S",
+    "tel": "స్ఫూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130349",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spoothi",
+    "FLeng": "S",
+    "tel": "స్పూతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130350",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sprig",
+    "FLeng": "S",
+    "tel": "సప్రైజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130351",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spriha",
+    "FLeng": "S",
+    "tel": "స్ప్రిహ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130352",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sprihi",
+    "FLeng": "S",
+    "tel": "స్ప్రైహి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130353",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Spring",
+    "FLeng": "S",
+    "tel": "స్ప్రింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130354",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sprota",
+    "FLeng": "S",
+    "tel": "స్ప్రాత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130355",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spruha",
+    "FLeng": "S",
+    "tel": "స్పృహ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130356",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spruthi",
+    "FLeng": "S",
+    "tel": "స్పృతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130357",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spruthika",
+    "FLeng": "S",
+    "tel": "స్పృతిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130358",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spurha",
+    "FLeng": "S",
+    "tel": "స్ప్రుహ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130359",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Spurthi",
+    "FLeng": "S",
+    "tel": "స్ఫూర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130360",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sraa",
+    "FLeng": "S",
+    "tel": "శ్రా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130361",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sraavnika",
+    "FLeng": "S",
+    "tel": "శ్రావణికా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130362",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sraavya",
+    "FLeng": "S",
+    "tel": "శ్రావ్య",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130363",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Srabati",
+    "FLeng": "S",
+    "tel": "స్రబాటి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130364",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sraboni",
+    "FLeng": "S",
+    "tel": "స్రబోని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130365",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Srabonti",
+    "FLeng": "S",
+    "tel": "శరభోన్తి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130366",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sraddha",
+    "FLeng": "S",
+    "tel": "శ్రద్ధ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130367",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sradha",
+    "FLeng": "S",
+    "tel": "శ్రాధ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130368",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sragvi",
+    "FLeng": "S",
+    "tel": "శ్రాగ్వి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130369",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravana",
+    "FLeng": "S",
+    "tel": "శ్రావణ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130370",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravani",
+    "FLeng": "S",
+    "tel": "శ్రావణి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130371",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravanthi",
+    "FLeng": "S",
+    "tel": "స్రవంతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130372",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravanti",
+    "FLeng": "S",
+    "tel": "స్రవంతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130373",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravanya",
+    "FLeng": "S",
+    "tel": "స్రవణ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130374",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravika",
+    "FLeng": "S",
+    "tel": "స్రవిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130375",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sravya",
+    "FLeng": "S",
+    "tel": "శ్రావ్య",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130376",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Srayana",
+    "FLeng": "S",
+    "tel": "శ్రయణ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130377",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sree Priya",
+    "FLeng": "S",
+    "tel": "శ్రీ ప్రియ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130378",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sree Vani",
+    "FLeng": "S",
+    "tel": "శ్రీ వాణి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130379",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sreeda",
+    "FLeng": "S",
+    "tel": "శ్రీద",
+    "FLtel": "శ"
+  }
+]

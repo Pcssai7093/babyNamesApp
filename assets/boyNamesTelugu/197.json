@@ -1,0 +1,686 @@
+[
+  {
+    "id": "9075",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falconner",
+    "FLeng": "F",
+    "tel": "ఫాల్కన్ర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9076",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "faldo",
+    "FLeng": "f",
+    "tel": "ఫేల్డో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9077",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faleeh",
+    "FLeng": "F",
+    "tel": "ఫలీహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9078",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Falgu",
+    "FLeng": "F",
+    "tel": "ఫాల్గు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9079",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Falgun",
+    "FLeng": "F",
+    "tel": "ఫాల్గుణ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9080",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Falit",
+    "FLeng": "F",
+    "tel": "ఫలిత",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9081",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falito",
+    "FLeng": "F",
+    "tel": "ఫాలితో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9082",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falk",
+    "FLeng": "F",
+    "tel": "ఫలక్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9083",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "falk",
+    "FLeng": "f",
+    "tel": "ఫలక్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9084",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falke",
+    "FLeng": "F",
+    "tel": "ఫాల్కే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9085",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falken",
+    "FLeng": "F",
+    "tel": "ఫాల్కేన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9086",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falkner",
+    "FLeng": "F",
+    "tel": "ఫాల్కన్ర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9087",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fallon",
+    "FLeng": "F",
+    "tel": "ఫాల్లోన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9088",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falon",
+    "FLeng": "F",
+    "tel": "ఫాలిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9089",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Falooh",
+    "FLeng": "F",
+    "tel": "ఫ్లూహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9090",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Falta",
+    "FLeng": "F",
+    "tel": "ఫలితా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9091",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fan",
+    "FLeng": "F",
+    "tel": "ఫ్యాన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9092",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanadhar",
+    "FLeng": "F",
+    "tel": "ఫ్యానాదర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9093",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanakar",
+    "FLeng": "F",
+    "tel": "ఫణాకర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9094",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fane",
+    "FLeng": "F",
+    "tel": "ఫ్యాన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9095",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Faneel",
+    "FLeng": "F",
+    "tel": "ప్యానెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9096",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Faneemdra",
+    "FLeng": "F",
+    "tel": "ఫణీంద్ర",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9097",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Faneesh",
+    "FLeng": "F",
+    "tel": "ఫణీష్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9098",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fang",
+    "FLeng": "F",
+    "tel": "ఫాంగ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9099",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fani",
+    "FLeng": "F",
+    "tel": "ఫణి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9100",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanibhusan",
+    "FLeng": "F",
+    "tel": "ఫణిభూషణ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9101",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanibhushan",
+    "FLeng": "F",
+    "tel": "ఫణిభూషణ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9102",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanikeshar",
+    "FLeng": "F",
+    "tel": "ఫేనీకేశారు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9103",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanindra",
+    "FLeng": "F",
+    "tel": "ఫణింద్ర",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9104",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanish",
+    "FLeng": "F",
+    "tel": "ఫణీష్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9105",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fanishwar",
+    "FLeng": "F",
+    "tel": "ఫణీశ్వర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9106",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fannan",
+    "FLeng": "F",
+    "tel": "ఫంనం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fannar",
+    "FLeng": "F",
+    "tel": "ఫ్యాన్న్ర",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9108",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fannig",
+    "FLeng": "F",
+    "tel": "ఫన్నిగ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9109",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fannish",
+    "FLeng": "F",
+    "tel": "ఫాంనిష్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fannvci",
+    "FLeng": "F",
+    "tel": "ఫ్యాన్వ్సి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9111",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fantino",
+    "FLeng": "F",
+    "tel": "ఫాంటినో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9112",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fanuco",
+    "FLeng": "F",
+    "tel": "ఫ్యానుకో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9113",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fanucus",
+    "FLeng": "F",
+    "tel": "ఫ్యానుచున్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9114",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Faolan",
+    "FLeng": "F",
+    "tel": "ఫేవులం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9115",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Faouzi",
+    "FLeng": "F",
+    "tel": "ఫాయోజి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9116",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faoz",
+    "FLeng": "F",
+    "tel": "ఫయాజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9117",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faraan",
+    "FLeng": "F",
+    "tel": "ఫరాన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9118",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faraasat",
+    "FLeng": "F",
+    "tel": "ఫేరాసత్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9119",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faraaz",
+    "FLeng": "F",
+    "tel": "ఫారాజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9120",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faradis",
+    "FLeng": "F",
+    "tel": "ప్యారడైస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9121",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farafisa",
+    "FLeng": "F",
+    "tel": "ఫేరాఫీసా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9122",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farag",
+    "FLeng": "F",
+    "tel": "ఫారాజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9123",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Faragars",
+    "FLeng": "F",
+    "tel": "ఫరగర్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9124",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farahan",
+    "FLeng": "F",
+    "tel": "ఫరహం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9125",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farahat",
+    "FLeng": "F",
+    "tel": "ఫరహాట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9126",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faraj",
+    "FLeng": "F",
+    "tel": "ఫారాజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9127",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faraji",
+    "FLeng": "F",
+    "tel": "ఫేరాజి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9128",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faramon",
+    "FLeng": "F",
+    "tel": "ఫార్మన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9129",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faramond",
+    "FLeng": "F",
+    "tel": "ఫార్మన్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9130",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "faramond",
+    "FLeng": "f",
+    "tel": "ఫార్మన్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "faramund",
+    "FLeng": "f",
+    "tel": "ఫారమును",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Faramundo",
+    "FLeng": "F",
+    "tel": "ఫరముందో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9133",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faran",
+    "FLeng": "F",
+    "tel": "ఫారం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9134",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faras",
+    "FLeng": "F",
+    "tel": "ప్యారిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9135",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farasat",
+    "FLeng": "F",
+    "tel": "ఫారెస్ట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9136",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Farayioluwa",
+    "FLeng": "F",
+    "tel": "ఫేరాయితోలువా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9137",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Faraz",
+    "FLeng": "F",
+    "tel": "ఫారాజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9138",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farbod",
+    "FLeng": "F",
+    "tel": "ఫార్మాబాద్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9139",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farbud",
+    "FLeng": "F",
+    "tel": "ఫేర్బుద",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9140",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fard",
+    "FLeng": "F",
+    "tel": "ఫర్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9141",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fardad",
+    "FLeng": "F",
+    "tel": "ఫర్దడ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9142",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fardden",
+    "FLeng": "F",
+    "tel": "ఫేర్దెన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9143",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fardeen",
+    "FLeng": "F",
+    "tel": "ఫర్దీన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9144",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fardin",
+    "FLeng": "F",
+    "tel": "ఫర్దీన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9145",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Faredun",
+    "FLeng": "F",
+    "tel": "ఫారెడున్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9146",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fareed",
+    "FLeng": "F",
+    "tel": "ఫరీద్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9147",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Farees",
+    "FLeng": "F",
+    "tel": "ప్యారీస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9148",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fareh",
+    "FLeng": "F",
+    "tel": "ఫారెహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9149",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fares",
+    "FLeng": "F",
+    "tel": "ప్యారిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Farewell",
+    "FLeng": "F",
+    "tel": "ఫేర్వెల్",
+    "FLtel": "ఫ"
+  }
+]

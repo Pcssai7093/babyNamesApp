@@ -1,0 +1,821 @@
+[
+  {
+    "id": "29464",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Olavo",
+    "FLeng": "O",
+    "tel": "ఓల్వో",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29465",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olavo",
+    "FLeng": "o",
+    "tel": "ఓల్వో",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29466",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olbrecht",
+    "FLeng": "O",
+    "tel": "అల్బ్రెచ్ట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "29467",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Oldoich",
+    "FLeng": "O",
+    "tel": "ఆల్డోఇచ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29468",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oldrich",
+    "FLeng": "O",
+    "tel": "ఆల్డ్రిచ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29469",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "oldrich",
+    "FLeng": "o",
+    "tel": "ఆల్డ్రిచ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29470",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oldrik",
+    "FLeng": "O",
+    "tel": "ఆల్డ్రిక్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29471",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "oldrik",
+    "FLeng": "o",
+    "tel": "ఆల్డ్రిక్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29472",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oldwin",
+    "FLeng": "O",
+    "tel": "ఓల్డవిం",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29473",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ole",
+    "FLeng": "O",
+    "tel": "ఓలే",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29474",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ole",
+    "FLeng": "o",
+    "tel": "ఓలే",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29475",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olef",
+    "FLeng": "O",
+    "tel": "వోల్ఫ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29476",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oleg",
+    "FLeng": "O",
+    "tel": "కొలీగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "29477",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olek",
+    "FLeng": "O",
+    "tel": "ఒలిక్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29478",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olek",
+    "FLeng": "o",
+    "tel": "ఒలిక్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29479",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oleksandr",
+    "FLeng": "O",
+    "tel": "అలెక్షాన్ద్ర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "29480",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oleksiy",
+    "FLeng": "O",
+    "tel": "అలెక్సియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "29481",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olen",
+    "FLeng": "O",
+    "tel": "ఉలెన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "29482",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Oleos",
+    "FLeng": "O",
+    "tel": "ఒలివ్స్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29483",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olever",
+    "FLeng": "O",
+    "tel": "ఒలివర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29484",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olfa",
+    "FLeng": "O",
+    "tel": "ఆల్ఫా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29485",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olgierd",
+    "FLeng": "O",
+    "tel": "యల్జిర్డ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "29486",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Olichudar",
+    "FLeng": "O",
+    "tel": "ఒలిచేదర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29487",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olimpio",
+    "FLeng": "o",
+    "tel": "ఒలింపియా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29488",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olin",
+    "FLeng": "O",
+    "tel": "వోలిన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29489",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olin",
+    "FLeng": "o",
+    "tel": "వోలిన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29490",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Olirmeni",
+    "FLeng": "O",
+    "tel": "ఒళిర్మీని",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29491",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olivander",
+    "FLeng": "O",
+    "tel": "ఒలివన్డేర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29492",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oliveanthan",
+    "FLeng": "O",
+    "tel": "ఒలివేతనం",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29493",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oliver",
+    "FLeng": "O",
+    "tel": "ఒలివర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29494",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "oliver",
+    "FLeng": "o",
+    "tel": "ఒలివర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29495",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olivera",
+    "FLeng": "O",
+    "tel": "ఒలివేరా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29496",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olivier",
+    "FLeng": "O",
+    "tel": "ఒలీవియర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29497",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olivier",
+    "FLeng": "o",
+    "tel": "ఒలీవియర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29498",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oliviero",
+    "FLeng": "O",
+    "tel": "ఒలివియెరో",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29499",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olivina",
+    "FLeng": "O",
+    "tel": "ఒలివిన",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29500",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olivio",
+    "FLeng": "O",
+    "tel": "ఒలీవియా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29501",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oliwer",
+    "FLeng": "O",
+    "tel": "ఒలివెర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29502",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oliwier",
+    "FLeng": "O",
+    "tel": "ఒలీవియర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29503",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Olka",
+    "FLeng": "O",
+    "tel": "ఉల్కా",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "29504",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ollaneg",
+    "FLeng": "O",
+    "tel": "ఒల్లన్గ్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29505",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olle",
+    "FLeng": "O",
+    "tel": "వల్లే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29506",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olle",
+    "FLeng": "o",
+    "tel": "వల్లే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29507",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ollen",
+    "FLeng": "O",
+    "tel": "వుల్లెన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29508",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ollepu",
+    "FLeng": "O",
+    "tel": "ఒల్లెపు",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29509",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olley",
+    "FLeng": "O",
+    "tel": "ఆలీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29510",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olli",
+    "FLeng": "O",
+    "tel": "ఉల్లి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "29511",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ollie",
+    "FLeng": "O",
+    "tel": "ఆలీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29512",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ollin",
+    "FLeng": "O",
+    "tel": "వోల్లిం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29513",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olliver",
+    "FLeng": "O",
+    "tel": "ఒలివర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29514",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olney",
+    "FLeng": "O",
+    "tel": "ఆలీనే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29515",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olof",
+    "FLeng": "O",
+    "tel": "ఒలోఫ్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29516",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olof",
+    "FLeng": "o",
+    "tel": "ఒలోఫ్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29517",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olov",
+    "FLeng": "O",
+    "tel": "లోవ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "29518",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olsen",
+    "FLeng": "O",
+    "tel": "ఒల్సేన్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29519",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olsen",
+    "FLeng": "o",
+    "tel": "ఒల్సేన్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29520",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olson",
+    "FLeng": "O",
+    "tel": "ఓల్సన్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29521",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olson",
+    "FLeng": "o",
+    "tel": "ఓల్సన్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29522",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olu",
+    "FLeng": "O",
+    "tel": "ఓలు",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29523",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "oluf",
+    "FLeng": "o",
+    "tel": "వోల్ఫ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "29524",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Oluoch",
+    "FLeng": "O",
+    "tel": "కొలువుచే",
+    "FLtel": "క"
+  },
+  {
+    "id": "29525",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olva",
+    "FLeng": "O",
+    "tel": "ఒలీవ",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29526",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olvan",
+    "FLeng": "O",
+    "tel": "ఓల్వాన్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29527",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "olympos",
+    "FLeng": "o",
+    "tel": "ఒలింపియస్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29528",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olyn",
+    "FLeng": "O",
+    "tel": "ఓలీన్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29529",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Olyver",
+    "FLeng": "O",
+    "tel": "ఒలీవర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29530",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Om",
+    "FLeng": "O",
+    "tel": "ఓం",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29531",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Om Parkash",
+    "FLeng": "O",
+    "tel": "ఓం ప్రకాష్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29532",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Om-Eswer",
+    "FLeng": "O",
+    "tel": "ఓం-ఎస్వీర్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29533",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omaansh",
+    "FLeng": "O",
+    "tel": "ఒమాన్స్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29534",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omaha",
+    "FLeng": "O",
+    "tel": "ఒమాహ",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29535",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Omahara",
+    "FLeng": "O",
+    "tel": "ఒమాహార",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29536",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Omair",
+    "FLeng": "O",
+    "tel": "ఆమిర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "29537",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Oman",
+    "FLeng": "O",
+    "tel": "ఒమాన్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29538",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omanand",
+    "FLeng": "O",
+    "tel": "ఓమానంద్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29539",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omananda",
+    "FLeng": "O",
+    "tel": "ఓమానంద",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29540",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omandand",
+    "FLeng": "O",
+    "tel": "ఓంఅందండీ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29541",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Omar",
+    "FLeng": "O",
+    "tel": "ఒమర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29542",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Omaran",
+    "FLeng": "O",
+    "tel": "కొమరం",
+    "FLtel": "క"
+  },
+  {
+    "id": "29543",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Omari",
+    "FLeng": "O",
+    "tel": "ఓమారు",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29544",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "omari",
+    "FLeng": "o",
+    "tel": "ఓమారు",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29545",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Omariba",
+    "FLeng": "O",
+    "tel": "ఓమరిబ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29546",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Omario",
+    "FLeng": "O",
+    "tel": "ఓమారియో",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29547",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Omarion",
+    "FLeng": "O",
+    "tel": "ఓమరిన్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29548",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "omarion\n",
+    "FLeng": "o",
+    "tel": "ఓమరిన్\n",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29549",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omarjeet",
+    "FLeng": "O",
+    "tel": "అమర్జీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "29550",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Omarr",
+    "FLeng": "O",
+    "tel": "ఒమర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29551",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omaswat",
+    "FLeng": "O",
+    "tel": "ఓమస్వత్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "29552",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omav",
+    "FLeng": "O",
+    "tel": "అమ్వ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "29553",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omdearoop",
+    "FLeng": "O",
+    "tel": "ఒందేఅరూప్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "29554",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Omdutt",
+    "FLeng": "O",
+    "tel": "ఒండుత్త",
+    "FLtel": "ఒ"
+  }
+]

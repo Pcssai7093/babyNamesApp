@@ -1,0 +1,569 @@
+[
+  {
+    "id": "116625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amari",
+    "FLeng": "A",
+    "tel": "అమరి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amariah",
+    "FLeng": "A",
+    "tel": "అమరయ్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116627",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "amarine",
+    "FLeng": "a",
+    "tel": "అమరినే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116628",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amariya",
+    "FLeng": "A",
+    "tel": "అమరియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116629",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "amarli",
+    "FLeng": "a",
+    "tel": "అమరలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116630",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amarni",
+    "FLeng": "A",
+    "tel": "అమర్నీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116631",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Amarnoor",
+    "FLeng": "A",
+    "tel": "అమర్నార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amarshila",
+    "FLeng": "A",
+    "tel": "అమర్శింల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116633",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amarta",
+    "FLeng": "A",
+    "tel": "అమర్త",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116634",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amata",
+    "FLeng": "A",
+    "tel": "ఆమాట",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "116635",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amatasalam",
+    "FLeng": "A",
+    "tel": "అమతసాళం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116636",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amati",
+    "FLeng": "A",
+    "tel": "ఆమటి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "116637",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amatullah",
+    "FLeng": "A",
+    "tel": "అమతుల్లాహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116638",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amaya",
+    "FLeng": "A",
+    "tel": "అమాయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116639",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amayah",
+    "FLeng": "A",
+    "tel": "అమాయహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116640",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amayara",
+    "FLeng": "A",
+    "tel": "అమాయరా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116641",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amayra",
+    "FLeng": "A",
+    "tel": "అమైరా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116642",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amba",
+    "FLeng": "A",
+    "tel": "అంబ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116643",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambala",
+    "FLeng": "A",
+    "tel": "అంబాలా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116644",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambali",
+    "FLeng": "A",
+    "tel": "అంబలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116645",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambalika",
+    "FLeng": "A",
+    "tel": "అంబాలిక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116646",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambamanohari",
+    "FLeng": "A",
+    "tel": "అమ్బమనోహారి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116647",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambara",
+    "FLeng": "A",
+    "tel": "అంబరా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116648",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ambareen",
+    "FLeng": "A",
+    "tel": "అంబరీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116649",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambaya",
+    "FLeng": "A",
+    "tel": "అంబాయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116650",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ambelin",
+    "FLeng": "a",
+    "tel": "అంబెలుం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116651",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ambella",
+    "FLeng": "a",
+    "tel": "అంబేళ్ల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116652",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ambereen",
+    "FLeng": "A",
+    "tel": "అంబరీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116653",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amberjill",
+    "FLeng": "A",
+    "tel": "అంబెర్జిల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116654",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amberlee",
+    "FLeng": "A",
+    "tel": "అమ్బెర్లీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116655",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amberleigh",
+    "FLeng": "A",
+    "tel": "అంబెర్లెఇఘ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116656",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Amberley",
+    "FLeng": "A",
+    "tel": "అమ్బెర్ల్య్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116657",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amberlie",
+    "FLeng": "A",
+    "tel": "అమ్బెర్లీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116658",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amberlin",
+    "FLeng": "A",
+    "tel": "అమ్బెర్లీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116659",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amberly",
+    "FLeng": "A",
+    "tel": "అమ్బెర్ల్య్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116660",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amberlyn",
+    "FLeng": "A",
+    "tel": "అంబేరులైన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116661",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Amberlynn",
+    "FLeng": "A",
+    "tel": "అమ్బెర్ల్య్న్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116662",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amberr",
+    "FLeng": "A",
+    "tel": "అంబర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116663",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambhini",
+    "FLeng": "A",
+    "tel": "అంభిని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116664",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambhojini",
+    "FLeng": "A",
+    "tel": "అంభోజిని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116665",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambi",
+    "FLeng": "A",
+    "tel": "అంబి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116666",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ambia",
+    "FLeng": "A",
+    "tel": "ఎంబిఏ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "116667",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambigai",
+    "FLeng": "A",
+    "tel": "అంబిగై",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116668",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambika",
+    "FLeng": "A",
+    "tel": "అంబికా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116669",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambikai",
+    "FLeng": "A",
+    "tel": "అంబికాకి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116670",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambily",
+    "FLeng": "A",
+    "tel": "అంబిలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116671",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ambra",
+    "FLeng": "A",
+    "tel": "అమ్బర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116672",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ambrea",
+    "FLeng": "a",
+    "tel": "అమ్బరీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116673",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ambreen",
+    "FLeng": "A",
+    "tel": "అమ్బరీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116674",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ambrette",
+    "FLeng": "a",
+    "tel": "అమ్బరెత్తే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116675",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ambria",
+    "FLeng": "A",
+    "tel": "అమ్బరీయా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116676",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambruni",
+    "FLeng": "A",
+    "tel": "అమ్బరుని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116677",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambu",
+    "FLeng": "A",
+    "tel": "అంబు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116678",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambuda",
+    "FLeng": "A",
+    "tel": "అంబుదా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116679",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambudha",
+    "FLeng": "A",
+    "tel": "అంబుధి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116680",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambudhara",
+    "FLeng": "A",
+    "tel": "అమ్బుధర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116681",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambudhi",
+    "FLeng": "A",
+    "tel": "అంబుధి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116682",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambuja",
+    "FLeng": "A",
+    "tel": "అంబుజా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116683",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambujakshi",
+    "FLeng": "A",
+    "tel": "అంబుజాక్షి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116684",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ambuvili",
+    "FLeng": "A",
+    "tel": "అంబివిలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116685",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "amedea",
+    "FLeng": "a",
+    "tel": "ఆమెదేనా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "116686",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Amee",
+    "FLeng": "A",
+    "tel": "అమీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "116687",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ameena",
+    "FLeng": "A",
+    "tel": "అమీనా",
+    "FLtel": "అ"
+  }
+]

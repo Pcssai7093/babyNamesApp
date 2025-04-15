@@ -1,0 +1,875 @@
+[
+  {
+    "id": "28003",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neelmani",
+    "FLeng": "N",
+    "tel": "నీలమణి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28004",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neelmegam",
+    "FLeng": "N",
+    "tel": "నీలమేగం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28005",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neelotpal",
+    "FLeng": "N",
+    "tel": "నీలోత్పల",
+    "FLtel": "న"
+  },
+  {
+    "id": "28006",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neemit",
+    "FLeng": "N",
+    "tel": "నీమిటీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "28007",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neer",
+    "FLeng": "N",
+    "tel": "నీరు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28008",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neerab",
+    "FLeng": "N",
+    "tel": "నీరబ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28009",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neerad",
+    "FLeng": "N",
+    "tel": "నీరద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28010",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neeradh",
+    "FLeng": "N",
+    "tel": "నీరద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28011",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Neeraf",
+    "FLeng": "N",
+    "tel": "నీరాఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28012",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neeraj",
+    "FLeng": "N",
+    "tel": "నీరజ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28013",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neeraj Nayan",
+    "FLeng": "N",
+    "tel": "నీరజ్ నయన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28014",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neerajaksh",
+    "FLeng": "N",
+    "tel": "నీరజాక్ష",
+    "FLtel": "న"
+  },
+  {
+    "id": "28015",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Neerajpaul",
+    "FLeng": "N",
+    "tel": "నీరాజపాల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28016",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neeranjan",
+    "FLeng": "N",
+    "tel": "నిరంజన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neerav",
+    "FLeng": "N",
+    "tel": "నీరవ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28018",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neerava",
+    "FLeng": "N",
+    "tel": "నీరవ",
+    "FLtel": "న"
+  },
+  {
+    "id": "28019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neeresh",
+    "FLeng": "N",
+    "tel": "నీరేష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28020",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neerlav",
+    "FLeng": "N",
+    "tel": "నీర్లవి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28021",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neesh",
+    "FLeng": "N",
+    "tel": "నీష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28022",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neeshal",
+    "FLeng": "N",
+    "tel": "నీషల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28023",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neeshik",
+    "FLeng": "N",
+    "tel": "నీశిక్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neeshlin",
+    "FLeng": "N",
+    "tel": "నీషలీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28025",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neeteepa",
+    "FLeng": "N",
+    "tel": "నీతీపై",
+    "FLtel": "న"
+  },
+  {
+    "id": "28026",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neethimaran",
+    "FLeng": "N",
+    "tel": "నీతిమారం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28027",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Neetiman",
+    "FLeng": "N",
+    "tel": "నీతిమం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28028",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Neetipal",
+    "FLeng": "N",
+    "tel": "నీటిపాలు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28029",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neetish",
+    "FLeng": "N",
+    "tel": "నితీష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neev",
+    "FLeng": "N",
+    "tel": "నీవు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28031",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neevan",
+    "FLeng": "N",
+    "tel": "జీవం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "28032",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nef",
+    "FLeng": "N",
+    "tel": "నెఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28033",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nefen",
+    "FLeng": "N",
+    "tel": "నెఫెన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28034",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neff",
+    "FLeng": "N",
+    "tel": "నెఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28035",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neftali",
+    "FLeng": "N",
+    "tel": "నాఫ్తాలి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28036",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nehad",
+    "FLeng": "N",
+    "tel": "నేహాడ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28037",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nehanth",
+    "FLeng": "N",
+    "tel": "నేహన్త",
+    "FLtel": "న"
+  },
+  {
+    "id": "28038",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nehchalbir",
+    "FLeng": "N",
+    "tel": "నిహఛల్బీర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28039",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nehchaljot",
+    "FLeng": "N",
+    "tel": "నేహాచలంజోత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28040",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nehchalpreet",
+    "FLeng": "N",
+    "tel": "నిహఛల్ప్రీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28041",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nehchaltek",
+    "FLeng": "N",
+    "tel": "నిహఛల్టెక్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28042",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nehemiah",
+    "FLeng": "N",
+    "tel": "నెహేమియహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nehemiah",
+    "FLeng": "n",
+    "tel": "నెహేమియహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28044",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nehkaam",
+    "FLeng": "N",
+    "tel": "నేహకారం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28045",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nehra",
+    "FLeng": "N",
+    "tel": "నెహ్రా",
+    "FLtel": "న"
+  },
+  {
+    "id": "28046",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nehru",
+    "FLeng": "N",
+    "tel": "నెహ్రు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28047",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "nehru",
+    "FLeng": "n",
+    "tel": "నెహ్రు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28048",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nehsat",
+    "FLeng": "N",
+    "tel": "నేహాసత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28049",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nehshal",
+    "FLeng": "N",
+    "tel": "నేహశల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28050",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Nehuen",
+    "FLeng": "N",
+    "tel": "నెహుఎం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28051",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Neil",
+    "FLeng": "N",
+    "tel": "నెయిల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28052",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neilan",
+    "FLeng": "N",
+    "tel": "నేయిలం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28053",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neille",
+    "FLeng": "N",
+    "tel": "నేఇల్లే",
+    "FLtel": "న"
+  },
+  {
+    "id": "28054",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neils",
+    "FLeng": "N",
+    "tel": "నెయిల్స్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28055",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neilson",
+    "FLeng": "N",
+    "tel": "నేయిల్స్లోన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "neilson",
+    "FLeng": "n",
+    "tel": "నేయిల్స్లోన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28057",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neirin",
+    "FLeng": "N",
+    "tel": "నేయురిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28058",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nejal",
+    "FLeng": "N",
+    "tel": "నెజల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28059",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nejeeb",
+    "FLeng": "N",
+    "tel": "నెజీబ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28060",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nekbir",
+    "FLeng": "N",
+    "tel": "నేకేబీర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28061",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nekdeep",
+    "FLeng": "N",
+    "tel": "నెక్దీప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28062",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neki",
+    "FLeng": "N",
+    "tel": "నికి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28063",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nekjeet",
+    "FLeng": "N",
+    "tel": "నేకేజీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28064",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nekjot",
+    "FLeng": "N",
+    "tel": "నేకజాతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28065",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Neknam",
+    "FLeng": "N",
+    "tel": "నేకునాం",
+    "FLtel": "న"
+  },
+  {
+    "id": "28066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nekoda",
+    "FLeng": "n",
+    "tel": "నీకొద",
+    "FLtel": "న"
+  },
+  {
+    "id": "28067",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nekpaal",
+    "FLeng": "N",
+    "tel": "నేకపాల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28068",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nekroop",
+    "FLeng": "N",
+    "tel": "నెక్రోఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28069",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nelakash",
+    "FLeng": "N",
+    "tel": "నెలకాష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28070",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nelesha",
+    "FLeng": "N",
+    "tel": "నేలేశ",
+    "FLtel": "న"
+  },
+  {
+    "id": "28071",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nelinho",
+    "FLeng": "n",
+    "tel": "నేలింహో",
+    "FLtel": "న"
+  },
+  {
+    "id": "28072",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nelio",
+    "FLeng": "N",
+    "tel": "నిలువు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28073",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nelius",
+    "FLeng": "n",
+    "tel": "నెలిస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28074",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nellainambi",
+    "FLeng": "N",
+    "tel": "నెల్లైనంబి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28075",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nellee",
+    "FLeng": "N",
+    "tel": "నెల్లీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "28076",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nello",
+    "FLeng": "N",
+    "tel": "నెల్లో",
+    "FLtel": "న"
+  },
+  {
+    "id": "28077",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nelo",
+    "FLeng": "n",
+    "tel": "నీలో",
+    "FLtel": "న"
+  },
+  {
+    "id": "28078",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nelochan",
+    "FLeng": "N",
+    "tel": "నెలోచన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28079",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nels",
+    "FLeng": "N",
+    "tel": "నీళ్ళు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nels",
+    "FLeng": "n",
+    "tel": "నీళ్ళు",
+    "FLtel": "న"
+  },
+  {
+    "id": "28081",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nelsen",
+    "FLeng": "N",
+    "tel": "నీల్సెన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28082",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nelson",
+    "FLeng": "N",
+    "tel": "నెల్సన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28083",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nelton",
+    "FLeng": "n",
+    "tel": "సెల్టన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "28084",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Nelu",
+    "FLeng": "N",
+    "tel": "నెల",
+    "FLtel": "న"
+  },
+  {
+    "id": "28085",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nelvin",
+    "FLeng": "N",
+    "tel": "సెల్విన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "28086",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemaiah",
+    "FLeng": "N",
+    "tel": "నెయ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "28087",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemanja",
+    "FLeng": "N",
+    "tel": "నేమంజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "28088",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nemat",
+    "FLeng": "N",
+    "tel": "నెంట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28089",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemdas",
+    "FLeng": "N",
+    "tel": "నేఁడాస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28090",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemendra",
+    "FLeng": "N",
+    "tel": "నేమేంద్ర",
+    "FLtel": "న"
+  },
+  {
+    "id": "28091",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemesio",
+    "FLeng": "N",
+    "tel": "నిమేష",
+    "FLtel": "న"
+  },
+  {
+    "id": "28092",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nemesio",
+    "FLeng": "n",
+    "tel": "నిమేష",
+    "FLtel": "న"
+  },
+  {
+    "id": "28093",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemet",
+    "FLeng": "N",
+    "tel": "నిమేట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28094",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nemi",
+    "FLeng": "N",
+    "tel": "నేమి",
+    "FLtel": "న"
+  },
+  {
+    "id": "28095",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nemichand",
+    "FLeng": "N",
+    "tel": "నేమిచంద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28096",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemidas",
+    "FLeng": "N",
+    "tel": "నిమిదాస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28097",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemikumar",
+    "FLeng": "N",
+    "tel": "నెమికుమార్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28098",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nemil",
+    "FLeng": "N",
+    "tel": "నెమిల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "28099",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Neminath",
+    "FLeng": "N",
+    "tel": "నేమినాథ్",
+    "FLtel": "న"
+  }
+]

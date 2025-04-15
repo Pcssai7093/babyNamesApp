@@ -1,0 +1,812 @@
+[
+  {
+    "id": "106558",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halfrid",
+    "FLeng": "H",
+    "tel": "హాల్ఫ్రిడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106559",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halfrith",
+    "FLeng": "H",
+    "tel": "హాల్ఫ్రిత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106560",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halfryta",
+    "FLeng": "H",
+    "tel": "హాల్ఫ్రీట",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106561",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Halia",
+    "FLeng": "H",
+    "tel": "హాలియా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106562",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halie",
+    "FLeng": "H",
+    "tel": "హాలై",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106563",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Halifa",
+    "FLeng": "H",
+    "tel": "హలిఫా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106564",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halifrid",
+    "FLeng": "H",
+    "tel": "హలిఫ్రిడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106565",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Halima",
+    "FLeng": "H",
+    "tel": "హలీమా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106566",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Halimah",
+    "FLeng": "H",
+    "tel": "హలీమాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106567",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Halime",
+    "FLeng": "H",
+    "tel": "హలీమ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106568",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halina",
+    "FLeng": "H",
+    "tel": "హలిన",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106569",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halinka",
+    "FLeng": "H",
+    "tel": "హలింకా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106570",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halinor",
+    "FLeng": "H",
+    "tel": "హలినార్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106571",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Haliyana",
+    "FLeng": "H",
+    "tel": "హాలియానా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106572",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halka",
+    "FLeng": "H",
+    "tel": "హల్కా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106573",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halla",
+    "FLeng": "H",
+    "tel": "హాళ్ల",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106574",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halldis",
+    "FLeng": "H",
+    "tel": "హల్లడిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106575",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halldora",
+    "FLeng": "H",
+    "tel": "హల్లదొర",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106576",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halle",
+    "FLeng": "H",
+    "tel": "హల్లే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106577",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halleli",
+    "FLeng": "H",
+    "tel": "హల్లెలి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106578",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "halleli",
+    "FLeng": "h",
+    "tel": "హల్లెలి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106579",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hallfrid",
+    "FLeng": "H",
+    "tel": "హాల్ఫ్రిడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106580",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hallfrita",
+    "FLeng": "H",
+    "tel": "హాల్ఫ్రిట",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106581",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hallgerd",
+    "FLeng": "H",
+    "tel": "హాల్జ్ర్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106582",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halli",
+    "FLeng": "H",
+    "tel": "హళ్లి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106583",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "halliday",
+    "FLeng": "h",
+    "tel": "హాలిడే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106584",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hallie",
+    "FLeng": "H",
+    "tel": "హాల్లీయే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106585",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hally",
+    "FLeng": "H",
+    "tel": "హాలీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106586",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halma",
+    "FLeng": "H",
+    "tel": "హలీమా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106587",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halo",
+    "FLeng": "H",
+    "tel": "హలొ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106588",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Haloke",
+    "FLeng": "H",
+    "tel": "హాలోకే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106589",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halona",
+    "FLeng": "H",
+    "tel": "హాలోన",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106590",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Halyat",
+    "FLeng": "H",
+    "tel": "హల్యత",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106591",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Halyn",
+    "FLeng": "H",
+    "tel": "హాలీన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106592",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ham raz",
+    "FLeng": "H",
+    "tel": "హాఁ రాజ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106593",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamama",
+    "FLeng": "H",
+    "tel": "హంగామా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106594",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamamah",
+    "FLeng": "H",
+    "tel": "హమమః",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106595",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamasi",
+    "FLeng": "H",
+    "tel": "హమాసి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106596",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamaswetha",
+    "FLeng": "H",
+    "tel": "హమాస్వేత",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106597",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamda",
+    "FLeng": "H",
+    "tel": "హండా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106598",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamdiya",
+    "FLeng": "H",
+    "tel": "హండీయా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106599",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamdiyah",
+    "FLeng": "H",
+    "tel": "హందియహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106600",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hamdunah",
+    "FLeng": "H",
+    "tel": "హంగుణః",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106601",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hameeda",
+    "FLeng": "H",
+    "tel": "హమీద",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106602",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hameedah",
+    "FLeng": "H",
+    "tel": "హమీదాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106603",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hameeza",
+    "FLeng": "H",
+    "tel": "హామీజా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamesha",
+    "FLeng": "H",
+    "tel": "హమేషా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106605",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hamest",
+    "FLeng": "H",
+    "tel": "హామ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106606",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamia",
+    "FLeng": "H",
+    "tel": "హామీల",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106607",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamida",
+    "FLeng": "H",
+    "tel": "హమీద",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106608",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamidah",
+    "FLeng": "H",
+    "tel": "హామిదః",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106609",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hamideh",
+    "FLeng": "H",
+    "tel": "హామిదేహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106610",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamima",
+    "FLeng": "H",
+    "tel": "హామీమే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106611",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Haminagni",
+    "FLeng": "H",
+    "tel": "హామినాగ్ని",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106612",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hamisi",
+    "FLeng": "H",
+    "tel": "హామిసి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106613",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Hamlen",
+    "FLeng": "H",
+    "tel": "హంలేం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106614",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hammada",
+    "FLeng": "H",
+    "tel": "హమ్మదా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106615",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hammadi",
+    "FLeng": "H",
+    "tel": "హమ్మదీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106616",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamna",
+    "FLeng": "H",
+    "tel": "హంనా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106617",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamnah",
+    "FLeng": "H",
+    "tel": "హ్మణః",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106618",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hamra",
+    "FLeng": "H",
+    "tel": "హమారా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106619",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Hamreet",
+    "FLeng": "H",
+    "tel": "హంరీటీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106620",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamrutha",
+    "FLeng": "H",
+    "tel": "హామృత",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106621",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsa",
+    "FLeng": "H",
+    "tel": "హంస",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106622",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsabrahmari",
+    "FLeng": "H",
+    "tel": "హంసబ్రహ్మరి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsadeepika",
+    "FLeng": "H",
+    "tel": "హంసాదీపిక",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsadhvani",
+    "FLeng": "H",
+    "tel": "హంసధ్వని",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsalekha",
+    "FLeng": "H",
+    "tel": "హంసలేఖ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsanaari",
+    "FLeng": "H",
+    "tel": "హంసనారి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106627",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsanandi",
+    "FLeng": "H",
+    "tel": "హంసానండి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106628",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsanandini",
+    "FLeng": "H",
+    "tel": "హంసానందిని",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106629",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsapriya",
+    "FLeng": "H",
+    "tel": "హంసప్రియ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106630",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsavedi",
+    "FLeng": "H",
+    "tel": "హంసవేది",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106631",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsaveni",
+    "FLeng": "H",
+    "tel": "హంసవేని",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamshika",
+    "FLeng": "H",
+    "tel": "హంశిక",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106633",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsi",
+    "FLeng": "H",
+    "tel": "హంసి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106634",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsika",
+    "FLeng": "H",
+    "tel": "హంసిక",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106635",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamsikha",
+    "FLeng": "H",
+    "tel": "హంసిక",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106636",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hamuda",
+    "FLeng": "H",
+    "tel": "హాముడా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106637",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hamutal",
+    "FLeng": "H",
+    "tel": "హాముతల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106638",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hana",
+    "FLeng": "H",
+    "tel": "హన",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106639",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hana'",
+    "FLeng": "H",
+    "tel": "హన'",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106640",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hanaa",
+    "FLeng": "H",
+    "tel": "హన్నా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106641",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Hanadi",
+    "FLeng": "H",
+    "tel": "యానాది",
+    "FLtel": "య"
+  },
+  {
+    "id": "106642",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hanafi",
+    "FLeng": "H",
+    "tel": "హనఫీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106643",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hanah",
+    "FLeng": "H",
+    "tel": "హనః",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106644",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hanai",
+    "FLeng": "H",
+    "tel": "హనై",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106645",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hanako",
+    "FLeng": "H",
+    "tel": "హణకో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106646",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Hanameel",
+    "FLeng": "H",
+    "tel": "హనమీల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "106647",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Hanami",
+    "FLeng": "H",
+    "tel": "హన్మి",
+    "FLtel": "హ"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "id": "120032",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafia",
+    "FLeng": "N",
+    "tel": "నఫిజా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120033",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafiah",
+    "FLeng": "N",
+    "tel": "నఫిల్హ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120034",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafis",
+    "FLeng": "N",
+    "tel": "నఫీస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120035",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafisa",
+    "FLeng": "N",
+    "tel": "నఫీసా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120036",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafisah",
+    "FLeng": "N",
+    "tel": "నఫీసాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120037",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nafissa",
+    "FLeng": "N",
+    "tel": "నఫీసా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120038",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafiza",
+    "FLeng": "N",
+    "tel": "నఫిజా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120039",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naflah",
+    "FLeng": "N",
+    "tel": "నఫలః",
+    "FLtel": "న"
+  },
+  {
+    "id": "120040",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nafrin",
+    "FLeng": "N",
+    "tel": "నాప్రిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120041",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nafula",
+    "FLeng": "N",
+    "tel": "నఫుల",
+    "FLtel": "న"
+  },
+  {
+    "id": "120042",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nafuna",
+    "FLeng": "N",
+    "tel": "నిఫుణ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120043",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nag",
+    "FLeng": "N",
+    "tel": "నాగ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120044",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naga Malleswari",
+    "FLeng": "N",
+    "tel": "నాగ మల్లేశ్వరి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120045",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagaanjali",
+    "FLeng": "N",
+    "tel": "నాగాంజలి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120046",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagadepan",
+    "FLeng": "N",
+    "tel": "నాగదేపం",
+    "FLtel": "న"
+  },
+  {
+    "id": "120047",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagai",
+    "FLeng": "N",
+    "tel": "నాగై",
+    "FLtel": "న"
+  },
+  {
+    "id": "120048",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagajothi",
+    "FLeng": "N",
+    "tel": "నాగజాతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120049",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagakanti",
+    "FLeng": "N",
+    "tel": "నాగకంటి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120050",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagalakshmi",
+    "FLeng": "N",
+    "tel": "నాగలక్ష్మి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120051",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagalata",
+    "FLeng": "N",
+    "tel": "నాగలాటా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120052",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagamani",
+    "FLeng": "N",
+    "tel": "నాగమణి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120053",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagamma",
+    "FLeng": "N",
+    "tel": "నాగమ్మ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120054",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagammal",
+    "FLeng": "N",
+    "tel": "నాగమ్మాల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120055",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naganalatha",
+    "FLeng": "N",
+    "tel": "నగనలత",
+    "FLtel": "న"
+  },
+  {
+    "id": "120056",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naganandi",
+    "FLeng": "N",
+    "tel": "నాగానండి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120057",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naganandini",
+    "FLeng": "N",
+    "tel": "నాగానందిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "120058",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naganika",
+    "FLeng": "N",
+    "tel": "నాగానిక",
+    "FLtel": "న"
+  },
+  {
+    "id": "120059",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagapooshani",
+    "FLeng": "N",
+    "tel": "నాగపూషని",
+    "FLtel": "న"
+  },
+  {
+    "id": "120060",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagaraji",
+    "FLeng": "N",
+    "tel": "నాగరాజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120061",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagarani",
+    "FLeng": "N",
+    "tel": "నాగరాణి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120062",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagashree",
+    "FLeng": "N",
+    "tel": "నాగశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120063",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagasri",
+    "FLeng": "N",
+    "tel": "నాగశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120064",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagaveni",
+    "FLeng": "N",
+    "tel": "నాగవేణి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120065",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagchuda",
+    "FLeng": "N",
+    "tel": "న్గచూడ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120066",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nageen",
+    "FLeng": "N",
+    "tel": "నాజీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120067",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nageena",
+    "FLeng": "N",
+    "tel": "నగీనా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120068",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nageenah",
+    "FLeng": "N",
+    "tel": "నగీనాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120069",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nageshwari",
+    "FLeng": "N",
+    "tel": "నాగేశ్వర",
+    "FLtel": "న"
+  },
+  {
+    "id": "120070",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nageswari",
+    "FLeng": "N",
+    "tel": "నాగేశ్వర",
+    "FLtel": "న"
+  },
+  {
+    "id": "120071",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagheen",
+    "FLeng": "N",
+    "tel": "నగీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120072",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naghma",
+    "FLeng": "N",
+    "tel": "న్గహ్మ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120073",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagi",
+    "FLeng": "N",
+    "tel": "నాగి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120074",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagia",
+    "FLeng": "N",
+    "tel": "నజియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120075",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagiah",
+    "FLeng": "N",
+    "tel": "నాగయ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "120076",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagiba",
+    "FLeng": "N",
+    "tel": "నాగోబా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120077",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagid",
+    "FLeng": "N",
+    "tel": "నాగిడి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120078",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "nagida",
+    "FLeng": "n",
+    "tel": "నాగిడి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120079",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagikiran",
+    "FLeng": "N",
+    "tel": "నాగికిరణ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120080",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagila",
+    "FLeng": "N",
+    "tel": "నాగుల",
+    "FLtel": "న"
+  },
+  {
+    "id": "120081",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nagin",
+    "FLeng": "N",
+    "tel": "నాగిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120082",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagina",
+    "FLeng": "N",
+    "tel": "నగిన",
+    "FLtel": "న"
+  },
+  {
+    "id": "120083",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nagini",
+    "FLeng": "N",
+    "tel": "నాగిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "120084",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagiya",
+    "FLeng": "N",
+    "tel": "నజియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120085",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagla",
+    "FLeng": "N",
+    "tel": "నగల",
+    "FLtel": "న"
+  },
+  {
+    "id": "120086",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagma",
+    "FLeng": "N",
+    "tel": "నగ్మా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120087",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nagodeallah",
+    "FLeng": "N",
+    "tel": "నాగోడీల్లాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120088",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naguleswary",
+    "FLeng": "N",
+    "tel": "నాగులేశ్వరీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120089",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nagwa",
+    "FLeng": "N",
+    "tel": "నిగ్వ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120090",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahal",
+    "FLeng": "N",
+    "tel": "మహల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "120091",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nahala",
+    "FLeng": "N",
+    "tel": "నచ్చాల",
+    "FLtel": "న"
+  },
+  {
+    "id": "120092",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nahar",
+    "FLeng": "N",
+    "tel": "నహర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120093",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "nahara",
+    "FLeng": "n",
+    "tel": "నచ్చారా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120094",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahdi",
+    "FLeng": "N",
+    "tel": "నఃది",
+    "FLtel": "న"
+  },
+  {
+    "id": "120095",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naheed",
+    "FLeng": "N",
+    "tel": "నాహీద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120096",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naheeda",
+    "FLeng": "N",
+    "tel": "నాహీదా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120097",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nahia",
+    "FLeng": "N",
+    "tel": "నాహిత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120098",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahida",
+    "FLeng": "N",
+    "tel": "నాహిదా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120099",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahima",
+    "FLeng": "N",
+    "tel": "మహిమ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "120100",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahiya",
+    "FLeng": "N",
+    "tel": "నాహియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120101",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahiza",
+    "FLeng": "N",
+    "tel": "నహుజా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120102",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahla",
+    "FLeng": "N",
+    "tel": "నాహ్లా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120103",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahlah",
+    "FLeng": "N",
+    "tel": "నాహ్లాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120104",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahleejah",
+    "FLeng": "N",
+    "tel": "నఃలీజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120105",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nahlin",
+    "FLeng": "N",
+    "tel": "నఃలిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120106",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahrin",
+    "FLeng": "N",
+    "tel": "నెహ్రయిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120107",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nahuatl",
+    "FLeng": "N",
+    "tel": "నాహూయల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120108",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nahuel",
+    "FLeng": "N",
+    "tel": "నహుల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120109",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naia",
+    "FLeng": "N",
+    "tel": "నై",
+    "FLtel": "న"
+  },
+  {
+    "id": "120110",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naiad",
+    "FLeng": "N",
+    "tel": "నైటీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120111",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naiara",
+    "FLeng": "N",
+    "tel": "నైర",
+    "FLtel": "న"
+  },
+  {
+    "id": "120112",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naida",
+    "FLeng": "N",
+    "tel": "నైదా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120113",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "naida",
+    "FLeng": "n",
+    "tel": "నైదా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120114",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naidhrua",
+    "FLeng": "N",
+    "tel": "నైధ్రుల",
+    "FLtel": "న"
+  },
+  {
+    "id": "120115",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naidhruv",
+    "FLeng": "N",
+    "tel": "నైధ్రువ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120116",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naifah",
+    "FLeng": "N",
+    "tel": "నైఫాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120117",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naija",
+    "FLeng": "N",
+    "tel": "నైజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "120118",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naika",
+    "FLeng": "N",
+    "tel": "నాయిక",
+    "FLtel": "న"
+  },
+  {
+    "id": "120119",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naila",
+    "FLeng": "N",
+    "tel": "నైలా",
+    "FLtel": "న"
+  },
+  {
+    "id": "120120",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nailadi",
+    "FLeng": "N",
+    "tel": "నైలాడి",
+    "FLtel": "న"
+  },
+  {
+    "id": "120121",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nailah",
+    "FLeng": "N",
+    "tel": "నైలాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "120122",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Naile",
+    "FLeng": "N",
+    "tel": "నైల్",
+    "FLtel": "న"
+  }
+]

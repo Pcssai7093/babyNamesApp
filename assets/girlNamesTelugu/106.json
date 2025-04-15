@@ -1,0 +1,794 @@
+[
+  {
+    "id": "100728",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delfina",
+    "FLeng": "D",
+    "tel": "డెల్ఫీన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100729",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delfine",
+    "FLeng": "D",
+    "tel": "డెల్ఫీనే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100730",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delia",
+    "FLeng": "D",
+    "tel": "దెలియ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100731",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deliah",
+    "FLeng": "D",
+    "tel": "దెలియహ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100732",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delicah",
+    "FLeng": "D",
+    "tel": "డెలికేహ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100733",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delice",
+    "FLeng": "D",
+    "tel": "డేలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100734",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delicia",
+    "FLeng": "D",
+    "tel": "దెలిసియా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100735",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delight",
+    "FLeng": "D",
+    "tel": "డిలైట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100736",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delila",
+    "FLeng": "D",
+    "tel": "ఢిల్లీల",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100737",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delilah",
+    "FLeng": "D",
+    "tel": "దెలీలాహ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100738",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Delima",
+    "FLeng": "D",
+    "tel": "డెలిమ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100739",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delina",
+    "FLeng": "D",
+    "tel": "దేలిన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100740",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delinda",
+    "FLeng": "D",
+    "tel": "దేలింది",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100741",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deline",
+    "FLeng": "D",
+    "tel": "ఢిల్లీని",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100742",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delisa",
+    "FLeng": "D",
+    "tel": "దెలిసి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100743",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delise",
+    "FLeng": "d",
+    "tel": "దెలిసె",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100744",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Delisha",
+    "FLeng": "D",
+    "tel": "డెలీషా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100745",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delissa",
+    "FLeng": "D",
+    "tel": "డెలిస్సా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100746",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deliz",
+    "FLeng": "D",
+    "tel": "డెలిజ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100747",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "deliz",
+    "FLeng": "d",
+    "tel": "డెలిజ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100748",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deliza",
+    "FLeng": "D",
+    "tel": "డెలిజా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100749",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Delkash",
+    "FLeng": "D",
+    "tel": "డెలికాష్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100750",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Della",
+    "FLeng": "D",
+    "tel": "దెల్ల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100751",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delli",
+    "FLeng": "D",
+    "tel": "ఢిల్లీ",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100752",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dellina",
+    "FLeng": "D",
+    "tel": "ఢిల్లీని",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100753",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delly",
+    "FLeng": "D",
+    "tel": "డేలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100754",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delma",
+    "FLeng": "D",
+    "tel": "దిల్మా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100755",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delma",
+    "FLeng": "d",
+    "tel": "దిల్మా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100756",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delmi",
+    "FLeng": "D",
+    "tel": "డెలీమీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100757",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delmira",
+    "FLeng": "D",
+    "tel": "దెల్మిరా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100758",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delmy",
+    "FLeng": "D",
+    "tel": "డెలీమీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100759",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delois",
+    "FLeng": "D",
+    "tel": "దెలోయిస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100760",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deloise",
+    "FLeng": "D",
+    "tel": "దెలోయిస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100761",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delora",
+    "FLeng": "D",
+    "tel": "దెలోరా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100762",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "DeLorean",
+    "FLeng": "D",
+    "tel": "డెలొరీన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100763",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delores",
+    "FLeng": "D",
+    "tel": "దేలోర్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100764",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delorian",
+    "FLeng": "D",
+    "tel": "దెలోరియన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100765",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deloris",
+    "FLeng": "D",
+    "tel": "దెలోరిస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100766",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delorus",
+    "FLeng": "D",
+    "tel": "దేలోర్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100767",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delpha",
+    "FLeng": "D",
+    "tel": "దెల్ఫా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100768",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delphi",
+    "FLeng": "D",
+    "tel": "డెల్ఫి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100769",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delphia",
+    "FLeng": "D",
+    "tel": "డెల్ఫియా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100770",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delphina",
+    "FLeng": "D",
+    "tel": "డెల్ఫీన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100771",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delphina",
+    "FLeng": "d",
+    "tel": "డెల్ఫీన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100772",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delphine",
+    "FLeng": "D",
+    "tel": "డాల్ఫిన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100773",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delphine",
+    "FLeng": "d",
+    "tel": "డాల్ఫిన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100774",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delphinia",
+    "FLeng": "D",
+    "tel": "డెల్ఫీని",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100775",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delphinium",
+    "FLeng": "D",
+    "tel": "డెల్ఫీనియం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100776",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delphinium",
+    "FLeng": "d",
+    "tel": "డెల్ఫీనియం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100777",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delsie",
+    "FLeng": "D",
+    "tel": "దెలిసియే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100778",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delt",
+    "FLeng": "d",
+    "tel": "డిలీట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100779",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delta",
+    "FLeng": "D",
+    "tel": "డెల్టా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100780",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "delta",
+    "FLeng": "d",
+    "tel": "డెల్టా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100781",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "deltha",
+    "FLeng": "d",
+    "tel": "డెల్తా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100782",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delu",
+    "FLeng": "D",
+    "tel": "దేలు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100783",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delyne",
+    "FLeng": "D",
+    "tel": "ఢిల్లీని",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100784",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delysia",
+    "FLeng": "D",
+    "tel": "డెలీషియా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100785",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delyssa",
+    "FLeng": "D",
+    "tel": "ఢిల్లీస్స",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100786",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Delyth",
+    "FLeng": "D",
+    "tel": "ఢిల్లీత్",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100787",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Dema",
+    "FLeng": "D",
+    "tel": "డిమా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100788",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demanda",
+    "FLeng": "D",
+    "tel": "థేమండే",
+    "FLtel": "థ"
+  },
+  {
+    "id": "100789",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "demanda",
+    "FLeng": "d",
+    "tel": "థేమండే",
+    "FLtel": "థ"
+  },
+  {
+    "id": "100790",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demaris",
+    "FLeng": "D",
+    "tel": "డెమారీస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100791",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "demarius",
+    "FLeng": "d",
+    "tel": "దేమరిఉస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100792",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demeter",
+    "FLeng": "D",
+    "tel": "డిమీటర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100793",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "demeter",
+    "FLeng": "d",
+    "tel": "డిమీటర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100794",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demetra",
+    "FLeng": "D",
+    "tel": "దేమేత్రి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100795",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "demetra",
+    "FLeng": "d",
+    "tel": "దేమేత్రి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100796",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demetria",
+    "FLeng": "D",
+    "tel": "దేమేత్రియా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100797",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "demetria",
+    "FLeng": "d",
+    "tel": "దేమేత్రియా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100798",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demetrice",
+    "FLeng": "D",
+    "tel": "దేమేత్రిన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100799",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demetrius",
+    "FLeng": "D",
+    "tel": "దేమేత్రిస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100800",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demi",
+    "FLeng": "D",
+    "tel": "దేమి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100801",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "demia",
+    "FLeng": "d",
+    "tel": "డేమియా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100802",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demie",
+    "FLeng": "D",
+    "tel": "దేమీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100803",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Demira",
+    "FLeng": "D",
+    "tel": "దేమిరా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100804",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Demisha",
+    "FLeng": "D",
+    "tel": "డెమిషా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100805",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Demitra",
+    "FLeng": "D",
+    "tel": "దేమిట్రా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100806",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dena",
+    "FLeng": "D",
+    "tel": "దేనా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100807",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Denae",
+    "FLeng": "D",
+    "tel": "దేనే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100808",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "denae",
+    "FLeng": "d",
+    "tel": "దేనే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100809",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Denali",
+    "FLeng": "D",
+    "tel": "దెంగాలి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100810",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Denay",
+    "FLeng": "D",
+    "tel": "దేనై",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100811",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deneen",
+    "FLeng": "D",
+    "tel": "డేనీన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100812",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Denegifu",
+    "FLeng": "D",
+    "tel": "దేనేజీఫు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100813",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Denegyth",
+    "FLeng": "D",
+    "tel": "దేనేజిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100814",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Denese",
+    "FLeng": "D",
+    "tel": "డేన్సే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100815",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deni",
+    "FLeng": "D",
+    "tel": "దేని",
+    "FLtel": "ద"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "116857",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maliyah",
+    "FLeng": "M",
+    "tel": "మాలియాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116858",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "maliyah",
+    "FLeng": "m",
+    "tel": "మాలియాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116859",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maljumana",
+    "FLeng": "M",
+    "tel": "మలజుమాన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116860",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malka",
+    "FLeng": "M",
+    "tel": "మల్కా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116861",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "malka",
+    "FLeng": "m",
+    "tel": "మల్కా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116862",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Malkah",
+    "FLeng": "M",
+    "tel": "మల్కాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116863",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malkia",
+    "FLeng": "M",
+    "tel": "మల్కియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116864",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "malkia",
+    "FLeng": "m",
+    "tel": "మల్కియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116865",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Malkie",
+    "FLeng": "M",
+    "tel": "మాలకై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116866",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malkin",
+    "FLeng": "M",
+    "tel": "మల్కిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116867",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malkyn",
+    "FLeng": "M",
+    "tel": "మ్లక్య్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116868",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malla",
+    "FLeng": "M",
+    "tel": "మల్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116869",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mallarvili",
+    "FLeng": "M",
+    "tel": "మల్లరవిళి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116870",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mallarvilli",
+    "FLeng": "M",
+    "tel": "మల్లరవిల్లి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116871",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mallarvizhi",
+    "FLeng": "M",
+    "tel": "మల్లరవిజహి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116872",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malle",
+    "FLeng": "M",
+    "tel": "మల్లె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116873",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mallery",
+    "FLeng": "M",
+    "tel": "మల్లెరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116874",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malleswari",
+    "FLeng": "M",
+    "tel": "మల్లేశ్వరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116875",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malley",
+    "FLeng": "M",
+    "tel": "మాలీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116876",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malli",
+    "FLeng": "M",
+    "tel": "మల్లి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116877",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mallie",
+    "FLeng": "M",
+    "tel": "మల్లియ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116878",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malliga",
+    "FLeng": "M",
+    "tel": "మెల్లిగా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116879",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malligae",
+    "FLeng": "M",
+    "tel": "మెలిగే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116880",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malligai",
+    "FLeng": "M",
+    "tel": "మల్లిగాయి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116881",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malligeswari",
+    "FLeng": "M",
+    "tel": "మల్లిగేశ్వరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116882",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mallika",
+    "FLeng": "M",
+    "tel": "మల్లికా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116883",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mallissa",
+    "FLeng": "M",
+    "tel": "మెలిస్సా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116884",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malliswari",
+    "FLeng": "M",
+    "tel": "మల్లీశ్వరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116885",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mallorca",
+    "FLeng": "m",
+    "tel": "మల్లూరుకే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116886",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malloren",
+    "FLeng": "M",
+    "tel": "మల్లొరేం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116887",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mallorey",
+    "FLeng": "M",
+    "tel": "మల్లూరేయ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116888",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mallori",
+    "FLeng": "M",
+    "tel": "మల్లూరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116889",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mallory",
+    "FLeng": "M",
+    "tel": "మల్లూరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116890",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mallow",
+    "FLeng": "M",
+    "tel": "మ్లలౌ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116891",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mally",
+    "FLeng": "M",
+    "tel": "మల్లి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116892",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mallya",
+    "FLeng": "M",
+    "tel": "మల్లయ్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116893",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Malmal",
+    "FLeng": "M",
+    "tel": "మాల్మల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116894",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maloree",
+    "FLeng": "M",
+    "tel": "మాలోరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116895",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Malorie",
+    "FLeng": "M",
+    "tel": "మాలోరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116896",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malota",
+    "FLeng": "M",
+    "tel": "మలోతా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116897",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malou",
+    "FLeng": "M",
+    "tel": "మేలౌ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116898",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malsa",
+    "FLeng": "M",
+    "tel": "మలస",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116899",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "malthace",
+    "FLeng": "m",
+    "tel": "ముల్తాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116900",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malthi",
+    "FLeng": "M",
+    "tel": "మాలతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116901",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malti",
+    "FLeng": "M",
+    "tel": "మల్టి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116902",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malu",
+    "FLeng": "M",
+    "tel": "మేలు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116903",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malva",
+    "FLeng": "M",
+    "tel": "మాళ్వ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116904",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Malvika",
+    "FLeng": "M",
+    "tel": "మాళవిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116905",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Malvina",
+    "FLeng": "M",
+    "tel": "మాల్విన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116906",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Malvine",
+    "FLeng": "M",
+    "tel": "మాల్విన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116907",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malvis",
+    "FLeng": "M",
+    "tel": "మాల్విస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116908",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Malwina",
+    "FLeng": "M",
+    "tel": "మాలవైన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116909",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maly",
+    "FLeng": "M",
+    "tel": "మల్లీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116910",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malyna",
+    "FLeng": "M",
+    "tel": "మల్లీన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116911",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malynda",
+    "FLeng": "M",
+    "tel": "మలిన్ద",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116912",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Malysa",
+    "FLeng": "M",
+    "tel": "మలిసా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116913",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mamaine",
+    "FLeng": "M",
+    "tel": "మమైనే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116914",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mamata",
+    "FLeng": "M",
+    "tel": "మమతా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116915",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mamatha",
+    "FLeng": "M",
+    "tel": "మమతా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116916",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mamathi",
+    "FLeng": "M",
+    "tel": "మమతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116917",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mamduha",
+    "FLeng": "M",
+    "tel": "మందుహా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116918",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mame",
+    "FLeng": "M",
+    "tel": "మామే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116919",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mameha",
+    "FLeng": "M",
+    "tel": "మమేహ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116920",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mames",
+    "FLeng": "M",
+    "tel": "మెమెన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116921",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mamgain",
+    "FLeng": "M",
+    "tel": "మంగైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116922",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mamie",
+    "FLeng": "M",
+    "tel": "మమీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116923",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mamie",
+    "FLeng": "m",
+    "tel": "మమీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116924",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mamiko",
+    "FLeng": "M",
+    "tel": "మామికో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116925",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mammie",
+    "FLeng": "M",
+    "tel": "మమ్మీయే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116926",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mamon",
+    "FLeng": "M",
+    "tel": "మెమొన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116927",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mamoona",
+    "FLeng": "M",
+    "tel": "మామూనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116928",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mamta",
+    "FLeng": "M",
+    "tel": "మంట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116929",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mamtha",
+    "FLeng": "M",
+    "tel": "మంథా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116930",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mana",
+    "FLeng": "M",
+    "tel": "మన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116931",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Manaal",
+    "FLeng": "M",
+    "tel": "మనాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116932",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Manaar",
+    "FLeng": "M",
+    "tel": "మన్నార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116933",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Manab",
+    "FLeng": "M",
+    "tel": "మనాబీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116934",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manacca",
+    "FLeng": "M",
+    "tel": "మానసిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116935",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manada",
+    "FLeng": "M",
+    "tel": "మనది",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116936",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manadha",
+    "FLeng": "M",
+    "tel": "మనాధ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116937",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manah",
+    "FLeng": "M",
+    "tel": "మనః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116938",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Manahel",
+    "FLeng": "M",
+    "tel": "మానహా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116939",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Manahil",
+    "FLeng": "M",
+    "tel": "మానహిల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116940",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manajana",
+    "FLeng": "M",
+    "tel": "మనజానా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116941",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manaka",
+    "FLeng": "M",
+    "tel": "మానక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116942",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manaki",
+    "FLeng": "M",
+    "tel": "మనకి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116943",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manal",
+    "FLeng": "M",
+    "tel": "మనల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116944",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manali",
+    "FLeng": "M",
+    "tel": "మనాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116945",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manalika",
+    "FLeng": "M",
+    "tel": "మనాలిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116946",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manana",
+    "FLeng": "M",
+    "tel": "మనన",
+    "FLtel": "మ"
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": "47661",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atin",
+    "FLeng": "A",
+    "tel": "అతిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47662",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Atinder",
+    "FLeng": "A",
+    "tel": "అతిండెర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47663",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Atir",
+    "FLeng": "A",
+    "tel": "అతిథి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47664",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atirupa",
+    "FLeng": "A",
+    "tel": "అతిరుప",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47665",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atisanda",
+    "FLeng": "A",
+    "tel": "అతిసంద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47666",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atish",
+    "FLeng": "A",
+    "tel": "సతీష్",
+    "FLtel": "స"
+  },
+  {
+    "id": "47667",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atishay",
+    "FLeng": "A",
+    "tel": "అతిశయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47668",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atit",
+    "FLeng": "A",
+    "tel": "ఆడిట్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47669",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atith",
+    "FLeng": "A",
+    "tel": "అయిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47670",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atitheya",
+    "FLeng": "A",
+    "tel": "అతిథేయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47671",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atithi",
+    "FLeng": "A",
+    "tel": "అతిథి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47672",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atius",
+    "FLeng": "a",
+    "tel": "అయిస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47673",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ativ",
+    "FLeng": "A",
+    "tel": "అతివ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47674",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ativeer",
+    "FLeng": "A",
+    "tel": "అతివీర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47675",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ativiswa",
+    "FLeng": "A",
+    "tel": "అతివిశ్వా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47676",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atiya",
+    "FLeng": "A",
+    "tel": "జాతీయ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "47677",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atkin",
+    "FLeng": "A",
+    "tel": "అట్కిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atkin",
+    "FLeng": "a",
+    "tel": "అట్కిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47679",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atkins",
+    "FLeng": "A",
+    "tel": "అట్కిన్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47680",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atkins",
+    "FLeng": "a",
+    "tel": "అట్కిన్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47681",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atkinsone",
+    "FLeng": "A",
+    "tel": "అట్కిన్స్లోనే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47682",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atl",
+    "FLeng": "A",
+    "tel": "అట్లా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47683",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atlas",
+    "FLeng": "A",
+    "tel": "అట్లాస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47684",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atlas",
+    "FLeng": "a",
+    "tel": "అట్లాస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47685",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atle",
+    "FLeng": "a",
+    "tel": "అట్లే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47686",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atlea",
+    "FLeng": "A",
+    "tel": "అట్లేనా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47687",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atleigh",
+    "FLeng": "A",
+    "tel": "అట్లెఇఘ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47688",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atley",
+    "FLeng": "A",
+    "tel": "అట్లేయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47689",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atli",
+    "FLeng": "A",
+    "tel": "అట్లీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47690",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atma",
+    "FLeng": "A",
+    "tel": "ఆత్మ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47691",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmabhu",
+    "FLeng": "A",
+    "tel": "ఆత్మబు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47692",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmadeep",
+    "FLeng": "A",
+    "tel": "ఆత్మదీప్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47693",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmaj",
+    "FLeng": "A",
+    "tel": "ఆత్మజ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47694",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmajyothi",
+    "FLeng": "A",
+    "tel": "ఆత్మజ్యోతి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47695",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmakanth",
+    "FLeng": "A",
+    "tel": "ఆత్మకాన్త",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47696",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atman",
+    "FLeng": "A",
+    "tel": "ఆత్మ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47697",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmanand",
+    "FLeng": "A",
+    "tel": "ఆత్మానంద",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47698",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmananda",
+    "FLeng": "A",
+    "tel": "ఆత్మానంద",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47699",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmaprakash",
+    "FLeng": "A",
+    "tel": "ఆత్మప్రకాష్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47700",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmaram",
+    "FLeng": "A",
+    "tel": "ఆత్మారాం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47701",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmik",
+    "FLeng": "A",
+    "tel": "ఆత్మిక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47702",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atmoja",
+    "FLeng": "A",
+    "tel": "ఆత్మోజ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47703",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atmore",
+    "FLeng": "A",
+    "tel": "ఆత్మోరే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47704",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atnu",
+    "FLeng": "A",
+    "tel": "అతను",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47705",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ato",
+    "FLeng": "A",
+    "tel": "ఆటో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47706",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atol",
+    "FLeng": "A",
+    "tel": "ఆటోలు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47707",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atom",
+    "FLeng": "A",
+    "tel": "ఆటోమ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47708",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atoolya",
+    "FLeng": "A",
+    "tel": "ఆతూల్య",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47709",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atraiu",
+    "FLeng": "A",
+    "tel": "అట్రియూ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47710",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atral",
+    "FLeng": "A",
+    "tel": "యాత్రలు",
+    "FLtel": "య"
+  },
+  {
+    "id": "47711",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atralarasu",
+    "FLeng": "A",
+    "tel": "తలరాసు",
+    "FLtel": "త"
+  },
+  {
+    "id": "47712",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atre",
+    "FLeng": "A",
+    "tel": "అత్రే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47713",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atreo",
+    "FLeng": "A",
+    "tel": "ఆత్రేయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47714",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atreo",
+    "FLeng": "a",
+    "tel": "ఆత్రేయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47715",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atreus",
+    "FLeng": "a",
+    "tel": "అట్రెస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47716",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atreya",
+    "FLeng": "A",
+    "tel": "ఆత్రేయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47717",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atreyu",
+    "FLeng": "A",
+    "tel": "ఆత్రేయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47718",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atri",
+    "FLeng": "A",
+    "tel": "అత్రి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47719",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atrit",
+    "FLeng": "A",
+    "tel": "అట్రిట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47720",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atrush",
+    "FLeng": "A",
+    "tel": "అతృషు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47721",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Attaar",
+    "FLeng": "A",
+    "tel": "అత్తార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47722",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Attaf",
+    "FLeng": "A",
+    "tel": "ఠాప్",
+    "FLtel": "ఠ"
+  },
+  {
+    "id": "47723",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Attahasa",
+    "FLeng": "A",
+    "tel": "అట్టహాసం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47724",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Attam",
+    "FLeng": "A",
+    "tel": "అట్టం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47725",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Attamjeet",
+    "FLeng": "A",
+    "tel": "అట్టంజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47726",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Attamjit",
+    "FLeng": "A",
+    "tel": "అట్టంజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47727",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Attar",
+    "FLeng": "A",
+    "tel": "అట్టర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47728",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attewater",
+    "FLeng": "A",
+    "tel": "అట్టేవారు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47729",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attewode",
+    "FLeng": "A",
+    "tel": "అత్తెవడే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47730",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atteworthe",
+    "FLeng": "A",
+    "tel": "అత్తెవర్తే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47731",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Attiah",
+    "FLeng": "A",
+    "tel": "అత్తయ్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47732",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atticus",
+    "FLeng": "A",
+    "tel": "అట్టిక్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47733",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "atticus",
+    "FLeng": "a",
+    "tel": "అట్టిక్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47734",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attila",
+    "FLeng": "A",
+    "tel": "అత్తిలి",
+    "FLtel": "అ"
+  }
+]

@@ -1,0 +1,731 @@
+[
+  {
+    "id": "128205",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shadiyah",
+    "FLeng": "S",
+    "tel": "షాదియహ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128206",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shadleen",
+    "FLeng": "S",
+    "tel": "షడ్లీన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128207",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shadman",
+    "FLeng": "S",
+    "tel": "షాడమాన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128208",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shadmani",
+    "FLeng": "S",
+    "tel": "షాదమని",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128209",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shadoe",
+    "FLeng": "S",
+    "tel": "షాడోయే",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128210",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shadow",
+    "FLeng": "S",
+    "tel": "షాడో",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128211",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shadya",
+    "FLeng": "S",
+    "tel": "సాద్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "128212",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shadyn",
+    "FLeng": "S",
+    "tel": "శద్య్న",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128213",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shaela",
+    "FLeng": "S",
+    "tel": "శయేలా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128214",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shaelie",
+    "FLeng": "S",
+    "tel": "శయలై",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128215",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shaelyn",
+    "FLeng": "S",
+    "tel": "షాల్య్న్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128216",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shaena",
+    "FLeng": "S",
+    "tel": "శయన",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128217",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shaexon",
+    "FLeng": "S",
+    "tel": "షాఎక్సన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128218",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafana",
+    "FLeng": "S",
+    "tel": "షాఫాను",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128219",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafath",
+    "FLeng": "S",
+    "tel": "షఫత్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128220",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafeena",
+    "FLeng": "S",
+    "tel": "షఫీనా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128221",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaffan",
+    "FLeng": "S",
+    "tel": "షాఫ్ఫాన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128222",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafia",
+    "FLeng": "S",
+    "tel": "షఫియా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128223",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafiah",
+    "FLeng": "S",
+    "tel": "షాఫ్య్య",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128224",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafika",
+    "FLeng": "S",
+    "tel": "షఫిక",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128225",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafinaz",
+    "FLeng": "S",
+    "tel": "షఫీనాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128226",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafira",
+    "FLeng": "S",
+    "tel": "షాఫీరు",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128227",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafiulla",
+    "FLeng": "S",
+    "tel": "షఫీఉల్లా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128228",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shafna",
+    "FLeng": "S",
+    "tel": "షాఫ్న",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128229",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shafu",
+    "FLeng": "S",
+    "tel": "షాఫు",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128230",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shagana",
+    "FLeng": "S",
+    "tel": "శగాన",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128231",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaghalay",
+    "FLeng": "S",
+    "tel": "షాఘలాయ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128232",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shagoofa",
+    "FLeng": "S",
+    "tel": "శాగోప్యా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128233",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shagoon",
+    "FLeng": "S",
+    "tel": "షాగున్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128234",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shagufa",
+    "FLeng": "S",
+    "tel": "షాగుఫా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128235",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shagufta",
+    "FLeng": "S",
+    "tel": "షగుఫ్తా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128236",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaguftah",
+    "FLeng": "S",
+    "tel": "షగుఫ్తాహ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128237",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shagun",
+    "FLeng": "S",
+    "tel": "షాగున్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128238",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahaba",
+    "FLeng": "S",
+    "tel": "షాహబ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128239",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahada",
+    "FLeng": "S",
+    "tel": "షహాద",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128240",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahamat",
+    "FLeng": "S",
+    "tel": "షహమాట",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128241",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shahana",
+    "FLeng": "S",
+    "tel": "షహనా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128242",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahar",
+    "FLeng": "S",
+    "tel": "షహర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128243",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahara",
+    "FLeng": "S",
+    "tel": "షహర",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128244",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shaharika",
+    "FLeng": "S",
+    "tel": "షహారిక",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128245",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaharun",
+    "FLeng": "S",
+    "tel": "శహరున్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "128246",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shahay",
+    "FLeng": "S",
+    "tel": "షహాయ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128247",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shahd",
+    "FLeng": "S",
+    "tel": "షాద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128248",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Shahdokht",
+    "FLeng": "S",
+    "tel": "షాడోక్ట్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128249",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahed",
+    "FLeng": "S",
+    "tel": "షాహిద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128250",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheda",
+    "FLeng": "S",
+    "tel": "షహీదా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128251",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheeda",
+    "FLeng": "S",
+    "tel": "షహీదా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128252",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheema",
+    "FLeng": "S",
+    "tel": "షాహీమా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128253",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheena",
+    "FLeng": "S",
+    "tel": "షాహీన",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128254",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheenah",
+    "FLeng": "S",
+    "tel": "షాహీనః",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128255",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheera",
+    "FLeng": "S",
+    "tel": "షాహీర",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128256",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaheerah",
+    "FLeng": "S",
+    "tel": "షాహీరహ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128257",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahen",
+    "FLeng": "S",
+    "tel": "షహీన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128258",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahernaz",
+    "FLeng": "S",
+    "tel": "షాహెర్నేజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128259",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shaherzad",
+    "FLeng": "S",
+    "tel": "షాహెర్జ్డ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128260",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahi",
+    "FLeng": "S",
+    "tel": "షాహీ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128261",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahida",
+    "FLeng": "S",
+    "tel": "షాహిదా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128262",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahidah",
+    "FLeng": "S",
+    "tel": "షాహిదాహ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128263",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahin",
+    "FLeng": "S",
+    "tel": "షాహిన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128264",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahina",
+    "FLeng": "S",
+    "tel": "షాహినా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128265",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahinaz",
+    "FLeng": "S",
+    "tel": "షాహినాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128266",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahira",
+    "FLeng": "S",
+    "tel": "షాహిర",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128267",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahirah",
+    "FLeng": "S",
+    "tel": "షాహీరహ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128268",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahisa",
+    "FLeng": "S",
+    "tel": "షాహిస",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128269",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahla",
+    "FLeng": "S",
+    "tel": "షాల",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128270",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahlaa",
+    "FLeng": "S",
+    "tel": "షాలా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128271",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahlyla",
+    "FLeng": "S",
+    "tel": "షాలీల",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128272",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahmeen",
+    "FLeng": "S",
+    "tel": "షామీన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128273",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahnaaz",
+    "FLeng": "S",
+    "tel": "షానాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128274",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahnaz",
+    "FLeng": "S",
+    "tel": "షానాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128275",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahnoor",
+    "FLeng": "S",
+    "tel": "షానూర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128276",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahparee",
+    "FLeng": "S",
+    "tel": "షాపారీ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128277",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahreen",
+    "FLeng": "S",
+    "tel": "షారీన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128278",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahrin",
+    "FLeng": "S",
+    "tel": "షారిన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128279",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahrizad",
+    "FLeng": "S",
+    "tel": "షారిజాద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128280",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahrzadah",
+    "FLeng": "S",
+    "tel": "షార్జాదః",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128281",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahzaadee",
+    "FLeng": "S",
+    "tel": "షాజాదీ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128282",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahzadi",
+    "FLeng": "S",
+    "tel": "షాజాది",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128283",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahzana",
+    "FLeng": "S",
+    "tel": "షాజానా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128284",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahzeela",
+    "FLeng": "S",
+    "tel": "షాజీల",
+    "FLtel": "ష"
+  },
+  {
+    "id": "128285",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shahzeen",
+    "FLeng": "S",
+    "tel": "షాజీన్",
+    "FLtel": "ష"
+  }
+]

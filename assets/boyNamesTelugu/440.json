@@ -1,0 +1,776 @@
+[
+  {
+    "id": "32642",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyabhajin",
+    "FLeng": "P",
+    "tel": "పుణ్యభజిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32643",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyabharita",
+    "FLeng": "P",
+    "tel": "పుణ్యభరిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32644",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyabrata",
+    "FLeng": "P",
+    "tel": "పుణ్యబ్రత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32645",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyacharitraya Keertana",
+    "FLeng": "P",
+    "tel": "పుణ్యచరిత్రయ కీర్తన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32646",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyah",
+    "FLeng": "P",
+    "tel": "పుణ్యాహ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32647",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyajit",
+    "FLeng": "P",
+    "tel": "పుణ్యజీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32648",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyakoti",
+    "FLeng": "P",
+    "tel": "పుణ్యకోటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32649",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyashila",
+    "FLeng": "P",
+    "tel": "పుణ్యశీల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32650",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyasloka",
+    "FLeng": "P",
+    "tel": "పుణ్యశ్లోకా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32651",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Punyodaya",
+    "FLeng": "P",
+    "tel": "పుంయోదాయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32652",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pupinder",
+    "FLeng": "P",
+    "tel": "పుపిండిర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32653",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pupinderjeet",
+    "FLeng": "P",
+    "tel": "పుపిండిర్జీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32654",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pupri",
+    "FLeng": "P",
+    "tel": "పిప్రి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32655",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purab",
+    "FLeng": "P",
+    "tel": "పూరబ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32656",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puradchi",
+    "FLeng": "P",
+    "tel": "పురాడ్చి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32657",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purajana",
+    "FLeng": "P",
+    "tel": "పురజన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32658",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purajit",
+    "FLeng": "P",
+    "tel": "పురజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32659",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purajith",
+    "FLeng": "P",
+    "tel": "పురజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32660",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puranapurushottama",
+    "FLeng": "P",
+    "tel": "పురాణపురుషోత్తమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32661",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purandar",
+    "FLeng": "P",
+    "tel": "పురందర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32662",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purandara",
+    "FLeng": "P",
+    "tel": "పురందర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32663",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purandhar",
+    "FLeng": "P",
+    "tel": "పురందర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32664",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purandu",
+    "FLeng": "P",
+    "tel": "పురాదు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32665",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Purangian",
+    "FLeng": "P",
+    "tel": "పురఞ్జయన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32666",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puranjan",
+    "FLeng": "P",
+    "tel": "పురంజన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32667",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puranjana",
+    "FLeng": "P",
+    "tel": "పురంజన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32668",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puranjay",
+    "FLeng": "P",
+    "tel": "పురంజాయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32669",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Puranjeet",
+    "FLeng": "P",
+    "tel": "పురంజీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32670",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Puranjot",
+    "FLeng": "P",
+    "tel": "పురంజోత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32671",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Puranpreet",
+    "FLeng": "P",
+    "tel": "పురాన్ప్రీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32672",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Puranprem",
+    "FLeng": "P",
+    "tel": "పురాణ్ప్రేమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32673",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puransant",
+    "FLeng": "P",
+    "tel": "పురాన్సన్ట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32674",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Purantek",
+    "FLeng": "P",
+    "tel": "పురంటెక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32675",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purav",
+    "FLeng": "P",
+    "tel": "పురావ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32676",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Purbhjeet",
+    "FLeng": "P",
+    "tel": "ప్రుభిజీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32677",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purcell",
+    "FLeng": "P",
+    "tel": "పురిసిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "purcell",
+    "FLeng": "p",
+    "tel": "పురిసిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32679",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purdansha",
+    "FLeng": "P",
+    "tel": "ప్రుడాంశ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32680",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Purdil",
+    "FLeng": "P",
+    "tel": "ప్రుడిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32681",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purdvi",
+    "FLeng": "P",
+    "tel": "ప్రుద్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32682",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purdy",
+    "FLeng": "P",
+    "tel": "ప్రుడై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32683",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purendu",
+    "FLeng": "P",
+    "tel": "పురేందు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32684",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purha",
+    "FLeng": "P",
+    "tel": "పురః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32685",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purisha",
+    "FLeng": "P",
+    "tel": "పురుష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32686",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purishya",
+    "FLeng": "P",
+    "tel": "పురిష్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32687",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purl",
+    "FLeng": "P",
+    "tel": "పురిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32688",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purna-Gopi",
+    "FLeng": "P",
+    "tel": "పూర్ణ-గోపి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32689",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnachandar",
+    "FLeng": "P",
+    "tel": "పూర్ణచందర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32690",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Purnak",
+    "FLeng": "P",
+    "tel": "పూర్ణకు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32691",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnanada",
+    "FLeng": "P",
+    "tel": "పూర్ణానంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32692",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnananda",
+    "FLeng": "P",
+    "tel": "పూర్ణానంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32693",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnata",
+    "FLeng": "P",
+    "tel": "పూర్ణత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32694",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnava",
+    "FLeng": "P",
+    "tel": "పూర్ణవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32695",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnayan",
+    "FLeng": "P",
+    "tel": "పూర్ణయం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32696",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnayu",
+    "FLeng": "P",
+    "tel": "పూర్ణాయు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32697",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purnell",
+    "FLeng": "P",
+    "tel": "పూర్నేల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32698",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purnendu",
+    "FLeng": "P",
+    "tel": "పూర్ణేన్దు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32699",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purohit",
+    "FLeng": "P",
+    "tel": "పురోహిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32700",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purohith",
+    "FLeng": "P",
+    "tel": "పురోహిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32701",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purshottam",
+    "FLeng": "P",
+    "tel": "పురుషోత్తం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32702",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Purtab",
+    "FLeng": "P",
+    "tel": "పూరితం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32703",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puru",
+    "FLeng": "P",
+    "tel": "పురు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32704",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purujit",
+    "FLeng": "P",
+    "tel": "పురుజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32705",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purumitra",
+    "FLeng": "P",
+    "tel": "పురుమిత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32706",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pururava",
+    "FLeng": "P",
+    "tel": "పురూరవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32707",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purush",
+    "FLeng": "P",
+    "tel": "పురుష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32708",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purushothama",
+    "FLeng": "P",
+    "tel": "పురుషోత్తమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32709",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purushothaman",
+    "FLeng": "P",
+    "tel": "పురుషోత్తమం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32710",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purushottam",
+    "FLeng": "P",
+    "tel": "పురుషోత్తం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32711",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purushottham",
+    "FLeng": "P",
+    "tel": "పురుషోత్తం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32712",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purusothaman",
+    "FLeng": "P",
+    "tel": "పురుషోత్తమం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32713",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Puruvas",
+    "FLeng": "P",
+    "tel": "పురువాస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32714",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvabhashine",
+    "FLeng": "P",
+    "tel": "పూర్వభాషినే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32715",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvagna",
+    "FLeng": "P",
+    "tel": "పూర్వజ్ఞా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32716",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvaj",
+    "FLeng": "P",
+    "tel": "పూర్వాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32717",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvang",
+    "FLeng": "P",
+    "tel": "పూర్వాంగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32718",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvankar",
+    "FLeng": "P",
+    "tel": "పూర్వాన్కార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32719",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvansh",
+    "FLeng": "P",
+    "tel": "పూర్వాంష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32720",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvanshu",
+    "FLeng": "P",
+    "tel": "పూర్వాంషు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32721",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvendu",
+    "FLeng": "P",
+    "tel": "ప్రువెందు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32722",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purves",
+    "FLeng": "P",
+    "tel": "పూర్వేష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32723",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvesh",
+    "FLeng": "P",
+    "tel": "పూర్వేష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32724",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Purvik",
+    "FLeng": "P",
+    "tel": "పుర్విక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32725",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purvis",
+    "FLeng": "P",
+    "tel": "పుర్విస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32726",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "purvis",
+    "FLeng": "p",
+    "tel": "పుర్విస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32727",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Purviss",
+    "FLeng": "P",
+    "tel": "పుర్విస్",
+    "FLtel": "ప"
+  }
+]

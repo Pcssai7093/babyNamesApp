@@ -1,0 +1,767 @@
+[
+  {
+    "id": "104143",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Faseela",
+    "FLeng": "F",
+    "tel": "ఫసీల",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104144",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Faseelah",
+    "FLeng": "F",
+    "tel": "ఫేశీలః",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104145",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fasiha",
+    "FLeng": "F",
+    "tel": "ఫాసియా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104146",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Fasika",
+    "FLeng": "F",
+    "tel": "ఫేసిక",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104147",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fasila",
+    "FLeng": "F",
+    "tel": "ఫేసిల",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104148",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fasiya",
+    "FLeng": "F",
+    "tel": "ఫేసియ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104149",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatan",
+    "FLeng": "F",
+    "tel": "ప్యాట్రన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "104150",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fatangisa",
+    "FLeng": "F",
+    "tel": "ఫేతంగిస",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104151",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatat",
+    "FLeng": "F",
+    "tel": "ఫటా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104152",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fate",
+    "FLeng": "F",
+    "tel": "ఫేట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104153",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Fatehjit",
+    "FLeng": "F",
+    "tel": "ఫతేహ్జిత్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104154",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Fatehvir",
+    "FLeng": "F",
+    "tel": "ఫతేహ్విర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104155",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatema",
+    "FLeng": "F",
+    "tel": "ఫాతిమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104156",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatemah",
+    "FLeng": "F",
+    "tel": "ఫేటేమః",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104157",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "fatemah",
+    "FLeng": "f",
+    "tel": "ఫేటేమః",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104158",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatemeh",
+    "FLeng": "F",
+    "tel": "ఫేటేమెహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104159",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Faten",
+    "FLeng": "F",
+    "tel": "ఫేటేన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104160",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatheha",
+    "FLeng": "F",
+    "tel": "ఫాతెహా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104161",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fathia",
+    "FLeng": "F",
+    "tel": "ఫాతియా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104162",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fathima",
+    "FLeng": "F",
+    "tel": "ఫాతిమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104163",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fathiya",
+    "FLeng": "F",
+    "tel": "ఫాతియా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104164",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fathiyah",
+    "FLeng": "F",
+    "tel": "ఫాతియహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104165",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fathiyya",
+    "FLeng": "F",
+    "tel": "ఫాతియ్య",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104166",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fathma",
+    "FLeng": "F",
+    "tel": "ప్యాత్మ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "104167",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatiha",
+    "FLeng": "F",
+    "tel": "ఫాతిహా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104168",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatihah",
+    "FLeng": "F",
+    "tel": "ఫాతిహాహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104169",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatim",
+    "FLeng": "F",
+    "tel": "ఫాతిమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104170",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatima",
+    "FLeng": "F",
+    "tel": "ఫాతిమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104171",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatimah",
+    "FLeng": "F",
+    "tel": "ఫాతిమాహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104172",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatime",
+    "FLeng": "F",
+    "tel": "ఫాతిమే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104173",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatimi",
+    "FLeng": "F",
+    "tel": "ఫాతిమి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104174",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatin or Fatinah",
+    "FLeng": "F",
+    "tel": "ఫాతిం ఓర ఫాతినః",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104175",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatina",
+    "FLeng": "F",
+    "tel": "ఫాతిమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104176",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatinah",
+    "FLeng": "F",
+    "tel": "ఫాతినః",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104177",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatma",
+    "FLeng": "F",
+    "tel": "ఫాతిమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104178",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatoumata",
+    "FLeng": "F",
+    "tel": "ఫేటౌమాట",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104179",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fattana",
+    "FLeng": "F",
+    "tel": "ఫట్టన",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104180",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fattim",
+    "FLeng": "F",
+    "tel": "ఫేత్తిం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104181",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatuma",
+    "FLeng": "F",
+    "tel": "ఫతుమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104182",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fatunah",
+    "FLeng": "F",
+    "tel": "ఫతుఞ్చ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104183",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faun",
+    "FLeng": "F",
+    "tel": "ఫౌం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104184",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fauna",
+    "FLeng": "F",
+    "tel": "ఫజున",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104185",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "fauna",
+    "FLeng": "f",
+    "tel": "ఫజున",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104186",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faunia",
+    "FLeng": "F",
+    "tel": "ఫౌంయా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104187",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "faunia",
+    "FLeng": "f",
+    "tel": "ఫౌంయా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104188",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fausat",
+    "FLeng": "F",
+    "tel": "ఫస్ట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104189",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fausta",
+    "FLeng": "F",
+    "tel": "ఫాస్ట",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104190",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "fausta",
+    "FLeng": "f",
+    "tel": "ఫాస్ట",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104191",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faustina",
+    "FLeng": "F",
+    "tel": "ఫేజుస్తినా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104192",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "faustina",
+    "FLeng": "f",
+    "tel": "ఫేజుస్తినా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104193",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faustine",
+    "FLeng": "F",
+    "tel": "ఫాస్తినే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104194",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "faustine",
+    "FLeng": "f",
+    "tel": "ఫాస్తినే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104195",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fauve",
+    "FLeng": "F",
+    "tel": "ఫేజువే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104196",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "fauve",
+    "FLeng": "f",
+    "tel": "ఫేజువే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104197",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fauzia",
+    "FLeng": "F",
+    "tel": "ఫేఉజియా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104198",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faviola",
+    "FLeng": "F",
+    "tel": "ఫేవియోలా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104199",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fawha",
+    "FLeng": "F",
+    "tel": "ఫేవా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104200",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fawiza",
+    "FLeng": "F",
+    "tel": "ఫేవిజా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104201",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fay",
+    "FLeng": "F",
+    "tel": "ఫేక్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104202",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faya",
+    "FLeng": "F",
+    "tel": "ఫాయా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104203",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fayanna",
+    "FLeng": "F",
+    "tel": "ఫాయన్న",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104204",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayda",
+    "FLeng": "F",
+    "tel": "ఫాయిదా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104205",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faydra",
+    "FLeng": "F",
+    "tel": "ఫాయ్ద్ర",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104206",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faye",
+    "FLeng": "F",
+    "tel": "ఫాయే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104207",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fayette",
+    "FLeng": "F",
+    "tel": "ఫఎట్టే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104208",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayha",
+    "FLeng": "F",
+    "tel": "ఫేయ్హ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104209",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faylee",
+    "FLeng": "F",
+    "tel": "ఫాయిలీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104210",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faylinn",
+    "FLeng": "F",
+    "tel": "ఫెయిలైన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104211",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "faylinn",
+    "FLeng": "f",
+    "tel": "ఫెయిలైన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104212",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayona",
+    "FLeng": "F",
+    "tel": "ఫాయినా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104213",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayrah",
+    "FLeng": "F",
+    "tel": "ఫాయ్రః",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104214",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fayre",
+    "FLeng": "F",
+    "tel": "ఫెయిర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104215",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "fayre",
+    "FLeng": "f",
+    "tel": "ఫెయిర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104216",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayrooz",
+    "FLeng": "F",
+    "tel": "ఫాయ్రూజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104217",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayruz",
+    "FLeng": "F",
+    "tel": "ఫేయిర్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104218",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fayt",
+    "FLeng": "F",
+    "tel": "ఫ్యాక్ట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104219",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Fayth",
+    "FLeng": "F",
+    "tel": "ఫెయిత్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104220",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Faythe",
+    "FLeng": "F",
+    "tel": "ఫాయితే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104221",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayyaza",
+    "FLeng": "F",
+    "tel": "ఫేయ్యజా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104222",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fayza",
+    "FLeng": "F",
+    "tel": "ఫాయిజ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104223",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Faza",
+    "FLeng": "F",
+    "tel": "ఫజా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104224",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fazalah",
+    "FLeng": "F",
+    "tel": "ఫజాలాహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104225",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fazarat",
+    "FLeng": "F",
+    "tel": "ఫజారాత్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104226",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fazeela",
+    "FLeng": "F",
+    "tel": "ఫేజీల",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "104227",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Fazeen",
+    "FLeng": "F",
+    "tel": "ఫేజీన్",
+    "FLtel": "ఫ"
+  }
+]

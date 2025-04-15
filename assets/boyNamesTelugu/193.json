@@ -1,0 +1,758 @@
+[
+  {
+    "id": "8727",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Etebar",
+    "FLeng": "E",
+    "tel": "ఎటుబర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8728",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etemaad",
+    "FLeng": "E",
+    "tel": "టమాడ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "8729",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Etemad",
+    "FLeng": "E",
+    "tel": "ఎటెండ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8730",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etera",
+    "FLeng": "E",
+    "tel": "ఏటేటా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8731",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eternus",
+    "FLeng": "E",
+    "tel": "ఏతెర్న్స్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8732",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Etesh",
+    "FLeng": "E",
+    "tel": "ఏటీఎస్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8733",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etguino",
+    "FLeng": "E",
+    "tel": "ఎటుకినో",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8734",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etguinum",
+    "FLeng": "E",
+    "tel": "ఎటుఇనుము",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8735",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Eth",
+    "FLeng": "E",
+    "tel": "ఎత్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8736",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ethan",
+    "FLeng": "E",
+    "tel": "ఏతం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8737",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ethan",
+    "FLeng": "e",
+    "tel": "ఏతం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8738",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethanael",
+    "FLeng": "E",
+    "tel": "ఇథనాల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8739",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethaniel",
+    "FLeng": "E",
+    "tel": "ఇతనియేల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8740",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethann",
+    "FLeng": "E",
+    "tel": "ఈతాన్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8741",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethbin",
+    "FLeng": "E",
+    "tel": "ఎత్బిన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8742",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelard",
+    "FLeng": "E",
+    "tel": "ఎథెలార్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8743",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelbert",
+    "FLeng": "E",
+    "tel": "ఎథెల్బెర్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8744",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelheard",
+    "FLeng": "E",
+    "tel": "ఎథెల్హెర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8745",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelind",
+    "FLeng": "E",
+    "tel": "ఎథిలిన్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8746",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelmar",
+    "FLeng": "E",
+    "tel": "ఎథెల్మార్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8747",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelred",
+    "FLeng": "E",
+    "tel": "ఎథెల్ర్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8748",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelrede",
+    "FLeng": "E",
+    "tel": "ఎథెల్ర్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8749",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelric",
+    "FLeng": "E",
+    "tel": "ఎథెల్రిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8750",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelsige",
+    "FLeng": "E",
+    "tel": "ఎథెల్సిగే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8751",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethelwin",
+    "FLeng": "E",
+    "tel": "ఎథెల్విం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8752",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethen",
+    "FLeng": "E",
+    "tel": "ఎథెన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8753",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ether",
+    "FLeng": "E",
+    "tel": "ఈథర్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8754",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethibal",
+    "FLeng": "E",
+    "tel": "ఈతిబాల్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8755",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ethilfrith",
+    "FLeng": "E",
+    "tel": "ఎథిల్ఫ్రిత్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8756",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ethiraj",
+    "FLeng": "E",
+    "tel": "ఎతిరాజ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8757",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Etibar",
+    "FLeng": "E",
+    "tel": "ఈతిబార్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8758",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etienne",
+    "FLeng": "E",
+    "tel": "ఏటీఎంనే",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8759",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Etizaaz",
+    "FLeng": "E",
+    "tel": "ఏటిజాజ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8760",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eton",
+    "FLeng": "e",
+    "tel": "ఎటన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8761",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etrit",
+    "FLeng": "E",
+    "tel": "ఎట్రీట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8762",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ettaleen",
+    "FLeng": "E",
+    "tel": "ఎత్తాలీన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8763",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ettan",
+    "FLeng": "E",
+    "tel": "ఎత్తం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8764",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etterni",
+    "FLeng": "E",
+    "tel": "ఎట్టేరిని",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8765",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ettore",
+    "FLeng": "E",
+    "tel": "ఎత్తోరె",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8766",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etwald",
+    "FLeng": "E",
+    "tel": "ఎట్వేల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8767",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Etzel",
+    "FLeng": "E",
+    "tel": "యెట్జర్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8768",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Euan",
+    "FLeng": "E",
+    "tel": "యూఎన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8769",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eubule",
+    "FLeng": "E",
+    "tel": "యూబులే",
+    "FLtel": "య"
+  },
+  {
+    "id": "8770",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Euclid",
+    "FLeng": "E",
+    "tel": "యూక్లిడ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8771",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eudaf",
+    "FLeng": "E",
+    "tel": "యూదాఫ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8772",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Euddogwy",
+    "FLeng": "E",
+    "tel": "యుద్దోగ్వయ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8773",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eudeat",
+    "FLeng": "E",
+    "tel": "యూడీటీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "8774",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eudel",
+    "FLeng": "E",
+    "tel": "యూదుల",
+    "FLtel": "య"
+  },
+  {
+    "id": "8775",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eudelme",
+    "FLeng": "E",
+    "tel": "యూదులమే",
+    "FLtel": "య"
+  },
+  {
+    "id": "8776",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eudes",
+    "FLeng": "E",
+    "tel": "యూడీఎస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8777",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eudes",
+    "FLeng": "e",
+    "tel": "యూడీఎస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8778",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eudeyrn",
+    "FLeng": "E",
+    "tel": "యూథేయిర్న్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8779",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Euell",
+    "FLeng": "E",
+    "tel": "యూఎల్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8780",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugen",
+    "FLeng": "E",
+    "tel": "యూజీన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8781",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugene",
+    "FLeng": "E",
+    "tel": "యూజీన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8782",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugenie",
+    "FLeng": "E",
+    "tel": "యుగేంయి",
+    "FLtel": "య"
+  },
+  {
+    "id": "8783",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugenio",
+    "FLeng": "E",
+    "tel": "యూజినీవు",
+    "FLtel": "య"
+  },
+  {
+    "id": "8784",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugenius",
+    "FLeng": "E",
+    "tel": "యూజినిస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8785",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugeniusz",
+    "FLeng": "E",
+    "tel": "యూజినిస్జ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8786",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugered",
+    "FLeng": "E",
+    "tel": "యూజర్డ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8787",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eugeret",
+    "FLeng": "E",
+    "tel": "యుగేరేట్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8788",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Euilaun",
+    "FLeng": "E",
+    "tel": "యుఇలావుం",
+    "FLtel": "య"
+  },
+  {
+    "id": "8789",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eulalia",
+    "FLeng": "E",
+    "tel": "యూలాలియా",
+    "FLtel": "య"
+  },
+  {
+    "id": "8790",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eulalio",
+    "FLeng": "E",
+    "tel": "యూలాలిలో",
+    "FLtel": "య"
+  },
+  {
+    "id": "8791",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eulyses",
+    "FLeng": "E",
+    "tel": "యులిసెస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8792",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eumer",
+    "FLeng": "E",
+    "tel": "యుమేర్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8793",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eumir",
+    "FLeng": "E",
+    "tel": "యుమిర్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8794",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eurddolad",
+    "FLeng": "E",
+    "tel": "యూర్డుడోలాడ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8795",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eusebio",
+    "FLeng": "E",
+    "tel": "యూజబియో",
+    "FLtel": "య"
+  },
+  {
+    "id": "8796",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eusebius",
+    "FLeng": "E",
+    "tel": "యూజబిస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8797",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Euseby",
+    "FLeng": "E",
+    "tel": "యూసెబ్య",
+    "FLtel": "య"
+  },
+  {
+    "id": "8798",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eustace",
+    "FLeng": "E",
+    "tel": "ఈస్ట్రన్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8799",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eustache",
+    "FLeng": "E",
+    "tel": "ఎస్టచే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8800",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eustachio",
+    "FLeng": "E",
+    "tel": "యూస్టేషియో",
+    "FLtel": "య"
+  },
+  {
+    "id": "8801",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eustacio",
+    "FLeng": "E",
+    "tel": "యూస్టేసీఓ",
+    "FLtel": "య"
+  },
+  {
+    "id": "8802",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eustacius",
+    "FLeng": "E",
+    "tel": "యూస్టేసిస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8803",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "euston",
+    "FLeng": "e",
+    "tel": "ఏడుస్తోం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8804",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eutigirn",
+    "FLeng": "E",
+    "tel": "యూటిగిర్న్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8805",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eutimio",
+    "FLeng": "E",
+    "tel": "యూటిమిలో",
+    "FLtel": "య"
+  },
+  {
+    "id": "8806",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Evaen",
+    "FLeng": "E",
+    "tel": "ఈవెన్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8807",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Evald",
+    "FLeng": "E",
+    "tel": "ఎవ్వల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8808",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Evan",
+    "FLeng": "E",
+    "tel": "ఏవం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8809",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Evanam",
+    "FLeng": "E",
+    "tel": "యవ్వనం",
+    "FLtel": "య"
+  },
+  {
+    "id": "8810",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Evander",
+    "FLeng": "E",
+    "tel": "ఎవన్డేర్",
+    "FLtel": "ఎ"
+  }
+]

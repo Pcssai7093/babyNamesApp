@@ -1,0 +1,812 @@
+[
+  {
+    "id": "126726",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Saidy",
+    "FLeng": "S",
+    "tel": "సైడై",
+    "FLtel": "స"
+  },
+  {
+    "id": "126727",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Saieua",
+    "FLeng": "S",
+    "tel": "సాయివ",
+    "FLtel": "స"
+  },
+  {
+    "id": "126728",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saifa",
+    "FLeng": "S",
+    "tel": "సైఫా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126729",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saifreena",
+    "FLeng": "S",
+    "tel": "సైఫ్రీన",
+    "FLtel": "స"
+  },
+  {
+    "id": "126730",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Saige",
+    "FLeng": "S",
+    "tel": "సైజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126731",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Saiglemair",
+    "FLeng": "S",
+    "tel": "సైగలేమైరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126732",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saihah",
+    "FLeng": "S",
+    "tel": "సైహః",
+    "FLtel": "స"
+  },
+  {
+    "id": "126733",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Saihajamrit",
+    "FLeng": "S",
+    "tel": "సైహజమ్రిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126734",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Saihajsaroop",
+    "FLeng": "S",
+    "tel": "సైహజసరూప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126735",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Saihajseetal",
+    "FLeng": "S",
+    "tel": "సైహజేసీతల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126736",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Saihajsukh",
+    "FLeng": "S",
+    "tel": "సైహజ్సుఖ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126737",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Saija",
+    "FLeng": "S",
+    "tel": "సైజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126738",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saijasi",
+    "FLeng": "S",
+    "tel": "సైజేసి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126739",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saijayani",
+    "FLeng": "S",
+    "tel": "సైజయని",
+    "FLtel": "స"
+  },
+  {
+    "id": "126740",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saijil",
+    "FLeng": "S",
+    "tel": "సైజిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126741",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saikara",
+    "FLeng": "S",
+    "tel": "సైకర",
+    "FLtel": "స"
+  },
+  {
+    "id": "126742",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saikumari",
+    "FLeng": "S",
+    "tel": "సాయికుమారి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126743",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saikya",
+    "FLeng": "S",
+    "tel": "సైకియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126744",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saila",
+    "FLeng": "S",
+    "tel": "శైల",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126745",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sailaja",
+    "FLeng": "S",
+    "tel": "శైలజ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126746",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sailatha",
+    "FLeng": "S",
+    "tel": "శైలత",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126747",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sailee",
+    "FLeng": "S",
+    "tel": "శైలీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126748",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sailen",
+    "FLeng": "S",
+    "tel": "శైలేన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126749",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saili",
+    "FLeng": "S",
+    "tel": "శైలి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126750",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sailu",
+    "FLeng": "S",
+    "tel": "శైలు",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126751",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saima",
+    "FLeng": "S",
+    "tel": "సైమా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126752",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saimah",
+    "FLeng": "S",
+    "tel": "సైమః",
+    "FLtel": "స"
+  },
+  {
+    "id": "126753",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saimala",
+    "FLeng": "S",
+    "tel": "సైమాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "126754",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Saime",
+    "FLeng": "S",
+    "tel": "సాయమే",
+    "FLtel": "స"
+  },
+  {
+    "id": "126755",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saimeera",
+    "FLeng": "S",
+    "tel": "సైమీర",
+    "FLtel": "స"
+  },
+  {
+    "id": "126756",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saimi",
+    "FLeng": "S",
+    "tel": "సైమి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126757",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saimythuli",
+    "FLeng": "S",
+    "tel": "సైమితులై",
+    "FLtel": "స"
+  },
+  {
+    "id": "126758",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saina",
+    "FLeng": "S",
+    "tel": "సైనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126759",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saindhanya",
+    "FLeng": "S",
+    "tel": "సైన్ధన్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "126760",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saindhavi",
+    "FLeng": "S",
+    "tel": "సైన్ధవి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126761",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saini",
+    "FLeng": "S",
+    "tel": "సాయిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "126762",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sainithya",
+    "FLeng": "S",
+    "tel": "సైనిథ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "126763",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saioni",
+    "FLeng": "S",
+    "tel": "సాయిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "126764",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saira",
+    "FLeng": "S",
+    "tel": "సైరా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126765",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sairah",
+    "FLeng": "S",
+    "tel": "సైరః",
+    "FLtel": "స"
+  },
+  {
+    "id": "126766",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sairandhri",
+    "FLeng": "S",
+    "tel": "సైరంధ్రి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126767",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sairi",
+    "FLeng": "S",
+    "tel": "సైరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126768",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sairish",
+    "FLeng": "S",
+    "tel": "సైరస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126769",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saisahasra",
+    "FLeng": "S",
+    "tel": "సాయిసహస్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "126770",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saisha",
+    "FLeng": "S",
+    "tel": "సైషా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126771",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saishree",
+    "FLeng": "S",
+    "tel": "సాయిశ్రీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "126772",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saisindhu",
+    "FLeng": "S",
+    "tel": "సాయిసింధు",
+    "FLtel": "స"
+  },
+  {
+    "id": "126773",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "saison",
+    "FLeng": "s",
+    "tel": "సైసొం",
+    "FLtel": "స"
+  },
+  {
+    "id": "126774",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saisri",
+    "FLeng": "S",
+    "tel": "సాయిశ్రీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "126775",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saiswetha",
+    "FLeng": "S",
+    "tel": "సైస్వేత",
+    "FLtel": "స"
+  },
+  {
+    "id": "126776",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "SaiTulasi",
+    "FLeng": "S",
+    "tel": "సైటులసి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126777",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Saivleen",
+    "FLeng": "S",
+    "tel": "సైవ్లీన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126778",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Saiyeisha",
+    "FLeng": "S",
+    "tel": "సైయిషా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126779",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Saj",
+    "FLeng": "S",
+    "tel": "సెజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126780",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Saja",
+    "FLeng": "S",
+    "tel": "రోజా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "126781",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajaf",
+    "FLeng": "S",
+    "tel": "సజఫ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126782",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajah",
+    "FLeng": "S",
+    "tel": "సజ",
+    "FLtel": "స"
+  },
+  {
+    "id": "126783",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajala",
+    "FLeng": "S",
+    "tel": "సుజల",
+    "FLtel": "స"
+  },
+  {
+    "id": "126784",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajani",
+    "FLeng": "S",
+    "tel": "రోజని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "126785",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajda",
+    "FLeng": "S",
+    "tel": "సజ్దా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126786",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajed",
+    "FLeng": "S",
+    "tel": "సాజిద్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126787",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajel",
+    "FLeng": "S",
+    "tel": "సజెల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126788",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajia",
+    "FLeng": "S",
+    "tel": "సాజిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126789",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajida",
+    "FLeng": "S",
+    "tel": "సాజిదా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126790",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajidah",
+    "FLeng": "S",
+    "tel": "సాజిదాహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126791",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajila",
+    "FLeng": "S",
+    "tel": "సాజిల",
+    "FLtel": "స"
+  },
+  {
+    "id": "126792",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajili",
+    "FLeng": "S",
+    "tel": "సాజిలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126793",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajini",
+    "FLeng": "S",
+    "tel": "సాజిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "126794",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajitha",
+    "FLeng": "S",
+    "tel": "సుజిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "126795",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajiya",
+    "FLeng": "S",
+    "tel": "షాజియా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "126796",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sajj",
+    "FLeng": "S",
+    "tel": "సెజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126797",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajjal",
+    "FLeng": "S",
+    "tel": "సజ్జల",
+    "FLtel": "స"
+  },
+  {
+    "id": "126798",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajjata",
+    "FLeng": "S",
+    "tel": "సుజాత",
+    "FLtel": "స"
+  },
+  {
+    "id": "126799",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sajni",
+    "FLeng": "S",
+    "tel": "సంజ్ఞి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126800",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sajonara",
+    "FLeng": "S",
+    "tel": "సజోనరా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126801",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajoon",
+    "FLeng": "S",
+    "tel": "సజోన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126802",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sajra",
+    "FLeng": "S",
+    "tel": "సజ్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "126803",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajuwa",
+    "FLeng": "S",
+    "tel": "రోజువా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "126804",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sajwa",
+    "FLeng": "S",
+    "tel": "సజ్వ",
+    "FLtel": "స"
+  },
+  {
+    "id": "126805",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sakakawea",
+    "FLeng": "S",
+    "tel": "సకకవీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "126806",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sakan",
+    "FLeng": "S",
+    "tel": "శకం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "126807",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sakat",
+    "FLeng": "S",
+    "tel": "సాకేత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126808",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sakeena",
+    "FLeng": "S",
+    "tel": "సకీనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126809",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sakeena = god",
+    "FLeng": "S",
+    "tel": "సకీనా = గాడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126810",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sakeena god",
+    "FLeng": "S",
+    "tel": "సకీనా గాడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "126811",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sakeenah",
+    "FLeng": "S",
+    "tel": "సాకీనః",
+    "FLtel": "స"
+  },
+  {
+    "id": "126812",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sakeeza",
+    "FLeng": "S",
+    "tel": "సాకీజా",
+    "FLtel": "స"
+  },
+  {
+    "id": "126813",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sakethi",
+    "FLeng": "S",
+    "tel": "సకితి",
+    "FLtel": "స"
+  },
+  {
+    "id": "126814",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sakh",
+    "FLeng": "S",
+    "tel": "షాక్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "126815",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sakhi",
+    "FLeng": "S",
+    "tel": "సఖి",
+    "FLtel": "స"
+  }
+]

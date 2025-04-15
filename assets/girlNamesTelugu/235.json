@@ -1,0 +1,866 @@
+[
+  {
+    "id": "113325",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krisangi",
+    "FLeng": "K",
+    "tel": "క్రిసంగి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113326",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krise",
+    "FLeng": "K",
+    "tel": "క్రిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113327",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krisha",
+    "FLeng": "K",
+    "tel": "కృష",
+    "FLtel": "క"
+  },
+  {
+    "id": "113328",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krishadari",
+    "FLeng": "K",
+    "tel": "కృషధారి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113329",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishana",
+    "FLeng": "K",
+    "tel": "కృష్ణ",
+    "FLtel": "క"
+  },
+  {
+    "id": "113330",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishanthi",
+    "FLeng": "K",
+    "tel": "క్రిశాంతి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113331",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishanya",
+    "FLeng": "K",
+    "tel": "క్రిష్ణయ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "113332",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishi",
+    "FLeng": "K",
+    "tel": "కృషి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113333",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishika",
+    "FLeng": "K",
+    "tel": "కృషిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "113334",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishita",
+    "FLeng": "K",
+    "tel": "కృషిత",
+    "FLtel": "క"
+  },
+  {
+    "id": "113335",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishitha",
+    "FLeng": "K",
+    "tel": "కృషిత",
+    "FLtel": "క"
+  },
+  {
+    "id": "113336",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishna Priya",
+    "FLeng": "K",
+    "tel": "కృష్ణ ప్రియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113337",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishnaa",
+    "FLeng": "K",
+    "tel": "కృష్ణా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113338",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishnakali",
+    "FLeng": "K",
+    "tel": "కృష్ణకాలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113339",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishnakumari",
+    "FLeng": "K",
+    "tel": "కృష్ణకుమారి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113340",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishnan",
+    "FLeng": "K",
+    "tel": "కృష్ణన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113341",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Krishnapati",
+    "FLeng": "K",
+    "tel": "కృష్ణపాటి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113342",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishnapriya",
+    "FLeng": "K",
+    "tel": "కృష్ణప్రియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "113343",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishnaveni",
+    "FLeng": "K",
+    "tel": "కృష్ణవేణి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113344",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishne",
+    "FLeng": "K",
+    "tel": "కృష్ణే",
+    "FLtel": "క"
+  },
+  {
+    "id": "113345",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Krishtal",
+    "FLeng": "K",
+    "tel": "క్రిష్టల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113346",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishti",
+    "FLeng": "K",
+    "tel": "కృష్టి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113347",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishva",
+    "FLeng": "K",
+    "tel": "కృషువా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113348",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krishya",
+    "FLeng": "K",
+    "tel": "కృష్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "113349",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krisla",
+    "FLeng": "K",
+    "tel": "క్రిస్ల",
+    "FLtel": "క"
+  },
+  {
+    "id": "113350",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krisma",
+    "FLeng": "K",
+    "tel": "క్రిస్మ",
+    "FLtel": "క"
+  },
+  {
+    "id": "113351",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krisnarchi",
+    "FLeng": "K",
+    "tel": "కృష్ణర్చి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113352",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krison",
+    "FLeng": "K",
+    "tel": "క్రిసోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113353",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krispy",
+    "FLeng": "K",
+    "tel": "క్రిస్ప్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113354",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krisshia",
+    "FLeng": "K",
+    "tel": "క్రిస్షియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113355",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krisshika",
+    "FLeng": "K",
+    "tel": "కృశశిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "113356",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krisshiya",
+    "FLeng": "K",
+    "tel": "క్రిస్షియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113357",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krista",
+    "FLeng": "K",
+    "tel": "కృష్ట",
+    "FLtel": "క"
+  },
+  {
+    "id": "113358",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "krista",
+    "FLeng": "k",
+    "tel": "కృష్ట",
+    "FLtel": "క"
+  },
+  {
+    "id": "113359",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristal",
+    "FLeng": "K",
+    "tel": "క్రిస్టల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113360",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristalena",
+    "FLeng": "K",
+    "tel": "క్రిస్టలైన",
+    "FLtel": "క"
+  },
+  {
+    "id": "113361",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristalyn",
+    "FLeng": "K",
+    "tel": "క్రిస్టలైన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113362",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Krista½na",
+    "FLeng": "K",
+    "tel": "కృష్ట½న",
+    "FLtel": "క"
+  },
+  {
+    "id": "113363",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristeen",
+    "FLeng": "K",
+    "tel": "క్రిస్టీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113364",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kristeena",
+    "FLeng": "K",
+    "tel": "క్రిస్టీనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113365",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristel",
+    "FLeng": "K",
+    "tel": "క్రిస్టల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113366",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristen",
+    "FLeng": "K",
+    "tel": "క్రిస్టెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113367",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kristen",
+    "FLeng": "k",
+    "tel": "క్రిస్టెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113368",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristena",
+    "FLeng": "K",
+    "tel": "క్రిస్టీనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113369",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristi",
+    "FLeng": "K",
+    "tel": "క్రిస్టి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113370",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristia",
+    "FLeng": "K",
+    "tel": "క్రిస్టినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113371",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kristiana",
+    "FLeng": "K",
+    "tel": "క్రిస్టినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113372",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristiane",
+    "FLeng": "K",
+    "tel": "క్రిస్టియన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113373",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristiania",
+    "FLeng": "K",
+    "tel": "క్రిస్టియానియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113374",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kristianna",
+    "FLeng": "K",
+    "tel": "క్రిస్టియానో",
+    "FLtel": "క"
+  },
+  {
+    "id": "113375",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kristianne",
+    "FLeng": "K",
+    "tel": "క్రిస్టియాన్నే",
+    "FLtel": "క"
+  },
+  {
+    "id": "113376",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristie",
+    "FLeng": "K",
+    "tel": "క్రిస్టియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "113377",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristiina",
+    "FLeng": "K",
+    "tel": "క్రిస్టియన",
+    "FLtel": "క"
+  },
+  {
+    "id": "113378",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristin",
+    "FLeng": "K",
+    "tel": "క్రిస్టీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113379",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kristin",
+    "FLeng": "k",
+    "tel": "క్రిస్టీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113380",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristina",
+    "FLeng": "K",
+    "tel": "క్రిస్టినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113381",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kristina",
+    "FLeng": "k",
+    "tel": "క్రిస్టినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113382",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristine",
+    "FLeng": "K",
+    "tel": "క్రిస్టీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113383",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kristine",
+    "FLeng": "k",
+    "tel": "క్రిస్టీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113384",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristinn",
+    "FLeng": "K",
+    "tel": "క్రిస్టీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113385",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kristiyana",
+    "FLeng": "K",
+    "tel": "క్రిస్టియన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113386",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kristjana",
+    "FLeng": "K",
+    "tel": "క్రిస్టజన",
+    "FLtel": "క"
+  },
+  {
+    "id": "113387",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristol",
+    "FLeng": "K",
+    "tel": "క్రిస్టల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113388",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kristy",
+    "FLeng": "K",
+    "tel": "క్రిస్ట్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113389",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristyle",
+    "FLeng": "K",
+    "tel": "క్రిస్టయిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113390",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristyn",
+    "FLeng": "K",
+    "tel": "క్రిష్ఠ్యం",
+    "FLtel": "క"
+  },
+  {
+    "id": "113391",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kristyne",
+    "FLeng": "K",
+    "tel": "క్రిస్త్యుని",
+    "FLtel": "క"
+  },
+  {
+    "id": "113392",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krisztina",
+    "FLeng": "K",
+    "tel": "క్రిస్జ్టిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "113393",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krita",
+    "FLeng": "K",
+    "tel": "కృత",
+    "FLtel": "క"
+  },
+  {
+    "id": "113394",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kritanjali",
+    "FLeng": "K",
+    "tel": "కృతాంజలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113395",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kritanta",
+    "FLeng": "K",
+    "tel": "కృతాంత",
+    "FLtel": "క"
+  },
+  {
+    "id": "113396",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithana",
+    "FLeng": "K",
+    "tel": "కృతన",
+    "FLtel": "క"
+  },
+  {
+    "id": "113397",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithi",
+    "FLeng": "K",
+    "tel": "కృతి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113398",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithiga",
+    "FLeng": "K",
+    "tel": "కృతిగా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113399",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithika",
+    "FLeng": "K",
+    "tel": "కృతిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "113400",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithiksha",
+    "FLeng": "K",
+    "tel": "కృతిక్ష",
+    "FLtel": "క"
+  },
+  {
+    "id": "113401",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithinidhi",
+    "FLeng": "K",
+    "tel": "కృతినిధి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113402",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krithya",
+    "FLeng": "K",
+    "tel": "కృత్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "113403",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kriti",
+    "FLeng": "K",
+    "tel": "కృతి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113404",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kritika",
+    "FLeng": "K",
+    "tel": "కృతిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "113405",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kritivi",
+    "FLeng": "K",
+    "tel": "కృతివి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113406",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krittika",
+    "FLeng": "K",
+    "tel": "కృత్తికా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113407",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kritu",
+    "FLeng": "K",
+    "tel": "కృతు",
+    "FLtel": "క"
+  },
+  {
+    "id": "113408",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kriva",
+    "FLeng": "K",
+    "tel": "క్రివ",
+    "FLtel": "క"
+  },
+  {
+    "id": "113409",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kriya",
+    "FLeng": "K",
+    "tel": "క్రియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "113410",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kriyesha",
+    "FLeng": "K",
+    "tel": "క్రియేష",
+    "FLtel": "క"
+  },
+  {
+    "id": "113411",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krizia",
+    "FLeng": "K",
+    "tel": "క్రిజిత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "113412",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kroopa",
+    "FLeng": "K",
+    "tel": "కౄపా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113413",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krpana",
+    "FLeng": "K",
+    "tel": "కృపణా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113414",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krpanaka",
+    "FLeng": "K",
+    "tel": "కృపాణకా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113415",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krrithya",
+    "FLeng": "K",
+    "tel": "కర్రీత్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113416",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krrooraa",
+    "FLeng": "K",
+    "tel": "కృరూరా",
+    "FLtel": "క"
+  },
+  {
+    "id": "113417",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krshnavi",
+    "FLeng": "K",
+    "tel": "కృష్ణవి",
+    "FLtel": "క"
+  },
+  {
+    "id": "113418",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Krsnika",
+    "FLeng": "K",
+    "tel": "క్ర్స్నిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "113419",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krudhaya",
+    "FLeng": "K",
+    "tel": "కృద్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "113420",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Krunali",
+    "FLeng": "K",
+    "tel": "కరుణాలి",
+    "FLtel": "క"
+  }
+]

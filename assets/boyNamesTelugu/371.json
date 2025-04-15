@@ -1,0 +1,776 @@
+[
+  {
+    "id": "25806",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milias",
+    "FLeng": "M",
+    "tel": "మిలియన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25807",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Milind",
+    "FLeng": "M",
+    "tel": "మిలింద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25808",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milinda",
+    "FLeng": "M",
+    "tel": "మిలిండా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25809",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Milintica",
+    "FLeng": "M",
+    "tel": "మిళింటికే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25810",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Milit",
+    "FLeng": "M",
+    "tel": "మిళిత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25811",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Millar",
+    "FLeng": "M",
+    "tel": "మిల్లర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25812",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Millard",
+    "FLeng": "M",
+    "tel": "మిల్లర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25813",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "millard",
+    "FLeng": "m",
+    "tel": "మిల్లర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25814",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Millburn",
+    "FLeng": "M",
+    "tel": "మిల్లబుర్న్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25815",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Millburne",
+    "FLeng": "M",
+    "tel": "మిల్లబర్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25816",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Miller",
+    "FLeng": "M",
+    "tel": "మిల్లర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25817",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Millford",
+    "FLeng": "M",
+    "tel": "మిల్ఫోర్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25818",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Millman",
+    "FLeng": "M",
+    "tel": "మిల్ల్మం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25819",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mills",
+    "FLeng": "M",
+    "tel": "మిల్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25820",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Millward",
+    "FLeng": "M",
+    "tel": "మిల్లవార్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25821",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Milman",
+    "FLeng": "M",
+    "tel": "మిలీమన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25822",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milo",
+    "FLeng": "M",
+    "tel": "మిలో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25823",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "milo",
+    "FLeng": "m",
+    "tel": "మిలో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25824",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Miloh",
+    "FLeng": "M",
+    "tel": "మీలోహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25825",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Milon",
+    "FLeng": "M",
+    "tel": "మిలాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25826",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milorad",
+    "FLeng": "M",
+    "tel": "మిలాడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25827",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milos",
+    "FLeng": "M",
+    "tel": "మిలోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25828",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Miloslav",
+    "FLeng": "M",
+    "tel": "మీలోస్లావ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25829",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milosz",
+    "FLeng": "M",
+    "tel": "మిలోష్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25830",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milot",
+    "FLeng": "M",
+    "tel": "మీలోట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25831",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milou",
+    "FLeng": "M",
+    "tel": "మీలోను",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25832",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milred",
+    "FLeng": "M",
+    "tel": "మిలర్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25833",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milret",
+    "FLeng": "M",
+    "tel": "మిలర్ట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25834",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Milt",
+    "FLeng": "M",
+    "tel": "మిల్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25835",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "milt",
+    "FLeng": "m",
+    "tel": "మిల్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25836",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Miltiathis",
+    "FLeng": "M",
+    "tel": "మిల్టయతీస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25837",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Milton",
+    "FLeng": "M",
+    "tel": "మిల్టన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25838",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "milton",
+    "FLeng": "m",
+    "tel": "మిల్టన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25839",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "milton\n",
+    "FLeng": "m",
+    "tel": "మిల్టన్\n",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25840",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Milun",
+    "FLeng": "M",
+    "tel": "మిలన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25841",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Milward",
+    "FLeng": "M",
+    "tel": "మైల్వార్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25842",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mimansa",
+    "FLeng": "M",
+    "tel": "మీమాంస",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25843",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mimar",
+    "FLeng": "M",
+    "tel": "మిమార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25844",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mimir",
+    "FLeng": "M",
+    "tel": "మిమిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25845",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mimir",
+    "FLeng": "m",
+    "tel": "మిమిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25846",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mimrah",
+    "FLeng": "M",
+    "tel": "మైమరహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25847",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mimum",
+    "FLeng": "M",
+    "tel": "మిమున్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25848",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minadus",
+    "FLeng": "M",
+    "tel": "మైండ్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25849",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minanatha",
+    "FLeng": "M",
+    "tel": "మినంత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25850",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minaraja",
+    "FLeng": "M",
+    "tel": "మినారాజా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25851",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minas",
+    "FLeng": "M",
+    "tel": "మైనస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25852",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minatbar",
+    "FLeng": "M",
+    "tel": "మినట్బర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25853",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mincho",
+    "FLeng": "M",
+    "tel": "మించో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25854",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mincho\n",
+    "FLeng": "m",
+    "tel": "మించో\n",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25855",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mindwell",
+    "FLeng": "M",
+    "tel": "మిడ్వెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25856",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Miner",
+    "FLeng": "M",
+    "tel": "మినెర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Minesh",
+    "FLeng": "M",
+    "tel": "మినేష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25858",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mingus",
+    "FLeng": "M",
+    "tel": "మింగ్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25859",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mingus",
+    "FLeng": "m",
+    "tel": "మింగ్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25860",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minhaaj",
+    "FLeng": "M",
+    "tel": "మిన్హాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25861",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minhaas",
+    "FLeng": "M",
+    "tel": "మిన్హాస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25862",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minhaj",
+    "FLeng": "M",
+    "tel": "మిన్హాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25863",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minhajuddin",
+    "FLeng": "M",
+    "tel": "మిన్హాజుద్దీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25864",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Minhal",
+    "FLeng": "M",
+    "tel": "మిన్హాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25865",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minhaz",
+    "FLeng": "M",
+    "tel": "మిన్హాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25866",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minik",
+    "FLeng": "M",
+    "tel": "మినిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25867",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Minnatullah",
+    "FLeng": "M",
+    "tel": "మిన్నంటుల్లాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25868",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minnota",
+    "FLeng": "M",
+    "tel": "మీనోట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25869",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minoru",
+    "FLeng": "M",
+    "tel": "మినోరు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25870",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minos",
+    "FLeng": "M",
+    "tel": "మినోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25871",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "minos",
+    "FLeng": "m",
+    "tel": "మినోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25872",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Minoshan",
+    "FLeng": "M",
+    "tel": "మినేషన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25873",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minowa",
+    "FLeng": "M",
+    "tel": "మినోవా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25874",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Minto",
+    "FLeng": "M",
+    "tel": "మింటో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25875",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mintoo",
+    "FLeng": "M",
+    "tel": "మింటూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25876",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minttu",
+    "FLeng": "M",
+    "tel": "మింట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25877",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mintu",
+    "FLeng": "M",
+    "tel": "మింటూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25878",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minver",
+    "FLeng": "M",
+    "tel": "మింవేర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25879",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minyamin",
+    "FLeng": "M",
+    "tel": "మిన్యామీను",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25880",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minyomei",
+    "FLeng": "M",
+    "tel": "మినీమ్య్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25881",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Minyomi",
+    "FLeng": "M",
+    "tel": "మినయోమి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25882",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Minze",
+    "FLeng": "M",
+    "tel": "మాంజీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25883",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "minze",
+    "FLeng": "m",
+    "tel": "మాంజీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25884",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mir",
+    "FLeng": "M",
+    "tel": "మీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25885",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mir Jahaan",
+    "FLeng": "M",
+    "tel": "మీర్ జహాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25886",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mir Wais",
+    "FLeng": "M",
+    "tel": "మీర్ వైస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25887",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Miraaj",
+    "FLeng": "M",
+    "tel": "మిరాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25888",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mirajul",
+    "FLeng": "M",
+    "tel": "మిరాజుల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25889",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Miran",
+    "FLeng": "M",
+    "tel": "మిరం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25890",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mirando",
+    "FLeng": "m",
+    "tel": "మిరాండా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25891",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Miransh",
+    "FLeng": "M",
+    "tel": "మిరాంశ్",
+    "FLtel": "మ"
+  }
+]

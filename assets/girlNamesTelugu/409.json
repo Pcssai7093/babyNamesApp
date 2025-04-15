@@ -1,0 +1,821 @@
+[
+  {
+    "id": "130048",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solenne",
+    "FLeng": "S",
+    "tel": "సోలెన్నే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130049",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Soleste",
+    "FLeng": "S",
+    "tel": "సోలేస్తే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130050",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Soley",
+    "FLeng": "S",
+    "tel": "సోలెయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130051",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solfrid",
+    "FLeng": "S",
+    "tel": "సోల్ఫ్రిడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130052",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Soliesse",
+    "FLeng": "S",
+    "tel": "సోలిసే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130053",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Solin",
+    "FLeng": "S",
+    "tel": "సోలిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130054",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solita",
+    "FLeng": "S",
+    "tel": "సోలిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130055",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solja",
+    "FLeng": "S",
+    "tel": "సోల్జ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130056",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sollalagi",
+    "FLeng": "S",
+    "tel": "సొల్లలఁగి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130057",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sollemnia",
+    "FLeng": "S",
+    "tel": "సొల్లేమ్నియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130058",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solomiya",
+    "FLeng": "S",
+    "tel": "సోలోమియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130059",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "solvei",
+    "FLeng": "s",
+    "tel": "సొల్వెయి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130060",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solveig",
+    "FLeng": "S",
+    "tel": "సొల్వెయిగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130061",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "solveig",
+    "FLeng": "s",
+    "tel": "సొల్వెయిగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130062",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solveiga",
+    "FLeng": "S",
+    "tel": "సొల్వెయిగా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130063",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solvej",
+    "FLeng": "S",
+    "tel": "సాల్వేజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130064",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solvey",
+    "FLeng": "S",
+    "tel": "సొల్వెయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130065",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "solvi",
+    "FLeng": "s",
+    "tel": "సోల్వి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130066",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Solvig",
+    "FLeng": "S",
+    "tel": "సోల్విజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130067",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soma Lakshmi",
+    "FLeng": "S",
+    "tel": "సోమా లక్ష్మి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130068",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somabha",
+    "FLeng": "S",
+    "tel": "సోమాభా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130069",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somada",
+    "FLeng": "S",
+    "tel": "సోమద",
+    "FLtel": "స"
+  },
+  {
+    "id": "130070",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somadevi",
+    "FLeng": "S",
+    "tel": "సోమదేవి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130071",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Somadha",
+    "FLeng": "S",
+    "tel": "సోమద",
+    "FLtel": "స"
+  },
+  {
+    "id": "130072",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Somaieh",
+    "FLeng": "S",
+    "tel": "సోమాయహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130073",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somaikka",
+    "FLeng": "S",
+    "tel": "సోమాయక్క",
+    "FLtel": "స"
+  },
+  {
+    "id": "130074",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somalakshmi",
+    "FLeng": "S",
+    "tel": "సోమలక్ష్మి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130075",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somalata",
+    "FLeng": "S",
+    "tel": "సోమలత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130076",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somalia",
+    "FLeng": "S",
+    "tel": "సోమాలియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130077",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somalika",
+    "FLeng": "S",
+    "tel": "సోమాలిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130078",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Somapika",
+    "FLeng": "S",
+    "tel": "సోమపీక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130079",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somasuta",
+    "FLeng": "S",
+    "tel": "సోమసూత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130080",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somatra",
+    "FLeng": "S",
+    "tel": "సొంత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130081",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somaya",
+    "FLeng": "S",
+    "tel": "సోమయ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130082",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somdatta",
+    "FLeng": "S",
+    "tel": "సొందత్త",
+    "FLtel": "స"
+  },
+  {
+    "id": "130083",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Somer",
+    "FLeng": "S",
+    "tel": "సొమెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130084",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Somerild",
+    "FLeng": "S",
+    "tel": "సొమెరిల్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130085",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somi",
+    "FLeng": "S",
+    "tel": "సోమి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130086",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somila",
+    "FLeng": "S",
+    "tel": "సోమిలా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130087",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sommer",
+    "FLeng": "S",
+    "tel": "సొమ్మెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130088",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "sommer",
+    "FLeng": "s",
+    "tel": "సొమ్మెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130089",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Somoche",
+    "FLeng": "S",
+    "tel": "సోమోచే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130090",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Somprikti",
+    "FLeng": "S",
+    "tel": "సోంప్రిక్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130091",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sompriti",
+    "FLeng": "S",
+    "tel": "సోంపురిటి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130092",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sompurna",
+    "FLeng": "S",
+    "tel": "సోంపురం",
+    "FLtel": "స"
+  },
+  {
+    "id": "130093",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Somritdhi",
+    "FLeng": "S",
+    "tel": "సోంరిటిది",
+    "FLtel": "స"
+  },
+  {
+    "id": "130094",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somscruthi",
+    "FLeng": "S",
+    "tel": "సొమ్మెస్సీరుతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130095",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somshree",
+    "FLeng": "S",
+    "tel": "సోంశ్రీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130096",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somwrita",
+    "FLeng": "S",
+    "tel": "సోంరైట",
+    "FLtel": "స"
+  },
+  {
+    "id": "130097",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somya",
+    "FLeng": "S",
+    "tel": "సోమ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130098",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Somyayai",
+    "FLeng": "S",
+    "tel": "సోమ్యయై",
+    "FLtel": "స"
+  },
+  {
+    "id": "130099",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sona",
+    "FLeng": "S",
+    "tel": "సోనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130100",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonai",
+    "FLeng": "S",
+    "tel": "సినాయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130101",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonakshi",
+    "FLeng": "S",
+    "tel": "సోనాక్షి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130102",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonal",
+    "FLeng": "S",
+    "tel": "సోనాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130103",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonali",
+    "FLeng": "S",
+    "tel": "సోనాలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130104",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sonalika",
+    "FLeng": "S",
+    "tel": "సోనాలిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130105",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sonaljeet",
+    "FLeng": "S",
+    "tel": "సొంఅల్జీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130106",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sonalpreet",
+    "FLeng": "S",
+    "tel": "సొనాల్ప్రీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130107",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonaly",
+    "FLeng": "S",
+    "tel": "సోనాలీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130108",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonara",
+    "FLeng": "S",
+    "tel": "సోనారా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130109",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonarika",
+    "FLeng": "S",
+    "tel": "సోనారిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130110",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonata",
+    "FLeng": "S",
+    "tel": "సొనాటా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130111",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "sonatina",
+    "FLeng": "s",
+    "tel": "సోనాటిన",
+    "FLtel": "స"
+  },
+  {
+    "id": "130112",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonaya",
+    "FLeng": "S",
+    "tel": "సోనియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130113",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sonbol",
+    "FLeng": "S",
+    "tel": "సొంబోల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130114",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sondra",
+    "FLeng": "S",
+    "tel": "సొన్ద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130115",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "sondra",
+    "FLeng": "s",
+    "tel": "సొన్ద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130116",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soneera",
+    "FLeng": "S",
+    "tel": "సోనేరా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130117",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soneesh",
+    "FLeng": "S",
+    "tel": "సోనీష్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130118",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonel",
+    "FLeng": "S",
+    "tel": "సోనాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130119",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Songl",
+    "FLeng": "S",
+    "tel": "సొంగ్ల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130120",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Songya",
+    "FLeng": "S",
+    "tel": "సొంగ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130121",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonhita",
+    "FLeng": "S",
+    "tel": "సొంహిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130122",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soni",
+    "FLeng": "S",
+    "tel": "సోని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130123",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonia",
+    "FLeng": "S",
+    "tel": "సోనియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130124",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonica",
+    "FLeng": "S",
+    "tel": "సోనికే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130125",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonicia",
+    "FLeng": "S",
+    "tel": "సోనిష",
+    "FLtel": "స"
+  },
+  {
+    "id": "130126",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonicky",
+    "FLeng": "S",
+    "tel": "సోనికీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130127",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonika",
+    "FLeng": "S",
+    "tel": "సోనికా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130128",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonile",
+    "FLeng": "S",
+    "tel": "సోనిలే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130129",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonisay",
+    "FLeng": "S",
+    "tel": "సోనిసై",
+    "FLtel": "స"
+  },
+  {
+    "id": "130130",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonisha",
+    "FLeng": "S",
+    "tel": "సోనిష",
+    "FLtel": "స"
+  },
+  {
+    "id": "130131",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonita",
+    "FLeng": "S",
+    "tel": "శోణిత",
+    "FLtel": "శ"
+  },
+  {
+    "id": "130132",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Soniya",
+    "FLeng": "S",
+    "tel": "సోనియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130133",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonje",
+    "FLeng": "S",
+    "tel": "సొంజే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130134",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonji",
+    "FLeng": "S",
+    "tel": "సొంజి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130135",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sonki",
+    "FLeng": "S",
+    "tel": "సొంకి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130136",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonnet",
+    "FLeng": "S",
+    "tel": "సొన్నెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130137",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonoma",
+    "FLeng": "S",
+    "tel": "సినోమా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130138",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sonora",
+    "FLeng": "S",
+    "tel": "సోనోరా",
+    "FLtel": "స"
+  }
+]

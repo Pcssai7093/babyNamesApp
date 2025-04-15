@@ -1,0 +1,434 @@
+[
+  {
+    "id": "38938",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anek",
+    "FLeng": "A",
+    "tel": "అనేక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38939",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anesh",
+    "FLeng": "A",
+    "tel": "అనీష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38940",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aneurin",
+    "FLeng": "A",
+    "tel": "అనయూరిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38941",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Anewa",
+    "FLeng": "A",
+    "tel": "అనేవా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38942",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Anfal",
+    "FLeng": "A",
+    "tel": "అంఫేల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38943",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angaar",
+    "FLeng": "A",
+    "tel": "అంగారు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38944",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angad",
+    "FLeng": "A",
+    "tel": "అంగడి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38945",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Angad Veer",
+    "FLeng": "A",
+    "tel": "అంగద్ వీర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38946",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angada",
+    "FLeng": "A",
+    "tel": "అంగద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38947",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angadan",
+    "FLeng": "A",
+    "tel": "అంగడం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38948",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Angaddev",
+    "FLeng": "A",
+    "tel": "గద్దేవీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "38949",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angaj",
+    "FLeng": "A",
+    "tel": "ఎంగేజ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "38950",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angak",
+    "FLeng": "A",
+    "tel": "అంగాక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38951",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angamuthu",
+    "FLeng": "A",
+    "tel": "అంగముతు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38952",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Angang",
+    "FLeng": "A",
+    "tel": "అంగాంగ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38953",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Angar",
+    "FLeng": "A",
+    "tel": "అంగర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38954",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angara",
+    "FLeng": "A",
+    "tel": "అంగర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "angel-3",
+    "FLeng": "a",
+    "tel": "ఏంజెల్-త్రీ",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "38956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "angelico",
+    "FLeng": "a",
+    "tel": "ఆంగెలికా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "38957",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Angelino",
+    "FLeng": "A",
+    "tel": "యాంజెలీనా",
+    "FLtel": "య"
+  },
+  {
+    "id": "38958",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "angelito",
+    "FLeng": "a",
+    "tel": "అంజలితో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38959",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "angelo",
+    "FLeng": "a",
+    "tel": "అంజి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38960",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Angelos",
+    "FLeng": "A",
+    "tel": "అంజిస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38961",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Angelus",
+    "FLeng": "A",
+    "tel": "ఏంజెల్స్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "38962",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anggan",
+    "FLeng": "A",
+    "tel": "అఙ్గాని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38963",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Anghel",
+    "FLeng": "A",
+    "tel": "అంగెల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38964",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angiras",
+    "FLeng": "A",
+    "tel": "అంగిరస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38965",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angith",
+    "FLeng": "A",
+    "tel": "ఆంగోత్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "38966",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angleen",
+    "FLeng": "A",
+    "tel": "ఆంగ్లేయన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "38967",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Angrez",
+    "FLeng": "A",
+    "tel": "అంగ్రేజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38968",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Angshu",
+    "FLeng": "A",
+    "tel": "అంగీషు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Angus",
+    "FLeng": "A",
+    "tel": "అంగస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38970",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anhad",
+    "FLeng": "A",
+    "tel": "అంహాడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38971",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anhar",
+    "FLeng": "A",
+    "tel": "అన్హార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38972",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anhik",
+    "FLeng": "A",
+    "tel": "అంహిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38973",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anhil",
+    "FLeng": "A",
+    "tel": "అంహిల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38974",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aniam",
+    "FLeng": "A",
+    "tel": "అనియం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38975",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anidev",
+    "FLeng": "A",
+    "tel": "అన్నిదేవ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38976",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "aniello",
+    "FLeng": "a",
+    "tel": "అనిఎల్లో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38977",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aniesh",
+    "FLeng": "A",
+    "tel": "అనిఎస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38978",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Anif",
+    "FLeng": "A",
+    "tel": "అనీఫ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38979",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aniij",
+    "FLeng": "A",
+    "tel": "అనియిజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38980",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anik",
+    "FLeng": "A",
+    "tel": "అనిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38981",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anikait",
+    "FLeng": "A",
+    "tel": "అనికైట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38982",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anikanchan",
+    "FLeng": "A",
+    "tel": "అనికంచన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38983",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anikant",
+    "FLeng": "A",
+    "tel": "అణికాంత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38984",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aniket",
+    "FLeng": "A",
+    "tel": "అనికేత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "38985",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aniketh",
+    "FLeng": "A",
+    "tel": "అనికేత్",
+    "FLtel": "అ"
+  }
+]

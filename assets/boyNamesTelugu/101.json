@@ -1,0 +1,452 @@
+[
+  {
+    "id": "227",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhasvan",
+    "FLeng": "B",
+    "tel": "భాస్వాన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "228",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhaswar",
+    "FLeng": "B",
+    "tel": "భాస్వర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "229",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhaswath",
+    "FLeng": "B",
+    "tel": "భాస్వంత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "230",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhaumik",
+    "FLeng": "B",
+    "tel": "భౌమిక్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "231",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhautik",
+    "FLeng": "B",
+    "tel": "భౌతిక",
+    "FLtel": "భ"
+  },
+  {
+    "id": "232",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhav",
+    "FLeng": "B",
+    "tel": "భావ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "233",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhav Bhooti",
+    "FLeng": "B",
+    "tel": "భావ భూతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "234",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavad",
+    "FLeng": "B",
+    "tel": "భవద్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "235",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavadeep",
+    "FLeng": "B",
+    "tel": "భవదీప్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "236",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavadeesh",
+    "FLeng": "B",
+    "tel": "భవదీష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "237",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavalan",
+    "FLeng": "B",
+    "tel": "భావాలను",
+    "FLtel": "భ"
+  },
+  {
+    "id": "238",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavamanyu",
+    "FLeng": "B",
+    "tel": "భావమన్యు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "239",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavan",
+    "FLeng": "B",
+    "tel": "భావం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "240",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavandeep",
+    "FLeng": "B",
+    "tel": "భవందీప్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "241",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavanesh",
+    "FLeng": "B",
+    "tel": "భావనేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "242",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavani Sankar",
+    "FLeng": "B",
+    "tel": "భవానీ శంకర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "243",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavanil",
+    "FLeng": "B",
+    "tel": "భవానీలు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "244",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavanjot",
+    "FLeng": "B",
+    "tel": "భావనజోత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "245",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavarogasya Bheshaja",
+    "FLeng": "B",
+    "tel": "భవరోగస్య భేషజా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "246",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavarth",
+    "FLeng": "B",
+    "tel": "భవార్త",
+    "FLtel": "భ"
+  },
+  {
+    "id": "247",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavartha",
+    "FLeng": "B",
+    "tel": "భావార్థ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "248",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavatu",
+    "FLeng": "B",
+    "tel": "భవతు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "249",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhaven",
+    "FLeng": "B",
+    "tel": "భావేన",
+    "FLtel": "భ"
+  },
+  {
+    "id": "250",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavesh",
+    "FLeng": "B",
+    "tel": "భవేష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "251",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhaviguru",
+    "FLeng": "B",
+    "tel": "బావిగూరు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "252",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavik",
+    "FLeng": "B",
+    "tel": "భావిక్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "253",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavil",
+    "FLeng": "B",
+    "tel": "భావిల్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "254",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavin",
+    "FLeng": "B",
+    "tel": "భావిం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "255",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavish",
+    "FLeng": "B",
+    "tel": "భవిష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "256",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavishya",
+    "FLeng": "B",
+    "tel": "భవిష్య",
+    "FLtel": "భ"
+  },
+  {
+    "id": "257",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavisya",
+    "FLeng": "B",
+    "tel": "భవిష్య",
+    "FLtel": "భ"
+  },
+  {
+    "id": "258",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavjinder",
+    "FLeng": "B",
+    "tel": "భవ్జిందర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "259",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavleen",
+    "FLeng": "B",
+    "tel": "భావ్లీన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "260",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavmanyu",
+    "FLeng": "B",
+    "tel": "భావమన్యు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "261",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavmeet",
+    "FLeng": "B",
+    "tel": "భావమేట్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "262",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavneet",
+    "FLeng": "B",
+    "tel": "భవనీత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "263",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavnesh",
+    "FLeng": "B",
+    "tel": "భావనేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "264",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bhavnik",
+    "FLeng": "B",
+    "tel": "భావానికి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "265",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavnish",
+    "FLeng": "B",
+    "tel": "భవనీష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "266",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavnoor",
+    "FLeng": "B",
+    "tel": "బావనూర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "267",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavpal",
+    "FLeng": "B",
+    "tel": "భవపాల్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "268",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhavprem",
+    "FLeng": "B",
+    "tel": "భావప్రేమ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "269",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavyam",
+    "FLeng": "B",
+    "tel": "భావ్యం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "270",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavyanasha",
+    "FLeng": "B",
+    "tel": "భవ్యనాశ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "271",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavyansh",
+    "FLeng": "B",
+    "tel": "భవ్యంష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "272",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhavyesh",
+    "FLeng": "B",
+    "tel": "భవ్యశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "273",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhawanesh",
+    "FLeng": "B",
+    "tel": "భావనేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "274",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhawanidas",
+    "FLeng": "B",
+    "tel": "భావానిడాస్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "275",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhawar",
+    "FLeng": "B",
+    "tel": "భావార్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "276",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhayant",
+    "FLeng": "B",
+    "tel": "భయంట్",
+    "FLtel": "భ"
+  }
+]

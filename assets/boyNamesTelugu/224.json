@@ -1,0 +1,731 @@
+[
+  {
+    "id": "11669",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gother",
+    "FLeng": "G",
+    "tel": "గోథెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11670",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gotra",
+    "FLeng": "G",
+    "tel": "గోత్ర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11671",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gottfrid",
+    "FLeng": "G",
+    "tel": "గొట్ఫ్రిడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11672",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gottfried",
+    "FLeng": "G",
+    "tel": "గొట్ఫ్రీఎడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11673",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gotthard",
+    "FLeng": "G",
+    "tel": "గోత్తర్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11674",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gottlieb",
+    "FLeng": "G",
+    "tel": "గోత్తలిబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11675",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gotye",
+    "FLeng": "G",
+    "tel": "గోటీయే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11676",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gotzon",
+    "FLeng": "G",
+    "tel": "గొట్జ్న్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11677",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gou",
+    "FLeng": "G",
+    "tel": "గౌ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gouen",
+    "FLeng": "G",
+    "tel": "గౌఎం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11679",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gourab",
+    "FLeng": "G",
+    "tel": "గౌరబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11680",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gourav",
+    "FLeng": "G",
+    "tel": "గౌరవ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11681",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gourishankar",
+    "FLeng": "G",
+    "tel": "గౌరీశంకర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11682",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Goutham",
+    "FLeng": "G",
+    "tel": "గౌతమ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11683",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gouthaman",
+    "FLeng": "G",
+    "tel": "గౌతమన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11684",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Goutheesh",
+    "FLeng": "G",
+    "tel": "గౌతీష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11685",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gouti",
+    "FLeng": "G",
+    "tel": "గౌతీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11686",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gouverrail",
+    "FLeng": "G",
+    "tel": "గౌవేఱైల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11687",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gov",
+    "FLeng": "G",
+    "tel": "గొవ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11688",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gov",
+    "FLeng": "g",
+    "tel": "గొవ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11689",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Govad",
+    "FLeng": "G",
+    "tel": "గౌడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11690",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govam",
+    "FLeng": "G",
+    "tel": "గోవం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11691",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govan",
+    "FLeng": "G",
+    "tel": "గోవన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11692",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govardhan",
+    "FLeng": "G",
+    "tel": "గోవర్ధన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11693",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govasana",
+    "FLeng": "G",
+    "tel": "గోవసానా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11694",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govert",
+    "FLeng": "G",
+    "tel": "గౌర్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11695",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "govert",
+    "FLeng": "g",
+    "tel": "గౌర్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11696",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govil",
+    "FLeng": "G",
+    "tel": "గోవిల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11697",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govind",
+    "FLeng": "G",
+    "tel": "గోవింద్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11698",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govinda",
+    "FLeng": "G",
+    "tel": "గోవిందా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11699",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govindan",
+    "FLeng": "G",
+    "tel": "గోవిందం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11700",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govindaraj",
+    "FLeng": "G",
+    "tel": "గోవిందరాజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11701",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govindaram",
+    "FLeng": "G",
+    "tel": "గోవిన్దరం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11702",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "GovIndian",
+    "FLeng": "G",
+    "tel": "గోవిందయాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11703",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Govinesh",
+    "FLeng": "G",
+    "tel": "గోవినేష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11704",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govraja",
+    "FLeng": "G",
+    "tel": "గోవ్రజ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11705",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Govran",
+    "FLeng": "G",
+    "tel": "గౌరం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11706",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gowan",
+    "FLeng": "G",
+    "tel": "గోవాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11707",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gower",
+    "FLeng": "G",
+    "tel": "గౌర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11708",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gowon",
+    "FLeng": "G",
+    "tel": "గౌన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11709",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gowshik",
+    "FLeng": "G",
+    "tel": "గౌశిక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11710",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gowtham",
+    "FLeng": "G",
+    "tel": "గౌతమ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11711",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gowyn",
+    "FLeng": "G",
+    "tel": "గౌయ్న",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11712",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Goyahkla",
+    "FLeng": "G",
+    "tel": "గుయ్హలా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11713",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Goyathlay",
+    "FLeng": "G",
+    "tel": "గోయతలే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11714",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "goyathlay",
+    "FLeng": "g",
+    "tel": "గోయతలే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11715",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gracen",
+    "FLeng": "G",
+    "tel": "గ్రాసిన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11716",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graceson",
+    "FLeng": "G",
+    "tel": "గ్రాన్స్లోన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11717",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gracey",
+    "FLeng": "G",
+    "tel": "గ్రేసీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11718",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graci",
+    "FLeng": "G",
+    "tel": "గ్రేసీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11719",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gracia",
+    "FLeng": "G",
+    "tel": "గ్రాసియా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11720",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gracian",
+    "FLeng": "G",
+    "tel": "గ్రేషన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11721",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graciano",
+    "FLeng": "G",
+    "tel": "గ్రాసియానో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11722",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gracin",
+    "FLeng": "G",
+    "tel": "గ్రాసిం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11723",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gracionna",
+    "FLeng": "G",
+    "tel": "గ్రాసివున్న",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11724",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gracjan",
+    "FLeng": "g",
+    "tel": "గ్రాసిజం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11725",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graden",
+    "FLeng": "G",
+    "tel": "గార్డెన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11726",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gradey",
+    "FLeng": "G",
+    "tel": "గ్రాడ్య్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11727",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gradin",
+    "FLeng": "g",
+    "tel": "గ్రందిం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11728",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gradon",
+    "FLeng": "G",
+    "tel": "గ్రాడ్న్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11729",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Grady",
+    "FLeng": "G",
+    "tel": "గారడీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11730",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Grae",
+    "FLeng": "G",
+    "tel": "గారే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11731",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graega",
+    "FLeng": "G",
+    "tel": "గ్రాయగా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11732",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graeham",
+    "FLeng": "G",
+    "tel": "గ్రాయహం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11733",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graeme",
+    "FLeng": "G",
+    "tel": "గ్రాయమే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11734",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Graent",
+    "FLeng": "G",
+    "tel": "గ్రాయెంట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11735",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graer",
+    "FLeng": "G",
+    "tel": "గ్రారు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11736",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Graf",
+    "FLeng": "G",
+    "tel": "గ్రాఫ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11737",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Grafere",
+    "FLeng": "G",
+    "tel": "గ్రాఫర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11738",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Grafton",
+    "FLeng": "G",
+    "tel": "గ్రాఫ్టన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11739",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "grafton",
+    "FLeng": "g",
+    "tel": "గ్రాఫ్టన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11740",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Grahaem",
+    "FLeng": "G",
+    "tel": "గ్రహాయం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11741",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Graham",
+    "FLeng": "G",
+    "tel": "గ్రాహం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11742",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "graham",
+    "FLeng": "g",
+    "tel": "గ్రాహం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11743",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Grahame",
+    "FLeng": "G",
+    "tel": "గ్రహమే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11744",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Grahesh",
+    "FLeng": "G",
+    "tel": "గ్రహేషు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11745",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Grahil",
+    "FLeng": "G",
+    "tel": "గ్రాహిల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11746",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Grahisa",
+    "FLeng": "G",
+    "tel": "గ్రహిస",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11747",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Grahish",
+    "FLeng": "G",
+    "tel": "గ్రహిష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11748",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Grahit",
+    "FLeng": "G",
+    "tel": "గ్రహీత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11749",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Grahya",
+    "FLeng": "G",
+    "tel": "గ్రాహ్య",
+    "FLtel": "గ"
+  }
+]

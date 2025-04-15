@@ -1,0 +1,713 @@
+[
+  {
+    "id": "34017",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rawiri",
+    "FLeng": "R",
+    "tel": "రవిరి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34018",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Raxit",
+    "FLeng": "R",
+    "tel": "రాక్సయిట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34019",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raxton",
+    "FLeng": "R",
+    "tel": "రాక్సటన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34020",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ray",
+    "FLeng": "R",
+    "tel": "రే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34021",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayaan",
+    "FLeng": "R",
+    "tel": "రేయాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34022",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayan",
+    "FLeng": "R",
+    "tel": "ర్యాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34023",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayanish",
+    "FLeng": "R",
+    "tel": "రాయణీష్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayansh",
+    "FLeng": "R",
+    "tel": "రాయన్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34025",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayappa",
+    "FLeng": "R",
+    "tel": "రాయప్ప",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34026",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayappan",
+    "FLeng": "R",
+    "tel": "రాయప్పన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34027",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayar",
+    "FLeng": "R",
+    "tel": "రాయరు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34028",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayba",
+    "FLeng": "R",
+    "tel": "రాయబా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34029",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayborn",
+    "FLeng": "R",
+    "tel": "రైబోర్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34030",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raybourne",
+    "FLeng": "R",
+    "tel": "రైబోర్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34031",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayburn",
+    "FLeng": "R",
+    "tel": "రాయిబర్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34032",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rayburn",
+    "FLeng": "r",
+    "tel": "రాయిబర్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34033",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayburne",
+    "FLeng": "R",
+    "tel": "రేబర్నే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34034",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayce",
+    "FLeng": "R",
+    "tel": "రేస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34035",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raydell",
+    "FLeng": "R",
+    "tel": "రైడెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34036",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayden",
+    "FLeng": "R",
+    "tel": "రైడెన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34037",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rayden",
+    "FLeng": "r",
+    "tel": "రైడెన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34038",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayder",
+    "FLeng": "R",
+    "tel": "రైడర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raydon",
+    "FLeng": "R",
+    "tel": "రేడాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayeerth",
+    "FLeng": "R",
+    "tel": "రాయీర్త్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34041",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayees",
+    "FLeng": "R",
+    "tel": "రాయిస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayford",
+    "FLeng": "R",
+    "tel": "రేఫాడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rayford",
+    "FLeng": "r",
+    "tel": "రేఫాడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34044",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayhaan",
+    "FLeng": "R",
+    "tel": "రేహాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34045",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayhaan sweet",
+    "FLeng": "R",
+    "tel": "రేహాన్ స్వీట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34046",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayhan",
+    "FLeng": "R",
+    "tel": "రేహాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34047",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "rayhan",
+    "FLeng": "r",
+    "tel": "రేహాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34048",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayhari",
+    "FLeng": "R",
+    "tel": "రేహారి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34049",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayhourne",
+    "FLeng": "R",
+    "tel": "రైహౌర్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34050",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayhurn",
+    "FLeng": "R",
+    "tel": "రైహుర్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34051",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayi",
+    "FLeng": "R",
+    "tel": "రాయి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34052",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rayirth",
+    "FLeng": "R",
+    "tel": "రాయిర్త్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34053",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayko",
+    "FLeng": "R",
+    "tel": "రేకు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34054",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raylan",
+    "FLeng": "R",
+    "tel": "రేలన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34055",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "raylan",
+    "FLeng": "r",
+    "tel": "రేలన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayland",
+    "FLeng": "R",
+    "tel": "రాయిలాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34057",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raylen",
+    "FLeng": "R",
+    "tel": "రైలెం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34058",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raylon",
+    "FLeng": "R",
+    "tel": "రైలోని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34059",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayman",
+    "FLeng": "R",
+    "tel": "రేమాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34060",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayment",
+    "FLeng": "R",
+    "tel": "రైమెంట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raymon",
+    "FLeng": "R",
+    "tel": "రేమం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34062",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raymond",
+    "FLeng": "R",
+    "tel": "రేమండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34063",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "raymond",
+    "FLeng": "r",
+    "tel": "రేమండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34064",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raymund",
+    "FLeng": "R",
+    "tel": "రేమండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34065",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raymundo",
+    "FLeng": "R",
+    "tel": "రేముందో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "raymundo",
+    "FLeng": "r",
+    "tel": "రేముందో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34067",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayn",
+    "FLeng": "R",
+    "tel": "రైన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34068",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raynald",
+    "FLeng": "R",
+    "tel": "రేనాల్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34069",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raynaldus",
+    "FLeng": "R",
+    "tel": "రేనాల్డ్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34070",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raynard",
+    "FLeng": "R",
+    "tel": "రైనార్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34071",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayne",
+    "FLeng": "R",
+    "tel": "రయానే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34072",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raynell",
+    "FLeng": "R",
+    "tel": "రాయణేల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34073",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayner",
+    "FLeng": "R",
+    "tel": "రాయనేర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34074",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rayner",
+    "FLeng": "r",
+    "tel": "రాయనేర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34075",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayno",
+    "FLeng": "R",
+    "tel": "రైనో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34076",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raynor",
+    "FLeng": "R",
+    "tel": "రైనోర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34077",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "raynor",
+    "FLeng": "r",
+    "tel": "రైనోర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34078",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Raynord",
+    "FLeng": "R",
+    "tel": "రైనోర్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34079",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Raysel",
+    "FLeng": "R",
+    "tel": "రేసెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayshan",
+    "FLeng": "R",
+    "tel": "రేషన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34081",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayshard",
+    "FLeng": "R",
+    "tel": "రేషార్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34082",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Rayshod",
+    "FLeng": "R",
+    "tel": "రేషాద్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34083",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Rayshon",
+    "FLeng": "R",
+    "tel": "రేషన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34084",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rayshon",
+    "FLeng": "r",
+    "tel": "రేషన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34085",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayton",
+    "FLeng": "R",
+    "tel": "రేటొన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34086",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rayvon",
+    "FLeng": "R",
+    "tel": "రేవోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34087",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rayvon",
+    "FLeng": "r",
+    "tel": "రేవోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34088",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Raza",
+    "FLeng": "R",
+    "tel": "రాజా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34089",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Razak",
+    "FLeng": "R",
+    "tel": "రజాక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34090",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Razam",
+    "FLeng": "R",
+    "tel": "రాజాం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34091",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Raziel",
+    "FLeng": "R",
+    "tel": "రాజిఎల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34092",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Razik",
+    "FLeng": "R",
+    "tel": "రాజిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34093",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Razin",
+    "FLeng": "R",
+    "tel": "రజిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34094",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Raziurrahman",
+    "FLeng": "R",
+    "tel": "రాజిజుర్రహ్మాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34095",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Razlan",
+    "FLeng": "R",
+    "tel": "రాజలాం",
+    "FLtel": "ర"
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "id": "22874",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lockie",
+    "FLeng": "L",
+    "tel": "లోకకై",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22875",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lockie",
+    "FLeng": "l",
+    "tel": "లోకకై",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22876",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lockley",
+    "FLeng": "L",
+    "tel": "లొక్ల్య్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22877",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lockwood",
+    "FLeng": "L",
+    "tel": "లొక్వుడ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22878",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lockwood",
+    "FLeng": "l",
+    "tel": "లొక్వుడ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22879",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Locryn",
+    "FLeng": "L",
+    "tel": "లోకరీన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22880",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Locutus",
+    "FLeng": "L",
+    "tel": "లోకట్స్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22881",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lod",
+    "FLeng": "L",
+    "tel": "లోడ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22882",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loden",
+    "FLeng": "L",
+    "tel": "లాడెన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22883",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lodewijk",
+    "FLeng": "L",
+    "tel": "లోడివిజిక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22884",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lodewijk",
+    "FLeng": "l",
+    "tel": "లోడివిజిక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22885",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lodge",
+    "FLeng": "l",
+    "tel": "లొద్గె",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22886",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Lodhi",
+    "FLeng": "L",
+    "tel": "లోది",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22887",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lodovico",
+    "FLeng": "L",
+    "tel": "లోదొవికా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22888",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lodovico",
+    "FLeng": "l",
+    "tel": "లోదొవికా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22889",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lodowick",
+    "FLeng": "L",
+    "tel": "లోదొవిక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22890",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lodwig",
+    "FLeng": "L",
+    "tel": "లొద్విగ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22891",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "loeb",
+    "FLeng": "l",
+    "tel": "లోబ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22892",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loefel",
+    "FLeng": "L",
+    "tel": "లోఎఫెల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22893",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loes",
+    "FLeng": "L",
+    "tel": "లోస్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22894",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "loewe",
+    "FLeng": "l",
+    "tel": "లోలెవె",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22895",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lofton",
+    "FLeng": "L",
+    "tel": "లిఫ్టన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22896",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logachandran",
+    "FLeng": "L",
+    "tel": "లోగచంద్రన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22897",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logaiah",
+    "FLeng": "L",
+    "tel": "లోగయ్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logan",
+    "FLeng": "L",
+    "tel": "లోగాన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Loganathan",
+    "FLeng": "L",
+    "tel": "లోగనాథన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22900",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logaraja",
+    "FLeng": "L",
+    "tel": "లోగరాజా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22901",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logenthiran",
+    "FLeng": "L",
+    "tel": "లొగెంతీరం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logesh",
+    "FLeng": "L",
+    "tel": "లోగేష్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22903",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logeshram",
+    "FLeng": "L",
+    "tel": "లోగేశ్రం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logeshwaran",
+    "FLeng": "L",
+    "tel": "లోగేశ్వరం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22905",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logith",
+    "FLeng": "L",
+    "tel": "లోజిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Logithan",
+    "FLeng": "L",
+    "tel": "లోగితం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22907",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Logu",
+    "FLeng": "L",
+    "tel": "లోగు",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22908",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loha",
+    "FLeng": "L",
+    "tel": "లోహ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22909",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohajit",
+    "FLeng": "L",
+    "tel": "లోహజిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohendra",
+    "FLeng": "L",
+    "tel": "లోహేన్ద్ర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22911",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohit",
+    "FLeng": "L",
+    "tel": "లోహిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22912",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohitaksh",
+    "FLeng": "L",
+    "tel": "లోహితాక్ష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22913",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohitaksha",
+    "FLeng": "L",
+    "tel": "లోహితాక్ష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22914",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohitashwa",
+    "FLeng": "L",
+    "tel": "లోహితాశ్వ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22915",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohith",
+    "FLeng": "L",
+    "tel": "లోహిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22916",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohithaksh",
+    "FLeng": "L",
+    "tel": "లోహితాక్ష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22917",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lohithaswa",
+    "FLeng": "L",
+    "tel": "లోహితస్వ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22918",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lohitsaran",
+    "FLeng": "L",
+    "tel": "లోహిత్సరం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22919",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lohot",
+    "FLeng": "L",
+    "tel": "లోహిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22920",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loic",
+    "FLeng": "L",
+    "tel": "లోయ్క్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22921",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "loic",
+    "FLeng": "l",
+    "tel": "లోయ్క్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22922",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lojza",
+    "FLeng": "L",
+    "tel": "లోజిజా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lok",
+    "FLeng": "L",
+    "tel": "లోక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22924",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loka",
+    "FLeng": "L",
+    "tel": "లోక",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22925",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokadhyaksha",
+    "FLeng": "L",
+    "tel": "లోకాధ్యక్ష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokajit",
+    "FLeng": "L",
+    "tel": "లోకజిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22927",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokakanta",
+    "FLeng": "L",
+    "tel": "లోకకంట",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22928",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokakriti",
+    "FLeng": "L",
+    "tel": "లోకకృతి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22929",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokakshi",
+    "FLeng": "L",
+    "tel": "లోకాక్షి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22930",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokamaya",
+    "FLeng": "L",
+    "tel": "లోకమయ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22931",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokanand",
+    "FLeng": "L",
+    "tel": "లోకనంద్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22932",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokanath",
+    "FLeng": "L",
+    "tel": "లోకనాథ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22933",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lokanathan",
+    "FLeng": "L",
+    "tel": "లోకనాథన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22934",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokanetra",
+    "FLeng": "L",
+    "tel": "లోకనేత్ర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22935",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokaniya",
+    "FLeng": "L",
+    "tel": "లోకానీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22936",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokankara",
+    "FLeng": "L",
+    "tel": "లోకంకర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22937",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokapal",
+    "FLeng": "L",
+    "tel": "లోకపాల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22938",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokapradip",
+    "FLeng": "L",
+    "tel": "లోకప్రదీప్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22939",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokapujya",
+    "FLeng": "L",
+    "tel": "లోకపూజ్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22940",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokasundar",
+    "FLeng": "L",
+    "tel": "లోకసుందర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22941",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokasunder",
+    "FLeng": "L",
+    "tel": "లోకసుందర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22942",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokbhushan",
+    "FLeng": "L",
+    "tel": "లోకభూషణ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22943",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Loke",
+    "FLeng": "L",
+    "tel": "లోకే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22944",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lokej",
+    "FLeng": "L",
+    "tel": "లోకేజ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22945",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokender",
+    "FLeng": "L",
+    "tel": "లోకేందర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22946",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokendra",
+    "FLeng": "L",
+    "tel": "లోకేంద్ర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22947",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokesh",
+    "FLeng": "L",
+    "tel": "లోకేష్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22948",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokesha",
+    "FLeng": "L",
+    "tel": "లోకేశా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22949",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokeshwar",
+    "FLeng": "L",
+    "tel": "లోకేశ్వర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22950",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokeshwaran",
+    "FLeng": "L",
+    "tel": "లోకేశ్వరం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22951",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokeswar",
+    "FLeng": "L",
+    "tel": "లోకేశ్వర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22952",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokhande",
+    "FLeng": "L",
+    "tel": "లోఖండ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22953",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokhu",
+    "FLeng": "L",
+    "tel": "లోకహి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22954",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Loki",
+    "FLeng": "L",
+    "tel": "లోకి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "loki",
+    "FLeng": "l",
+    "tel": "లోకి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22956",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokin",
+    "FLeng": "L",
+    "tel": "లోకిం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22957",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokit",
+    "FLeng": "L",
+    "tel": "లొకేట్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22958",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Loklaj",
+    "FLeng": "L",
+    "tel": "లోక్లాజ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22959",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lokmeet",
+    "FLeng": "L",
+    "tel": "లోకమిటీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22960",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Loknaath",
+    "FLeng": "L",
+    "tel": "లోకనాథ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22961",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Loknath",
+    "FLeng": "L",
+    "tel": "లోకనాథ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22962",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lokpal",
+    "FLeng": "L",
+    "tel": "లోక్పాల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22963",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokpradeep",
+    "FLeng": "L",
+    "tel": "లోకప్రదీప్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22964",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokprakash",
+    "FLeng": "L",
+    "tel": "లోకప్రకాష్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22965",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lokprasad",
+    "FLeng": "L",
+    "tel": "లోకప్రసాద్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "22966",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lokpreet",
+    "FLeng": "L",
+    "tel": "లొక్ప్రీత్",
+    "FLtel": "ల"
+  }
+]

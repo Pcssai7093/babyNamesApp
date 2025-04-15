@@ -1,0 +1,794 @@
+[
+  {
+    "id": "117652",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjo",
+    "FLeng": "M",
+    "tel": "మారాజా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117653",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjolaine",
+    "FLeng": "M",
+    "tel": "మరాజాలైనే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117654",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjolein",
+    "FLeng": "M",
+    "tel": "మారాజోలికిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117655",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marjolein",
+    "FLeng": "m",
+    "tel": "మారాజోలికిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117656",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjon",
+    "FLeng": "M",
+    "tel": "మరిజోన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117657",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjoria",
+    "FLeng": "M",
+    "tel": "మరజొరీయా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117658",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjorie",
+    "FLeng": "M",
+    "tel": "మరజొరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117659",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjory",
+    "FLeng": "M",
+    "tel": "మరజొరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117660",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marjut",
+    "FLeng": "M",
+    "tel": "మర్జుట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117661",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Markanda",
+    "FLeng": "M",
+    "tel": "మార్కండే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117662",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Markaret",
+    "FLeng": "M",
+    "tel": "మార్కరేట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117663",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Markella",
+    "FLeng": "M",
+    "tel": "మార్కెట్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117664",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marketa",
+    "FLeng": "M",
+    "tel": "మార్కెట్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117665",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marketa",
+    "FLeng": "m",
+    "tel": "మార్కెట్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117666",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Markie",
+    "FLeng": "M",
+    "tel": "మరకీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117667",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "markie",
+    "FLeng": "m",
+    "tel": "మరకీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117668",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Markisha",
+    "FLeng": "M",
+    "tel": "మార్కిశ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117669",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Markita",
+    "FLeng": "M",
+    "tel": "మార్కితా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117670",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "markita",
+    "FLeng": "m",
+    "tel": "మార్కితా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117671",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marla",
+    "FLeng": "M",
+    "tel": "మరల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117672",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marla",
+    "FLeng": "m",
+    "tel": "మరల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117673",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlaina",
+    "FLeng": "M",
+    "tel": "మరులైన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117674",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlaine",
+    "FLeng": "M",
+    "tel": "మార్లైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117675",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlana",
+    "FLeng": "M",
+    "tel": "మర్లాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117676",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlayna",
+    "FLeng": "M",
+    "tel": "మర్లయినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117677",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlee",
+    "FLeng": "M",
+    "tel": "మార్లీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117678",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marlee",
+    "FLeng": "m",
+    "tel": "మార్లీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117679",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marleen",
+    "FLeng": "M",
+    "tel": "మార్లీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117680",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marleena",
+    "FLeng": "M",
+    "tel": "మార్లీన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117681",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marleene",
+    "FLeng": "M",
+    "tel": "మార్లీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117682",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marleina",
+    "FLeng": "M",
+    "tel": "మార్లెయినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117683",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Marleisha",
+    "FLeng": "M",
+    "tel": "మార్లెఇస్హా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117684",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marleisha",
+    "FLeng": "m",
+    "tel": "మార్లెఇస్హా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117685",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlena",
+    "FLeng": "M",
+    "tel": "మార్లేనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117686",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marlena",
+    "FLeng": "m",
+    "tel": "మార్లేనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117687",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlene",
+    "FLeng": "M",
+    "tel": "మార్లెనే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117688",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlenie",
+    "FLeng": "M",
+    "tel": "మార్కెనియె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117689",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlenne",
+    "FLeng": "M",
+    "tel": "మార్లెన్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117690",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marley-3",
+    "FLeng": "m",
+    "tel": "మార్లెయ్-త్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117691",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marleyna",
+    "FLeng": "M",
+    "tel": "మార్లెయినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117692",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marli",
+    "FLeng": "M",
+    "tel": "మారాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117693",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marli",
+    "FLeng": "m",
+    "tel": "మారాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117694",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlia",
+    "FLeng": "M",
+    "tel": "మర్లియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117695",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marlie",
+    "FLeng": "m",
+    "tel": "మార్లీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117696",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlina",
+    "FLeng": "M",
+    "tel": "మార్లిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117697",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlinda",
+    "FLeng": "M",
+    "tel": "మార్లింద",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117698",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marline",
+    "FLeng": "M",
+    "tel": "మార్లిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117699",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlis",
+    "FLeng": "M",
+    "tel": "మార్లిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117700",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marlis",
+    "FLeng": "m",
+    "tel": "మార్లిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117701",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlisa",
+    "FLeng": "M",
+    "tel": "మర్లిసా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117702",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlise",
+    "FLeng": "M",
+    "tel": "మర్లిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117703",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marliss",
+    "FLeng": "M",
+    "tel": "మార్లిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117704",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marlo",
+    "FLeng": "m",
+    "tel": "మార్లో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117705",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marloes",
+    "FLeng": "M",
+    "tel": "మార్లొస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117706",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marloes",
+    "FLeng": "m",
+    "tel": "మార్లొస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117707",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marly",
+    "FLeng": "m",
+    "tel": "మారాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117708",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marlyn",
+    "FLeng": "M",
+    "tel": "మార్కులైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117709",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlynn",
+    "FLeng": "M",
+    "tel": "మార్కులైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117710",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlys",
+    "FLeng": "M",
+    "tel": "మరలిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117711",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marlyssa",
+    "FLeng": "M",
+    "tel": "మార్కులైస్స",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117712",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marmar",
+    "FLeng": "M",
+    "tel": "మర్మర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117713",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marmareen",
+    "FLeng": "M",
+    "tel": "మర్మరీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117714",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marmarin",
+    "FLeng": "M",
+    "tel": "మర్మరిం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117715",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Marmi",
+    "FLeng": "M",
+    "tel": "మరేమి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117716",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marna",
+    "FLeng": "M",
+    "tel": "మారిన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117717",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marna",
+    "FLeng": "m",
+    "tel": "మారిన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117718",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Marne",
+    "FLeng": "M",
+    "tel": "మార్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117719",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marnetta",
+    "FLeng": "M",
+    "tel": "మార్నేట్ట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117720",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marnette",
+    "FLeng": "M",
+    "tel": "మార్నేట్టే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117721",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marney",
+    "FLeng": "M",
+    "tel": "మార్న్య్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117722",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marni",
+    "FLeng": "M",
+    "tel": "మారని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117723",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marnia",
+    "FLeng": "M",
+    "tel": "మార్నియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117724",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marnica",
+    "FLeng": "M",
+    "tel": "మార్నికా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117725",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marnie",
+    "FLeng": "M",
+    "tel": "మార్నియే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117726",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marnie",
+    "FLeng": "m",
+    "tel": "మార్నియే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117727",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marnin",
+    "FLeng": "M",
+    "tel": "మరణిం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117728",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marnina",
+    "FLeng": "M",
+    "tel": "మరణినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117729",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marnina",
+    "FLeng": "m",
+    "tel": "మరణినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117730",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marnita",
+    "FLeng": "M",
+    "tel": "మార్నిట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117731",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marny",
+    "FLeng": "M",
+    "tel": "మర్నీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117732",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marolie",
+    "FLeng": "M",
+    "tel": "మరోలై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117733",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marolyn",
+    "FLeng": "M",
+    "tel": "మరోలీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117734",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marona",
+    "FLeng": "M",
+    "tel": "మరోనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117735",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "maroochy",
+    "FLeng": "m",
+    "tel": "మరోచే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117736",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Maroofa",
+    "FLeng": "M",
+    "tel": "మారూఫా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117737",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marooke",
+    "FLeng": "M",
+    "tel": "మరోకే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117738",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marpesia",
+    "FLeng": "m",
+    "tel": "మార్పేసియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117739",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marpessa",
+    "FLeng": "m",
+    "tel": "మార్పేస్స",
+    "FLtel": "మ"
+  }
+]

@@ -25,7 +25,7 @@ class _bottomBannerAdState extends State<bottomBannerAd> {
     final size = await AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize(
         MediaQuery.sizeOf(context).width.truncate());
     _bannerAd = BannerAd(
-      adUnitId: "ca-app-pub-3940256099942544/9214589741",
+      adUnitId: "ca-app-pub-2071196384129241/6828130207",
       request: const AdRequest(),
       size: size!,
       listener: BannerAdListener(

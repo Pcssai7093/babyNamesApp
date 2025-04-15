@@ -1,0 +1,812 @@
+[
+  {
+    "id": "23597",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mador",
+    "FLeng": "M",
+    "tel": "మదర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23598",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mads",
+    "FLeng": "M",
+    "tel": "మడ్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23599",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mads",
+    "FLeng": "m",
+    "tel": "మడ్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23600",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Madulf",
+    "FLeng": "M",
+    "tel": "మాడ్యూల్ఫ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23601",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Madur",
+    "FLeng": "M",
+    "tel": "మధుర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23602",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Madurai",
+    "FLeng": "M",
+    "tel": "మదురై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23603",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Madurank",
+    "FLeng": "M",
+    "tel": "మధురానక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23604",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Madushen",
+    "FLeng": "M",
+    "tel": "మధుశేన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23605",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Madvan",
+    "FLeng": "M",
+    "tel": "మాధవన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23606",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Madyan",
+    "FLeng": "M",
+    "tel": "మద్యం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23607",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Madyn",
+    "FLeng": "M",
+    "tel": "మద్య్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23608",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Madyson",
+    "FLeng": "M",
+    "tel": "మడీస్న్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23609",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maed",
+    "FLeng": "M",
+    "tel": "మేడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23610",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maegenfrith",
+    "FLeng": "M",
+    "tel": "మేఁగెంఫ్రిత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23611",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maegla",
+    "FLeng": "M",
+    "tel": "మేజిల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23612",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mael",
+    "FLeng": "m",
+    "tel": "మాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23613",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maelgwn",
+    "FLeng": "M",
+    "tel": "మెల్గ్వన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23614",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maelle",
+    "FLeng": "M",
+    "tel": "మెల్లె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23615",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maelwine",
+    "FLeng": "M",
+    "tel": "మేళవినే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23616",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maerec",
+    "FLeng": "M",
+    "tel": "మార్క్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maeret",
+    "FLeng": "M",
+    "tel": "మెరిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23618",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maerewine",
+    "FLeng": "M",
+    "tel": "మేరేవినే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23619",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maerheard",
+    "FLeng": "M",
+    "tel": "మార్హెర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23620",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maeron",
+    "FLeng": "M",
+    "tel": "మార్న్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23621",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maersa",
+    "FLeng": "M",
+    "tel": "మెర్స",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23622",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maeryn",
+    "FLeng": "M",
+    "tel": "మెరైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maes",
+    "FLeng": "m",
+    "tel": "మాస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23624",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maethelgar",
+    "FLeng": "M",
+    "tel": "మేథేల్గర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23625",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maethelwine",
+    "FLeng": "M",
+    "tel": "మేతెలివిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23626",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maetthere",
+    "FLeng": "M",
+    "tel": "మెత్తెరే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23627",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maez",
+    "FLeng": "M",
+    "tel": "మేజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23628",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mafeed",
+    "FLeng": "M",
+    "tel": "మాఫీడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23629",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Magadh",
+    "FLeng": "M",
+    "tel": "మగధ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Magadha",
+    "FLeng": "M",
+    "tel": "మగధ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Magahet",
+    "FLeng": "M",
+    "tel": "మగహేట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23632",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Magan",
+    "FLeng": "M",
+    "tel": "మగన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23633",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maganlal",
+    "FLeng": "M",
+    "tel": "మగన్లాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23634",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magar",
+    "FLeng": "M",
+    "tel": "మగర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23635",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magastomo",
+    "FLeng": "m",
+    "tel": "మెగాస్టమో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23636",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Magath",
+    "FLeng": "M",
+    "tel": "మగత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23637",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Magdi",
+    "FLeng": "M",
+    "tel": "మగడి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23638",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Magee",
+    "FLeng": "M",
+    "tel": "మాజీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23639",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magee",
+    "FLeng": "m",
+    "tel": "మాజీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23640",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magen",
+    "FLeng": "M",
+    "tel": "మాజం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23641",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Magesh",
+    "FLeng": "M",
+    "tel": "మంగేష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23642",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maggio",
+    "FLeng": "m",
+    "tel": "మగ్గియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23643",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magglio",
+    "FLeng": "M",
+    "tel": "మఙ్గలియో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23644",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Magh",
+    "FLeng": "M",
+    "tel": "మగ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23645",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maghvana",
+    "FLeng": "M",
+    "tel": "మాఘ్వన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23646",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Magid",
+    "FLeng": "M",
+    "tel": "మాజిద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23647",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maglicunas",
+    "FLeng": "M",
+    "tel": "మంగ్లికన్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23648",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maglocunos",
+    "FLeng": "M",
+    "tel": "మఙ్గలోకనోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23649",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maglocvni",
+    "FLeng": "M",
+    "tel": "మఙ్గలోకివని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23650",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maglorius",
+    "FLeng": "M",
+    "tel": "మఙ్గలోరిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23651",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maglus",
+    "FLeng": "M",
+    "tel": "మజిల్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23652",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magnar",
+    "FLeng": "M",
+    "tel": "మాగ్నర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23653",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magnar",
+    "FLeng": "m",
+    "tel": "మాగ్నర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23654",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magne",
+    "FLeng": "M",
+    "tel": "మాగ్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23655",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magne",
+    "FLeng": "m",
+    "tel": "మాగ్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23656",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magni",
+    "FLeng": "m",
+    "tel": "మాగ్ని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23657",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magnum",
+    "FLeng": "M",
+    "tel": "మాగ్నమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23658",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magnum",
+    "FLeng": "m",
+    "tel": "మాగ్నమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23659",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magnus",
+    "FLeng": "M",
+    "tel": "మగ్నుస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23660",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "magnus",
+    "FLeng": "m",
+    "tel": "మగ్నుస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23661",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mago",
+    "FLeng": "M",
+    "tel": "మాగో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23662",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magott",
+    "FLeng": "M",
+    "tel": "మాగొట్ట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23663",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magraj",
+    "FLeng": "M",
+    "tel": "మాగ్రజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23664",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maguire",
+    "FLeng": "M",
+    "tel": "మగిరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23665",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Magusenos",
+    "FLeng": "M",
+    "tel": "మగుసెనోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23666",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maha Dhyuta",
+    "FLeng": "M",
+    "tel": "మహా ద్యుతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23667",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maha Ganapati",
+    "FLeng": "M",
+    "tel": "మహా గణపతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23668",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahaadev",
+    "FLeng": "M",
+    "tel": "మహాదేవ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23669",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mahaadeva",
+    "FLeng": "M",
+    "tel": "మహాదేవ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23670",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mahaan",
+    "FLeng": "M",
+    "tel": "మహాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23671",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahaaveer",
+    "FLeng": "M",
+    "tel": "మహావీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23672",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahabahu",
+    "FLeng": "M",
+    "tel": "మహాబాహు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23673",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahabala",
+    "FLeng": "M",
+    "tel": "మహాబల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23674",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mahabalesvara",
+    "FLeng": "M",
+    "tel": "మహాబలేశ్వర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23675",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahabali",
+    "FLeng": "M",
+    "tel": "మహాబలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23676",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahabhag",
+    "FLeng": "M",
+    "tel": "మహాభాగ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23677",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahabhuja",
+    "FLeng": "M",
+    "tel": "మహాభుజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23678",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mahabir",
+    "FLeng": "M",
+    "tel": "మహాబీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23679",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahabuddhi",
+    "FLeng": "M",
+    "tel": "మహాబుద్ధి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23680",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mahad",
+    "FLeng": "M",
+    "tel": "మహద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23681",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahadat",
+    "FLeng": "M",
+    "tel": "మహాదత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23682",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mahaddev",
+    "FLeng": "M",
+    "tel": "మహద్దేవీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23683",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahadeo",
+    "FLeng": "M",
+    "tel": "మహాదేవ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23684",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahadev",
+    "FLeng": "M",
+    "tel": "మహాదేవ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23685",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahadeva",
+    "FLeng": "M",
+    "tel": "మహాదేవ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "23686",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mahadevadi Pujita",
+    "FLeng": "M",
+    "tel": "మహాదేవాది పూజిత",
+    "FLtel": "మ"
+  }
+]

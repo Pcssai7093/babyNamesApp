@@ -1,0 +1,731 @@
+[
+  {
+    "id": "129511",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "shurthi",
+    "FLeng": "s",
+    "tel": "శుర్తి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129512",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shushana",
+    "FLeng": "S",
+    "tel": "శూషణ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129513",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shushila",
+    "FLeng": "S",
+    "tel": "శుశుల",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129514",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shushma",
+    "FLeng": "S",
+    "tel": "శుష్మ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129515",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shushmi",
+    "FLeng": "S",
+    "tel": "శుష్మి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129516",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shutimati",
+    "FLeng": "S",
+    "tel": "శుక్తిమతి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129517",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shutradevi",
+    "FLeng": "S",
+    "tel": "శుత్రదేవి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129518",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shuvenkar",
+    "FLeng": "S",
+    "tel": "శువెన్కర్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129519",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shveni",
+    "FLeng": "S",
+    "tel": "ష్వెని",
+    "FLtel": "ష"
+  },
+  {
+    "id": "129520",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shveti",
+    "FLeng": "S",
+    "tel": "ష్వెటి",
+    "FLtel": "ష"
+  },
+  {
+    "id": "129521",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shviti",
+    "FLeng": "S",
+    "tel": "శ్వీటి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129522",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shwetambari",
+    "FLeng": "S",
+    "tel": "శ్వేతాంబరి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129523",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shwetambri",
+    "FLeng": "S",
+    "tel": "శ్వేతమ్బరీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129524",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shwetha",
+    "FLeng": "S",
+    "tel": "శ్వేతా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129525",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shwethiha",
+    "FLeng": "S",
+    "tel": "శ్వేతిహా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129526",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shwetika",
+    "FLeng": "S",
+    "tel": "శ్వేతిక",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129527",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shwiti",
+    "FLeng": "S",
+    "tel": "శ్విటి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129528",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shya",
+    "FLeng": "S",
+    "tel": "శ్యా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129529",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyaama",
+    "FLeng": "S",
+    "tel": "శ్యామా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129530",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyala",
+    "FLeng": "S",
+    "tel": "శ్యాల",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129531",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyama",
+    "FLeng": "S",
+    "tel": "శ్యామా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129532",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "shyama",
+    "FLeng": "s",
+    "tel": "శ్యామా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129533",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamakalyani",
+    "FLeng": "S",
+    "tel": "శ్యామకల్యాణి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129534",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamala",
+    "FLeng": "S",
+    "tel": "శ్యామల",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129535",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamali",
+    "FLeng": "S",
+    "tel": "శ్యామలీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129536",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamalika",
+    "FLeng": "S",
+    "tel": "శ్యామలీక",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129537",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamalima",
+    "FLeng": "S",
+    "tel": "శ్యామలీమ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129538",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamangi",
+    "FLeng": "S",
+    "tel": "శ్యమంగి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129539",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamari",
+    "FLeng": "S",
+    "tel": "శ్యామారి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129540",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamasri",
+    "FLeng": "S",
+    "tel": "శ్యామాశ్రీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129541",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamini",
+    "FLeng": "S",
+    "tel": "శ్యామిని",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129542",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyamlata",
+    "FLeng": "S",
+    "tel": "శ్యామలత",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129543",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shyanne",
+    "FLeng": "S",
+    "tel": "శ్యాన్నే",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129544",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyanti",
+    "FLeng": "S",
+    "tel": "శ్యన్తి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129545",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shye",
+    "FLeng": "S",
+    "tel": "శ్యే",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129546",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyeti",
+    "FLeng": "S",
+    "tel": "శ్యేటి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129547",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyla",
+    "FLeng": "S",
+    "tel": "శైల",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129548",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shylaja",
+    "FLeng": "S",
+    "tel": "శైలజ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129549",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Shylee",
+    "FLeng": "S",
+    "tel": "శైలీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129550",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Shyli",
+    "FLeng": "S",
+    "tel": "శైలి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129551",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shyma",
+    "FLeng": "S",
+    "tel": "శైమా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129552",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Shyna",
+    "FLeng": "S",
+    "tel": "షేణ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "129553",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Shyreen",
+    "FLeng": "S",
+    "tel": "శైరీన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129554",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sia",
+    "FLeng": "S",
+    "tel": "సియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "129555",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Siara",
+    "FLeng": "S",
+    "tel": "సితార",
+    "FLtel": "స"
+  },
+  {
+    "id": "129556",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Siaraa",
+    "FLeng": "S",
+    "tel": "సితారా",
+    "FLtel": "స"
+  },
+  {
+    "id": "129557",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sib",
+    "FLeng": "S",
+    "tel": "సిబ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129558",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Siba",
+    "FLeng": "S",
+    "tel": "సీబీఐ",
+    "FLtel": "స"
+  },
+  {
+    "id": "129559",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sibaal",
+    "FLeng": "S",
+    "tel": "సిబాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129560",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibal",
+    "FLeng": "S",
+    "tel": "సిబాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129561",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sibani",
+    "FLeng": "S",
+    "tel": "సీబీఐని",
+    "FLtel": "స"
+  },
+  {
+    "id": "129562",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sibba",
+    "FLeng": "S",
+    "tel": "సిబ్బ",
+    "FLtel": "స"
+  },
+  {
+    "id": "129563",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibeal",
+    "FLeng": "S",
+    "tel": "సిబల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129564",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sibel",
+    "FLeng": "S",
+    "tel": "సిబల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129565",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sibeli",
+    "FLeng": "S",
+    "tel": "సిబిలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "129566",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibell",
+    "FLeng": "S",
+    "tel": "సిబల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129567",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibella",
+    "FLeng": "S",
+    "tel": "సిబిల్లా",
+    "FLtel": "స"
+  },
+  {
+    "id": "129568",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibely",
+    "FLeng": "S",
+    "tel": "సిబిల్య్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129569",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sibgha",
+    "FLeng": "S",
+    "tel": "శిబుగ్గ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "129570",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibil",
+    "FLeng": "S",
+    "tel": "సిబిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129571",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibila",
+    "FLeng": "S",
+    "tel": "సిబిల",
+    "FLtel": "స"
+  },
+  {
+    "id": "129572",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibile",
+    "FLeng": "S",
+    "tel": "సిబిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129573",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibilia",
+    "FLeng": "S",
+    "tel": "సిబిలియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "129574",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibilie",
+    "FLeng": "S",
+    "tel": "సిబిలై",
+    "FLtel": "స"
+  },
+  {
+    "id": "129575",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibill",
+    "FLeng": "S",
+    "tel": "సిబిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129576",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibilla",
+    "FLeng": "S",
+    "tel": "సిబిల్లా",
+    "FLtel": "స"
+  },
+  {
+    "id": "129577",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibley",
+    "FLeng": "S",
+    "tel": "సిల్క్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129578",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibli",
+    "FLeng": "S",
+    "tel": "సిబిలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "129579",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibri",
+    "FLeng": "S",
+    "tel": "సైబీరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "129580",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibry",
+    "FLeng": "S",
+    "tel": "సైబీరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "129581",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibwine",
+    "FLeng": "S",
+    "tel": "సిబివినే",
+    "FLtel": "స"
+  },
+  {
+    "id": "129582",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibyl",
+    "FLeng": "S",
+    "tel": "సీబీఎల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129583",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "sibyl",
+    "FLeng": "s",
+    "tel": "సీబీఎల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129584",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibyla",
+    "FLeng": "S",
+    "tel": "సిబైల",
+    "FLtel": "స"
+  },
+  {
+    "id": "129585",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibyll",
+    "FLeng": "S",
+    "tel": "సీబీఎల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129586",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibylla",
+    "FLeng": "S",
+    "tel": "సిబ్య్ళ్ళ",
+    "FLtel": "స"
+  },
+  {
+    "id": "129587",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sibylle",
+    "FLeng": "S",
+    "tel": "సిబ్య్ళ్ళి",
+    "FLtel": "స"
+  },
+  {
+    "id": "129588",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sicillia",
+    "FLeng": "S",
+    "tel": "సిసిలియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "129589",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sicily",
+    "FLeng": "S",
+    "tel": "సిసిలీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "129590",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sidakpreet",
+    "FLeng": "S",
+    "tel": "సిడాక్ప్రీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "129591",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Siddhaanti",
+    "FLeng": "S",
+    "tel": "సిద్ధాంతి",
+    "FLtel": "స"
+  }
+]

@@ -1,0 +1,785 @@
+[
+  {
+    "id": "135708",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashri",
+    "FLeng": "Y",
+    "tel": "యాశ్రి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135709",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashritha",
+    "FLeng": "Y",
+    "tel": "యాశ్రిత",
+    "FLtel": "య"
+  },
+  {
+    "id": "135710",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashshree",
+    "FLeng": "Y",
+    "tel": "యాశ్శ్రీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "135711",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashshri",
+    "FLeng": "Y",
+    "tel": "యాశ్శ్రీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "135712",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashti",
+    "FLeng": "Y",
+    "tel": "యష్టి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135713",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashvi",
+    "FLeng": "Y",
+    "tel": "యశ్వి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135714",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashvita",
+    "FLeng": "Y",
+    "tel": "యశ్విత",
+    "FLtel": "య"
+  },
+  {
+    "id": "135715",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashvy",
+    "FLeng": "Y",
+    "tel": "యాశ్వ్య్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135716",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashwarya",
+    "FLeng": "Y",
+    "tel": "యశ్వర్య",
+    "FLtel": "య"
+  },
+  {
+    "id": "135717",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashwini",
+    "FLeng": "Y",
+    "tel": "యశ్విని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135718",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashwitha",
+    "FLeng": "Y",
+    "tel": "యశ్విత",
+    "FLtel": "య"
+  },
+  {
+    "id": "135719",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yashyassri",
+    "FLeng": "Y",
+    "tel": "యాశ్యసురీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "135720",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasi",
+    "FLeng": "Y",
+    "tel": "యాసి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135721",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasim",
+    "FLeng": "Y",
+    "tel": "యాసిన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135722",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasira",
+    "FLeng": "Y",
+    "tel": "యాసిరా",
+    "FLtel": "య"
+  },
+  {
+    "id": "135723",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasirah",
+    "FLeng": "Y",
+    "tel": "యాశిరః",
+    "FLtel": "య"
+  },
+  {
+    "id": "135724",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasmeen",
+    "FLeng": "Y",
+    "tel": "యస్సామీన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135725",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasmeenah",
+    "FLeng": "Y",
+    "tel": "యస్సామీనః",
+    "FLtel": "య"
+  },
+  {
+    "id": "135726",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasmin",
+    "FLeng": "Y",
+    "tel": "యస్మిం",
+    "FLtel": "య"
+  },
+  {
+    "id": "135727",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasmina",
+    "FLeng": "Y",
+    "tel": "యాస్మిన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135728",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasmine",
+    "FLeng": "Y",
+    "tel": "యాస్మిన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135729",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "yasmine",
+    "FLeng": "y",
+    "tel": "యాస్మిన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135730",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasmini",
+    "FLeng": "Y",
+    "tel": "యస్మిని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135731",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasmita",
+    "FLeng": "Y",
+    "tel": "యస్మితా",
+    "FLtel": "య"
+  },
+  {
+    "id": "135732",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasmoon",
+    "FLeng": "Y",
+    "tel": "యాసమున్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135733",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yasna",
+    "FLeng": "Y",
+    "tel": "యాసన",
+    "FLtel": "య"
+  },
+  {
+    "id": "135734",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasoda",
+    "FLeng": "Y",
+    "tel": "యశోద",
+    "FLtel": "య"
+  },
+  {
+    "id": "135735",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasodha",
+    "FLeng": "Y",
+    "tel": "యశోద",
+    "FLtel": "య"
+  },
+  {
+    "id": "135736",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasodhara",
+    "FLeng": "Y",
+    "tel": "యశోధర",
+    "FLtel": "య"
+  },
+  {
+    "id": "135737",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yass",
+    "FLeng": "Y",
+    "tel": "యస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135738",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yassaman",
+    "FLeng": "Y",
+    "tel": "యస్సమం",
+    "FLtel": "య"
+  },
+  {
+    "id": "135739",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasti",
+    "FLeng": "Y",
+    "tel": "ఎస్టీ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135740",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yastika",
+    "FLeng": "Y",
+    "tel": "యాస్తికా",
+    "FLtel": "య"
+  },
+  {
+    "id": "135741",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yasvitha",
+    "FLeng": "Y",
+    "tel": "యశ్విత",
+    "FLtel": "య"
+  },
+  {
+    "id": "135742",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yaswini",
+    "FLeng": "Y",
+    "tel": "యశ్విని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135743",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yaswitha",
+    "FLeng": "Y",
+    "tel": "యశ్విత",
+    "FLtel": "య"
+  },
+  {
+    "id": "135744",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yatee",
+    "FLeng": "Y",
+    "tel": "యతీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "135745",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yathartha",
+    "FLeng": "Y",
+    "tel": "యథార్థ",
+    "FLtel": "య"
+  },
+  {
+    "id": "135746",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yathi",
+    "FLeng": "Y",
+    "tel": "యతి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135747",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yathika",
+    "FLeng": "Y",
+    "tel": "యతిక",
+    "FLtel": "య"
+  },
+  {
+    "id": "135748",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yathree",
+    "FLeng": "Y",
+    "tel": "యాత్రీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "135749",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yatika",
+    "FLeng": "Y",
+    "tel": "యతిక",
+    "FLtel": "య"
+  },
+  {
+    "id": "135750",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yatishma",
+    "FLeng": "Y",
+    "tel": "యతిష్మా",
+    "FLtel": "య"
+  },
+  {
+    "id": "135751",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yatri",
+    "FLeng": "Y",
+    "tel": "యాత్రి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135752",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yatudhani",
+    "FLeng": "Y",
+    "tel": "యాతుధాని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135753",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yatwika",
+    "FLeng": "Y",
+    "tel": "యాత్విక",
+    "FLtel": "య"
+  },
+  {
+    "id": "135754",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yauvani",
+    "FLeng": "Y",
+    "tel": "యావని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135755",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yavana",
+    "FLeng": "Y",
+    "tel": "యవ్వన",
+    "FLtel": "య"
+  },
+  {
+    "id": "135756",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yavani",
+    "FLeng": "Y",
+    "tel": "యావని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135757",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yavanika",
+    "FLeng": "Y",
+    "tel": "యవనిక",
+    "FLtel": "య"
+  },
+  {
+    "id": "135758",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yavantika",
+    "FLeng": "Y",
+    "tel": "యావన్తికా",
+    "FLtel": "య"
+  },
+  {
+    "id": "135759",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yayati",
+    "FLeng": "Y",
+    "tel": "యయాతి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135760",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yayota",
+    "FLeng": "Y",
+    "tel": "టయోటా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "135761",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yazhini",
+    "FLeng": "Y",
+    "tel": "యజ్హిని",
+    "FLtel": "య"
+  },
+  {
+    "id": "135762",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yazidal",
+    "FLeng": "Y",
+    "tel": "యజిడర్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135763",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "yazmin",
+    "FLeng": "y",
+    "tel": "యజమిన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135764",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yazna",
+    "FLeng": "Y",
+    "tel": "యజ్ఞ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135765",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ybelote",
+    "FLeng": "Y",
+    "tel": "యాబేలోటి",
+    "FLtel": "య"
+  },
+  {
+    "id": "135766",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ybot",
+    "FLeng": "Y",
+    "tel": "వైబోట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135767",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ydany",
+    "FLeng": "Y",
+    "tel": "యదను",
+    "FLtel": "య"
+  },
+  {
+    "id": "135768",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ydel",
+    "FLeng": "Y",
+    "tel": "వైడెల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135769",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ydeneye",
+    "FLeng": "Y",
+    "tel": "యిదేనేయే",
+    "FLtel": "య"
+  },
+  {
+    "id": "135770",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ydenia",
+    "FLeng": "Y",
+    "tel": "ఎడెని",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135771",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ydonea",
+    "FLeng": "Y",
+    "tel": "ఎదోనెత్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135772",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yedda",
+    "FLeng": "Y",
+    "tel": "యెద్ద",
+    "FLtel": "య"
+  },
+  {
+    "id": "135773",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yedida",
+    "FLeng": "Y",
+    "tel": "ఏడిద",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135774",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yedidah",
+    "FLeng": "Y",
+    "tel": "ఏడిదహ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135775",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yedythe",
+    "FLeng": "Y",
+    "tel": "ఏడైతే",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135776",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Yeeshu",
+    "FLeng": "Y",
+    "tel": "యీషు",
+    "FLtel": "య"
+  },
+  {
+    "id": "135777",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yegane",
+    "FLeng": "Y",
+    "tel": "ఏగానే",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135778",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yehowada",
+    "FLeng": "Y",
+    "tel": "యెహోవాద",
+    "FLtel": "య"
+  },
+  {
+    "id": "135779",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Yeira",
+    "FLeng": "Y",
+    "tel": "ఏమిరా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135780",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "yekaterina",
+    "FLeng": "y",
+    "tel": "ఏకతేరిన",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135781",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yekta",
+    "FLeng": "Y",
+    "tel": "ఏక్తా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135782",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yelda",
+    "FLeng": "Y",
+    "tel": "ఎల్దా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135783",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "yelena",
+    "FLeng": "y",
+    "tel": "ఎలెనా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135784",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "yelizaveta",
+    "FLeng": "y",
+    "tel": "ఎలిజవేత",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135785",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yelma",
+    "FLeng": "Y",
+    "tel": "ఎల్మ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135786",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yelysaveta",
+    "FLeng": "Y",
+    "tel": "ఎలీసవేత",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135787",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yema",
+    "FLeng": "Y",
+    "tel": "ఏమా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135788",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Yemena",
+    "FLeng": "Y",
+    "tel": "యెమెన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "135789",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "yemima",
+    "FLeng": "y",
+    "tel": "ఏమిమా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135790",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yeminah",
+    "FLeng": "Y",
+    "tel": "ఏమినః",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135791",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yemini",
+    "FLeng": "Y",
+    "tel": "ఏమిని",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135792",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Yenakshi",
+    "FLeng": "Y",
+    "tel": "ఏనాక్షి",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135793",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yera",
+    "FLeng": "Y",
+    "tel": "ఏరా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135794",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Yerilda",
+    "FLeng": "Y",
+    "tel": "యెఱిఁల్డా",
+    "FLtel": "య"
+  }
+]

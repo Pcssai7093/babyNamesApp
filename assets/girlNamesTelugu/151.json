@@ -1,0 +1,830 @@
+[
+  {
+    "id": "105225",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gemette",
+    "FLeng": "G",
+    "tel": "జమెత్తే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105226",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gemi",
+    "FLeng": "G",
+    "tel": "జెమీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105227",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gemma",
+    "FLeng": "G",
+    "tel": "గెమ్మ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105228",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gemmariah",
+    "FLeng": "G",
+    "tel": "గెమ్మరిదిహ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105229",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gen",
+    "FLeng": "G",
+    "tel": "జెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105230",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gena",
+    "FLeng": "G",
+    "tel": "్గేన",
+    "FLtel": "్"
+  },
+  {
+    "id": "105231",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genaine",
+    "FLeng": "G",
+    "tel": "జెనైనా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105232",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genamarie",
+    "FLeng": "G",
+    "tel": "జన్మరీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105233",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genavee",
+    "FLeng": "G",
+    "tel": "జెనవీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105234",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genavieve",
+    "FLeng": "G",
+    "tel": "జెనావిఎవ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105235",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genaya",
+    "FLeng": "G",
+    "tel": "జ్ఞ్య",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105236",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gencelina",
+    "FLeng": "G",
+    "tel": "జీన్సులిన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105237",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genece",
+    "FLeng": "G",
+    "tel": "జీన్స్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105238",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "geneen",
+    "FLeng": "g",
+    "tel": "జెనీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105239",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Genelia",
+    "FLeng": "G",
+    "tel": "జెనీలియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105240",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genera",
+    "FLeng": "G",
+    "tel": "జెనెరే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105241",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genera",
+    "FLeng": "g",
+    "tel": "జెనెరే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105242",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Generosa",
+    "FLeng": "G",
+    "tel": "జెనీరోసా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105243",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Generys",
+    "FLeng": "G",
+    "tel": "గెంరీస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105244",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genesee",
+    "FLeng": "G",
+    "tel": "జెనెసి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105245",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genesia",
+    "FLeng": "G",
+    "tel": "జెనెసియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105246",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geneth",
+    "FLeng": "G",
+    "tel": "జెనిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105247",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genette",
+    "FLeng": "G",
+    "tel": "గెనెట్టే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105248",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genette",
+    "FLeng": "g",
+    "tel": "గెనెట్టే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105249",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geneva",
+    "FLeng": "G",
+    "tel": "జెనీవా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105250",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "geneva",
+    "FLeng": "g",
+    "tel": "జెనీవా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105251",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geneve",
+    "FLeng": "G",
+    "tel": "గెనెవే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105252",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geneveeve",
+    "FLeng": "G",
+    "tel": "గెనెవీవె",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105253",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genevie",
+    "FLeng": "G",
+    "tel": "గెనేవీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105254",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genevive",
+    "FLeng": "G",
+    "tel": "గెనెవివే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105255",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genevra",
+    "FLeng": "G",
+    "tel": "గేనేవర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105256",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geney",
+    "FLeng": "G",
+    "tel": "జెనీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105257",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genia",
+    "FLeng": "G",
+    "tel": "జెనిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105258",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genica",
+    "FLeng": "G",
+    "tel": "జెనికే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105259",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genie",
+    "FLeng": "G",
+    "tel": "గిని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105260",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genie",
+    "FLeng": "g",
+    "tel": "గిని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105261",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genievre",
+    "FLeng": "G",
+    "tel": "జెనిఎవరే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105262",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genifer",
+    "FLeng": "G",
+    "tel": "జెన్నిఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105263",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geniffer",
+    "FLeng": "G",
+    "tel": "జెన్నిఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105264",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genise",
+    "FLeng": "G",
+    "tel": "జెనిసి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105265",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genivieve",
+    "FLeng": "G",
+    "tel": "గేణివీవే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105266",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Genji",
+    "FLeng": "G",
+    "tel": "గెంజి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105267",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genn",
+    "FLeng": "G",
+    "tel": "జెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105268",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genna",
+    "FLeng": "G",
+    "tel": "జిన్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105269",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genna",
+    "FLeng": "g",
+    "tel": "జిన్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105270",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gennadiya",
+    "FLeng": "g",
+    "tel": "గెన్నడీయా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105271",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gennea",
+    "FLeng": "G",
+    "tel": "గెన్నేస",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105272",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genneigh",
+    "FLeng": "G",
+    "tel": "జెన్నీఇఘ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105273",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genney",
+    "FLeng": "G",
+    "tel": "గెంనే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105274",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genni",
+    "FLeng": "G",
+    "tel": "జెన్నీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105275",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gennie",
+    "FLeng": "G",
+    "tel": "జెన్నిఈ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105276",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gennifer",
+    "FLeng": "G",
+    "tel": "జెన్నిఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105277",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gennifer",
+    "FLeng": "g",
+    "tel": "జెన్నిఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105278",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genny",
+    "FLeng": "G",
+    "tel": "జెన్నీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105279",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gennye",
+    "FLeng": "G",
+    "tel": "గెంన్యే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105280",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gennyfer",
+    "FLeng": "G",
+    "tel": "జెన్నీఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105281",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genoa",
+    "FLeng": "g",
+    "tel": "జెనోవా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105282",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genova",
+    "FLeng": "g",
+    "tel": "జెనోవా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105283",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genovefa",
+    "FLeng": "G",
+    "tel": "గెంవఫా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105284",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genoveffa",
+    "FLeng": "G",
+    "tel": "జెనోవెఫ్ఫా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105285",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genoveffa",
+    "FLeng": "g",
+    "tel": "జెనోవెఫ్ఫా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105286",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genovera",
+    "FLeng": "G",
+    "tel": "జెనోవేరా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105287",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genoveva",
+    "FLeng": "G",
+    "tel": "గెంవవ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105288",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "genoveva",
+    "FLeng": "g",
+    "tel": "గెంవవ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105289",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genowefa",
+    "FLeng": "G",
+    "tel": "గెంవఫా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105290",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Genta",
+    "FLeng": "G",
+    "tel": "జంట",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105291",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Genvisha",
+    "FLeng": "G",
+    "tel": "గెంవిష",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105292",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geny",
+    "FLeng": "G",
+    "tel": "జెనీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105293",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geona",
+    "FLeng": "G",
+    "tel": "జానా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105294",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geonna",
+    "FLeng": "G",
+    "tel": "జానా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105295",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georete",
+    "FLeng": "G",
+    "tel": "జారితే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105296",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgeanna",
+    "FLeng": "g",
+    "tel": "జార్జియాన్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105297",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgeanne",
+    "FLeng": "G",
+    "tel": "జార్జియాన్నే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105298",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgeanne",
+    "FLeng": "g",
+    "tel": "జార్జియాన్నే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105299",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgeina",
+    "FLeng": "G",
+    "tel": "జార్జియినా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105300",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgena",
+    "FLeng": "G",
+    "tel": "జార్జినా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105301",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgene",
+    "FLeng": "G",
+    "tel": "జార్జిని",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105302",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georges",
+    "FLeng": "G",
+    "tel": "జార్జెస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105303",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgeta",
+    "FLeng": "G",
+    "tel": "జార్జిత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105304",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgia",
+    "FLeng": "G",
+    "tel": "జార్జియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105305",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgia",
+    "FLeng": "g",
+    "tel": "జార్జియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105306",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgiana",
+    "FLeng": "G",
+    "tel": "జార్జియానా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105307",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgiana",
+    "FLeng": "g",
+    "tel": "జార్జియానా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105308",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgiann",
+    "FLeng": "G",
+    "tel": "జార్జిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105309",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgianna",
+    "FLeng": "G",
+    "tel": "జార్జియాన్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105310",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgianna",
+    "FLeng": "g",
+    "tel": "జార్జియాన్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105311",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgianne",
+    "FLeng": "G",
+    "tel": "జార్జియాన్నే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105312",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgianne",
+    "FLeng": "g",
+    "tel": "జార్జియాన్నే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105313",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgie",
+    "FLeng": "G",
+    "tel": "జార్జియ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105314",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgina",
+    "FLeng": "G",
+    "tel": "జార్జినా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105315",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "georgina",
+    "FLeng": "g",
+    "tel": "జార్జినా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105316",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Georgine",
+    "FLeng": "G",
+    "tel": "జార్జిని",
+    "FLtel": "జ"
+  }
+]

@@ -1,0 +1,767 @@
+[
+  {
+    "id": "34323",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Remo",
+    "FLeng": "R",
+    "tel": "రెమో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34324",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "remo",
+    "FLeng": "r",
+    "tel": "రెమో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34325",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Remus",
+    "FLeng": "R",
+    "tel": "రిమ్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34326",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "remus",
+    "FLeng": "r",
+    "tel": "రిమ్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34327",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Remzija",
+    "FLeng": "R",
+    "tel": "రేంజిజా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34328",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renald",
+    "FLeng": "R",
+    "tel": "రెనాల్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34329",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renaldo",
+    "FLeng": "R",
+    "tel": "రెనాల్డో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34330",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renaldo",
+    "FLeng": "r",
+    "tel": "రెనాల్డో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34331",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renardo",
+    "FLeng": "R",
+    "tel": "రెనార్డో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34332",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Renas",
+    "FLeng": "R",
+    "tel": "రెనస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34333",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renate",
+    "FLeng": "R",
+    "tel": "రేనాటి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34334",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renato",
+    "FLeng": "R",
+    "tel": "రెనాతో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34335",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renato",
+    "FLeng": "r",
+    "tel": "రెనాతో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34336",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renatus",
+    "FLeng": "r",
+    "tel": "రెంట్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34337",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renaud",
+    "FLeng": "R",
+    "tel": "రేణూడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34338",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renault",
+    "FLeng": "R",
+    "tel": "రెనాల్ట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34339",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rence",
+    "FLeng": "R",
+    "tel": "రెన్సు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34340",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rendall",
+    "FLeng": "R",
+    "tel": "రెండేళ్ల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34341",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rendel",
+    "FLeng": "R",
+    "tel": "రెండేళ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34342",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rendell",
+    "FLeng": "R",
+    "tel": "రెండేళ్ల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34343",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rendor",
+    "FLeng": "R",
+    "tel": "రెండోర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34344",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rendor",
+    "FLeng": "r",
+    "tel": "రెండోర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34345",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rene",
+    "FLeng": "R",
+    "tel": "రెనె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34346",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renell",
+    "FLeng": "R",
+    "tel": "రెనెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34347",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renesh",
+    "FLeng": "R",
+    "tel": "రెన్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34348",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renesh Arya",
+    "FLeng": "R",
+    "tel": "రెన్స్ ఆర్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34349",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renfield",
+    "FLeng": "R",
+    "tel": "రెంఫిల్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34350",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renfred",
+    "FLeng": "R",
+    "tel": "రెంఫ్రెడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34351",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renfrid",
+    "FLeng": "R",
+    "tel": "రెంఫ్రిడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34352",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renil",
+    "FLeng": "R",
+    "tel": "రేణి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34353",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renish",
+    "FLeng": "R",
+    "tel": "రేనిష్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34354",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renit",
+    "FLeng": "R",
+    "tel": "రేనిట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34355",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renjan",
+    "FLeng": "R",
+    "tel": "రేంజన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34356",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renjiro",
+    "FLeng": "R",
+    "tel": "రేంజిరో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34357",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renke",
+    "FLeng": "R",
+    "tel": "రేంక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34358",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renly",
+    "FLeng": "r",
+    "tel": "రేన్ల్య్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34359",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renne",
+    "FLeng": "R",
+    "tel": "రెణ్ణె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34360",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renner",
+    "FLeng": "R",
+    "tel": "రెన్నెర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34361",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rennick",
+    "FLeng": "R",
+    "tel": "రెనిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34362",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rennie",
+    "FLeng": "R",
+    "tel": "రెన్నిఈ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34363",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rennon",
+    "FLeng": "R",
+    "tel": "రెన్నోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34364",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rennon",
+    "FLeng": "r",
+    "tel": "రెన్నోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34365",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renny",
+    "FLeng": "R",
+    "tel": "రెన్నీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34366",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reno",
+    "FLeng": "R",
+    "tel": "రెనో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34367",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renold",
+    "FLeng": "R",
+    "tel": "రెనాల్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34368",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renon",
+    "FLeng": "r",
+    "tel": "రేనోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34369",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renoy",
+    "FLeng": "R",
+    "tel": "రేనోయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34370",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renton",
+    "FLeng": "R",
+    "tel": "రెంటోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34371",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renton",
+    "FLeng": "r",
+    "tel": "రెంటోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34372",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Renuk",
+    "FLeng": "R",
+    "tel": "రేణుక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34373",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renwick",
+    "FLeng": "R",
+    "tel": "రెంవిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34374",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Renz",
+    "FLeng": "R",
+    "tel": "రేంజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34375",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renz",
+    "FLeng": "r",
+    "tel": "రేంజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34376",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "renzo",
+    "FLeng": "r",
+    "tel": "రెంజో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34377",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reod",
+    "FLeng": "R",
+    "tel": "రేవుడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34378",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rereloluwa",
+    "FLeng": "R",
+    "tel": "రేరేలోలువా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34379",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Resad",
+    "FLeng": "R",
+    "tel": "రెసాద్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34380",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Reshad",
+    "FLeng": "R",
+    "tel": "రిషద్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34381",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Reshav",
+    "FLeng": "R",
+    "tel": "రేష్వ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34382",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Reshbin",
+    "FLeng": "R",
+    "tel": "రేశ్బిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34383",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Reshmanth",
+    "FLeng": "R",
+    "tel": "రేష్మణ్త్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34384",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Reshteen",
+    "FLeng": "R",
+    "tel": "రెస్ట్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34385",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Reshvanth",
+    "FLeng": "R",
+    "tel": "రేష్వన్త",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34386",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Reshvin",
+    "FLeng": "R",
+    "tel": "రిశ్విన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34387",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Reshvind",
+    "FLeng": "R",
+    "tel": "రిశ్విన్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34388",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Reshwanth",
+    "FLeng": "R",
+    "tel": "రెశ్వంత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34389",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Resolved",
+    "FLeng": "R",
+    "tel": "రెసొల్వెడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34390",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "resolved",
+    "FLeng": "r",
+    "tel": "రెసొల్వెడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34391",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reston",
+    "FLeng": "R",
+    "tel": "రెస్టోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34392",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Retheesh",
+    "FLeng": "R",
+    "tel": "రితీష్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34393",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Retvik",
+    "FLeng": "R",
+    "tel": "రిత్విక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34394",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reu",
+    "FLeng": "R",
+    "tel": "రేవు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34395",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reuban",
+    "FLeng": "R",
+    "tel": "రెయూబం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34396",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reuben",
+    "FLeng": "R",
+    "tel": "రెయూబీఎన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34397",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reubin",
+    "FLeng": "R",
+    "tel": "రెయూబీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34398",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reuel",
+    "FLeng": "R",
+    "tel": "రెయూఎల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34399",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "reuel",
+    "FLeng": "r",
+    "tel": "రెయూఎల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34400",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Reuf",
+    "FLeng": "R",
+    "tel": "రెఫ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34401",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reunan",
+    "FLeng": "R",
+    "tel": "రెయూనం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34402",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Reuven",
+    "FLeng": "R",
+    "tel": "రెయూవేన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34403",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rev",
+    "FLeng": "R",
+    "tel": "రేవ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34404",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Revaan",
+    "FLeng": "R",
+    "tel": "రువాం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34405",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Revan",
+    "FLeng": "R",
+    "tel": "రేవం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34406",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Revanath",
+    "FLeng": "R",
+    "tel": "రేవంత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34407",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Revansh",
+    "FLeng": "R",
+    "tel": "రేవంశ్",
+    "FLtel": "ర"
+  }
+]

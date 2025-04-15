@@ -1,0 +1,659 @@
+[
+  {
+    "id": "3005",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chepo",
+    "FLeng": "C",
+    "tel": "చేపా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3006",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Cheragh",
+    "FLeng": "C",
+    "tel": "చిరాగ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3007",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cheramaan",
+    "FLeng": "C",
+    "tel": "చేరమాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3008",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cheranadan",
+    "FLeng": "C",
+    "tel": "చేరనడం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3009",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cheranraj",
+    "FLeng": "C",
+    "tel": "చేరన్రాజ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3010",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cherasya",
+    "FLeng": "C",
+    "tel": "చేరస్య",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3011",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cherith",
+    "FLeng": "C",
+    "tel": "చేరిత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3012",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cherokee",
+    "FLeng": "C",
+    "tel": "చెరోకీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3013",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cherub",
+    "FLeng": "C",
+    "tel": "చేరుబ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3014",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cherupara",
+    "FLeng": "C",
+    "tel": "చెరుపర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3015",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chervik",
+    "FLeng": "C",
+    "tel": "చెర్విక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3016",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chesley",
+    "FLeng": "C",
+    "tel": "ఛేస్లేయ్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "3017",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chesmu",
+    "FLeng": "C",
+    "tel": "చేసాము",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3018",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chess",
+    "FLeng": "C",
+    "tel": "చెస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chesta",
+    "FLeng": "C",
+    "tel": "చేస్తా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3020",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chesten",
+    "FLeng": "C",
+    "tel": "చేస్టన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3021",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chester",
+    "FLeng": "C",
+    "tel": "చెస్టర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3022",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cheston",
+    "FLeng": "C",
+    "tel": "చేస్తోం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3023",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chet",
+    "FLeng": "C",
+    "tel": "చేతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3024",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chet",
+    "FLeng": "c",
+    "tel": "చేతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3025",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chetachi",
+    "FLeng": "C",
+    "tel": "చేతచి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3026",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetak",
+    "FLeng": "C",
+    "tel": "చేతక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3027",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetan",
+    "FLeng": "C",
+    "tel": "చేతన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3028",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetanaanand",
+    "FLeng": "C",
+    "tel": "చేతనానంద",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3029",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetananand",
+    "FLeng": "C",
+    "tel": "చేతనానంద",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetandeep",
+    "FLeng": "C",
+    "tel": "చేతన్దీప్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3031",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chetanluta",
+    "FLeng": "c",
+    "tel": "చేతనాలుత",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3032",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetansai",
+    "FLeng": "C",
+    "tel": "చేతనసై",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3033",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetas",
+    "FLeng": "C",
+    "tel": "చేతన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3034",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chethan",
+    "FLeng": "C",
+    "tel": "చేతన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3035",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetobuh",
+    "FLeng": "C",
+    "tel": "చేతోబహ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3036",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetty",
+    "FLeng": "C",
+    "tel": "చెట్టి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3037",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chetu",
+    "FLeng": "C",
+    "tel": "చేటు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3038",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chetveer",
+    "FLeng": "C",
+    "tel": "చిట్వేర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chetwin",
+    "FLeng": "C",
+    "tel": "ఛేత్విన్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "3040",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cheung",
+    "FLeng": "C",
+    "tel": "చేయూన్గ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3041",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cheval",
+    "FLeng": "C",
+    "tel": "చేవల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chevalier",
+    "FLeng": "C",
+    "tel": "చెవాలియర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3043",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chevatkodiyon",
+    "FLeng": "C",
+    "tel": "చేవాటికోడియోన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3044",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chevelier",
+    "FLeng": "C",
+    "tel": "చేవెళిర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3045",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cheveyo",
+    "FLeng": "C",
+    "tel": "చెవియొ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3046",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chevy",
+    "FLeng": "C",
+    "tel": "చేవై",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3047",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chexit",
+    "FLeng": "C",
+    "tel": "చిక్సిత",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3048",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cheyne",
+    "FLeng": "C",
+    "tel": "చేనే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3049",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chezian",
+    "FLeng": "C",
+    "tel": "చేజియాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3050",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chha",
+    "FLeng": "C",
+    "tel": "చ్చ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3051",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhaayank",
+    "FLeng": "C",
+    "tel": "చ్ఛాయన్క్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3052",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhabindra",
+    "FLeng": "C",
+    "tel": "చ్చబింద్రా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3053",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhailbehari",
+    "FLeng": "C",
+    "tel": "చ్చాయ్ల్బెహరి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3054",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chhanak",
+    "FLeng": "C",
+    "tel": "చ్చనాకు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3055",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhandak",
+    "FLeng": "C",
+    "tel": "చ్ఛందక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3056",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhatrabhuj",
+    "FLeng": "C",
+    "tel": "చ్ఛత్రభుజ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3057",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhatrapal",
+    "FLeng": "C",
+    "tel": "చ్ఛత్రపాల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3058",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhatrapati",
+    "FLeng": "C",
+    "tel": "చ్ఛత్రపతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3059",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhay",
+    "FLeng": "C",
+    "tel": "చ్చాయి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3060",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chhayank",
+    "FLeng": "C",
+    "tel": "చ్చయంక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chi",
+    "FLeng": "C",
+    "tel": "చి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3062",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chiamaka",
+    "FLeng": "C",
+    "tel": "చిమ్మకా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3063",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiatanya",
+    "FLeng": "C",
+    "tel": "చిటాన్యా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3064",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chiazam",
+    "FLeng": "C",
+    "tel": "చిఅజాం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3065",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chibale",
+    "FLeng": "C",
+    "tel": "చిబాలే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chibuike",
+    "FLeng": "C",
+    "tel": "చిబికే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3067",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chibundu",
+    "FLeng": "C",
+    "tel": "చిబునందు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3068",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chibunna",
+    "FLeng": "C",
+    "tel": "చిబున్న",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3069",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chibuzor",
+    "FLeng": "C",
+    "tel": "చిబుజోర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3070",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chicahua",
+    "FLeng": "C",
+    "tel": "చికాహుతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3071",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chicane",
+    "FLeng": "C",
+    "tel": "చికెన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3072",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chico",
+    "FLeng": "C",
+    "tel": "చికా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3073",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chidaakaash",
+    "FLeng": "C",
+    "tel": "చిదాకాష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3074",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chidaatma",
+    "FLeng": "C",
+    "tel": "చిదాత్మ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3075",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chidakash",
+    "FLeng": "C",
+    "tel": "చిదాకాష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3076",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chidambar",
+    "FLeng": "C",
+    "tel": "చిదంబర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3077",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chidambaram",
+    "FLeng": "C",
+    "tel": "చిదంబరం",
+    "FLtel": "చ"
+  }
+]

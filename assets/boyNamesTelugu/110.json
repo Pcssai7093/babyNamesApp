@@ -1,0 +1,758 @@
+[
+  {
+    "id": "990",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Borya",
+    "FLeng": "B",
+    "tel": "బార్య",
+    "FLtel": "బ"
+  },
+  {
+    "id": "991",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Borys",
+    "FLeng": "B",
+    "tel": "బోరిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "992",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Borysko",
+    "FLeng": "B",
+    "tel": "బోరీస్కో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "993",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bosco",
+    "FLeng": "B",
+    "tel": "బోస్కో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "994",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bosel",
+    "FLeng": "B",
+    "tel": "బాల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "995",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bosley",
+    "FLeng": "b",
+    "tel": "బోస్లేయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "996",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boss",
+    "FLeng": "b",
+    "tel": "బాస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "997",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bosse",
+    "FLeng": "B",
+    "tel": "బోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "998",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bostyn",
+    "FLeng": "B",
+    "tel": "బోష్ఠ్యం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "999",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Boswell",
+    "FLeng": "B",
+    "tel": "బోస్వెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1000",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bosworth",
+    "FLeng": "B",
+    "tel": "బావర్థ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1001",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bota",
+    "FLeng": "B",
+    "tel": "బొత్స",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1002",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botewolf",
+    "FLeng": "B",
+    "tel": "బొటవల్ఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1003",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "botham",
+    "FLeng": "b",
+    "tel": "బోథమ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1004",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bothe",
+    "FLeng": "B",
+    "tel": "బోతే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1005",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bothi",
+    "FLeng": "B",
+    "tel": "బోతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1006",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botild",
+    "FLeng": "B",
+    "tel": "బాటిల్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1007",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botolf",
+    "FLeng": "B",
+    "tel": "బోటోల్ఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1008",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botolph",
+    "FLeng": "B",
+    "tel": "బోటోల్ఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1009",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botolphe",
+    "FLeng": "B",
+    "tel": "బోటోల్ఫీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1010",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botond",
+    "FLeng": "B",
+    "tel": "బోతోంది",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1011",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botros",
+    "FLeng": "B",
+    "tel": "బొట్రోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1012",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botulf",
+    "FLeng": "B",
+    "tel": "బోట్ల్ఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1013",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Botwolf",
+    "FLeng": "B",
+    "tel": "బోటీవల్ఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1014",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bou",
+    "FLeng": "B",
+    "tel": "బౌ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1015",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Boualem",
+    "FLeng": "B",
+    "tel": "బౌయాలేం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1016",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Boudewijn",
+    "FLeng": "B",
+    "tel": "బౌదేవిజ్న",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Boudhayan",
+    "FLeng": "B",
+    "tel": "బౌధాయన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1018",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Boudhayana",
+    "FLeng": "B",
+    "tel": "బౌధాయన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Boudik",
+    "FLeng": "B",
+    "tel": "బౌడిక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1020",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bouid",
+    "FLeng": "B",
+    "tel": "బౌది",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1021",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Boulos",
+    "FLeng": "B",
+    "tel": "బౌలోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1022",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Boulus",
+    "FLeng": "B",
+    "tel": "బౌల్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1023",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bouraoui",
+    "FLeng": "B",
+    "tel": "బౌరావుకి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bourey",
+    "FLeng": "B",
+    "tel": "బౌరియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1025",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bourhan",
+    "FLeng": "B",
+    "tel": "బౌర్హాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1026",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bourke",
+    "FLeng": "B",
+    "tel": "బౌర్కే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1027",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bourn",
+    "FLeng": "B",
+    "tel": "బోర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1028",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bourne",
+    "FLeng": "B",
+    "tel": "బౌర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1029",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bourne",
+    "FLeng": "b",
+    "tel": "బౌర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1030",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Boutros",
+    "FLeng": "B",
+    "tel": "బౌత్రోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1031",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "boutros",
+    "FLeng": "b",
+    "tel": "బౌత్రోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1032",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bouvier",
+    "FLeng": "B",
+    "tel": "బౌవీర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1033",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bow",
+    "FLeng": "B",
+    "tel": "బో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1034",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bowdoin",
+    "FLeng": "B",
+    "tel": "బౌదోయ్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1035",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bowdyn",
+    "FLeng": "B",
+    "tel": "బౌడెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1036",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Bowen",
+    "FLeng": "B",
+    "tel": "బోవెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1037",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bowen",
+    "FLeng": "b",
+    "tel": "బోవెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1038",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bowie",
+    "FLeng": "B",
+    "tel": "బౌయి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bowie",
+    "FLeng": "b",
+    "tel": "బౌయి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1040",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bowman",
+    "FLeng": "B",
+    "tel": "బౌమన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1041",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Boyce",
+    "FLeng": "B",
+    "tel": "బోయ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boyce",
+    "FLeng": "b",
+    "tel": "బోయ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boyd",
+    "FLeng": "b",
+    "tel": "బొయ్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1044",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Boyden",
+    "FLeng": "B",
+    "tel": "బొయిదేం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1045",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boyden",
+    "FLeng": "b",
+    "tel": "బొయిదేం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1046",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boyer",
+    "FLeng": "b",
+    "tel": "బోయెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1047",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Boyko",
+    "FLeng": "B",
+    "tel": "బొయికో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1048",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boyne",
+    "FLeng": "b",
+    "tel": "బోయిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1049",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boynton",
+    "FLeng": "b",
+    "tel": "బోయన్తోన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1050",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "boys",
+    "FLeng": "b",
+    "tel": "బాయ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1051",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bozeman",
+    "FLeng": "B",
+    "tel": "బీజమం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1052",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bozhidar",
+    "FLeng": "B",
+    "tel": "బోజ్హీదర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1053",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "braam",
+    "FLeng": "b",
+    "tel": "బ్రామ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1054",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Brace",
+    "FLeng": "B",
+    "tel": "బ్రేస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1055",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bracha",
+    "FLeng": "B",
+    "tel": "బ్రోచ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Brachtmar",
+    "FLeng": "B",
+    "tel": "బ్రెచ్త్మార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1057",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bracken",
+    "FLeng": "B",
+    "tel": "బ్రాకెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1058",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Brad",
+    "FLeng": "B",
+    "tel": "బ్రాడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1059",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "brad",
+    "FLeng": "b",
+    "tel": "బ్రాడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1060",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bradan",
+    "FLeng": "B",
+    "tel": "బ్రెటన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bradan",
+    "FLeng": "b",
+    "tel": "బ్రెటన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1062",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bradburn",
+    "FLeng": "B",
+    "tel": "బ్రాడ్బుర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1063",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bradburn",
+    "FLeng": "b",
+    "tel": "బ్రాడ్బుర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1064",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bradbury",
+    "FLeng": "b",
+    "tel": "బ్రాడ్బూరీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1065",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bradd",
+    "FLeng": "B",
+    "tel": "బ్రాడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Braddlee",
+    "FLeng": "B",
+    "tel": "బ్రాడ్లీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1067",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Braddock",
+    "FLeng": "B",
+    "tel": "బ్రెడ్డూక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1068",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Braddon",
+    "FLeng": "B",
+    "tel": "బ్రాద్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1069",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "braden",
+    "FLeng": "b",
+    "tel": "బ్రాడెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1070",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bradford",
+    "FLeng": "B",
+    "tel": "బ్రెటీఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1071",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bradford",
+    "FLeng": "b",
+    "tel": "బ్రెటీఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1072",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bradfurd",
+    "FLeng": "B",
+    "tel": "బ్రాడ్ఫుర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1073",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bradhna",
+    "FLeng": "B",
+    "tel": "బ్రాద్న్",
+    "FLtel": "బ"
+  }
+]

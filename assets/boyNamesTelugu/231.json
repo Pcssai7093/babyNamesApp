@@ -1,0 +1,749 @@
+[
+  {
+    "id": "12357",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gursangat",
+    "FLeng": "G",
+    "tel": "గురుసంగత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12358",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gursaroop",
+    "FLeng": "G",
+    "tel": "గురుసారూప్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12359",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurseerat",
+    "FLeng": "G",
+    "tel": "గురిసెర్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12360",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursees",
+    "FLeng": "G",
+    "tel": "గర్సెస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12361",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurseetal",
+    "FLeng": "G",
+    "tel": "గురుసీతల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12362",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursehaj",
+    "FLeng": "G",
+    "tel": "గురుసేహజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12363",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursev",
+    "FLeng": "G",
+    "tel": "గురుసేవ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12364",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursevak",
+    "FLeng": "G",
+    "tel": "గురుసేవక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12365",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursewak",
+    "FLeng": "G",
+    "tel": "గురుసేవక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12366",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurshaan",
+    "FLeng": "G",
+    "tel": "గుర్గాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12367",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurshabad",
+    "FLeng": "G",
+    "tel": "గురుషాబాద్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12368",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurshan",
+    "FLeng": "G",
+    "tel": "ఘర్షన్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "12369",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurshant",
+    "FLeng": "G",
+    "tel": "ఘర్షన్ట్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "12370",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gursharan",
+    "FLeng": "G",
+    "tel": "గురుశరాం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12371",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursimar",
+    "FLeng": "G",
+    "tel": "గురిసిమర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12372",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gursimarn",
+    "FLeng": "G",
+    "tel": "గురిసిమర్న్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12373",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursimrah",
+    "FLeng": "G",
+    "tel": "గురిసిమ్రాహ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12374",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gursiran",
+    "FLeng": "G",
+    "tel": "గురుశిరం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12375",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gursobha",
+    "FLeng": "G",
+    "tel": "గురశోభ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12376",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gursohan",
+    "FLeng": "G",
+    "tel": "గురుసోహన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12377",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurson",
+    "FLeng": "G",
+    "tel": "గుర్స్న్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12378",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gursurat",
+    "FLeng": "G",
+    "tel": "గురుసురత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12379",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurswroop",
+    "FLeng": "G",
+    "tel": "గురుస్వరూప్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12380",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurtaj",
+    "FLeng": "G",
+    "tel": "గురుతాజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12381",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurteerath",
+    "FLeng": "G",
+    "tel": "గుర్తెరత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12382",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurtej",
+    "FLeng": "G",
+    "tel": "గుర్తేజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12383",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gurtek",
+    "FLeng": "G",
+    "tel": "గుర్తేక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12384",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Guru",
+    "FLeng": "G",
+    "tel": "గురు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12385",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Guru Gugan",
+    "FLeng": "G",
+    "tel": "గురు గగన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12386",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurubachan",
+    "FLeng": "G",
+    "tel": "గురుబచన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12387",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurubir",
+    "FLeng": "G",
+    "tel": "గురుబిర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12388",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurucarana",
+    "FLeng": "G",
+    "tel": "గురుకారణ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12389",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurucharan",
+    "FLeng": "G",
+    "tel": "గురుచరణ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12390",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Guruda",
+    "FLeng": "G",
+    "tel": "గురుడ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12391",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurudaas",
+    "FLeng": "G",
+    "tel": "గురుదాస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12392",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurudara",
+    "FLeng": "G",
+    "tel": "గురుదర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12393",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurudarshan",
+    "FLeng": "G",
+    "tel": "గురుదర్శన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12394",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurudas",
+    "FLeng": "G",
+    "tel": "గురుదాస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12395",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurudatt",
+    "FLeng": "G",
+    "tel": "గురుదత్త",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12396",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurudatta",
+    "FLeng": "G",
+    "tel": "గురుదత్త",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12397",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurudeep",
+    "FLeng": "G",
+    "tel": "గురుదీప్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12398",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurudeva",
+    "FLeng": "G",
+    "tel": "గురుదేవ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12399",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurudutt",
+    "FLeng": "G",
+    "tel": "గురుబుట్ట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12400",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Guruganesh",
+    "FLeng": "G",
+    "tel": "గురుగణేష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12401",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurugulzar",
+    "FLeng": "G",
+    "tel": "గురుగులంజర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12402",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurugun",
+    "FLeng": "G",
+    "tel": "గురుగున్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12403",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurujeet",
+    "FLeng": "G",
+    "tel": "గురుజీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12404",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurukar",
+    "FLeng": "G",
+    "tel": "గురుకర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12405",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurukiran",
+    "FLeng": "G",
+    "tel": "గురుకిరణ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12406",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurukirat",
+    "FLeng": "G",
+    "tel": "గురుకీరత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12407",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurumandir",
+    "FLeng": "G",
+    "tel": "గురుమందిర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12408",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurumita",
+    "FLeng": "G",
+    "tel": "గురుమిటా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12409",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurumukha",
+    "FLeng": "G",
+    "tel": "గురుముఖ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12410",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurumurthy",
+    "FLeng": "G",
+    "tel": "గురుమూర్తి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12411",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurunaam",
+    "FLeng": "G",
+    "tel": "గురూణాం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12412",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurunaamsimran",
+    "FLeng": "G",
+    "tel": "గురునాంసిమ్రన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12413",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurunadh",
+    "FLeng": "G",
+    "tel": "గురునాధ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12414",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurunama",
+    "FLeng": "G",
+    "tel": "గురునామా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12415",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurunath",
+    "FLeng": "G",
+    "tel": "గురునాథ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12416",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurunathan",
+    "FLeng": "G",
+    "tel": "గురునాథం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12417",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurupada",
+    "FLeng": "G",
+    "tel": "గురుపడ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12418",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurupdesh",
+    "FLeng": "G",
+    "tel": "గురుపదేశ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12419",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Guruprasad",
+    "FLeng": "G",
+    "tel": "గురుప్రసాద్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12420",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Guruprem",
+    "FLeng": "G",
+    "tel": "గురుప్రిమ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gururaj",
+    "FLeng": "G",
+    "tel": "గురురాజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12422",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gururaja",
+    "FLeng": "G",
+    "tel": "గురురాజా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12423",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurusai",
+    "FLeng": "G",
+    "tel": "గురుసాయి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12424",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurusami",
+    "FLeng": "G",
+    "tel": "గురుస్వామి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12425",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurusaran",
+    "FLeng": "G",
+    "tel": "గురుసారం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12426",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurushan",
+    "FLeng": "G",
+    "tel": "గురుషన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12427",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gurusharan",
+    "FLeng": "G",
+    "tel": "గురుశరాం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12428",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurusimran",
+    "FLeng": "G",
+    "tel": "గురుసిమ్రన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12429",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurutej",
+    "FLeng": "G",
+    "tel": "గురుతేజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12430",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Guruttam",
+    "FLeng": "G",
+    "tel": "గురుత్తం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12431",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurvaid",
+    "FLeng": "G",
+    "tel": "గుర్వాయిడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12432",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurvaj",
+    "FLeng": "G",
+    "tel": "గుర్వాజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12433",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurvansh",
+    "FLeng": "G",
+    "tel": "గురవాంశ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12434",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurveen",
+    "FLeng": "G",
+    "tel": "గుర్వీన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12435",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurveer",
+    "FLeng": "G",
+    "tel": "గుర్వీర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12436",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurvichaar",
+    "FLeng": "G",
+    "tel": "గుర్విచార",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12437",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gurvinder",
+    "FLeng": "G",
+    "tel": "గుర్విందర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12438",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurvir",
+    "FLeng": "G",
+    "tel": "గుర్వీర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12439",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gurwant",
+    "FLeng": "G",
+    "tel": "గుర్వాన్ట్",
+    "FLtel": "గ"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "31114",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Peeyush",
+    "FLeng": "P",
+    "tel": "పీయూష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31115",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pefen",
+    "FLeng": "P",
+    "tel": "పెఫెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31116",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pegalesharro",
+    "FLeng": "P",
+    "tel": "పెగలేశారేమో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31117",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pegan",
+    "FLeng": "P",
+    "tel": "పేగన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31118",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pegasus",
+    "FLeng": "p",
+    "tel": "పెగాసస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31119",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pehlaj",
+    "FLeng": "P",
+    "tel": "పెహ్లాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31120",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Pehzan",
+    "FLeng": "P",
+    "tel": "పెహజాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31121",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peik",
+    "FLeng": "P",
+    "tel": "పేయికి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31122",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peirce",
+    "FLeng": "P",
+    "tel": "పేయర్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31123",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peithon",
+    "FLeng": "P",
+    "tel": "పేయితోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31124",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pejman",
+    "FLeng": "P",
+    "tel": "పెజ్మన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31125",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pekelo",
+    "FLeng": "P",
+    "tel": "పీకేలో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31126",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peketi",
+    "FLeng": "P",
+    "tel": "పేకేటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31127",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pekko",
+    "FLeng": "P",
+    "tel": "పెక్కు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31128",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peko",
+    "FLeng": "P",
+    "tel": "పికో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31129",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Pelabo",
+    "FLeng": "P",
+    "tel": "పేలబో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31130",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelagia",
+    "FLeng": "P",
+    "tel": "పేలాగినా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pelagios",
+    "FLeng": "p",
+    "tel": "పెలాజివ్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31132",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peleg",
+    "FLeng": "P",
+    "tel": "పెలెగు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31133",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "peleg",
+    "FLeng": "p",
+    "tel": "పెలెగు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31134",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelham",
+    "FLeng": "P",
+    "tel": "పెల్హమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31135",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pelham",
+    "FLeng": "p",
+    "tel": "పెల్హమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31136",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peliandis",
+    "FLeng": "P",
+    "tel": "పెళిఆండిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31137",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pell",
+    "FLeng": "P",
+    "tel": "పిల్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pell",
+    "FLeng": "p",
+    "tel": "పిల్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31139",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pellam",
+    "FLeng": "P",
+    "tel": "పెళ్ళాం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31140",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelle",
+    "FLeng": "P",
+    "tel": "పెళ్లి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31141",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pelle",
+    "FLeng": "p",
+    "tel": "పెళ్లి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31142",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelleas",
+    "FLeng": "P",
+    "tel": "పెళ్లిఅస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31143",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pellegrino",
+    "FLeng": "P",
+    "tel": "పెల్లెగ్రినో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pellegrino",
+    "FLeng": "p",
+    "tel": "పెల్లెగ్రినో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pelli",
+    "FLeng": "p",
+    "tel": "పెళ్లి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31146",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pello",
+    "FLeng": "p",
+    "tel": "పెళ్ళో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31147",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pellogris",
+    "FLeng": "P",
+    "tel": "పెళ్ళోగ్రిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31148",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelltun",
+    "FLeng": "P",
+    "tel": "వెళ్తున్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "31149",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelson",
+    "FLeng": "P",
+    "tel": "పిల్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31150",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pelton",
+    "FLeng": "P",
+    "tel": "పిల్టన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pelton",
+    "FLeng": "p",
+    "tel": "పిల్టన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31152",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pemal",
+    "FLeng": "P",
+    "tel": "పెంటాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pemota",
+    "FLeng": "P",
+    "tel": "పెమోత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31154",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pemton",
+    "FLeng": "P",
+    "tel": "పెంటోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31155",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pendle",
+    "FLeng": "P",
+    "tel": "పెండ్లే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31156",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pendleton",
+    "FLeng": "p",
+    "tel": "పెండ్లెతోం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31157",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Peneet",
+    "FLeng": "P",
+    "tel": "పునీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31158",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peng",
+    "FLeng": "P",
+    "tel": "పెంగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31159",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peni",
+    "FLeng": "P",
+    "tel": "పేని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31160",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "peni",
+    "FLeng": "p",
+    "tel": "పేని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31161",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peniel",
+    "FLeng": "P",
+    "tel": "పెనిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31162",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penka",
+    "FLeng": "P",
+    "tel": "పెంక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31163",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Penko",
+    "FLeng": "P",
+    "tel": "పెంకు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31164",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penlea",
+    "FLeng": "P",
+    "tel": "పెంలీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31165",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penleigh",
+    "FLeng": "P",
+    "tel": "పెంలేఇఘ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31166",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penley",
+    "FLeng": "P",
+    "tel": "పెంలెయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31167",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "penley",
+    "FLeng": "p",
+    "tel": "పెంలెయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31168",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penly",
+    "FLeng": "P",
+    "tel": "పెన్ల్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31169",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penn",
+    "FLeng": "P",
+    "tel": "పెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31170",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "penn",
+    "FLeng": "p",
+    "tel": "పెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31171",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennamar",
+    "FLeng": "P",
+    "tel": "పెన్నమార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31172",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennant",
+    "FLeng": "P",
+    "tel": "పెన్నంత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31173",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pennant",
+    "FLeng": "p",
+    "tel": "పెన్నంత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31174",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennington",
+    "FLeng": "P",
+    "tel": "పెన్నింగ్టన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31175",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennlea",
+    "FLeng": "P",
+    "tel": "పెంన్లెస",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31176",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennleah",
+    "FLeng": "P",
+    "tel": "పెనఁలీహ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31177",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennleigh",
+    "FLeng": "P",
+    "tel": "పెంన్లేఇఘ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31178",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennley",
+    "FLeng": "P",
+    "tel": "పెన్ల్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31179",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pennsylvania",
+    "FLeng": "P",
+    "tel": "పెన్సిల్వేనియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31180",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penrod",
+    "FLeng": "P",
+    "tel": "పెంరోడ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31181",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penticost",
+    "FLeng": "P",
+    "tel": "పెంతికోస్టు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31182",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Penton",
+    "FLeng": "P",
+    "tel": "పెంటోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31183",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pentti",
+    "FLeng": "p",
+    "tel": "పేంటీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31184",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Penu",
+    "FLeng": "P",
+    "tel": "పెను",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31185",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "penuel",
+    "FLeng": "p",
+    "tel": "పెనుల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31186",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peoda",
+    "FLeng": "P",
+    "tel": "పెద్ద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31187",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peofa",
+    "FLeng": "P",
+    "tel": "పీఆర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31188",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peofel",
+    "FLeng": "P",
+    "tel": "ప్యూఫెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31189",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peoht",
+    "FLeng": "P",
+    "tel": "ప్యూహాట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31190",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peohtel",
+    "FLeng": "P",
+    "tel": "ప్యూహాటల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31191",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peohtgils",
+    "FLeng": "P",
+    "tel": "ప్యూహాత్గిల్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31192",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peohthelm",
+    "FLeng": "P",
+    "tel": "ప్యూహాథేల్మ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31193",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peohtla",
+    "FLeng": "P",
+    "tel": "ప్యూహాట్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31194",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peohtred",
+    "FLeng": "P",
+    "tel": "ప్యూహాట్రేడ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31195",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peohtric",
+    "FLeng": "P",
+    "tel": "ప్యూహాట్రిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31196",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peohtwine",
+    "FLeng": "P",
+    "tel": "ప్యూహాటీవీనే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peola",
+    "FLeng": "P",
+    "tel": "పీఓల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31198",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peot",
+    "FLeng": "P",
+    "tel": "ప్యూట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31199",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peota",
+    "FLeng": "P",
+    "tel": "ప్యూట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31200",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peotla",
+    "FLeng": "P",
+    "tel": "ప్యూటీల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31201",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pepe",
+    "FLeng": "p",
+    "tel": "పీపీ",
+    "FLtel": "ప"
+  }
+]

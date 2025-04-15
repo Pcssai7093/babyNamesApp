@@ -1,0 +1,632 @@
+[
+  {
+    "id": "135010",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aroona",
+    "FLeng": "A",
+    "tel": "హీరోనా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "135011",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aroos",
+    "FLeng": "A",
+    "tel": "హీరోస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "135012",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aroosa",
+    "FLeng": "A",
+    "tel": "ఆరోస",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135013",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aroosh",
+    "FLeng": "A",
+    "tel": "హీరోస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "135014",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Arorangi",
+    "FLeng": "A",
+    "tel": "ఆరోరంగి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135015",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aroub",
+    "FLeng": "A",
+    "tel": "అరబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135016",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aroushi",
+    "FLeng": "A",
+    "tel": "అరౌషి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135017",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arpana",
+    "FLeng": "A",
+    "tel": "అర్పణ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135018",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arpi",
+    "FLeng": "A",
+    "tel": "ఆర్పీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135019",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arpita",
+    "FLeng": "A",
+    "tel": "అర్పితా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135020",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arpitha",
+    "FLeng": "A",
+    "tel": "అర్పిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135021",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arpy",
+    "FLeng": "A",
+    "tel": "వారిపై",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135022",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Arram",
+    "FLeng": "A",
+    "tel": "ఎర్రం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "135023",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "arrayah",
+    "FLeng": "a",
+    "tel": "అర్రాయహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135024",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Arsala",
+    "FLeng": "A",
+    "tel": "అర్సాల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135025",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Arsenia",
+    "FLeng": "A",
+    "tel": "ఆర్సెని",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135026",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Arsenie",
+    "FLeng": "A",
+    "tel": "ఆర్సెనియె",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135027",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arsha",
+    "FLeng": "A",
+    "tel": "ఆర్ష",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135028",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshavi",
+    "FLeng": "A",
+    "tel": "ఆర్షవి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135029",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshaya",
+    "FLeng": "A",
+    "tel": "అర్షయా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135030",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Arshdeep",
+    "FLeng": "A",
+    "tel": "అర్షదీప్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135031",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Arsheen",
+    "FLeng": "A",
+    "tel": "ఆరుషీన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135032",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arsheya",
+    "FLeng": "A",
+    "tel": "ఆర్షేయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135033",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshi",
+    "FLeng": "A",
+    "tel": "అర్షి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135034",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshia",
+    "FLeng": "A",
+    "tel": "ఆర్షియా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135035",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshida",
+    "FLeng": "A",
+    "tel": "ఆర్షిదా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135036",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshika",
+    "FLeng": "A",
+    "tel": "వార్షిక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135037",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshin",
+    "FLeng": "A",
+    "tel": "ఆర్షిం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135038",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshini",
+    "FLeng": "A",
+    "tel": "ఆర్షిని",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135039",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshitha",
+    "FLeng": "A",
+    "tel": "అర్షిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135040",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshiya",
+    "FLeng": "A",
+    "tel": "ఆర్షియా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135041",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshna",
+    "FLeng": "A",
+    "tel": "అర్షణ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135042",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Arshnoor",
+    "FLeng": "A",
+    "tel": "అర్శనూర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135043",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arshpreet",
+    "FLeng": "A",
+    "tel": "అర్స్ప్రీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135044",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Arsia",
+    "FLeng": "A",
+    "tel": "గార్సియా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "135045",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "arsinoe",
+    "FLeng": "a",
+    "tel": "అర్సినోయీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135046",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Artana",
+    "FLeng": "A",
+    "tel": "ఆర్తనా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135047",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Artdokht",
+    "FLeng": "A",
+    "tel": "ఆర్టీదోక్ట్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135048",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "artemesia",
+    "FLeng": "a",
+    "tel": "అర్టేమిసియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135049",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "artemisia",
+    "FLeng": "a",
+    "tel": "అర్టేమిసియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135050",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Artha",
+    "FLeng": "A",
+    "tel": "అర్థ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135051",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arthada",
+    "FLeng": "A",
+    "tel": "ఆర్థడా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135052",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arthana",
+    "FLeng": "A",
+    "tel": "అర్థనా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135053",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Arthea",
+    "FLeng": "A",
+    "tel": "ఆర్తేనా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135054",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arthi",
+    "FLeng": "A",
+    "tel": "ఆర్తి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135055",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arthimani",
+    "FLeng": "A",
+    "tel": "అర్తిమని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135056",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Arthurina",
+    "FLeng": "A",
+    "tel": "అర్థురిన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135057",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Arthurine",
+    "FLeng": "A",
+    "tel": "అర్థురినే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135058",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arti",
+    "FLeng": "A",
+    "tel": "ఆర్తి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135059",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Artice",
+    "FLeng": "A",
+    "tel": "ఆర్టీసీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135060",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Artika",
+    "FLeng": "A",
+    "tel": "ఆర్థిక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135061",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Artina",
+    "FLeng": "A",
+    "tel": "ఆర్తిని",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135062",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Artisha",
+    "FLeng": "A",
+    "tel": "ఆర్టిష",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135063",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aru",
+    "FLeng": "A",
+    "tel": "ఆరు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135064",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Arub",
+    "FLeng": "A",
+    "tel": "అరబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135065",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aruba",
+    "FLeng": "A",
+    "tel": "అరుబా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135066",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Arubiyyah",
+    "FLeng": "A",
+    "tel": "ఆరుబైయ్యహ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135067",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Arufa",
+    "FLeng": "A",
+    "tel": "అరఫా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135068",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aruhi",
+    "FLeng": "A",
+    "tel": "ఆరుహి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135069",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aruja",
+    "FLeng": "A",
+    "tel": "అరుజ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135070",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arukshita",
+    "FLeng": "A",
+    "tel": "అరక్షిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135071",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arul Priya",
+    "FLeng": "A",
+    "tel": "అరుళ్ ప్రియ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135072",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arulammal",
+    "FLeng": "A",
+    "tel": "అరుళమ్మాళ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135073",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arularasi",
+    "FLeng": "A",
+    "tel": "ఆరులారాశి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135074",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "ArulChelvi",
+    "FLeng": "A",
+    "tel": "ఆరుల్చెల్వి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "135075",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aruldevi",
+    "FLeng": "A",
+    "tel": "అరుళ్దేవి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135076",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aruli",
+    "FLeng": "A",
+    "tel": "ఏరులై",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "135077",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "ArulMaari",
+    "FLeng": "A",
+    "tel": "అరుళ్మారి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135078",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "ArulMarai",
+    "FLeng": "A",
+    "tel": "అరుళ్మార్తె",
+    "FLtel": "అ"
+  },
+  {
+    "id": "135079",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Arulmozhi",
+    "FLeng": "A",
+    "tel": "అరుళ్మోజహి",
+    "FLtel": "అ"
+  }
+]

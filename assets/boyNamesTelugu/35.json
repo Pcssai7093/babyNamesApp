@@ -1,0 +1,425 @@
+[
+  {
+    "id": "23785",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Ghaffar",
+    "FLeng": "A",
+    "tel": "అల-గఫ్ఫార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23786",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Ghafur",
+    "FLeng": "A",
+    "tel": "అల-ఘూఫుర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23787",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Ghani",
+    "FLeng": "A",
+    "tel": "అల-ఘనీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23788",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Ghaniyy",
+    "FLeng": "A",
+    "tel": "అల-ఘనియ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23789",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hadi",
+    "FLeng": "A",
+    "tel": "అల-హది",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23790",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hafiz",
+    "FLeng": "A",
+    "tel": "అల-హాఫిజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23791",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hakam",
+    "FLeng": "A",
+    "tel": "అల-హకం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23792",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hakim",
+    "FLeng": "A",
+    "tel": "అల-హకీమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23793",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Halim",
+    "FLeng": "A",
+    "tel": "అల-హలీమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23794",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hamid",
+    "FLeng": "A",
+    "tel": "అల-హమిద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23795",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hasib",
+    "FLeng": "A",
+    "tel": "అల-హసీబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23796",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Hayy",
+    "FLeng": "A",
+    "tel": "అల-హాయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23797",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Jabbar",
+    "FLeng": "A",
+    "tel": "అల-జబ్బార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23798",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Jalil",
+    "FLeng": "A",
+    "tel": "అల-జలీల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23799",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Jami",
+    "FLeng": "A",
+    "tel": "అల-జామి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23800",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Kabir",
+    "FLeng": "A",
+    "tel": "అల-కబీర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23801",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Karim",
+    "FLeng": "A",
+    "tel": "అల-కరీం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23802",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Khabir",
+    "FLeng": "A",
+    "tel": "అల-కబీర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23803",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Khafid",
+    "FLeng": "A",
+    "tel": "అల-ఖాఫిడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23804",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Latif",
+    "FLeng": "A",
+    "tel": "అల-లతీఫ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23805",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Majid",
+    "FLeng": "A",
+    "tel": "అల-మజీద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23806",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Malik",
+    "FLeng": "A",
+    "tel": "అల-మాలిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23807",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mani",
+    "FLeng": "A",
+    "tel": "అల-మని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23808",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Matin",
+    "FLeng": "A",
+    "tel": "అల-మతీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23809",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mu'izz",
+    "FLeng": "A",
+    "tel": "అల-ము'ఈజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23810",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mu'min",
+    "FLeng": "A",
+    "tel": "అల-ము'మైన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23811",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muakhkhir",
+    "FLeng": "A",
+    "tel": "అల-ముసఙ్ఖఖిర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23812",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mubdi",
+    "FLeng": "A",
+    "tel": "అల-ముబడి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23813",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mubdi'",
+    "FLeng": "A",
+    "tel": "అల-ముబడి'",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23814",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mudhill",
+    "FLeng": "A",
+    "tel": "అల-ముదిల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23815",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mughni",
+    "FLeng": "A",
+    "tel": "అల-మెగ్ని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23816",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muhaymin",
+    "FLeng": "A",
+    "tel": "అల-ముహయామిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23817",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muhsi",
+    "FLeng": "A",
+    "tel": "అల-ముహ్సి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23818",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muhyi",
+    "FLeng": "A",
+    "tel": "అల-ముహ్యి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23819",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muid",
+    "FLeng": "A",
+    "tel": "అల-ముడి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23820",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muizz",
+    "FLeng": "A",
+    "tel": "అల-ముయిజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23821",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mujib",
+    "FLeng": "A",
+    "tel": "అల-ముజీబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23822",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mumin",
+    "FLeng": "A",
+    "tel": "అల-ముమైన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23823",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mumit",
+    "FLeng": "A",
+    "tel": "అల-ముమైత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23824",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mutaali",
+    "FLeng": "A",
+    "tel": "అల-ముతాలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23825",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Mutakabbir",
+    "FLeng": "A",
+    "tel": "అల-మూటకబ్బిర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23826",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Muzill",
+    "FLeng": "A",
+    "tel": "అల-ముజిల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23827",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Wadud",
+    "FLeng": "A",
+    "tel": "అల-వదుద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23828",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Wahhab",
+    "FLeng": "A",
+    "tel": "అల-వాహహాబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23829",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Wahid",
+    "FLeng": "A",
+    "tel": "అల-వాహీద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23830",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Wajid",
+    "FLeng": "A",
+    "tel": "అల-వాజిద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "23831",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Al-Wakil",
+    "FLeng": "A",
+    "tel": "అల-వాకిలీ",
+    "FLtel": "అ"
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "id": "31578",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plat",
+    "FLeng": "P",
+    "tel": "ప్లేట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31579",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plato",
+    "FLeng": "P",
+    "tel": "ప్లేటో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31580",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "plato",
+    "FLeng": "p",
+    "tel": "ప్లేటో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31581",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Platon",
+    "FLeng": "P",
+    "tel": "ప్లేటోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31582",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "plaxico",
+    "FLeng": "p",
+    "tel": "ప్లేక్సికో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31583",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plechelm",
+    "FLeng": "P",
+    "tel": "ప్లేచేల్మ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31584",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pleghelm",
+    "FLeng": "P",
+    "tel": "ప్లేఘేల్మ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31585",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plegmund",
+    "FLeng": "P",
+    "tel": "ప్లేగ్ముందు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31586",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plenorius",
+    "FLeng": "P",
+    "tel": "ప్లేనోరిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31587",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plinio",
+    "FLeng": "P",
+    "tel": "ప్లినీవు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31588",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plucca",
+    "FLeng": "P",
+    "tel": "ప్లకా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31589",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plummer",
+    "FLeng": "P",
+    "tel": "ప్లమ్మర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31590",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Plutarco",
+    "FLeng": "P",
+    "tel": "ప్లుతారక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31591",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pluto",
+    "FLeng": "P",
+    "tel": "ప్లూటో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31592",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Po",
+    "FLeng": "P",
+    "tel": "పో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31593",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Poatri",
+    "FLeng": "P",
+    "tel": "పోత్త్రి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31594",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pocel",
+    "FLeng": "P",
+    "tel": "పోసెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31595",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pocg",
+    "FLeng": "P",
+    "tel": "ప్యాగ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31596",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Poduri",
+    "FLeng": "P",
+    "tel": "పోడూరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31597",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Podury",
+    "FLeng": "P",
+    "tel": "పోడూరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31598",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "poe",
+    "FLeng": "p",
+    "tel": "పో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31599",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pogula",
+    "FLeng": "P",
+    "tel": "పోగుల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31600",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pohha",
+    "FLeng": "P",
+    "tel": "పొహ్హ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31601",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pohhel",
+    "FLeng": "P",
+    "tel": "పోహ్హ్ల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31602",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Poindexter",
+    "FLeng": "P",
+    "tel": "పోఇండెక్ట్ర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31603",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Polam",
+    "FLeng": "P",
+    "tel": "పొలం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31604",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "poldi",
+    "FLeng": "p",
+    "tel": "పాల్ది",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31605",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polemon",
+    "FLeng": "P",
+    "tel": "పోలెమోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31606",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Policarpo",
+    "FLeng": "P",
+    "tel": "పోలికపో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31607",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polidore",
+    "FLeng": "P",
+    "tel": "పోలిదొరే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31608",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Polilan",
+    "FLeng": "P",
+    "tel": "పోలీలం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31609",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polk",
+    "FLeng": "P",
+    "tel": "ఫొల్క్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31610",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "polk",
+    "FLeng": "p",
+    "tel": "ఫొల్క్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31611",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Poll",
+    "FLeng": "P",
+    "tel": "పోల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31612",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pollard",
+    "FLeng": "P",
+    "tel": "పోల్లర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31613",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pollard",
+    "FLeng": "p",
+    "tel": "పోల్లర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31614",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pollerd",
+    "FLeng": "P",
+    "tel": "ఫొల్లేర్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31615",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polloch",
+    "FLeng": "P",
+    "tel": "పొల్లాహ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31616",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pollock",
+    "FLeng": "P",
+    "tel": "పొల్లాక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pollock",
+    "FLeng": "p",
+    "tel": "పొల్లాక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31618",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pollux",
+    "FLeng": "P",
+    "tel": "పొల్లూస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31619",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pollux",
+    "FLeng": "p",
+    "tel": "పొల్లూస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31620",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pollyrd",
+    "FLeng": "P",
+    "tel": "పోలీర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31621",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polonius",
+    "FLeng": "P",
+    "tel": "ఫాలోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31622",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "polonius",
+    "FLeng": "p",
+    "tel": "ఫాలోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polous",
+    "FLeng": "P",
+    "tel": "పోలిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31624",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Poltu",
+    "FLeng": "P",
+    "tel": "ఫాల్తు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31625",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Polu",
+    "FLeng": "P",
+    "tel": "పాలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31626",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "polykarp",
+    "FLeng": "p",
+    "tel": "పోలికర్ప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31627",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Polyperchon",
+    "FLeng": "P",
+    "tel": "పోలీపేర్చిన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pom",
+    "FLeng": "p",
+    "tel": "పోమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pomeroy",
+    "FLeng": "p",
+    "tel": "పోమేరోయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pomesh",
+    "FLeng": "P",
+    "tel": "పోమేష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pompey",
+    "FLeng": "P",
+    "tel": "పొమ్పేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pompey",
+    "FLeng": "p",
+    "tel": "పొమ్పేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pompiliu",
+    "FLeng": "P",
+    "tel": "పీఎంపీలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ponce",
+    "FLeng": "P",
+    "tel": "పోంచే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31635",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ponce",
+    "FLeng": "p",
+    "tel": "పోంచే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31636",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Poncho",
+    "FLeng": "P",
+    "tel": "పాంచో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31637",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Poncius",
+    "FLeng": "P",
+    "tel": "ఫోన్సెస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31638",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponleak",
+    "FLeng": "P",
+    "tel": "పోన్లేక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31639",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponleu",
+    "FLeng": "P",
+    "tel": "పోన్లేయూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31640",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponmala",
+    "FLeng": "P",
+    "tel": "పోంమాల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31641",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponmeni",
+    "FLeng": "P",
+    "tel": "పోంమేని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31642",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponmeniyan",
+    "FLeng": "P",
+    "tel": "పోంమేనియన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31643",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponmudi",
+    "FLeng": "P",
+    "tel": "పొన్ముడి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31644",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponmuthu",
+    "FLeng": "P",
+    "tel": "పోంముతు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31645",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnadi",
+    "FLeng": "P",
+    "tel": "పొంది",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31646",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnagan",
+    "FLeng": "P",
+    "tel": "పొన్నగం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31647",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnaiyah",
+    "FLeng": "P",
+    "tel": "పొన్నైయ్హ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31648",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnaiyan",
+    "FLeng": "P",
+    "tel": "పొన్నైయం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31649",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnan",
+    "FLeng": "P",
+    "tel": "పొన్నం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31650",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnappan",
+    "FLeng": "P",
+    "tel": "పొన్నప్పన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31651",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnarasan",
+    "FLeng": "P",
+    "tel": "పొన్నరసం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31652",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnayiram",
+    "FLeng": "P",
+    "tel": "పొన్నాయిరామ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31653",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnelil",
+    "FLeng": "P",
+    "tel": "పొన్నేలిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31654",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponnumani",
+    "FLeng": "P",
+    "tel": "పొన్నుమని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31655",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponraj",
+    "FLeng": "P",
+    "tel": "పోంరాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31656",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pons",
+    "FLeng": "p",
+    "tel": "పోంస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31657",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ponselvam",
+    "FLeng": "P",
+    "tel": "పోంసెల్వం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31658",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ponti",
+    "FLeng": "p",
+    "tel": "పొంటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31659",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pontius",
+    "FLeng": "P",
+    "tel": "పాంటీస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31660",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pontius",
+    "FLeng": "p",
+    "tel": "పాంటీస్",
+    "FLtel": "ప"
+  }
+]

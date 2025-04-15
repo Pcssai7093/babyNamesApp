@@ -1,0 +1,857 @@
+[
+  {
+    "id": "25056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Matlal",
+    "FLeng": "M",
+    "tel": "మాత్లాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25057",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Matlalhuitl",
+    "FLeng": "M",
+    "tel": "మాత్లాల్హుఇట్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25058",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Matloob",
+    "FLeng": "M",
+    "tel": "మాట్లూబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25059",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Matlub",
+    "FLeng": "M",
+    "tel": "మట్లుబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25060",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Matous",
+    "FLeng": "M",
+    "tel": "మాటొస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25061",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Matre",
+    "FLeng": "M",
+    "tel": "మాత్రే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25062",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Matrim",
+    "FLeng": "M",
+    "tel": "మాట్రిమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25063",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matrim",
+    "FLeng": "m",
+    "tel": "మాట్రిమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25064",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Matru",
+    "FLeng": "M",
+    "tel": "మాతృ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25065",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mats",
+    "FLeng": "M",
+    "tel": "మాట్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mats",
+    "FLeng": "m",
+    "tel": "మాట్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25067",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Matsendra",
+    "FLeng": "M",
+    "tel": "మాటసెంద్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25068",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matson",
+    "FLeng": "M",
+    "tel": "మెట్సోన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25069",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matsu",
+    "FLeng": "M",
+    "tel": "మేట్సు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25070",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matsya",
+    "FLeng": "M",
+    "tel": "మత్స్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25071",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Matsyendra",
+    "FLeng": "M",
+    "tel": "మత్స్యేంద్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25072",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matsyendranatha",
+    "FLeng": "M",
+    "tel": "మత్స్యేంద్రనాథ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25073",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matt",
+    "FLeng": "M",
+    "tel": "మాట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25074",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matt",
+    "FLeng": "m",
+    "tel": "మాట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25075",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matta",
+    "FLeng": "M",
+    "tel": "మత్త",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25076",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattan",
+    "FLeng": "M",
+    "tel": "మట్టం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25077",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mattan",
+    "FLeng": "m",
+    "tel": "మట్టం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25078",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattathias",
+    "FLeng": "M",
+    "tel": "మత్తతియాస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25079",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matteo",
+    "FLeng": "M",
+    "tel": "మాటలో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matteo",
+    "FLeng": "m",
+    "tel": "మాటలో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25081",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matteus",
+    "FLeng": "M",
+    "tel": "మట్టేస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25082",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matteus",
+    "FLeng": "m",
+    "tel": "మట్టేస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25083",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matthan",
+    "FLeng": "M",
+    "tel": "మత్తాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25084",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matthaus",
+    "FLeng": "M",
+    "tel": "మత్తస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25085",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattheus",
+    "FLeng": "M",
+    "tel": "మత్తెస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25086",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matthew",
+    "FLeng": "M",
+    "tel": "మాథ్యూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25087",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matthew",
+    "FLeng": "m",
+    "tel": "మాథ్యూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25088",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matthias",
+    "FLeng": "M",
+    "tel": "మత్తయాస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25089",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matthias",
+    "FLeng": "m",
+    "tel": "మత్తయాస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25090",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matthieu",
+    "FLeng": "M",
+    "tel": "మత్తియూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25091",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matthijs",
+    "FLeng": "M",
+    "tel": "మత్తిజ్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25092",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matti",
+    "FLeng": "m",
+    "tel": "మట్టి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25093",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattia",
+    "FLeng": "M",
+    "tel": "మట్టిగా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25094",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattias",
+    "FLeng": "M",
+    "tel": "మత్తీర్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25095",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mattias",
+    "FLeng": "m",
+    "tel": "మత్తీర్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25096",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattie",
+    "FLeng": "M",
+    "tel": "మట్టియే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25097",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattieu",
+    "FLeng": "M",
+    "tel": "మట్టియు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25098",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mattijs",
+    "FLeng": "m",
+    "tel": "మట్టిజెస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25099",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Matto",
+    "FLeng": "M",
+    "tel": "మత్తో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25100",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattox",
+    "FLeng": "M",
+    "tel": "మత్తోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25101",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mattox",
+    "FLeng": "m",
+    "tel": "మత్తోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25102",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mattson",
+    "FLeng": "M",
+    "tel": "మాట్స్లోన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25103",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matty",
+    "FLeng": "M",
+    "tel": "మట్టి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25104",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matuc",
+    "FLeng": "M",
+    "tel": "మటుకే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25105",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matugenus",
+    "FLeng": "M",
+    "tel": "మతూగేన్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25106",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matvei",
+    "FLeng": "M",
+    "tel": "మాటీవీకి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25107",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matvey",
+    "FLeng": "M",
+    "tel": "మాటువే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25108",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matvey",
+    "FLeng": "m",
+    "tel": "మాటువే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25109",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matviy",
+    "FLeng": "M",
+    "tel": "మాటీవీయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Matviyko",
+    "FLeng": "M",
+    "tel": "మాటీవీయకో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25111",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matwant",
+    "FLeng": "M",
+    "tel": "మత్వన్త",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25112",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matyas",
+    "FLeng": "M",
+    "tel": "మత్య్స",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25113",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "matyas",
+    "FLeng": "m",
+    "tel": "మత్య్స",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25114",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Matz",
+    "FLeng": "M",
+    "tel": "మాట్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25115",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maudad",
+    "FLeng": "M",
+    "tel": "మందాడి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25116",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maudood",
+    "FLeng": "M",
+    "tel": "మండూడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25117",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maudud",
+    "FLeng": "M",
+    "tel": "మందుడు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25118",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mauduit",
+    "FLeng": "M",
+    "tel": "మందుఇట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25119",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mauer",
+    "FLeng": "M",
+    "tel": "మయూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25120",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mauger",
+    "FLeng": "M",
+    "tel": "మంగేర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25121",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maukthikeshwar",
+    "FLeng": "M",
+    "tel": "మౌక్తికేశ్వర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25122",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mauktik",
+    "FLeng": "M",
+    "tel": "మౌక్తిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25123",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maula",
+    "FLeng": "M",
+    "tel": "మాటల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25124",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maulaa",
+    "FLeng": "M",
+    "tel": "మాటలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25125",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maulana",
+    "FLeng": "M",
+    "tel": "మౌలానా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25126",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maulesh",
+    "FLeng": "M",
+    "tel": "మౌలేష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25127",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maulik",
+    "FLeng": "M",
+    "tel": "మౌలిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25128",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maulindu",
+    "FLeng": "M",
+    "tel": "మాటలుండు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25129",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maumettu",
+    "FLeng": "M",
+    "tel": "మౌమెట్టు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25130",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maumoon",
+    "FLeng": "M",
+    "tel": "మౌమూన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25131",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maun",
+    "FLeng": "M",
+    "tel": "మౌనం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25132",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maunang",
+    "FLeng": "M",
+    "tel": "మౌనంగ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25133",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maunfeld",
+    "FLeng": "M",
+    "tel": "మౌనఫిల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25134",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mauno",
+    "FLeng": "m",
+    "tel": "మౌనో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25135",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maur",
+    "FLeng": "M",
+    "tel": "మయూరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25136",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maurica",
+    "FLeng": "M",
+    "tel": "మయూరికా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25137",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maurice",
+    "FLeng": "M",
+    "tel": "మార్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maurice",
+    "FLeng": "m",
+    "tel": "మార్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25139",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mauricio",
+    "FLeng": "M",
+    "tel": "మయూరీసివ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25140",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mauricio",
+    "FLeng": "m",
+    "tel": "మయూరీసివ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25141",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maurilio",
+    "FLeng": "M",
+    "tel": "మయూరిలీవు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25142",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maurilio",
+    "FLeng": "m",
+    "tel": "మయూరిలీవు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25143",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maurin",
+    "FLeng": "M",
+    "tel": "మయూరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mauritius",
+    "FLeng": "M",
+    "tel": "మారిషస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25145",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mauritz",
+    "FLeng": "M",
+    "tel": "మెరిట్జ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25146",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maurizio",
+    "FLeng": "M",
+    "tel": "మయూరీజియ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maurizio",
+    "FLeng": "m",
+    "tel": "మయూరీజియ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25148",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mauro",
+    "FLeng": "M",
+    "tel": "మాయూరో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25149",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mauro",
+    "FLeng": "m",
+    "tel": "మాయూరో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25150",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maurus",
+    "FLeng": "M",
+    "tel": "మార్స్",
+    "FLtel": "మ"
+  }
+]

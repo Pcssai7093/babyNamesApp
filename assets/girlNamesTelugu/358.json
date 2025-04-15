@@ -1,0 +1,821 @@
+[
+  {
+    "id": "125096",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayette",
+    "FLeng": "R",
+    "tel": "రాయేట్టే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125097",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raygan",
+    "FLeng": "R",
+    "tel": "రేగం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125098",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayhanah",
+    "FLeng": "R",
+    "tel": "రేహనః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125099",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayia",
+    "FLeng": "R",
+    "tel": "రాయిగా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125100",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayla",
+    "FLeng": "R",
+    "tel": "రాయల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125101",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raylee",
+    "FLeng": "R",
+    "tel": "రైలీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125102",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayleigh",
+    "FLeng": "R",
+    "tel": "టాయ్లెఇఘ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "125103",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayleine",
+    "FLeng": "R",
+    "tel": "టాయ్లెయినే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "125104",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raylene",
+    "FLeng": "R",
+    "tel": "రాయలేని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125105",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayline",
+    "FLeng": "R",
+    "tel": "రైలునే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125106",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raylyn",
+    "FLeng": "R",
+    "tel": "రాయ్లయ్న్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125107",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raym",
+    "FLeng": "R",
+    "tel": "రయ్మ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125108",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayme",
+    "FLeng": "R",
+    "tel": "రేమే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125109",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "raymonda",
+    "FLeng": "r",
+    "tel": "రాయమొంద",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125110",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raymonde",
+    "FLeng": "R",
+    "tel": "రేమాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125111",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayna",
+    "FLeng": "R",
+    "tel": "రైనా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125112",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "rayne",
+    "FLeng": "r",
+    "tel": "రయానే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125113",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raynel",
+    "FLeng": "R",
+    "tel": "రాయణేల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125114",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raynelle",
+    "FLeng": "R",
+    "tel": "రాయణేళ్ళే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125115",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "rayni",
+    "FLeng": "r",
+    "tel": "రాయిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125116",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raynne",
+    "FLeng": "R",
+    "tel": "రయ్ననే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125117",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayo",
+    "FLeng": "R",
+    "tel": "రాయి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125118",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayowa",
+    "FLeng": "R",
+    "tel": "రాయివా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125119",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raytah",
+    "FLeng": "R",
+    "tel": "రేతః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125120",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Rayven",
+    "FLeng": "R",
+    "tel": "రేవేం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125121",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rayya",
+    "FLeng": "R",
+    "tel": "రయ్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125122",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayyaa",
+    "FLeng": "R",
+    "tel": "రయ్యా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125123",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayyah",
+    "FLeng": "R",
+    "tel": "రయ్యహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125124",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rayzil",
+    "FLeng": "R",
+    "tel": "రైజిల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125125",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rayzilee",
+    "FLeng": "R",
+    "tel": "రైజిలీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125126",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raz",
+    "FLeng": "R",
+    "tel": "రాజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125127",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razaan",
+    "FLeng": "R",
+    "tel": "రంజాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125128",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razaana",
+    "FLeng": "R",
+    "tel": "రాజాని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125129",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razaanah",
+    "FLeng": "R",
+    "tel": "రాజానః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125130",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razana",
+    "FLeng": "R",
+    "tel": "రాజన్న",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125131",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razeen",
+    "FLeng": "R",
+    "tel": "రాజీనా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125132",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razi",
+    "FLeng": "R",
+    "tel": "రాజి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125133",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razia",
+    "FLeng": "R",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125134",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raziah",
+    "FLeng": "R",
+    "tel": "రాజయ్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125135",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "raziah",
+    "FLeng": "r",
+    "tel": "రాజయ్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125136",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raziela",
+    "FLeng": "R",
+    "tel": "రజియలా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125137",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "raziela",
+    "FLeng": "r",
+    "tel": "రజియలా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125138",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razija",
+    "FLeng": "R",
+    "tel": "రాజిజా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125139",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Razilee",
+    "FLeng": "R",
+    "tel": "రాజిలీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125140",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Razili",
+    "FLeng": "R",
+    "tel": "రాజిలి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125141",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "razili",
+    "FLeng": "r",
+    "tel": "రాజిలి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125142",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Razina",
+    "FLeng": "R",
+    "tel": "రాజైన",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125143",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raziya",
+    "FLeng": "R",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125144",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raziyah",
+    "FLeng": "R",
+    "tel": "రజియాహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125145",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Razwa",
+    "FLeng": "R",
+    "tel": "రాజవా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125146",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rdita",
+    "FLeng": "R",
+    "tel": "ర్థిత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125147",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rea",
+    "FLeng": "R",
+    "tel": "రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125148",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "rea",
+    "FLeng": "r",
+    "tel": "రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125149",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Reach",
+    "FLeng": "R",
+    "tel": "రీచ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125150",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Reada",
+    "FLeng": "R",
+    "tel": "రేటా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125151",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Reaksmey",
+    "FLeng": "R",
+    "tel": "రాక్షమే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125152",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "realtin",
+    "FLeng": "r",
+    "tel": "రియాల్టిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125153",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Reanan",
+    "FLeng": "R",
+    "tel": "రుణం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125154",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Reanna",
+    "FLeng": "R",
+    "tel": "రేస్తోన్న",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125155",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Reatha",
+    "FLeng": "R",
+    "tel": "రాత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125156",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "reatha",
+    "FLeng": "r",
+    "tel": "రాత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125157",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Reba",
+    "FLeng": "R",
+    "tel": "రెబ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125158",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "reba",
+    "FLeng": "r",
+    "tel": "రెబ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125159",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rebati",
+    "FLeng": "R",
+    "tel": "రేబర్తి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125160",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebbeca",
+    "FLeng": "R",
+    "tel": "రెబ్బెకే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125161",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebeca",
+    "FLeng": "R",
+    "tel": "రెబెకా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125162",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebecal",
+    "FLeng": "R",
+    "tel": "రెబెకాల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125163",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebecca",
+    "FLeng": "R",
+    "tel": "రెబెక్కా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125164",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebeccah",
+    "FLeng": "R",
+    "tel": "రెబెకాహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125165",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebecka",
+    "FLeng": "R",
+    "tel": "రెబెకే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125166",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Rebeckah",
+    "FLeng": "R",
+    "tel": "రెబెకేహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125167",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebeka",
+    "FLeng": "R",
+    "tel": "రెబెకా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125168",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Rebekah",
+    "FLeng": "R",
+    "tel": "రెబెకాహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125169",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebekka",
+    "FLeng": "R",
+    "tel": "రెబెక్కా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125170",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebekkah",
+    "FLeng": "R",
+    "tel": "రెబెక్కాహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125171",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rebha",
+    "FLeng": "R",
+    "tel": "రెబ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125172",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rebora",
+    "FLeng": "R",
+    "tel": "రిబోరా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125173",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rechal",
+    "FLeng": "R",
+    "tel": "రేచల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125174",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rechemay",
+    "FLeng": "R",
+    "tel": "రేచెమై",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125175",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Recika",
+    "FLeng": "R",
+    "tel": "రెసిక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125176",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Redeem",
+    "FLeng": "R",
+    "tel": "రేడియం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125177",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Redell",
+    "FLeng": "R",
+    "tel": "రీడెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125178",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Redha",
+    "FLeng": "R",
+    "tel": "రెద",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125179",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Redhanya",
+    "FLeng": "R",
+    "tel": "రెధాన్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125180",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Reeda",
+    "FLeng": "R",
+    "tel": "రీడ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125181",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Reeha",
+    "FLeng": "R",
+    "tel": "రీహా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125182",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Reeham",
+    "FLeng": "R",
+    "tel": "రీహం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125183",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Reeja",
+    "FLeng": "R",
+    "tel": "రీజ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125184",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Reela",
+    "FLeng": "R",
+    "tel": "రీల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125185",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Reem",
+    "FLeng": "R",
+    "tel": "రీం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125186",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Reema",
+    "FLeng": "R",
+    "tel": "రీమా",
+    "FLtel": "ర"
+  }
+]

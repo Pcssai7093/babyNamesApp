@@ -1,0 +1,812 @@
+[
+  {
+    "id": "40237",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "steafan",
+    "FLeng": "s",
+    "tel": "స్టయిఫం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40238",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steaphan",
+    "FLeng": "S",
+    "tel": "స్టయిఫం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40239",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stearns",
+    "FLeng": "S",
+    "tel": "స్టెర్న్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40240",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stede",
+    "FLeng": "S",
+    "tel": "స్టడీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "40241",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stede",
+    "FLeng": "s",
+    "tel": "స్టడీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "40242",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stedeman",
+    "FLeng": "S",
+    "tel": "స్టడీమన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40243",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stedman",
+    "FLeng": "S",
+    "tel": "స్టడీమన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40244",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stedman",
+    "FLeng": "s",
+    "tel": "స్టడీమన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40245",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steef",
+    "FLeng": "S",
+    "tel": "స్టిఫ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40246",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steel",
+    "FLeng": "S",
+    "tel": "స్టీల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40247",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steele",
+    "FLeng": "S",
+    "tel": "స్టీల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40248",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steen",
+    "FLeng": "S",
+    "tel": "స్టీన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40249",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steeve",
+    "FLeng": "S",
+    "tel": "స్టీవ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40250",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stefano",
+    "FLeng": "S",
+    "tel": "స్టెఫానో",
+    "FLtel": "స"
+  },
+  {
+    "id": "40251",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stefanos",
+    "FLeng": "S",
+    "tel": "స్టెఫానోస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40252",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stefans",
+    "FLeng": "S",
+    "tel": "స్టీఫెన్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40253",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steffan",
+    "FLeng": "S",
+    "tel": "స్టెఫ్ఫాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40254",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steffen",
+    "FLeng": "S",
+    "tel": "స్టీఫన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40255",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stefon",
+    "FLeng": "S",
+    "tel": "స్టెఫాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40256",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stehen",
+    "FLeng": "S",
+    "tel": "స్టెహేం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40257",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stein",
+    "FLeng": "S",
+    "tel": "స్టెయిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40258",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steinar",
+    "FLeng": "S",
+    "tel": "స్టెయినర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40259",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steiner",
+    "FLeng": "S",
+    "tel": "స్టెయిన్ర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40260",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stelian",
+    "FLeng": "S",
+    "tel": "స్టేలియాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40261",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stelios",
+    "FLeng": "S",
+    "tel": "స్టేలియాస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40262",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stellan",
+    "FLeng": "S",
+    "tel": "స్టెల్లన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40263",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stellen",
+    "FLeng": "s",
+    "tel": "స్టెల్లన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40264",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stem",
+    "FLeng": "S",
+    "tel": "స్టెమ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40265",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stemham",
+    "FLeng": "S",
+    "tel": "స్టెంహం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40266",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sten",
+    "FLeng": "S",
+    "tel": "స్టెయిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40267",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stendre",
+    "FLeng": "S",
+    "tel": "స్టెన్ద్రే",
+    "FLtel": "స"
+  },
+  {
+    "id": "40268",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stene",
+    "FLeng": "S",
+    "tel": "స్టెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40269",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steniyar",
+    "FLeng": "S",
+    "tel": "స్టీనియర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40270",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stennett",
+    "FLeng": "s",
+    "tel": "స్టెంనేట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40271",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steno",
+    "FLeng": "S",
+    "tel": "స్టెనో",
+    "FLtel": "స"
+  },
+  {
+    "id": "40272",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Step",
+    "FLeng": "S",
+    "tel": "స్టెప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40273",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stepan",
+    "FLeng": "S",
+    "tel": "స్టీపెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40274",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stepan",
+    "FLeng": "s",
+    "tel": "స్టీపెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40275",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steph",
+    "FLeng": "S",
+    "tel": "స్టఫ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40276",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stepha",
+    "FLeng": "S",
+    "tel": "స్టెఫా",
+    "FLtel": "స"
+  },
+  {
+    "id": "40277",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stephano",
+    "FLeng": "S",
+    "tel": "స్టెఫానో",
+    "FLtel": "స"
+  },
+  {
+    "id": "40278",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stephanos",
+    "FLeng": "S",
+    "tel": "స్టెఫానోస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40279",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stephanus",
+    "FLeng": "s",
+    "tel": "స్టీఫెన్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40280",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stephen",
+    "FLeng": "S",
+    "tel": "స్టీఫెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40281",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stephen",
+    "FLeng": "s",
+    "tel": "స్టీఫెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40282",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stephenson",
+    "FLeng": "S",
+    "tel": "స్టీఫెన్సన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40283",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stepka",
+    "FLeng": "S",
+    "tel": "స్టెప్క",
+    "FLtel": "స"
+  },
+  {
+    "id": "40284",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sterlyn",
+    "FLeng": "S",
+    "tel": "స్టెరిలైన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40285",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stermi",
+    "FLeng": "S",
+    "tel": "స్టెర్మి",
+    "FLtel": "స"
+  },
+  {
+    "id": "40286",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stern",
+    "FLeng": "S",
+    "tel": "స్టెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40287",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sterne",
+    "FLeng": "S",
+    "tel": "స్టెర్న్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40288",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stesha",
+    "FLeng": "S",
+    "tel": "స్టేష",
+    "FLtel": "స"
+  },
+  {
+    "id": "40289",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stetson",
+    "FLeng": "S",
+    "tel": "స్టేట్స్లోన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40290",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steuen",
+    "FLeng": "S",
+    "tel": "స్టీయూఎం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40291",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stevan",
+    "FLeng": "S",
+    "tel": "స్టీవెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40292",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stevenson",
+    "FLeng": "S",
+    "tel": "స్టీవెన్సన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40293",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stevie",
+    "FLeng": "S",
+    "tel": "స్టీవీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "40294",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stevon",
+    "FLeng": "S",
+    "tel": "స్టీవోన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40295",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Steward",
+    "FLeng": "S",
+    "tel": "స్టీవార్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40296",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stewaro",
+    "FLeng": "S",
+    "tel": "స్టీవారో",
+    "FLtel": "స"
+  },
+  {
+    "id": "40297",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stewart",
+    "FLeng": "S",
+    "tel": "స్టీవర్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40298",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stewert",
+    "FLeng": "S",
+    "tel": "స్టీవెర్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40299",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sthavir",
+    "FLeng": "S",
+    "tel": "స్థవిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40300",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sthir",
+    "FLeng": "S",
+    "tel": "స్థిర",
+    "FLtel": "స"
+  },
+  {
+    "id": "40301",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sthithank",
+    "FLeng": "S",
+    "tel": "స్థితాన్క్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40302",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sthua",
+    "FLeng": "S",
+    "tel": "స్తుతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "40303",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stiabhna",
+    "FLeng": "S",
+    "tel": "స్టైఅభిన",
+    "FLtel": "స"
+  },
+  {
+    "id": "40304",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stian",
+    "FLeng": "S",
+    "tel": "స్టియాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40305",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stieg",
+    "FLeng": "S",
+    "tel": "స్టీఎగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40306",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stig",
+    "FLeng": "S",
+    "tel": "స్టిగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40307",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "stigr",
+    "FLeng": "s",
+    "tel": "సతిగుర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40308",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stijn",
+    "FLeng": "S",
+    "tel": "స్టీజ్ఞ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40309",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stiles",
+    "FLeng": "S",
+    "tel": "స్టైల్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40310",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stillman",
+    "FLeng": "S",
+    "tel": "స్టైల్ల్మం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40311",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stilman",
+    "FLeng": "S",
+    "tel": "స్టైల్మాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40312",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stilwell",
+    "FLeng": "S",
+    "tel": "స్టైల్వెల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40313",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Stimit",
+    "FLeng": "S",
+    "tel": "స్థిమిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "40314",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sting",
+    "FLeng": "S",
+    "tel": "స్టింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40315",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stipe",
+    "FLeng": "S",
+    "tel": "స్టీపె",
+    "FLtel": "స"
+  },
+  {
+    "id": "40316",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stirling",
+    "FLeng": "S",
+    "tel": "స్టిర్లింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40317",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stirlingl",
+    "FLeng": "S",
+    "tel": "స్టైర్లింగ్ల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40318",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stjepan",
+    "FLeng": "S",
+    "tel": "స్టజేపం",
+    "FLtel": "స"
+  },
+  {
+    "id": "40319",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stock",
+    "FLeng": "S",
+    "tel": "స్టాక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40320",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stockhard",
+    "FLeng": "S",
+    "tel": "స్టాకర్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40321",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stockhart",
+    "FLeng": "S",
+    "tel": "స్టాకర్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40322",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stockley",
+    "FLeng": "S",
+    "tel": "స్టాక్ల్య్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40323",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stockman",
+    "FLeng": "S",
+    "tel": "స్టాక్మాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40324",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stockton",
+    "FLeng": "S",
+    "tel": "స్టాక్టన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40325",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stod",
+    "FLeng": "S",
+    "tel": "స్టడీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "40326",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Stodd",
+    "FLeng": "S",
+    "tel": "స్టడ్",
+    "FLtel": "స"
+  }
+]

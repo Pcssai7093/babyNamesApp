@@ -1,0 +1,857 @@
+[
+  {
+    "id": "139979",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassielle",
+    "FLeng": "C",
+    "tel": "కాస్సిఏళ్లే",
+    "FLtel": "క"
+  },
+  {
+    "id": "139980",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassilda",
+    "FLeng": "C",
+    "tel": "కాస్సిల్డా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139981",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassini",
+    "FLeng": "C",
+    "tel": "కాసిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "139982",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassiopea",
+    "FLeng": "C",
+    "tel": "కాస్సిప్త్",
+    "FLtel": "క"
+  },
+  {
+    "id": "139983",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassiopeia",
+    "FLeng": "C",
+    "tel": "కాస్సిప్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139984",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassondra",
+    "FLeng": "C",
+    "tel": "కేసన్ద్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "139985",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cassy",
+    "FLeng": "C",
+    "tel": "క్యాస్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "139986",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Casta",
+    "FLeng": "C",
+    "tel": "కాస్త",
+    "FLtel": "క"
+  },
+  {
+    "id": "139987",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Castalia",
+    "FLeng": "C",
+    "tel": "కాస్టేలియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139988",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Castanea",
+    "FLeng": "C",
+    "tel": "కాస్టానియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139989",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cat",
+    "FLeng": "C",
+    "tel": "చట్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "139990",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "cat",
+    "FLeng": "c",
+    "tel": "చట్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "139991",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catalda",
+    "FLeng": "C",
+    "tel": "కేటాల్డా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139992",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catalena",
+    "FLeng": "C",
+    "tel": "కాతలేనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139993",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cataleya",
+    "FLeng": "C",
+    "tel": "కేతాలియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "139994",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catalin",
+    "FLeng": "C",
+    "tel": "కేటాయిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "139995",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catalina",
+    "FLeng": "C",
+    "tel": "కేతాలైన",
+    "FLtel": "క"
+  },
+  {
+    "id": "139996",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cataline",
+    "FLeng": "C",
+    "tel": "క్యాటలిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "139997",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catalonia",
+    "FLeng": "C",
+    "tel": "కతాలోని",
+    "FLtel": "క"
+  },
+  {
+    "id": "139998",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catalyn",
+    "FLeng": "C",
+    "tel": "క్యాటలిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "139999",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catarina",
+    "FLeng": "C",
+    "tel": "కాటరిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140000",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cate",
+    "FLeng": "C",
+    "tel": "కేట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140001",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catelin",
+    "FLeng": "C",
+    "tel": "కేతేలిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "140002",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cateline",
+    "FLeng": "C",
+    "tel": "కాతెలీనే",
+    "FLtel": "క"
+  },
+  {
+    "id": "140003",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catelynn",
+    "FLeng": "C",
+    "tel": "క్యాటలిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140004",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catena",
+    "FLeng": "C",
+    "tel": "చాటేనా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140005",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Caterin",
+    "FLeng": "C",
+    "tel": "కాటెరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140006",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Caterina",
+    "FLeng": "C",
+    "tel": "కేతేరిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140007",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "caterina",
+    "FLeng": "c",
+    "tel": "కేతేరిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140008",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Caterine",
+    "FLeng": "C",
+    "tel": "కాటెరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140009",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cath",
+    "FLeng": "C",
+    "tel": "కథ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140010",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathalina",
+    "FLeng": "C",
+    "tel": "కథలైనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140011",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathandra",
+    "FLeng": "C",
+    "tel": "కేతన్ద్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "140012",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catharin",
+    "FLeng": "C",
+    "tel": "కేథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140013",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catharina",
+    "FLeng": "C",
+    "tel": "కేథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140014",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catharine",
+    "FLeng": "C",
+    "tel": "కేథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140015",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catharinus",
+    "FLeng": "C",
+    "tel": "కాథరీన్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140016",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catharyn",
+    "FLeng": "C",
+    "tel": "కేథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140017",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "cathay",
+    "FLeng": "c",
+    "tel": "కాతే",
+    "FLtel": "క"
+  },
+  {
+    "id": "140018",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathee",
+    "FLeng": "C",
+    "tel": "చాతీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140019",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catherin",
+    "FLeng": "C",
+    "tel": "క్యాథెరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140020",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catherina",
+    "FLeng": "C",
+    "tel": "కేతేరిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140021",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catherine",
+    "FLeng": "C",
+    "tel": "కాథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140022",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catheryn",
+    "FLeng": "C",
+    "tel": "క్యాథరీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140023",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catherynne",
+    "FLeng": "C",
+    "tel": "క్యాథెరీన్నే",
+    "FLtel": "క"
+  },
+  {
+    "id": "140024",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathey",
+    "FLeng": "C",
+    "tel": "క్యాథెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140025",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathi",
+    "FLeng": "C",
+    "tel": "చాతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140026",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathia",
+    "FLeng": "C",
+    "tel": "కథియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140027",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "cathica",
+    "FLeng": "c",
+    "tel": "కేతిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "140028",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathie",
+    "FLeng": "C",
+    "tel": "క్యాతియే",
+    "FLtel": "క"
+  },
+  {
+    "id": "140029",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathleen",
+    "FLeng": "C",
+    "tel": "క్యాథలీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140030",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathrin",
+    "FLeng": "C",
+    "tel": "కేథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140031",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathrina",
+    "FLeng": "C",
+    "tel": "కత్రినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140032",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathrine",
+    "FLeng": "C",
+    "tel": "కేథరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140033",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathryn",
+    "FLeng": "C",
+    "tel": "క్యాథరీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140034",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cathy",
+    "FLeng": "C",
+    "tel": "కాథీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140035",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cati",
+    "FLeng": "C",
+    "tel": "చాటి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140036",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "catia",
+    "FLeng": "c",
+    "tel": "కెటీఆ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140037",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "catiche",
+    "FLeng": "c",
+    "tel": "చాటిచే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140038",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catie",
+    "FLeng": "C",
+    "tel": "కేటీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140039",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catin",
+    "FLeng": "C",
+    "tel": "కఠిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140040",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catina",
+    "FLeng": "C",
+    "tel": "కఠిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140041",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catinka",
+    "FLeng": "C",
+    "tel": "కథింకా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140042",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catja",
+    "FLeng": "C",
+    "tel": "కెట్జ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140043",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catlana",
+    "FLeng": "C",
+    "tel": "కాట్లన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140044",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catleu",
+    "FLeng": "C",
+    "tel": "కట్లెయూ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140045",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catlin",
+    "FLeng": "C",
+    "tel": "కెట్లిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140046",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catlina",
+    "FLeng": "C",
+    "tel": "కెట్లిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140047",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catlyn",
+    "FLeng": "C",
+    "tel": "కెట్లైన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140048",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catori",
+    "FLeng": "C",
+    "tel": "కఠారి",
+    "FLtel": "క"
+  },
+  {
+    "id": "140049",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "catori",
+    "FLeng": "c",
+    "tel": "కఠారి",
+    "FLtel": "క"
+  },
+  {
+    "id": "140050",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catreena",
+    "FLeng": "C",
+    "tel": "కత్రీనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140051",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catrice",
+    "FLeng": "C",
+    "tel": "కాట్రిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140052",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catrin",
+    "FLeng": "C",
+    "tel": "కత్రిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140053",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catrina",
+    "FLeng": "C",
+    "tel": "కత్రినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140054",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "catrina",
+    "FLeng": "c",
+    "tel": "కత్రినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140055",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catrine",
+    "FLeng": "C",
+    "tel": "కత్రినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140056",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catrinel",
+    "FLeng": "C",
+    "tel": "కాత్రినెల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140057",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catriona",
+    "FLeng": "C",
+    "tel": "కాట్రియన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140058",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "catriona",
+    "FLeng": "c",
+    "tel": "కాట్రియన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140059",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catryn",
+    "FLeng": "C",
+    "tel": "కట్రీనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140060",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Catta",
+    "FLeng": "C",
+    "tel": "కెత్త",
+    "FLtel": "క"
+  },
+  {
+    "id": "140061",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cattia",
+    "FLeng": "C",
+    "tel": "కట్టినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "140062",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Caty",
+    "FLeng": "C",
+    "tel": "కేటీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140063",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cauley",
+    "FLeng": "C",
+    "tel": "కేయూలెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140064",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Cauvery",
+    "FLeng": "C",
+    "tel": "కాలువేరీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140065",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Cavery",
+    "FLeng": "C",
+    "tel": "కావేరీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "140066",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cayanne",
+    "FLeng": "C",
+    "tel": "కాయాన్ని",
+    "FLtel": "క"
+  },
+  {
+    "id": "140067",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Caydence",
+    "FLeng": "C",
+    "tel": "సీఐడీఎంకె",
+    "FLtel": "స"
+  },
+  {
+    "id": "140068",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cayenne",
+    "FLeng": "C",
+    "tel": "కేఎంనే",
+    "FLtel": "క"
+  },
+  {
+    "id": "140069",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "cayetana",
+    "FLeng": "c",
+    "tel": "కేతన",
+    "FLtel": "క"
+  },
+  {
+    "id": "140070",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cayfutray",
+    "FLeng": "C",
+    "tel": "కెవైఫుట్రాయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "140071",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Cayla",
+    "FLeng": "C",
+    "tel": "సీఐల",
+    "FLtel": "స"
+  },
+  {
+    "id": "140072",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "cayla",
+    "FLeng": "c",
+    "tel": "సీఐల",
+    "FLtel": "స"
+  },
+  {
+    "id": "140073",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Caylee",
+    "FLeng": "C",
+    "tel": "కెయిలీ",
+    "FLtel": "క"
+  }
+]

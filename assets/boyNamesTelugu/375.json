@@ -1,0 +1,839 @@
+[
+  {
+    "id": "26164",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monank",
+    "FLeng": "M",
+    "tel": "మొనన్క్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26165",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monark",
+    "FLeng": "M",
+    "tel": "మోనార్క్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26166",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monash",
+    "FLeng": "M",
+    "tel": "మొనాష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26167",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Moncef",
+    "FLeng": "M",
+    "tel": "మొంసెఫ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26168",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mondem",
+    "FLeng": "M",
+    "tel": "మొండెం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26169",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mondher",
+    "FLeng": "M",
+    "tel": "మొందెర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26170",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monedorigi",
+    "FLeng": "M",
+    "tel": "మోనేదొరిగి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26171",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monedorix",
+    "FLeng": "M",
+    "tel": "మోనెడోరిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26172",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monee",
+    "FLeng": "M",
+    "tel": "మోనీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26173",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Moneer",
+    "FLeng": "M",
+    "tel": "మొనీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26174",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mongkut",
+    "FLeng": "M",
+    "tel": "మొంఙ్కుట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26175",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Moni",
+    "FLeng": "M",
+    "tel": "మోని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26176",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monick",
+    "FLeng": "M",
+    "tel": "మోనిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26177",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "monico",
+    "FLeng": "m",
+    "tel": "మోనికా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26178",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monik",
+    "FLeng": "M",
+    "tel": "మోనిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26179",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Monim",
+    "FLeng": "M",
+    "tel": "మోనిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26180",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Moninder",
+    "FLeng": "M",
+    "tel": "మెనింద్ర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26181",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Monir",
+    "FLeng": "M",
+    "tel": "మొనీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26182",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Monisa",
+    "FLeng": "M",
+    "tel": "మోనిష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26183",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monish",
+    "FLeng": "M",
+    "tel": "మోనిష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26184",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monishkar",
+    "FLeng": "M",
+    "tel": "మోనిష్కార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26185",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monit",
+    "FLeng": "M",
+    "tel": "మోనిట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26186",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Monji",
+    "FLeng": "M",
+    "tel": "మంజి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26187",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mono",
+    "FLeng": "M",
+    "tel": "మోనో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26188",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monohar",
+    "FLeng": "M",
+    "tel": "మోనోహర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26189",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monojit",
+    "FLeng": "M",
+    "tel": "మోనోజిత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26190",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monolos",
+    "FLeng": "M",
+    "tel": "మోనోలోస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26191",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Monosij",
+    "FLeng": "M",
+    "tel": "మోనోసైజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26192",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Monsef",
+    "FLeng": "M",
+    "tel": "మొంసెఫ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26193",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Monsur",
+    "FLeng": "M",
+    "tel": "మోన్సూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26194",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mont",
+    "FLeng": "m",
+    "tel": "మోంట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26195",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montague",
+    "FLeng": "M",
+    "tel": "మొంటాగు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26196",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montague",
+    "FLeng": "m",
+    "tel": "మొంటాగు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montano",
+    "FLeng": "m",
+    "tel": "మోంటానా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26198",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Montasir",
+    "FLeng": "M",
+    "tel": "మొంతసీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26199",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monte",
+    "FLeng": "M",
+    "tel": "మోంటే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26200",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "monte",
+    "FLeng": "m",
+    "tel": "మోంటే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26201",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montego",
+    "FLeng": "M",
+    "tel": "మోంటెగో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26202",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montego",
+    "FLeng": "m",
+    "tel": "మోంటెగో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26203",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Montek",
+    "FLeng": "M",
+    "tel": "మాంటెక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26204",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Montel",
+    "FLeng": "M",
+    "tel": "మోంటెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26205",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montel",
+    "FLeng": "m",
+    "tel": "మోంటెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26206",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montenegro",
+    "FLeng": "M",
+    "tel": "మోంటెనెగ్రో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26207",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montenegro",
+    "FLeng": "m",
+    "tel": "మోంటెనెగ్రో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26208",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monterey",
+    "FLeng": "M",
+    "tel": "మోంటెరేయ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26209",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Montesh",
+    "FLeng": "M",
+    "tel": "మోంటేష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26210",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montez",
+    "FLeng": "m",
+    "tel": "మాంటేజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26211",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montezuma",
+    "FLeng": "M",
+    "tel": "మోంటేజుమా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26212",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montezuma",
+    "FLeng": "m",
+    "tel": "మోంటేజుమా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26213",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Montgomerie",
+    "FLeng": "M",
+    "tel": "మోంట్గోమేరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26214",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montgomery",
+    "FLeng": "M",
+    "tel": "మోంట్గోమేరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26215",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montgomery",
+    "FLeng": "m",
+    "tel": "మోంట్గోమేరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26216",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Montha",
+    "FLeng": "M",
+    "tel": "మంథా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26217",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montie",
+    "FLeng": "M",
+    "tel": "మోంటీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26218",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Montreal",
+    "FLeng": "M",
+    "tel": "మాంట్రియల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26219",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montreal",
+    "FLeng": "m",
+    "tel": "మాంట్రియల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26220",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Montrell",
+    "FLeng": "M",
+    "tel": "మొంట్రెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26221",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "montrell",
+    "FLeng": "m",
+    "tel": "మొంట్రెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26222",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Montu",
+    "FLeng": "M",
+    "tel": "మంటూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26223",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Monty",
+    "FLeng": "M",
+    "tel": "మోంటే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26224",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "monty",
+    "FLeng": "m",
+    "tel": "మోంటే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26225",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mooaz",
+    "FLeng": "M",
+    "tel": "మూయాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26226",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mookaiyan",
+    "FLeng": "M",
+    "tel": "మూకలియన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26227",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mookandi",
+    "FLeng": "M",
+    "tel": "మూకండి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26228",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mookesh",
+    "FLeng": "M",
+    "tel": "ముకేశ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26229",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moolavan",
+    "FLeng": "M",
+    "tel": "మూలవాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26230",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mooljee",
+    "FLeng": "M",
+    "tel": "మూలజీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26231",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moolraj",
+    "FLeng": "M",
+    "tel": "మూలరాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26232",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Moolshanker",
+    "FLeng": "M",
+    "tel": "మూలశంకర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26233",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moomal",
+    "FLeng": "M",
+    "tel": "మూమల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26234",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Moomin",
+    "FLeng": "M",
+    "tel": "మోమిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26235",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moon unit",
+    "FLeng": "M",
+    "tel": "మూన్ యూనిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26236",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moon-unit",
+    "FLeng": "M",
+    "tel": "మూన్-యూనిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26237",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moonesar",
+    "FLeng": "M",
+    "tel": "మూనేసర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26238",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Moonis",
+    "FLeng": "M",
+    "tel": "మోనిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26239",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mooppan",
+    "FLeng": "M",
+    "tel": "మూప్పన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26240",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Moore",
+    "FLeng": "M",
+    "tel": "మూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26241",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "moore",
+    "FLeng": "m",
+    "tel": "మూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26242",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moorea",
+    "FLeng": "M",
+    "tel": "మూరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26243",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Moorland",
+    "FLeng": "M",
+    "tel": "మూర్లండ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26244",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Moorley",
+    "FLeng": "M",
+    "tel": "మూర్ల్య్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26245",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Moorly",
+    "FLeng": "M",
+    "tel": "మూరలై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26246",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Moorthi",
+    "FLeng": "M",
+    "tel": "మూర్తి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26247",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moorthy",
+    "FLeng": "M",
+    "tel": "మూర్తి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26248",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Moorti",
+    "FLeng": "M",
+    "tel": "మూర్తి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26249",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Moosa",
+    "FLeng": "M",
+    "tel": "మూస",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26250",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Moosaakaaiim",
+    "FLeng": "M",
+    "tel": "మూసాకాయ్మ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26251",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "moose",
+    "FLeng": "m",
+    "tel": "మూసే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26252",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moovendan",
+    "FLeng": "M",
+    "tel": "మూఁవేందన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26253",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moppe",
+    "FLeng": "M",
+    "tel": "మొప్పె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26254",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mor",
+    "FLeng": "M",
+    "tel": "మోర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26255",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Morad",
+    "FLeng": "M",
+    "tel": "మోర్తాడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26256",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Moral",
+    "FLeng": "M",
+    "tel": "మోరల్",
+    "FLtel": "మ"
+  }
+]

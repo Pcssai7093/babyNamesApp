@@ -1,0 +1,839 @@
+[
+  {
+    "id": "4697",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abiheshan",
+    "FLeng": "A",
+    "tel": "బిహేశం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4698",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abij",
+    "FLeng": "A",
+    "tel": "బిజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4699",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abijah",
+    "FLeng": "A",
+    "tel": "బిజ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4700",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abijeet",
+    "FLeng": "A",
+    "tel": "అభిజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4701",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abijith",
+    "FLeng": "A",
+    "tel": "అభిజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4702",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abilash",
+    "FLeng": "A",
+    "tel": "అభిలాష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4703",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abilio",
+    "FLeng": "A",
+    "tel": "బిలీవ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4704",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abilo",
+    "FLeng": "A",
+    "tel": "బిలో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4705",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abimael",
+    "FLeng": "A",
+    "tel": "బిమల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4706",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "abimael",
+    "FLeng": "a",
+    "tel": "బిమల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4707",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abimanyu",
+    "FLeng": "A",
+    "tel": "అభిమన్యు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4708",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abimbola",
+    "FLeng": "A",
+    "tel": "బిమ్బోల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4709",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abimola",
+    "FLeng": "A",
+    "tel": "అబీమెలె",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4710",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abin",
+    "FLeng": "A",
+    "tel": "బిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4711",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinaash",
+    "FLeng": "A",
+    "tel": "అబీనాష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4712",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinaashjot",
+    "FLeng": "A",
+    "tel": "అబీనాశ్జోత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4713",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinash",
+    "FLeng": "A",
+    "tel": "అబినష",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4714",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinaswar",
+    "FLeng": "A",
+    "tel": "అబినశ్వర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4715",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinav",
+    "FLeng": "A",
+    "tel": "అభినవ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4716",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinay",
+    "FLeng": "A",
+    "tel": "అభినయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4717",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinesh",
+    "FLeng": "A",
+    "tel": "అభినేష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4718",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abinish",
+    "FLeng": "A",
+    "tel": "అభినిష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4719",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abiodun",
+    "FLeng": "A",
+    "tel": "అబివుడున్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4720",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abiola",
+    "FLeng": "A",
+    "tel": "అబియోల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4721",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abioye",
+    "FLeng": "A",
+    "tel": "బిఒఎ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4722",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abiral",
+    "FLeng": "A",
+    "tel": "అబీరాల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4723",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abiram",
+    "FLeng": "A",
+    "tel": "అభిరామ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4724",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abis",
+    "FLeng": "A",
+    "tel": "బిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4725",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abisali",
+    "FLeng": "A",
+    "tel": "అబిసాలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4726",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abiseshan",
+    "FLeng": "A",
+    "tel": "అభిసేశాం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4727",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abish",
+    "FLeng": "A",
+    "tel": "బిష్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4728",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abisheik",
+    "FLeng": "A",
+    "tel": "అబిషేయిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4729",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abishek",
+    "FLeng": "A",
+    "tel": "అభిషేక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4730",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abishua",
+    "FLeng": "A",
+    "tel": "అభిషుల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4731",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abivanth",
+    "FLeng": "A",
+    "tel": "అభివంత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4732",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abiyram",
+    "FLeng": "A",
+    "tel": "బివైరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4733",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "abiyram",
+    "FLeng": "a",
+    "tel": "బివైరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4734",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abiz",
+    "FLeng": "A",
+    "tel": "బిజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4735",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abizer",
+    "FLeng": "A",
+    "tel": "బిజెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4736",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abjayoni",
+    "FLeng": "A",
+    "tel": "అబ్జాయోని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4737",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abjit",
+    "FLeng": "A",
+    "tel": "అబ్జిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4738",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abkar",
+    "FLeng": "A",
+    "tel": "అబ్కారి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4739",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ablagh",
+    "FLeng": "A",
+    "tel": "అబ్లాగ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4740",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ablaj",
+    "FLeng": "A",
+    "tel": "అబ్లజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4741",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ablamar",
+    "FLeng": "A",
+    "tel": "అబ్లెమార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4742",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Abnaasi",
+    "FLeng": "A",
+    "tel": "అబీనాసి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4743",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abnar",
+    "FLeng": "A",
+    "tel": "అబ్నర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4744",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abnash",
+    "FLeng": "A",
+    "tel": "అబ్నాష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4745",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abnat",
+    "FLeng": "A",
+    "tel": "అబినట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4746",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abner",
+    "FLeng": "A",
+    "tel": "అబ్నేరు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4747",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abo",
+    "FLeng": "A",
+    "tel": "ఆబో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "4748",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abood",
+    "FLeng": "A",
+    "tel": "అబూద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4749",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abott",
+    "FLeng": "A",
+    "tel": "అబోట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4750",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Aboud",
+    "FLeng": "A",
+    "tel": "అబౌద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4751",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abrad",
+    "FLeng": "A",
+    "tel": "అబ్రాడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4752",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abrahah",
+    "FLeng": "A",
+    "tel": "అబ్రహహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4753",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abraham",
+    "FLeng": "A",
+    "tel": "అబ్రహం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4754",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abrahan",
+    "FLeng": "A",
+    "tel": "అబ్రహాం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4755",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abrahm",
+    "FLeng": "A",
+    "tel": "అబ్రాహాము",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4756",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abraj",
+    "FLeng": "A",
+    "tel": "అబ్రాజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4757",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abrak",
+    "FLeng": "A",
+    "tel": "అబ్రాక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4758",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abram",
+    "FLeng": "A",
+    "tel": "అబ్రాము",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4759",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abramo",
+    "FLeng": "A",
+    "tel": "అబ్రామ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4760",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abrams",
+    "FLeng": "A",
+    "tel": "అబ్రామ్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4761",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "abrams",
+    "FLeng": "a",
+    "tel": "అబ్రామ్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4762",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abramson",
+    "FLeng": "A",
+    "tel": "అబ్రామ్స్లోన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4763",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abrar",
+    "FLeng": "A",
+    "tel": "అబీరార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4764",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abrash",
+    "FLeng": "A",
+    "tel": "ఆంబ్రోస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "4765",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abrasha",
+    "FLeng": "A",
+    "tel": "అభ్రష",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4766",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abrax",
+    "FLeng": "A",
+    "tel": "ఆంబ్రోస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "4767",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abraxas",
+    "FLeng": "A",
+    "tel": "అబ్రక్సస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4768",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abraz",
+    "FLeng": "A",
+    "tel": "అబ్రాజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4769",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abrik",
+    "FLeng": "A",
+    "tel": "అబ్రిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4770",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abrin",
+    "FLeng": "A",
+    "tel": "అబ్రిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4771",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abriz",
+    "FLeng": "A",
+    "tel": "అబ్రిజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4772",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abrohom",
+    "FLeng": "A",
+    "tel": "అబ్రాహాము",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4773",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abronoma",
+    "FLeng": "A",
+    "tel": "అబ్రానోమా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4774",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abs",
+    "FLeng": "A",
+    "tel": "అబ్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4775",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Absaar",
+    "FLeng": "A",
+    "tel": "అబ్సర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4776",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Absalom",
+    "FLeng": "A",
+    "tel": "అబీషాలోమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4777",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Absalon",
+    "FLeng": "A",
+    "tel": "అబీషాలోన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4778",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Absar",
+    "FLeng": "A",
+    "tel": "అబ్సర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4779",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Absat",
+    "FLeng": "A",
+    "tel": "అబ్సట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4780",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Absham",
+    "FLeng": "A",
+    "tel": "అబీషమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4781",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Absi",
+    "FLeng": "A",
+    "tel": "ఏబీసీ",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "4782",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Absko",
+    "FLeng": "A",
+    "tel": "అబ్సకో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4783",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Absolom",
+    "FLeng": "A",
+    "tel": "అబిసాలోమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4784",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "absolom",
+    "FLeng": "a",
+    "tel": "అబిసాలోమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4785",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abtal",
+    "FLeng": "A",
+    "tel": "అబీటల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4786",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abtar",
+    "FLeng": "A",
+    "tel": "అబీటర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4787",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abteen",
+    "FLeng": "A",
+    "tel": "అబీటీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4788",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abtin",
+    "FLeng": "A",
+    "tel": "అబీటిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "4789",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Abtum",
+    "FLeng": "A",
+    "tel": "ఆబిట్యుమ్",
+    "FLtel": "ఆ"
+  }
+]

@@ -1,0 +1,866 @@
+[
+  {
+    "id": "117410",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mari",
+    "FLeng": "m",
+    "tel": "మరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117411",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Maria",
+    "FLeng": "M",
+    "tel": "మరియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117412",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariabella",
+    "FLeng": "M",
+    "tel": "మరిఅబేళ్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117413",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariagart",
+    "FLeng": "M",
+    "tel": "మరియాగార్త్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117414",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariah",
+    "FLeng": "M",
+    "tel": "మారయ్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117415",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariah",
+    "FLeng": "m",
+    "tel": "మారయ్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117416",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariajose",
+    "FLeng": "M",
+    "tel": "మరియాజొసె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117417",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marialena",
+    "FLeng": "M",
+    "tel": "మరియాలేనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117418",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mariam",
+    "FLeng": "M",
+    "tel": "మ్రిం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117419",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mariama",
+    "FLeng": "M",
+    "tel": "మ్రింగా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117420",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariamne",
+    "FLeng": "M",
+    "tel": "మ్రింనే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117421",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marian",
+    "FLeng": "M",
+    "tel": "మరియన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117422",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marian",
+    "FLeng": "m",
+    "tel": "మరియన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117423",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariana",
+    "FLeng": "M",
+    "tel": "మారిన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117424",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariana",
+    "FLeng": "m",
+    "tel": "మారిన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117425",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariane",
+    "FLeng": "M",
+    "tel": "మరియన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117426",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marianela",
+    "FLeng": "M",
+    "tel": "మరియన్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117427",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marianela",
+    "FLeng": "m",
+    "tel": "మరియన్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117428",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariangela",
+    "FLeng": "M",
+    "tel": "మరీఅంగేలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117429",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariangely",
+    "FLeng": "m",
+    "tel": "మరీఅంగెల్య్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117430",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariann",
+    "FLeng": "M",
+    "tel": "మారిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117431",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marianna",
+    "FLeng": "M",
+    "tel": "మారుస్తోన్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117432",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marianna",
+    "FLeng": "m",
+    "tel": "మారుస్తోన్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117433",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marianne",
+    "FLeng": "M",
+    "tel": "మరియాన్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117434",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marianne",
+    "FLeng": "m",
+    "tel": "మరియాన్నే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117435",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mariappan",
+    "FLeng": "M",
+    "tel": "మరియప్పన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117436",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariasha",
+    "FLeng": "M",
+    "tel": "మరియాశ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117437",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mariateresa",
+    "FLeng": "M",
+    "tel": "మారిటరేశా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117438",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariazinha",
+    "FLeng": "m",
+    "tel": "మరియాజిన్హా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117439",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Marib",
+    "FLeng": "M",
+    "tel": "మరిబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117440",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maribel",
+    "FLeng": "M",
+    "tel": "మరిబెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117441",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "maribel",
+    "FLeng": "m",
+    "tel": "మరిబెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117442",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maribelle",
+    "FLeng": "M",
+    "tel": "మరిబెల్లె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117443",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maribeth",
+    "FLeng": "M",
+    "tel": "మరిబెత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117444",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marica",
+    "FLeng": "M",
+    "tel": "మరిచా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117445",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Maricara",
+    "FLeng": "M",
+    "tel": "మరిచారా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117446",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricarmen",
+    "FLeng": "M",
+    "tel": "మరికార్మెన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117447",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricel",
+    "FLeng": "M",
+    "tel": "మరికల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117448",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricela",
+    "FLeng": "M",
+    "tel": "మరిచేలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117449",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "maricela",
+    "FLeng": "m",
+    "tel": "మరిచేలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117450",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricha",
+    "FLeng": "M",
+    "tel": "మరిచా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117451",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Marichi",
+    "FLeng": "M",
+    "tel": "మరిచి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117452",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Marichika",
+    "FLeng": "M",
+    "tel": "మరిచిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117453",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Marichka",
+    "FLeng": "M",
+    "tel": "మరీచ్కా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117454",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marici",
+    "FLeng": "M",
+    "tel": "మరిచి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117455",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricia",
+    "FLeng": "M",
+    "tel": "మెరిసినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117456",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariclare",
+    "FLeng": "M",
+    "tel": "మరిక్లేర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117457",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricris",
+    "FLeng": "M",
+    "tel": "మరిక్రిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117458",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricruz",
+    "FLeng": "M",
+    "tel": "మరిక్కురూజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117459",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "maricruz",
+    "FLeng": "m",
+    "tel": "మరిక్కురూజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117460",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maricza",
+    "FLeng": "M",
+    "tel": "మరిసిజా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117461",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Maridah",
+    "FLeng": "M",
+    "tel": "మరిదిహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117462",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marie",
+    "FLeng": "M",
+    "tel": "మరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117463",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marie",
+    "FLeng": "m",
+    "tel": "మరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117464",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marieke",
+    "FLeng": "M",
+    "tel": "మరీకే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117465",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marieke",
+    "FLeng": "m",
+    "tel": "మరీకే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117466",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariela",
+    "FLeng": "M",
+    "tel": "మారీల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117467",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariela",
+    "FLeng": "m",
+    "tel": "మారీల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117468",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariele",
+    "FLeng": "M",
+    "tel": "మరీలే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117469",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marielena",
+    "FLeng": "M",
+    "tel": "మరిఎలీనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117470",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariella",
+    "FLeng": "M",
+    "tel": "మరియళ్ళ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117471",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariella",
+    "FLeng": "m",
+    "tel": "మరియళ్ళ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117472",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marielle",
+    "FLeng": "M",
+    "tel": "మరైళ్ళే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117473",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marielle",
+    "FLeng": "m",
+    "tel": "మరైళ్ళే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117474",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariem",
+    "FLeng": "M",
+    "tel": "మరియం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117475",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marien",
+    "FLeng": "M",
+    "tel": "మెరైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117476",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariena",
+    "FLeng": "M",
+    "tel": "మరీనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117477",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariene",
+    "FLeng": "M",
+    "tel": "మెరైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117478",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marienna",
+    "FLeng": "M",
+    "tel": "మరీనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117479",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariet",
+    "FLeng": "M",
+    "tel": "మారియట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117480",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marieta",
+    "FLeng": "M",
+    "tel": "మరైతే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117481",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marietta",
+    "FLeng": "M",
+    "tel": "మరియెట్టా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117482",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marietta",
+    "FLeng": "m",
+    "tel": "మరియెట్టా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117483",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariette",
+    "FLeng": "M",
+    "tel": "మరిఎత్తే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117484",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mariette",
+    "FLeng": "m",
+    "tel": "మరిఎత్తే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117485",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marifel",
+    "FLeng": "M",
+    "tel": "మరిఫెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117486",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marig",
+    "FLeng": "M",
+    "tel": "మరిగి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117487",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marigny",
+    "FLeng": "M",
+    "tel": "మరిగినై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117488",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Marigold",
+    "FLeng": "M",
+    "tel": "మారిగోల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117489",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marigold",
+    "FLeng": "m",
+    "tel": "మారిగోల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117490",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marigot",
+    "FLeng": "M",
+    "tel": "మారిగోట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117491",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mariha",
+    "FLeng": "M",
+    "tel": "మరియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117492",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mariichi",
+    "FLeng": "M",
+    "tel": "మరియుచు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117493",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marija",
+    "FLeng": "M",
+    "tel": "మరిజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117494",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marijana",
+    "FLeng": "M",
+    "tel": "మరిజన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117495",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marije",
+    "FLeng": "m",
+    "tel": "మరిజే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117496",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marijka",
+    "FLeng": "M",
+    "tel": "మరఙ్క",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117497",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marijke",
+    "FLeng": "M",
+    "tel": "మఱిఙ్కే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117498",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marijke",
+    "FLeng": "m",
+    "tel": "మఱిఙ్కే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117499",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marijn",
+    "FLeng": "M",
+    "tel": "మరిజన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117500",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marika",
+    "FLeng": "M",
+    "tel": "మరిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117501",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marika",
+    "FLeng": "m",
+    "tel": "మరిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117502",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marike",
+    "FLeng": "M",
+    "tel": "మరికే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117503",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "marike",
+    "FLeng": "m",
+    "tel": "మరికే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117504",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Marikka",
+    "FLeng": "M",
+    "tel": "మరిక్క",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117505",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mariko",
+    "FLeng": "M",
+    "tel": "మరికో",
+    "FLtel": "మ"
+  }
+]

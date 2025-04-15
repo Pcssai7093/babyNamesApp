@@ -1,0 +1,659 @@
+[
+  {
+    "id": "137549",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Badriya",
+    "FLeng": "B",
+    "tel": "బద్రియ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137550",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Badriyah",
+    "FLeng": "B",
+    "tel": "బద్రియహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137551",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Badrun Nisa",
+    "FLeng": "B",
+    "tel": "బెడ్రూం నిశ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137552",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Badyah",
+    "FLeng": "B",
+    "tel": "బాధ్యాహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137553",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baebi",
+    "FLeng": "B",
+    "tel": "బ్యాబి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137554",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bageshri",
+    "FLeng": "B",
+    "tel": "బాగేశ్రీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137555",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baghisha",
+    "FLeng": "B",
+    "tel": "బాగీశ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137556",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bagiya",
+    "FLeng": "B",
+    "tel": "భాగియా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137557",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bagiyeh",
+    "FLeng": "B",
+    "tel": "బాగియెహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137558",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bagula",
+    "FLeng": "B",
+    "tel": "బ్యాగుల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137559",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bagya",
+    "FLeng": "B",
+    "tel": "బాగ్యా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137560",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bagyam",
+    "FLeng": "B",
+    "tel": "భాగ్యం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137561",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahaa",
+    "FLeng": "B",
+    "tel": "బాహా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137562",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "bahaar",
+    "FLeng": "b",
+    "tel": "బహార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137563",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahar",
+    "FLeng": "B",
+    "tel": "బహార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137564",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahar Bano",
+    "FLeng": "B",
+    "tel": "బహార్ బేనో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137565",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baharan",
+    "FLeng": "B",
+    "tel": "భారం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137566",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahayah",
+    "FLeng": "B",
+    "tel": "బాహాయహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137567",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baheela",
+    "FLeng": "B",
+    "tel": "బహీల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137568",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baheenah",
+    "FLeng": "B",
+    "tel": "బహీనః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137569",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baheera",
+    "FLeng": "B",
+    "tel": "బహీర",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137570",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baheerah",
+    "FLeng": "B",
+    "tel": "బహీరహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137571",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahera",
+    "FLeng": "B",
+    "tel": "బహేరా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137572",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahgat",
+    "FLeng": "B",
+    "tel": "భగత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137573",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahi",
+    "FLeng": "B",
+    "tel": "బహి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137574",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahia",
+    "FLeng": "B",
+    "tel": "బహియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137575",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bahia",
+    "FLeng": "b",
+    "tel": "బహియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137576",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahieh",
+    "FLeng": "B",
+    "tel": "బాహియహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137577",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiga",
+    "FLeng": "B",
+    "tel": "బహుగా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137578",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahija",
+    "FLeng": "B",
+    "tel": "బహుజ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137579",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahijah",
+    "FLeng": "B",
+    "tel": "బహుజ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137580",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahira",
+    "FLeng": "B",
+    "tel": "బాహిర",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137581",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahirah",
+    "FLeng": "B",
+    "tel": "బాహిరహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137582",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahirat",
+    "FLeng": "B",
+    "tel": "బాహిరత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137583",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiriya",
+    "FLeng": "B",
+    "tel": "బహిరియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137584",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahisa",
+    "FLeng": "B",
+    "tel": "బహుశా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137585",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiya",
+    "FLeng": "B",
+    "tel": "బహియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137586",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiyaa",
+    "FLeng": "B",
+    "tel": "బహియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137587",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiyah",
+    "FLeng": "B",
+    "tel": "బాహియహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137588",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiyya",
+    "FLeng": "B",
+    "tel": "బహియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137589",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahiyyah",
+    "FLeng": "B",
+    "tel": "బహియ్యహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137590",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahja",
+    "FLeng": "B",
+    "tel": "భజ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137591",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Bahmanbanu",
+    "FLeng": "B",
+    "tel": "బాహ్మణబాను",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137592",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahnaz",
+    "FLeng": "B",
+    "tel": "బహ్నాజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137593",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahria",
+    "FLeng": "B",
+    "tel": "భరియా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137594",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahriya",
+    "FLeng": "B",
+    "tel": "భరియా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137595",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bahriyahalaabidah",
+    "FLeng": "B",
+    "tel": "బహ్రియహలాబిదః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137596",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Baht",
+    "FLeng": "B",
+    "tel": "భాట్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "137597",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahudha",
+    "FLeng": "B",
+    "tel": "బహుధా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137598",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahugandha",
+    "FLeng": "B",
+    "tel": "బహుగన్ధా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137599",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahula",
+    "FLeng": "B",
+    "tel": "బహుళ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137600",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahulaprema",
+    "FLeng": "B",
+    "tel": "బహుళాప్రేమ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137601",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahulya",
+    "FLeng": "B",
+    "tel": "బాహుళ్య",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137602",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahuputri",
+    "FLeng": "B",
+    "tel": "బహుపుత్రి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137603",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bahuratna",
+    "FLeng": "B",
+    "tel": "బహురత్న",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baibhabi",
+    "FLeng": "B",
+    "tel": "బైభాబి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137605",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baidehi",
+    "FLeng": "B",
+    "tel": "బైదేహి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137606",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baihas",
+    "FLeng": "B",
+    "tel": "బైహస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137607",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baijanthi",
+    "FLeng": "B",
+    "tel": "బైజంతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137608",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baijanti",
+    "FLeng": "B",
+    "tel": "బైజాంటి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137609",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baijayanthi",
+    "FLeng": "B",
+    "tel": "బైజయంతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137610",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Baijayanti",
+    "FLeng": "B",
+    "tel": "బైజాయన్తి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137611",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Baile",
+    "FLeng": "B",
+    "tel": "బైల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137612",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bailee",
+    "FLeng": "b",
+    "tel": "బైలీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137613",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Baileet",
+    "FLeng": "B",
+    "tel": "బైలీట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137614",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Baileigh",
+    "FLeng": "B",
+    "tel": "బైలెఇఘ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137615",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bailey",
+    "FLeng": "B",
+    "tel": "బైలీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137616",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bailey-3",
+    "FLeng": "b",
+    "tel": "బైలీ-త్రీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137617",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Baili",
+    "FLeng": "B",
+    "tel": "బైలీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137618",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bailiegh",
+    "FLeng": "B",
+    "tel": "బైలిఎగ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137619",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Baily",
+    "FLeng": "B",
+    "tel": "బైలీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137620",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bailye",
+    "FLeng": "B",
+    "tel": "బైల్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "137621",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bain",
+    "FLeng": "B",
+    "tel": "భయం",
+    "FLtel": "భ"
+  }
+]

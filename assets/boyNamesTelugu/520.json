@@ -1,0 +1,821 @@
+[
+  {
+    "id": "39953",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spelding",
+    "FLeng": "S",
+    "tel": "స్పెల్డింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39954",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spellman",
+    "FLeng": "S",
+    "tel": "స్పెల్ల్మం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spence",
+    "FLeng": "S",
+    "tel": "స్పెన్సు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spencer",
+    "FLeng": "S",
+    "tel": "స్పెన్సర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39957",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spengler",
+    "FLeng": "S",
+    "tel": "స్పెన్గ్లేర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39958",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spense",
+    "FLeng": "S",
+    "tel": "స్పెన్సే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39959",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spenser",
+    "FLeng": "S",
+    "tel": "స్పెన్సర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39960",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spere",
+    "FLeng": "S",
+    "tel": "స్పెరే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39961",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sperling",
+    "FLeng": "S",
+    "tel": "స్పెర్లింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39962",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sphatikabha",
+    "FLeng": "S",
+    "tel": "స్ఫటికభ",
+    "FLtel": "స"
+  },
+  {
+    "id": "39963",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spicer",
+    "FLeng": "S",
+    "tel": "స్పీకర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39964",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spiers",
+    "FLeng": "S",
+    "tel": "స్పియర్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39965",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spike",
+    "FLeng": "S",
+    "tel": "స్పైక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39966",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spiridon",
+    "FLeng": "S",
+    "tel": "స్పిరిడాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39967",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spiro",
+    "FLeng": "S",
+    "tel": "స్పిరో",
+    "FLtel": "స"
+  },
+  {
+    "id": "39968",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spiros",
+    "FLeng": "S",
+    "tel": "స్పిరోస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sprague",
+    "FLeng": "S",
+    "tel": "స్ప్రగీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "39970",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Springer",
+    "FLeng": "S",
+    "tel": "స్ప్రింగర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39971",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sprot",
+    "FLeng": "S",
+    "tel": "స్ప్రూట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39972",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sproul",
+    "FLeng": "S",
+    "tel": "స్ప్రౌల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39973",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sproule",
+    "FLeng": "S",
+    "tel": "స్ప్రౌలే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39974",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sprow",
+    "FLeng": "S",
+    "tel": "స్ప్రౌ",
+    "FLtel": "స"
+  },
+  {
+    "id": "39975",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sprowle",
+    "FLeng": "S",
+    "tel": "స్ప్రౌలే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39976",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spurgeon",
+    "FLeng": "S",
+    "tel": "స్పర్జన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39977",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spurrier",
+    "FLeng": "S",
+    "tel": "స్పుర్రిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39978",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spyridon",
+    "FLeng": "S",
+    "tel": "సుపీరిడాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39979",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "spyridon",
+    "FLeng": "s",
+    "tel": "సుపీరిడాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39980",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spyrling",
+    "FLeng": "S",
+    "tel": "సఫీర్లింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39981",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sragvibhushan",
+    "FLeng": "S",
+    "tel": "స్రగ్విభూషణ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39982",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sravan",
+    "FLeng": "S",
+    "tel": "స్రావం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39983",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sravan Kumar",
+    "FLeng": "S",
+    "tel": "శ్రవణ్ కుమార్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39984",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sravanth",
+    "FLeng": "S",
+    "tel": "స్రవంత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39985",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sravu",
+    "FLeng": "S",
+    "tel": "స్రావు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39986",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Srecko",
+    "FLeng": "S",
+    "tel": "స్రెచ్కో",
+    "FLtel": "స"
+  },
+  {
+    "id": "39987",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sree Kumar",
+    "FLeng": "S",
+    "tel": "శ్రీ కుమార్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39988",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sree Sabari",
+    "FLeng": "S",
+    "tel": "శ్రీ శబరి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39989",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeabhinav",
+    "FLeng": "S",
+    "tel": "శ్రీఅభినవ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39990",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreedatt",
+    "FLeng": "S",
+    "tel": "శ్రీదత్త",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39991",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreedeep",
+    "FLeng": "S",
+    "tel": "శ్రీదీప",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39992",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreedhar",
+    "FLeng": "S",
+    "tel": "శ్రీధర్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39993",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreedhara",
+    "FLeng": "S",
+    "tel": "శ్రీధర",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39994",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeghan",
+    "FLeng": "S",
+    "tel": "శ్రీఘనం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39995",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreehan",
+    "FLeng": "S",
+    "tel": "శ్రీహన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39996",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreehari",
+    "FLeng": "S",
+    "tel": "శ్రీహరి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39997",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreehith",
+    "FLeng": "S",
+    "tel": "శ్రీహిత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39998",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreejash",
+    "FLeng": "S",
+    "tel": "శ్రీజేష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39999",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreejit",
+    "FLeng": "S",
+    "tel": "శ్రీజిత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40000",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreejith",
+    "FLeng": "S",
+    "tel": "శ్రీజిత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40001",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "sreekantan",
+    "FLeng": "s",
+    "tel": "శ్రీకంఠన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40002",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreekanth",
+    "FLeng": "S",
+    "tel": "శ్రీకాంత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40003",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreekar",
+    "FLeng": "S",
+    "tel": "శ్రీకర్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40004",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreekumar",
+    "FLeng": "S",
+    "tel": "శ్రీకుమార్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40005",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenand",
+    "FLeng": "S",
+    "tel": "శ్రీనంద",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40006",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenath",
+    "FLeng": "S",
+    "tel": "శ్రీనాథ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40007",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenesh",
+    "FLeng": "S",
+    "tel": "శ్రీనేష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40008",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenikesh",
+    "FLeng": "S",
+    "tel": "శ్రీనికేష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40009",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeniketh",
+    "FLeng": "S",
+    "tel": "శ్రీనికేత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40010",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenivas",
+    "FLeng": "S",
+    "tel": "శ్రీనివాస్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40011",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenivasa",
+    "FLeng": "S",
+    "tel": "శ్రీనివాస",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40012",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreenu",
+    "FLeng": "S",
+    "tel": "శ్రీను",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40013",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreepad",
+    "FLeng": "S",
+    "tel": "శ్రీపాద",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40014",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeparno",
+    "FLeng": "S",
+    "tel": "శ్రీపర్ణో",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40015",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreepathi",
+    "FLeng": "S",
+    "tel": "శ్రీపతి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40016",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreerag",
+    "FLeng": "S",
+    "tel": "శ్రీరాజ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeraj",
+    "FLeng": "S",
+    "tel": "శ్రీరాజ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40018",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeram",
+    "FLeng": "S",
+    "tel": "శ్రీరామ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeramana",
+    "FLeng": "S",
+    "tel": "శ్రీరమణ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40020",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreesanth",
+    "FLeng": "S",
+    "tel": "శ్రీశాంత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40021",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreesh",
+    "FLeng": "S",
+    "tel": "శ్రీశ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40022",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreesha",
+    "FLeng": "S",
+    "tel": "శ్రీశ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40023",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeshailam",
+    "FLeng": "S",
+    "tel": "శ్రీశైలం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeswan",
+    "FLeng": "S",
+    "tel": "శ్రీస్వాన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40025",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreethesh",
+    "FLeng": "S",
+    "tel": "శ్రీతేష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40026",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreevalsan",
+    "FLeng": "S",
+    "tel": "శ్రీవాల్సన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40027",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreevanth",
+    "FLeng": "S",
+    "tel": "శ్రీవంత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40028",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreevar",
+    "FLeng": "S",
+    "tel": "శ్రీవారి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40029",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreevas",
+    "FLeng": "S",
+    "tel": "శ్రీవాస్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreevedh",
+    "FLeng": "S",
+    "tel": "శ్రీవెద్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40031",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreeyan",
+    "FLeng": "S",
+    "tel": "శ్రీయం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40032",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Srenik",
+    "FLeng": "S",
+    "tel": "శ్రేణికి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40033",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sresthangshu",
+    "FLeng": "S",
+    "tel": "శ్రేష్ఠంగీషు",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40034",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreyans",
+    "FLeng": "S",
+    "tel": "స్రేయన్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40035",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreyansh",
+    "FLeng": "S",
+    "tel": "స్రేయన్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "40036",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreyant",
+    "FLeng": "S",
+    "tel": "శ్రేయంట్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40037",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sreyas",
+    "FLeng": "S",
+    "tel": "శ్రేయాస్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40038",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sri Kanth",
+    "FLeng": "S",
+    "tel": "శ్రీ కాంత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40039",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sri rama",
+    "FLeng": "S",
+    "tel": "శ్రీ రామ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sriaansh",
+    "FLeng": "S",
+    "tel": "శ్రీఆంష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40041",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sriansh",
+    "FLeng": "S",
+    "tel": "శ్రీఆంష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40042",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sriashwin",
+    "FLeng": "S",
+    "tel": "శ్రీఅశ్విన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "40043",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sribargav",
+    "FLeng": "S",
+    "tel": "శ్రీబార్గవ్",
+    "FLtel": "శ"
+  }
+]

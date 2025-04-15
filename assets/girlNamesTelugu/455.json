@@ -1,0 +1,821 @@
+[
+  {
+    "id": "134552",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veronica",
+    "FLeng": "V",
+    "tel": "వేరోనికా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134553",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veronice",
+    "FLeng": "V",
+    "tel": "వెరోనిన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134554",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Veronika",
+    "FLeng": "V",
+    "tel": "వెరోనికా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134555",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veronike",
+    "FLeng": "V",
+    "tel": "వెరోనికే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134556",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verrina",
+    "FLeng": "V",
+    "tel": "వెర్రినా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134557",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verronica",
+    "FLeng": "V",
+    "tel": "వేఱొనికే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134558",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vertika",
+    "FLeng": "V",
+    "tel": "వెర్టికా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134559",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veru",
+    "FLeng": "V",
+    "tel": "వేరు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134560",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "veruca",
+    "FLeng": "v",
+    "tel": "వెనుక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134561",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veruschka",
+    "FLeng": "V",
+    "tel": "వేరుస్చ్కా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134562",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verusha",
+    "FLeng": "v",
+    "tel": "వేరుశ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134563",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verve",
+    "FLeng": "v",
+    "tel": "వేర్వే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134564",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vesa",
+    "FLeng": "v",
+    "tel": "వీసా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134565",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veselka",
+    "FLeng": "V",
+    "tel": "వేసేల్క",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134566",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vesna",
+    "FLeng": "V",
+    "tel": "వేసిన",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134567",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vespera",
+    "FLeng": "V",
+    "tel": "వేసపెరా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134568",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vespera",
+    "FLeng": "v",
+    "tel": "వేసపెరా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134569",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vessela",
+    "FLeng": "V",
+    "tel": "వెస్సెలా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134570",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vesta",
+    "FLeng": "v",
+    "tel": "వేష్ట",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134571",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vetali",
+    "FLeng": "V",
+    "tel": "వేటలో",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134572",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vetravati",
+    "FLeng": "V",
+    "tel": "వేత్రవటి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134573",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vetri",
+    "FLeng": "V",
+    "tel": "వెట్రి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134574",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vetrichelvi",
+    "FLeng": "V",
+    "tel": "వెట్రికెల్వి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134575",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vetrikodi",
+    "FLeng": "V",
+    "tel": "వేత్రికుడి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134576",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "veva",
+    "FLeng": "v",
+    "tel": "వేవ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134577",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vevesha",
+    "FLeng": "V",
+    "tel": "వేవేశ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134578",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vevina",
+    "FLeng": "v",
+    "tel": "వేవైనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134579",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vi",
+    "FLeng": "v",
+    "tel": "వి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134580",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vianca",
+    "FLeng": "V",
+    "tel": "విఎంకె",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134581",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vianne",
+    "FLeng": "v",
+    "tel": "విఅన్నీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134582",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Viara",
+    "FLeng": "V",
+    "tel": "విరా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134583",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "viatrix",
+    "FLeng": "v",
+    "tel": "వియాట్రిక్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134584",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibali",
+    "FLeng": "V",
+    "tel": "విబలి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134585",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vibeke",
+    "FLeng": "V",
+    "tel": "విబికె",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134586",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibha",
+    "FLeng": "V",
+    "tel": "విభా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134587",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhakshari",
+    "FLeng": "V",
+    "tel": "విభక్షరి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134588",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhasri",
+    "FLeng": "V",
+    "tel": "విభశ్రీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134589",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhasvati",
+    "FLeng": "V",
+    "tel": "విభాస్వతి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134590",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhava",
+    "FLeng": "V",
+    "tel": "విభవ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134591",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhavari",
+    "FLeng": "V",
+    "tel": "విభావరి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134592",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhavasri",
+    "FLeng": "V",
+    "tel": "విభావశ్రీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134593",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhavi",
+    "FLeng": "V",
+    "tel": "విభావి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134594",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhi",
+    "FLeng": "V",
+    "tel": "విభి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134595",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhooshita",
+    "FLeng": "V",
+    "tel": "విభూషిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134596",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhrasti",
+    "FLeng": "V",
+    "tel": "విభ్రస్తి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134597",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhusha",
+    "FLeng": "V",
+    "tel": "విభూష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134598",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibhuti",
+    "FLeng": "V",
+    "tel": "విభూతి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134599",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vibusha",
+    "FLeng": "V",
+    "tel": "విభూష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134600",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vica",
+    "FLeng": "v",
+    "tel": "వికె",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134601",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vicci",
+    "FLeng": "V",
+    "tel": "వైసీసీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134602",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vicenta",
+    "FLeng": "V",
+    "tel": "విసెంట",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134603",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vicenza",
+    "FLeng": "v",
+    "tel": "విసెంజా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vichithra",
+    "FLeng": "V",
+    "tel": "విచిత్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134605",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vicitra",
+    "FLeng": "V",
+    "tel": "విచిత్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134606",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vickii",
+    "FLeng": "V",
+    "tel": "విసికియు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134607",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "victoire",
+    "FLeng": "v",
+    "tel": "విక్టయిరే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134608",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Victoria",
+    "FLeng": "V",
+    "tel": "విక్టోరియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134609",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "victoria",
+    "FLeng": "v",
+    "tel": "విక్టోరియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134610",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Victorina",
+    "FLeng": "V",
+    "tel": "విక్టరీని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134611",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Victorine",
+    "FLeng": "V",
+    "tel": "విక్టరీని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134612",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Vida",
+    "FLeng": "V",
+    "tel": "విడ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134613",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Videha",
+    "FLeng": "V",
+    "tel": "విదేహ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134614",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vidette",
+    "FLeng": "V",
+    "tel": "విడెత్తే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134615",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhathri",
+    "FLeng": "V",
+    "tel": "విధాత్రి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134616",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhi",
+    "FLeng": "V",
+    "tel": "విధి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134617",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhisha",
+    "FLeng": "V",
+    "tel": "విదిష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134618",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhita",
+    "FLeng": "V",
+    "tel": "విదిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134619",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhubala",
+    "FLeng": "V",
+    "tel": "విధుబాల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134620",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhula",
+    "FLeng": "V",
+    "tel": "విధుల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134621",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhushi",
+    "FLeng": "V",
+    "tel": "విదుషి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134622",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhut",
+    "FLeng": "V",
+    "tel": "విదుత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhya",
+    "FLeng": "V",
+    "tel": "విద్య",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhyasri",
+    "FLeng": "V",
+    "tel": "విధ్యశ్రీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidhyavathi",
+    "FLeng": "V",
+    "tel": "విద్యావతి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134626",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Vidia",
+    "FLeng": "V",
+    "tel": "విడిగా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134627",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidika",
+    "FLeng": "V",
+    "tel": "వైదిక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134628",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidipta",
+    "FLeng": "V",
+    "tel": "విదీప్త",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134629",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidisha",
+    "FLeng": "V",
+    "tel": "విదిష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134630",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidita",
+    "FLeng": "V",
+    "tel": "విదిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134631",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidmayi",
+    "FLeng": "V",
+    "tel": "విద్మయి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidujvala",
+    "FLeng": "V",
+    "tel": "విడుజ్వల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134633",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidula",
+    "FLeng": "V",
+    "tel": "విధుల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134634",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidurya",
+    "FLeng": "V",
+    "tel": "వైడూర్య",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134635",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidushi",
+    "FLeng": "V",
+    "tel": "విదుషి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134636",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidvathi",
+    "FLeng": "V",
+    "tel": "విద్వతి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134637",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidwath",
+    "FLeng": "V",
+    "tel": "విద్వత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134638",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidya",
+    "FLeng": "V",
+    "tel": "విద్య",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134639",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidyadevi",
+    "FLeng": "V",
+    "tel": "విద్యాదేవి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134640",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidyadharani",
+    "FLeng": "V",
+    "tel": "విద్యాధరణి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134641",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidyadhari",
+    "FLeng": "V",
+    "tel": "విద్యాధరి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134642",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vidyalakshmi",
+    "FLeng": "V",
+    "tel": "విద్యాలక్ష్మి",
+    "FLtel": "వ"
+  }
+]

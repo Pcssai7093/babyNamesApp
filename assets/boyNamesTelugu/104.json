@@ -1,0 +1,740 @@
+[
+  {
+    "id": "388",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhurivasu",
+    "FLeng": "B",
+    "tel": "భూరివాసు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "389",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhusakra",
+    "FLeng": "B",
+    "tel": "భుసాక్రం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "390",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhusana",
+    "FLeng": "B",
+    "tel": "భుజాన",
+    "FLtel": "భ"
+  },
+  {
+    "id": "391",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhushan",
+    "FLeng": "B",
+    "tel": "భూషణ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "392",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhushana",
+    "FLeng": "B",
+    "tel": "భూషణ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "393",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhushanjeet",
+    "FLeng": "B",
+    "tel": "భూషణ్జీత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "394",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhushlesh",
+    "FLeng": "B",
+    "tel": "భుశ్లేష",
+    "FLtel": "భ"
+  },
+  {
+    "id": "395",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhusnu",
+    "FLeng": "B",
+    "tel": "భుస్ను",
+    "FLtel": "భ"
+  },
+  {
+    "id": "396",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuta",
+    "FLeng": "B",
+    "tel": "భూత",
+    "FLtel": "భ"
+  },
+  {
+    "id": "397",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutadi",
+    "FLeng": "B",
+    "tel": "భూతాది",
+    "FLtel": "భ"
+  },
+  {
+    "id": "398",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutan",
+    "FLeng": "B",
+    "tel": "భూటాన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "399",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutansa",
+    "FLeng": "B",
+    "tel": "భూతంస",
+    "FLtel": "భ"
+  },
+  {
+    "id": "400",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutapala",
+    "FLeng": "B",
+    "tel": "భూతాపాల",
+    "FLtel": "భ"
+  },
+  {
+    "id": "401",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutesa",
+    "FLeng": "B",
+    "tel": "భూతేశ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "402",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuteswar",
+    "FLeng": "B",
+    "tel": "భూతేశ్వర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "403",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutikrt",
+    "FLeng": "B",
+    "tel": "భూతికృత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "404",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhutiraja",
+    "FLeng": "B",
+    "tel": "భూతిరాజా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "405",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuttab",
+    "FLeng": "B",
+    "tel": "భుత్తాబ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "406",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuumka",
+    "FLeng": "B",
+    "tel": "భూమిక",
+    "FLtel": "భ"
+  },
+  {
+    "id": "407",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuv",
+    "FLeng": "B",
+    "tel": "భువః",
+    "FLtel": "భ"
+  },
+  {
+    "id": "408",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvan",
+    "FLeng": "B",
+    "tel": "భువన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "409",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvanesa",
+    "FLeng": "B",
+    "tel": "భువనేశ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "410",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvanesh",
+    "FLeng": "B",
+    "tel": "భువనేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "411",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvaneshwar",
+    "FLeng": "B",
+    "tel": "భువనేశ్వర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "412",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvanpati",
+    "FLeng": "B",
+    "tel": "భువనపాటి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "413",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvanyu",
+    "FLeng": "B",
+    "tel": "భువన్యూ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "414",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvapati",
+    "FLeng": "B",
+    "tel": "భువపతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "415",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvas",
+    "FLeng": "B",
+    "tel": "భువన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "416",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvesh",
+    "FLeng": "B",
+    "tel": "భువేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "417",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvik",
+    "FLeng": "B",
+    "tel": "భువికి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "418",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvith",
+    "FLeng": "B",
+    "tel": "భువిత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "419",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvnesh",
+    "FLeng": "B",
+    "tel": "భువనేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "420",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuvneshwar",
+    "FLeng": "B",
+    "tel": "భువనేశ్వర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuwan",
+    "FLeng": "B",
+    "tel": "భువన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "422",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuwanesh",
+    "FLeng": "B",
+    "tel": "భువనేశ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "423",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuwaneshwar",
+    "FLeng": "B",
+    "tel": "భువనేశ్వర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "424",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biaggio",
+    "FLeng": "B",
+    "tel": "బిఅగ్గిలో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "425",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "biaggio",
+    "FLeng": "b",
+    "tel": "బిఅగ్గిలో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "426",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biagio",
+    "FLeng": "B",
+    "tel": "బిఆగిపో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "427",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "biagio",
+    "FLeng": "b",
+    "tel": "బిఆగిపో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "428",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bianco",
+    "FLeng": "b",
+    "tel": "బియాంకా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "429",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibek",
+    "FLeng": "B",
+    "tel": "బిబేక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "430",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhaakar",
+    "FLeng": "B",
+    "tel": "బిభాకర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "431",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhas",
+    "FLeng": "B",
+    "tel": "బీబ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "432",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhatsu",
+    "FLeng": "B",
+    "tel": "బీభత్సు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "433",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhavasu",
+    "FLeng": "B",
+    "tel": "బిభవసు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "434",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhishan",
+    "FLeng": "B",
+    "tel": "బిబిషన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "435",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhishana",
+    "FLeng": "B",
+    "tel": "బిభీషణ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "436",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibhu",
+    "FLeng": "B",
+    "tel": "బైబు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "437",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibin",
+    "FLeng": "B",
+    "tel": "బిబిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "438",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bibinanaki",
+    "FLeng": "B",
+    "tel": "బిబినానకి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "439",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bibo",
+    "FLeng": "B",
+    "tel": "బిబో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "440",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biboswan",
+    "FLeng": "B",
+    "tel": "బిబోస్వం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bibrata",
+    "FLeng": "B",
+    "tel": "బిభ్రతా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "442",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bichu",
+    "FLeng": "B",
+    "tel": "బీచు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "443",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bick",
+    "FLeng": "B",
+    "tel": "బైక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "444",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bickford",
+    "FLeng": "B",
+    "tel": "బిసీక్ఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "445",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bidaban",
+    "FLeng": "B",
+    "tel": "బిడబం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "446",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidaujas",
+    "FLeng": "B",
+    "tel": "బిడౌజస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biddu",
+    "FLeng": "B",
+    "tel": "బిడ్లు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "448",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidesh",
+    "FLeng": "B",
+    "tel": "బిదేశ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "449",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidhan",
+    "FLeng": "B",
+    "tel": "బిధాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "450",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidhu",
+    "FLeng": "B",
+    "tel": "బిదు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "451",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidula",
+    "FLeng": "B",
+    "tel": "బీడుల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "452",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidur",
+    "FLeng": "B",
+    "tel": "బీదర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "453",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidwan",
+    "FLeng": "B",
+    "tel": "బిద్వం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "454",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bidyut",
+    "FLeng": "B",
+    "tel": "బిద్యుత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "455",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biecaford",
+    "FLeng": "B",
+    "tel": "బిఎకెఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "456",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biedeluue",
+    "FLeng": "B",
+    "tel": "బిఈడీలుఈ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "457",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bieito",
+    "FLeng": "B",
+    "tel": "బీఐతో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "458",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biel",
+    "FLeng": "B",
+    "tel": "బిల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "459",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bien",
+    "FLeng": "B",
+    "tel": "బిఎన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "460",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bienvenido",
+    "FLeng": "B",
+    "tel": "బిఎంవీనిఁదో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "461",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biff",
+    "FLeng": "B",
+    "tel": "బీఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "462",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "biff",
+    "FLeng": "b",
+    "tel": "బీఫ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "463",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bige",
+    "FLeng": "b",
+    "tel": "బిజీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "464",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biggie",
+    "FLeng": "B",
+    "tel": "బిగ్గియే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "465",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bighnesh",
+    "FLeng": "B",
+    "tel": "బిఘ్నేశ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "466",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bigul",
+    "FLeng": "B",
+    "tel": "బిగుల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "467",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bihaan",
+    "FLeng": "B",
+    "tel": "బిహాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "468",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bihar",
+    "FLeng": "B",
+    "tel": "బీహార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "469",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bihjan",
+    "FLeng": "B",
+    "tel": "బిహాజం",
+    "FLtel": "బ"
+  }
+]

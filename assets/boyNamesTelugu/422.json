@@ -1,0 +1,857 @@
+[
+  {
+    "id": "30928",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pathak",
+    "FLeng": "P",
+    "tel": "పథక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30929",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pathani",
+    "FLeng": "P",
+    "tel": "పాఠాన్ని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30930",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pathanjali",
+    "FLeng": "P",
+    "tel": "పతంజలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30931",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pathik",
+    "FLeng": "P",
+    "tel": "పాతిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30932",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pathika",
+    "FLeng": "P",
+    "tel": "పాతిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30933",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pathikrit",
+    "FLeng": "P",
+    "tel": "ప్రతిక్రిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30934",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pathin",
+    "FLeng": "P",
+    "tel": "పతిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30935",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pathy",
+    "FLeng": "P",
+    "tel": "పతే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30936",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pati",
+    "FLeng": "P",
+    "tel": "పాటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30937",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patience",
+    "FLeng": "P",
+    "tel": "పేషన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30938",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patika",
+    "FLeng": "P",
+    "tel": "పాతిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30939",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patikrit",
+    "FLeng": "P",
+    "tel": "పటిక్రిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30940",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patin",
+    "FLeng": "P",
+    "tel": "పాటిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30941",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Patitapavana",
+    "FLeng": "P",
+    "tel": "పతితపావన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30942",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Patjith",
+    "FLeng": "P",
+    "tel": "పటిజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30943",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Patman",
+    "FLeng": "P",
+    "tel": "పాట్మాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30944",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Patoj",
+    "FLeng": "P",
+    "tel": "పటోజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30945",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paton",
+    "FLeng": "P",
+    "tel": "పఠాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30946",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Patr",
+    "FLeng": "P",
+    "tel": "పాత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30947",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Patraic",
+    "FLeng": "P",
+    "tel": "పాట్రిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30948",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Patralika",
+    "FLeng": "P",
+    "tel": "పాత్రలింకా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30949",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patri",
+    "FLeng": "P",
+    "tel": "పత్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30950",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Patric",
+    "FLeng": "P",
+    "tel": "పాట్రిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30951",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patricia",
+    "FLeng": "P",
+    "tel": "పాత్రికేయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30952",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patricio",
+    "FLeng": "P",
+    "tel": "పాత్రికేయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30953",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "patricio",
+    "FLeng": "p",
+    "tel": "పాత్రికేయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30954",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patricius",
+    "FLeng": "P",
+    "tel": "ప్యాట్రిసిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "patrick",
+    "FLeng": "p",
+    "tel": "పాట్రిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Patrise",
+    "FLeng": "P",
+    "tel": "పత్రీజీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30957",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Patrizio",
+    "FLeng": "P",
+    "tel": "పత్రీజియో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30958",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "patryk",
+    "FLeng": "p",
+    "tel": "పాట్రీక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30959",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pattabi",
+    "FLeng": "P",
+    "tel": "పట్టాభి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30960",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pattabiraman",
+    "FLeng": "P",
+    "tel": "పట్టాభిరామం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30961",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pattamahishi",
+    "FLeng": "P",
+    "tel": "పట్టమహిషి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30962",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pattappa",
+    "FLeng": "P",
+    "tel": "పట్టప్ప",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30963",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pattappan",
+    "FLeng": "P",
+    "tel": "పత్తప్పం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30964",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pattarasan",
+    "FLeng": "P",
+    "tel": "పత్తరసం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30965",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patterson",
+    "FLeng": "P",
+    "tel": "పట్టేర్సొన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30966",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "patterson",
+    "FLeng": "p",
+    "tel": "పట్టేర్సొన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30967",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pattin",
+    "FLeng": "P",
+    "tel": "పట్టిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30968",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Patton",
+    "FLeng": "P",
+    "tel": "పట్టొన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "patton",
+    "FLeng": "p",
+    "tel": "పట్టొన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30970",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Patur",
+    "FLeng": "P",
+    "tel": "పాతూర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30971",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Patush",
+    "FLeng": "P",
+    "tel": "పటాస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30972",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Patveer",
+    "FLeng": "P",
+    "tel": "పట్టువీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30973",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Patwant",
+    "FLeng": "P",
+    "tel": "పట్వాన్త",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30974",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pau",
+    "FLeng": "P",
+    "tel": "పౌ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30975",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pauee",
+    "FLeng": "P",
+    "tel": "పాఈ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30976",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "paul",
+    "FLeng": "p",
+    "tel": "పాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30977",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulesh",
+    "FLeng": "P",
+    "tel": "పాలీష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30978",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulette",
+    "FLeng": "P",
+    "tel": "పయూలెత్తే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30979",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pauli",
+    "FLeng": "p",
+    "tel": "పౌలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30980",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Paulie",
+    "FLeng": "P",
+    "tel": "పాలై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30981",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulin",
+    "FLeng": "P",
+    "tel": "పౌలిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30982",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "paulin",
+    "FLeng": "p",
+    "tel": "పౌలిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30983",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulino",
+    "FLeng": "P",
+    "tel": "పాలినో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30984",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Paulinus",
+    "FLeng": "P",
+    "tel": "పౌలిన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30985",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "paulinus",
+    "FLeng": "p",
+    "tel": "పౌలిన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30986",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paull",
+    "FLeng": "P",
+    "tel": "పౌల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30987",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "paulo",
+    "FLeng": "p",
+    "tel": "పాటలో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30988",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pauloc",
+    "FLeng": "P",
+    "tel": "పౌలోకి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30989",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulos",
+    "FLeng": "P",
+    "tel": "పౌలోస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30990",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pauls",
+    "FLeng": "P",
+    "tel": "పయూల్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30991",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulsen",
+    "FLeng": "P",
+    "tel": "పౌలీసెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30992",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paulson",
+    "FLeng": "P",
+    "tel": "పాల్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30993",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Paulu",
+    "FLeng": "P",
+    "tel": "పౌలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30994",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Paulus",
+    "FLeng": "P",
+    "tel": "పౌలస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30995",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paunar",
+    "FLeng": "P",
+    "tel": "పౌనర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30996",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paunraj",
+    "FLeng": "P",
+    "tel": "పూంరాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30997",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pauras",
+    "FLeng": "P",
+    "tel": "పౌరస",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30998",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paurav",
+    "FLeng": "P",
+    "tel": "పారావ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30999",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paurava",
+    "FLeng": "P",
+    "tel": "పౌరవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31000",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pauric",
+    "FLeng": "p",
+    "tel": "పరిసి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31001",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paurush",
+    "FLeng": "P",
+    "tel": "పౌరుష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31002",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pausanias",
+    "FLeng": "P",
+    "tel": "పసానియాస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31003",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pauwel",
+    "FLeng": "P",
+    "tel": "పావెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31004",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pav",
+    "FLeng": "P",
+    "tel": "పాప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31005",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavak",
+    "FLeng": "P",
+    "tel": "పావకః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31006",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pavaka",
+    "FLeng": "P",
+    "tel": "పావక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31007",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavalan",
+    "FLeng": "P",
+    "tel": "పవలన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31008",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pavaman",
+    "FLeng": "P",
+    "tel": "పవమాన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31009",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavan Adithya",
+    "FLeng": "P",
+    "tel": "పవన్ ఆదిత్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31010",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavan Kumar",
+    "FLeng": "P",
+    "tel": "పవన్ కుమార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31011",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavan Teja",
+    "FLeng": "P",
+    "tel": "పవన్ తేజ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31012",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavanaj",
+    "FLeng": "P",
+    "tel": "పవనాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31013",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavanaputra",
+    "FLeng": "P",
+    "tel": "పావనపుత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31014",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pavandeep",
+    "FLeng": "P",
+    "tel": "పావందీప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31015",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pavanjot",
+    "FLeng": "P",
+    "tel": "పావనజోత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31016",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavankumar",
+    "FLeng": "P",
+    "tel": "పవన్కుమార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavanputra",
+    "FLeng": "P",
+    "tel": "పావంపుత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31018",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavansut",
+    "FLeng": "P",
+    "tel": "పవన్స్యూట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pavansuta",
+    "FLeng": "P",
+    "tel": "పావనసుత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31020",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pavant",
+    "FLeng": "P",
+    "tel": "పావంటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31021",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pavas",
+    "FLeng": "P",
+    "tel": "పవన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31022",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pave",
+    "FLeng": "P",
+    "tel": "పేవ్",
+    "FLtel": "ప"
+  }
+]

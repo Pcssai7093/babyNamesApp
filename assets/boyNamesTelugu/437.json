@@ -1,0 +1,821 @@
+[
+  {
+    "id": "32339",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Premsangat",
+    "FLeng": "P",
+    "tel": "ప్రేమసంగత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32340",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Premsukh",
+    "FLeng": "P",
+    "tel": "ప్రేమసుఖ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32341",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Premtek",
+    "FLeng": "P",
+    "tel": "ప్రేమాటెక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32342",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Premuttam",
+    "FLeng": "P",
+    "tel": "ప్రేముత్తం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32343",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Premveer",
+    "FLeng": "P",
+    "tel": "ప్రేమవీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32344",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Premwant",
+    "FLeng": "P",
+    "tel": "ప్రేమవన్త",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32345",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prenam",
+    "FLeng": "P",
+    "tel": "ప్రేమమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32346",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prentice",
+    "FLeng": "P",
+    "tel": "ప్రెంటిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32347",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prentis",
+    "FLeng": "P",
+    "tel": "ప్రెంటీస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32348",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prentiss",
+    "FLeng": "P",
+    "tel": "ప్రెంటీస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32349",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Preostcot",
+    "FLeng": "P",
+    "tel": "ప్రేమోస్టకోట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32350",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prepelaos",
+    "FLeng": "P",
+    "tel": "ప్రిపేలోడ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32351",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prerak",
+    "FLeng": "P",
+    "tel": "ప్రేరక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32352",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Preran",
+    "FLeng": "P",
+    "tel": "ప్రేరణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32353",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prerit",
+    "FLeng": "P",
+    "tel": "ప్రేరిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32354",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prescot",
+    "FLeng": "P",
+    "tel": "ప్రెస్కోట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32355",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prescott",
+    "FLeng": "P",
+    "tel": "ప్రెస్కాట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32356",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "prescott",
+    "FLeng": "p",
+    "tel": "ప్రెస్కాట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32357",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Presh",
+    "FLeng": "P",
+    "tel": "ప్రెష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32358",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Presleigh",
+    "FLeng": "P",
+    "tel": "ప్రెస్లీప్గ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32359",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Presley",
+    "FLeng": "P",
+    "tel": "ప్రేస్లేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32360",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Presly",
+    "FLeng": "P",
+    "tel": "ప్రెస్లీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32361",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Press",
+    "FLeng": "P",
+    "tel": "ప్రెస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32362",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Presslee",
+    "FLeng": "P",
+    "tel": "ప్రెస్లోలీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32363",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pressley",
+    "FLeng": "P",
+    "tel": "ప్రెస్సులెయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32364",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pressleyl",
+    "FLeng": "P",
+    "tel": "ప్రేస్ల్య్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32365",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prestan",
+    "FLeng": "P",
+    "tel": "ప్రెస్టన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32366",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prestcot",
+    "FLeng": "P",
+    "tel": "ప్రెస్టకోట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32367",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prestcott",
+    "FLeng": "P",
+    "tel": "ప్రెస్టకోట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32368",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prestin",
+    "FLeng": "P",
+    "tel": "ప్రెస్టీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32369",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prestley",
+    "FLeng": "P",
+    "tel": "ప్రెస్టల్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32370",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Preston",
+    "FLeng": "P",
+    "tel": "ప్రెస్టన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32371",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pretvan",
+    "FLeng": "P",
+    "tel": "ప్రేత్వాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32372",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pretzel",
+    "FLeng": "P",
+    "tel": "ప్రేట్జర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32373",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Preveinraj",
+    "FLeng": "P",
+    "tel": "ప్రేవేయ్న్రాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32374",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prewitt",
+    "FLeng": "P",
+    "tel": "ప్రూప్ట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32375",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "prewitt",
+    "FLeng": "p",
+    "tel": "ప్రూప్ట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32376",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Preyas",
+    "FLeng": "P",
+    "tel": "ప్రేయసి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32377",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Priadan",
+    "FLeng": "P",
+    "tel": "ప్రియడం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32378",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Priam",
+    "FLeng": "P",
+    "tel": "ప్రియం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32379",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Priamus",
+    "FLeng": "P",
+    "tel": "ప్రియామ్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32380",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Priansh",
+    "FLeng": "P",
+    "tel": "పీరియన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32381",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pribhakta",
+    "FLeng": "P",
+    "tel": "పరిభక్త",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32382",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "price",
+    "FLeng": "p",
+    "tel": "పరిచే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32383",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Priel",
+    "FLeng": "P",
+    "tel": "ప్రిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32384",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "priel",
+    "FLeng": "p",
+    "tel": "ప్రిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32385",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Priesh",
+    "FLeng": "P",
+    "tel": "ప్రియేశ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32386",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Priestley",
+    "FLeng": "P",
+    "tel": "ప్రైస్ట్లేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32387",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Priestly",
+    "FLeng": "P",
+    "tel": "ప్రైస్త్ల్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32388",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prihaans",
+    "FLeng": "P",
+    "tel": "పరిహాన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32389",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Primal",
+    "FLeng": "P",
+    "tel": "ప్రిమాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32390",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Primin",
+    "FLeng": "P",
+    "tel": "ప్రెమిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32391",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Primitivo",
+    "FLeng": "P",
+    "tel": "పరిమితివో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32392",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Primo",
+    "FLeng": "P",
+    "tel": "ప్రైమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32393",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "primo",
+    "FLeng": "p",
+    "tel": "ప్రైమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32394",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Primus",
+    "FLeng": "P",
+    "tel": "ప్రైమస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32395",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "primus",
+    "FLeng": "p",
+    "tel": "ప్రైమస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32396",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prinan",
+    "FLeng": "P",
+    "tel": "ప్రినం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32397",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prince",
+    "FLeng": "P",
+    "tel": "ప్రిన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32398",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Princeton",
+    "FLeng": "P",
+    "tel": "ప్రిన్సుతోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32399",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "princeton",
+    "FLeng": "p",
+    "tel": "ప్రిన్సుతోన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32400",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prineet",
+    "FLeng": "P",
+    "tel": "పరిణీతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32401",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prinit",
+    "FLeng": "P",
+    "tel": "పరిణితి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32402",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prinita",
+    "FLeng": "P",
+    "tel": "పరిణీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32403",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prior",
+    "FLeng": "P",
+    "tel": "ప్రిఒర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32404",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Prisco",
+    "FLeng": "P",
+    "tel": "ప్రెస్కో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32405",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prish",
+    "FLeng": "P",
+    "tel": "ప్రెష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32406",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prit",
+    "FLeng": "P",
+    "tel": "ప్రీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32407",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pritam",
+    "FLeng": "P",
+    "tel": "ప్రీతమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32408",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pritamhari",
+    "FLeng": "P",
+    "tel": "ప్రితమ్హరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32409",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pritamjit",
+    "FLeng": "P",
+    "tel": "ప్రిటాంజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32410",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pritamjot",
+    "FLeng": "P",
+    "tel": "ప్రితంజోత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32411",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pritampal",
+    "FLeng": "P",
+    "tel": "ప్రితంపాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32412",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pritansh",
+    "FLeng": "P",
+    "tel": "పరిషష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32413",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Priten",
+    "FLeng": "P",
+    "tel": "ప్రీతిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32414",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pritesh",
+    "FLeng": "P",
+    "tel": "ప్రైట్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32415",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pritham",
+    "FLeng": "P",
+    "tel": "ప్రీతం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32416",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Prithamdeep",
+    "FLeng": "P",
+    "tel": "ప్రితండీపీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32417",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithil",
+    "FLeng": "P",
+    "tel": "ప్రితిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32418",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Prithipal",
+    "FLeng": "P",
+    "tel": "ప్రీతిపాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32419",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithish",
+    "FLeng": "P",
+    "tel": "పిరితిష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32420",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithiv",
+    "FLeng": "P",
+    "tel": "ప్రీతివి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithivi",
+    "FLeng": "P",
+    "tel": "ప్రీతివి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32422",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithiviraj",
+    "FLeng": "P",
+    "tel": "ప్రీతివిరాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32423",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Prithpal",
+    "FLeng": "P",
+    "tel": "ప్రిత్పల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32424",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithu",
+    "FLeng": "P",
+    "tel": "ప్రీతు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32425",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithujay",
+    "FLeng": "P",
+    "tel": "ప్రితుజయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32426",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithutam",
+    "FLeng": "P",
+    "tel": "ప్రితుతం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32427",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithvee",
+    "FLeng": "P",
+    "tel": "ప్రిత్వీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32428",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithvi",
+    "FLeng": "P",
+    "tel": "ప్రిథ్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "32429",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Prithvij",
+    "FLeng": "P",
+    "tel": "ప్రిథ్విజ్",
+    "FLtel": "ప"
+  }
+]

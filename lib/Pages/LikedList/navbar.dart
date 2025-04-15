@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../../Providers/darkMode.dart';
+import '../../Providers/prefLanguageProvider.dart';
+import '../../constants/string.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key, required this.filtersSelectd, required this.setLoader});
@@ -77,18 +79,20 @@ class _navbarState extends State<navbar> {
         if (_debounce?.isActive ?? false) _debounce?.cancel();
 
         _debounce = Timer(Duration(milliseconds: 300), () {
-          widget.filtersSelectd(teluguAlphabets[selectedLetterIndex]);
+          widget.filtersSelectd(Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
         });
-        widget.filtersSelectd(teluguAlphabets[selectedLetterIndex]);
+        widget.filtersSelectd(Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
       });
     });
   }
 
   late DarkModeProvder darkModeProvder;
+  late PrefLanguageProvider prefLanguageProvider;
 
   @override
   Widget build(BuildContext context) {
     darkModeProvder = Provider.of<DarkModeProvder>(context);
+    prefLanguageProvider = context.watch<PrefLanguageProvider>();
 
     double screenWidth = MediaQuery.of(context).size.width; // Get screen width
     double screenHeight = MediaQuery.of(context).size.height;
@@ -131,7 +135,7 @@ class _navbarState extends State<navbar> {
                       clipBehavior: Clip.none,
                       controller: scrollController,
                       childDelegate: ListWheelChildBuilderDelegate(
-                          childCount: teluguAlphabets.length,
+                          childCount: Strings.constants[prefLanguageProvider.prefLang]["alphabets"].length,
                           builder: (context, index) {
                             return GestureDetector(
                               onTap: () {
@@ -153,7 +157,7 @@ class _navbarState extends State<navbar> {
                                           : null),
                                   height: 80,
                                   child: Text(
-                                    teluguAlphabets[index],
+                                    Strings.constants[prefLanguageProvider.prefLang]["alphabets"][index],
                                     style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 20,

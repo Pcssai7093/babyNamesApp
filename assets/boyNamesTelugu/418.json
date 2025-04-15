@@ -1,0 +1,902 @@
+[
+  {
+    "id": "30498",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paradev",
+    "FLeng": "P",
+    "tel": "పరదేవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30499",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paradhaman",
+    "FLeng": "P",
+    "tel": "పరధామం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30500",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paradhya",
+    "FLeng": "P",
+    "tel": "పరాధ్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "paradox",
+    "FLeng": "p",
+    "tel": "పారడాక్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30502",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parag",
+    "FLeng": "P",
+    "tel": "పరాగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30503",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paraga",
+    "FLeng": "P",
+    "tel": "పరంగా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30504",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paraic",
+    "FLeng": "P",
+    "tel": "పఱైక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30505",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paraikshit",
+    "FLeng": "P",
+    "tel": "పరిక్షిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30506",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paraj",
+    "FLeng": "P",
+    "tel": "పరాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30507",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parakasha",
+    "FLeng": "P",
+    "tel": "పరాకాశ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30508",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parakh",
+    "FLeng": "P",
+    "tel": "పరేఖ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30509",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parakram",
+    "FLeng": "P",
+    "tel": "పరాక్రమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30510",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parakshit",
+    "FLeng": "P",
+    "tel": "పరిక్షిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30511",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Param",
+    "FLeng": "P",
+    "tel": "పరం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30512",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Param Hans",
+    "FLeng": "P",
+    "tel": "పరం హన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30513",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Param-hans",
+    "FLeng": "P",
+    "tel": "పరం-హన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30514",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramaadhar",
+    "FLeng": "P",
+    "tel": "పరమాధర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30515",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramaanand",
+    "FLeng": "P",
+    "tel": "పరమానంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30516",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paramahamsa",
+    "FLeng": "P",
+    "tel": "పరమహంస",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30517",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramahans",
+    "FLeng": "P",
+    "tel": "పరమహంస",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30518",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramajeet",
+    "FLeng": "P",
+    "tel": "పరమాజీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30519",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paramak",
+    "FLeng": "P",
+    "tel": "పరామక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30520",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramakuru",
+    "FLeng": "P",
+    "tel": "పరమకూరు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30521",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paraman",
+    "FLeng": "P",
+    "tel": "పరమం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30522",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramanand",
+    "FLeng": "P",
+    "tel": "పరమానంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30523",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramananda",
+    "FLeng": "P",
+    "tel": "పరమానంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30524",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramantra",
+    "FLeng": "P",
+    "tel": "పరామన్త్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30525",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramapurusha",
+    "FLeng": "P",
+    "tel": "పరమపురుష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30526",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramarath",
+    "FLeng": "P",
+    "tel": "పరామరాత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30527",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramarth",
+    "FLeng": "P",
+    "tel": "పరమర్థ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30528",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramartha",
+    "FLeng": "P",
+    "tel": "పరమార్థ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30529",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramasivam",
+    "FLeng": "P",
+    "tel": "పరమశివం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30530",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paramasivan",
+    "FLeng": "P",
+    "tel": "పరమశివం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30531",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramatam",
+    "FLeng": "P",
+    "tel": "పరమఠం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30532",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramatma",
+    "FLeng": "P",
+    "tel": "పరమాత్మా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30533",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paramatman",
+    "FLeng": "P",
+    "tel": "పరమాత్మను",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30534",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramatmane",
+    "FLeng": "P",
+    "tel": "పరమాత్మనే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30535",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parambir",
+    "FLeng": "P",
+    "tel": "పరాంబిర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30536",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parambodh",
+    "FLeng": "P",
+    "tel": "పరాంబోధ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30537",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramdaya",
+    "FLeng": "P",
+    "tel": "పరంధామ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30538",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramdeep",
+    "FLeng": "P",
+    "tel": "పారందీప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30539",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramdesh",
+    "FLeng": "P",
+    "tel": "పరామ్దేశ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30540",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramdev",
+    "FLeng": "P",
+    "tel": "పరాందేవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30541",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramdhan",
+    "FLeng": "P",
+    "tel": "పరందాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30542",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramdharam",
+    "FLeng": "P",
+    "tel": "పరంధారం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30543",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramdheer",
+    "FLeng": "P",
+    "tel": "పారంధీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30544",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramesh",
+    "FLeng": "P",
+    "tel": "పరమేష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30545",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paramesha",
+    "FLeng": "P",
+    "tel": "పరమేశం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30546",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parameshar",
+    "FLeng": "P",
+    "tel": "పరమేషే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30547",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parameshthin",
+    "FLeng": "P",
+    "tel": "పరమేష్తహిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30548",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parameshwar",
+    "FLeng": "P",
+    "tel": "పరమేశ్వర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30549",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parameshwara",
+    "FLeng": "P",
+    "tel": "పరమేశ్వర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30550",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parameswar",
+    "FLeng": "P",
+    "tel": "పరమేశ్వర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30551",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramgat",
+    "FLeng": "P",
+    "tel": "పరంగాట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30552",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramhamsa",
+    "FLeng": "P",
+    "tel": "పరమహంస",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30553",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramhans",
+    "FLeng": "P",
+    "tel": "పరహ్మన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30554",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramhansa",
+    "FLeng": "P",
+    "tel": "పరమహంస",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30555",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramhet",
+    "FLeng": "P",
+    "tel": "పరాంహేట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30556",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paraminder",
+    "FLeng": "P",
+    "tel": "పరామిందర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30557",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramjaap",
+    "FLeng": "P",
+    "tel": "పరాంజాప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30558",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramjas",
+    "FLeng": "P",
+    "tel": "పరాంజస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30559",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramjeet",
+    "FLeng": "P",
+    "tel": "పారంజీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30560",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramjeevan",
+    "FLeng": "P",
+    "tel": "పరాంజీవం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30561",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramjit",
+    "FLeng": "P",
+    "tel": "పరంజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30562",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramjodh",
+    "FLeng": "P",
+    "tel": "పారంజోద్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30563",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramjugat",
+    "FLeng": "P",
+    "tel": "పారంజుగత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30564",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramkamal",
+    "FLeng": "P",
+    "tel": "పారంకమల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30565",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramkeerat",
+    "FLeng": "P",
+    "tel": "పరాంకీరత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30566",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramnaam",
+    "FLeng": "P",
+    "tel": "పరాంనాం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30567",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramnek",
+    "FLeng": "P",
+    "tel": "పరాంనెక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30568",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramnidhan",
+    "FLeng": "P",
+    "tel": "పారంనిధాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30569",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramnihal",
+    "FLeng": "P",
+    "tel": "పారంనిహాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30570",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramniranjan",
+    "FLeng": "P",
+    "tel": "పారంనిరంజన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30571",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramnirmal",
+    "FLeng": "P",
+    "tel": "పారంనిర్మలః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30572",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramnivas",
+    "FLeng": "P",
+    "tel": "పరాంనివాస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30573",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paramodara",
+    "FLeng": "P",
+    "tel": "పరమోదారా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30574",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parampal",
+    "FLeng": "P",
+    "tel": "పరంపల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30575",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramprakash",
+    "FLeng": "P",
+    "tel": "పరాంప్రకాష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30576",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parampreet",
+    "FLeng": "P",
+    "tel": "పరమప్రీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30577",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramprem",
+    "FLeng": "P",
+    "tel": "పరంపరం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30578",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parampurush",
+    "FLeng": "P",
+    "tel": "పరమపురుష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30579",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramraj",
+    "FLeng": "P",
+    "tel": "పరామరాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30580",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramrang",
+    "FLeng": "P",
+    "tel": "పరమరాంగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30581",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramras",
+    "FLeng": "P",
+    "tel": "పరామరస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30582",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramratan",
+    "FLeng": "P",
+    "tel": "పరాంరాటం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30583",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramroop",
+    "FLeng": "P",
+    "tel": "పరామరూప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30584",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramsaihaj",
+    "FLeng": "P",
+    "tel": "పరాంసైహజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30585",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramsangat",
+    "FLeng": "P",
+    "tel": "పరాంసంగత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30586",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramsev",
+    "FLeng": "P",
+    "tel": "పరాంసేవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30587",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramsevak",
+    "FLeng": "P",
+    "tel": "పరాంజీవక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30588",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramshaant",
+    "FLeng": "P",
+    "tel": "పరమశాంత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30589",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramtat",
+    "FLeng": "P",
+    "tel": "పేరంటా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30590",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramtek",
+    "FLeng": "P",
+    "tel": "పారంటేక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30591",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramthakar",
+    "FLeng": "P",
+    "tel": "పరంథాకర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30592",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paramvardaan",
+    "FLeng": "P",
+    "tel": "పారంవరదాం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30593",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramveer",
+    "FLeng": "P",
+    "tel": "పరమవీర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30594",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramvichar",
+    "FLeng": "P",
+    "tel": "పారంవిచారః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30595",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramwant",
+    "FLeng": "P",
+    "tel": "పరమవన్త",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30596",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Paramyog",
+    "FLeng": "P",
+    "tel": "పరమయోగి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30597",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paran",
+    "FLeng": "P",
+    "tel": "పరం",
+    "FLtel": "ప"
+  }
+]

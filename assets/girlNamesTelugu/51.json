@@ -1,0 +1,776 @@
+[
+  {
+    "id": "136943",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "atalia",
+    "FLeng": "a",
+    "tel": "టాలియా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "136944",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atalie",
+    "FLeng": "A",
+    "tel": "ఆటలై",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136945",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "atalya",
+    "FLeng": "a",
+    "tel": "అతల్యా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136946",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atana",
+    "FLeng": "A",
+    "tel": "అతనా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136947",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atanasia",
+    "FLeng": "A",
+    "tel": "అతనసియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136948",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "atara",
+    "FLeng": "a",
+    "tel": "జాతర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "136949",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atarah",
+    "FLeng": "A",
+    "tel": "అతరః",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136950",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "atarah",
+    "FLeng": "a",
+    "tel": "అతరః",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136951",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atarangi",
+    "FLeng": "A",
+    "tel": "ఆతరంగి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136952",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ataret",
+    "FLeng": "a",
+    "tel": "టారెట్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "136953",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atari",
+    "FLeng": "A",
+    "tel": "లాటరీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "136954",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atashi",
+    "FLeng": "A",
+    "tel": "అతశి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136955",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atasi",
+    "FLeng": "A",
+    "tel": "అదాసి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136956",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atchya",
+    "FLeng": "A",
+    "tel": "అత్చ్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136957",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ateebah",
+    "FLeng": "A",
+    "tel": "ఆంటీబహ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136958",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ateef",
+    "FLeng": "A",
+    "tel": "అతీఫ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136959",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ateefa",
+    "FLeng": "A",
+    "tel": "అటీఫా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136960",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ateefah",
+    "FLeng": "A",
+    "tel": "అతీఫాహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136961",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ateera",
+    "FLeng": "A",
+    "tel": "అతీర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136962",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ateeyah",
+    "FLeng": "A",
+    "tel": "జాతీయహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "136963",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atefeh",
+    "FLeng": "A",
+    "tel": "అటెఫహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136964",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atena",
+    "FLeng": "A",
+    "tel": "అటేనా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136965",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atfah",
+    "FLeng": "A",
+    "tel": "సత్ఫాహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "136966",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atha",
+    "FLeng": "A",
+    "tel": "అథ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136967",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athalia",
+    "FLeng": "A",
+    "tel": "అథాలియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136968",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "athalie",
+    "FLeng": "a",
+    "tel": "అత్తలై",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136969",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athanasia",
+    "FLeng": "A",
+    "tel": "అర్ధణాసియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136970",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atharunnisa",
+    "FLeng": "A",
+    "tel": "అత్తరున్నీసా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136971",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athasha",
+    "FLeng": "A",
+    "tel": "అర్ధశ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136972",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athashri",
+    "FLeng": "A",
+    "tel": "అతశ్రీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136973",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atheana",
+    "FLeng": "A",
+    "tel": "ఆథియానా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136974",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atheeva",
+    "FLeng": "A",
+    "tel": "అతీవ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136975",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atheleisia",
+    "FLeng": "A",
+    "tel": "అతేలేఇసియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136976",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atheleys",
+    "FLeng": "A",
+    "tel": "అతేలేయ్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136977",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athelflead",
+    "FLeng": "A",
+    "tel": "అథెల్ఫ్లెడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136978",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athelina",
+    "FLeng": "A",
+    "tel": "అతేలిన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136979",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athelinda",
+    "FLeng": "A",
+    "tel": "అతేలింద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136980",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athelyna",
+    "FLeng": "A",
+    "tel": "అతేలిన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136981",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athena",
+    "FLeng": "A",
+    "tel": "ఆతెన",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136982",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "athena",
+    "FLeng": "a",
+    "tel": "ఆతెన",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136983",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athenais",
+    "FLeng": "A",
+    "tel": "అధినాయిస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136984",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athene",
+    "FLeng": "A",
+    "tel": "అధినే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136985",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athidhi",
+    "FLeng": "A",
+    "tel": "అతిధి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136986",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athidi",
+    "FLeng": "A",
+    "tel": "అతిధి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136987",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Athilah",
+    "FLeng": "A",
+    "tel": "అథిలాహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136988",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athilda",
+    "FLeng": "A",
+    "tel": "అతిలదా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136989",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athilesa",
+    "FLeng": "A",
+    "tel": "అతిలేసా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136990",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athilesha",
+    "FLeng": "A",
+    "tel": "అతిలేశ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136991",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athini",
+    "FLeng": "A",
+    "tel": "అతిని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136992",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athira",
+    "FLeng": "A",
+    "tel": "స్థిర",
+    "FLtel": "స"
+  },
+  {
+    "id": "136993",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Athirah",
+    "FLeng": "A",
+    "tel": "స్థిరః",
+    "FLtel": "స"
+  },
+  {
+    "id": "136994",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athishaya",
+    "FLeng": "A",
+    "tel": "అతిశయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136995",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athitha",
+    "FLeng": "A",
+    "tel": "అతీత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136996",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athithi",
+    "FLeng": "A",
+    "tel": "అతిథి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136997",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athitya",
+    "FLeng": "A",
+    "tel": "ఆతిథ్య",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "136998",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athiva",
+    "FLeng": "A",
+    "tel": "అతివ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "136999",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athlyn",
+    "FLeng": "A",
+    "tel": "అథలీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137000",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Athmah",
+    "FLeng": "A",
+    "tel": "ఆత్మహ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "137001",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athmika",
+    "FLeng": "A",
+    "tel": "ఆత్మిక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "137002",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athmikha",
+    "FLeng": "A",
+    "tel": "ఆత్మిక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "137003",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Athra",
+    "FLeng": "A",
+    "tel": "యాత్ర",
+    "FLtel": "య"
+  },
+  {
+    "id": "137004",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Athraa",
+    "FLeng": "A",
+    "tel": "యాత్రా",
+    "FLtel": "య"
+  },
+  {
+    "id": "137005",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athulya",
+    "FLeng": "A",
+    "tel": "అతుల్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137006",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Athvika",
+    "FLeng": "A",
+    "tel": "తాత్విక",
+    "FLtel": "త"
+  },
+  {
+    "id": "137007",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Athya",
+    "FLeng": "A",
+    "tel": "అత్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137008",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atia",
+    "FLeng": "A",
+    "tel": "అతిగా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137009",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "atia",
+    "FLeng": "a",
+    "tel": "అతిగా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137010",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atiena",
+    "FLeng": "A",
+    "tel": "అతియేన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137011",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atieno",
+    "FLeng": "A",
+    "tel": "ఆంటీనో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "137012",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atifa",
+    "FLeng": "A",
+    "tel": "టిఫ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "137013",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atifah",
+    "FLeng": "A",
+    "tel": "టిఫాహ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "137014",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atifi",
+    "FLeng": "A",
+    "tel": "టిఫి",
+    "FLtel": "ట"
+  },
+  {
+    "id": "137015",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atika",
+    "FLeng": "A",
+    "tel": "అతిక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137016",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atikah",
+    "FLeng": "A",
+    "tel": "అతికః",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137017",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atiksha",
+    "FLeng": "A",
+    "tel": "అతిక్ష",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137018",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atilda",
+    "FLeng": "A",
+    "tel": "అటిల్డా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137019",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atina",
+    "FLeng": "A",
+    "tel": "అయినా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137020",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Atinuke",
+    "FLeng": "A",
+    "tel": "అతినుకే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137021",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atira",
+    "FLeng": "A",
+    "tel": "అతిరా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137022",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atirah",
+    "FLeng": "A",
+    "tel": "టిరాహ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "137023",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atiriya",
+    "FLeng": "A",
+    "tel": "అతిరియ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137024",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atisha",
+    "FLeng": "A",
+    "tel": "అతిశ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137025",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Atishaya",
+    "FLeng": "A",
+    "tel": "అతిశయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137026",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "atiya",
+    "FLeng": "a",
+    "tel": "జాతీయ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "137027",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atiyah",
+    "FLeng": "A",
+    "tel": "అతియహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "137028",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Atiyya",
+    "FLeng": "A",
+    "tel": "అతియ్య",
+    "FLtel": "అ"
+  }
+]

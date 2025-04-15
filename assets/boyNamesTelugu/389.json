@@ -1,0 +1,857 @@
+[
+  {
+    "id": "27500",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narboart",
+    "FLeng": "N",
+    "tel": "నారఁబోర్ట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narcisco",
+    "FLeng": "n",
+    "tel": "నరసిస్కో",
+    "FLtel": "న"
+  },
+  {
+    "id": "27502",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narciso",
+    "FLeng": "N",
+    "tel": "నర్సీఐసో",
+    "FLtel": "న"
+  },
+  {
+    "id": "27503",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narciso",
+    "FLeng": "n",
+    "tel": "నర్సీఐసో",
+    "FLtel": "న"
+  },
+  {
+    "id": "27504",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narcissus",
+    "FLeng": "N",
+    "tel": "ణర్చిస్సుస్",
+    "FLtel": "ణ"
+  },
+  {
+    "id": "27505",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narcissus",
+    "FLeng": "n",
+    "tel": "ణర్చిస్సుస్",
+    "FLtel": "ణ"
+  },
+  {
+    "id": "27506",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narcyz",
+    "FLeng": "n",
+    "tel": "నరసైజ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27507",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nard",
+    "FLeng": "n",
+    "tel": "నార్డ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27508",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nardeep",
+    "FLeng": "N",
+    "tel": "నారదీప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27509",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nardev",
+    "FLeng": "N",
+    "tel": "నరదేవ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27510",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nardo",
+    "FLeng": "N",
+    "tel": "నార్డో",
+    "FLtel": "న"
+  },
+  {
+    "id": "27511",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nardo",
+    "FLeng": "n",
+    "tel": "నార్డో",
+    "FLtel": "న"
+  },
+  {
+    "id": "27512",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nareeman",
+    "FLeng": "N",
+    "tel": "నారీమన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27513",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Naren",
+    "FLeng": "N",
+    "tel": "నరేన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27514",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narendar",
+    "FLeng": "N",
+    "tel": "నరేందర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27515",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narender",
+    "FLeng": "N",
+    "tel": "నరేందర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27516",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narendra",
+    "FLeng": "N",
+    "tel": "నరేంద్ర",
+    "FLtel": "న"
+  },
+  {
+    "id": "27517",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narendran",
+    "FLeng": "N",
+    "tel": "నరేంద్రన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27518",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narendranath",
+    "FLeng": "N",
+    "tel": "నరేంద్రనాథ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27519",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Naresh",
+    "FLeng": "N",
+    "tel": "నరేష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27520",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Naresha",
+    "FLeng": "N",
+    "tel": "నరేష",
+    "FLtel": "న"
+  },
+  {
+    "id": "27521",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nareshbir",
+    "FLeng": "N",
+    "tel": "నరేషబీర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27522",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nareshjeet",
+    "FLeng": "N",
+    "tel": "నరేశ్జీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27523",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Nareshpal",
+    "FLeng": "N",
+    "tel": "నరేశ్పాల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27524",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Narfi",
+    "FLeng": "N",
+    "tel": "మర్ఫీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "27525",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narfi",
+    "FLeng": "n",
+    "tel": "మర్ఫీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "27526",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narhari",
+    "FLeng": "N",
+    "tel": "నరహరి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27527",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narika",
+    "FLeng": "N",
+    "tel": "నరిక",
+    "FLtel": "న"
+  },
+  {
+    "id": "27528",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narikera",
+    "FLeng": "N",
+    "tel": "నరికేరే",
+    "FLtel": "న"
+  },
+  {
+    "id": "27529",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nariman",
+    "FLeng": "N",
+    "tel": "నారిమన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27530",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narimanzadeh",
+    "FLeng": "N",
+    "tel": "నారీమనజాదేహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27531",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narindar",
+    "FLeng": "N",
+    "tel": "నరిన్దర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27532",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narinderbir",
+    "FLeng": "N",
+    "tel": "నరిన్దేర్బిర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27533",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narinderdeep",
+    "FLeng": "N",
+    "tel": "నరిన్దేర్దీప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27534",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narinderjeet",
+    "FLeng": "N",
+    "tel": "నారిందర్జీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27535",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narinderjit",
+    "FLeng": "N",
+    "tel": "నరిన్దేర్జిత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27536",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narinderjot",
+    "FLeng": "N",
+    "tel": "నారిందెఱఁజోత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27537",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narinderpal",
+    "FLeng": "N",
+    "tel": "నారిందెర్పాల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27538",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nario",
+    "FLeng": "N",
+    "tel": "మారియో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "27539",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narishyanta",
+    "FLeng": "N",
+    "tel": "నరిష్యన్తా",
+    "FLtel": "న"
+  },
+  {
+    "id": "27540",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narith",
+    "FLeng": "N",
+    "tel": "నరిత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27541",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Naritpal",
+    "FLeng": "N",
+    "tel": "నరుత్పల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27542",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narjeep",
+    "FLeng": "N",
+    "tel": "నరాజీప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27543",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narjeet",
+    "FLeng": "N",
+    "tel": "నర్జీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27544",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narjes",
+    "FLeng": "N",
+    "tel": "న్వర్జెస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27545",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narjess",
+    "FLeng": "N",
+    "tel": "న్వర్జెస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27546",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narjodh",
+    "FLeng": "N",
+    "tel": "న్రజోద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27547",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narkip",
+    "FLeng": "N",
+    "tel": "నార్కిప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27548",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narleet",
+    "FLeng": "N",
+    "tel": "న్రలీట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27549",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narmad",
+    "FLeng": "N",
+    "tel": "నర్మద",
+    "FLtel": "న"
+  },
+  {
+    "id": "27550",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narong",
+    "FLeng": "N",
+    "tel": "నరోన్గ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27551",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narotham",
+    "FLeng": "N",
+    "tel": "నరోత్తం",
+    "FLtel": "న"
+  },
+  {
+    "id": "27552",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narottam",
+    "FLeng": "N",
+    "tel": "నరోత్తం",
+    "FLtel": "న"
+  },
+  {
+    "id": "27553",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narottama",
+    "FLeng": "N",
+    "tel": "నరోత్తమ",
+    "FLtel": "న"
+  },
+  {
+    "id": "27554",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narpal",
+    "FLeng": "N",
+    "tel": "నార్పల",
+    "FLtel": "న"
+  },
+  {
+    "id": "27555",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narpat",
+    "FLeng": "N",
+    "tel": "నార్పాట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27556",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narpathi",
+    "FLeng": "N",
+    "tel": "నార్పతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27557",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narpati",
+    "FLeng": "N",
+    "tel": "నార్పాటి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27558",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narpinder",
+    "FLeng": "N",
+    "tel": "నర్పిందెర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27559",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narpreet",
+    "FLeng": "N",
+    "tel": "నరిప్రీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27560",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narresh",
+    "FLeng": "N",
+    "tel": "నర్రెస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27561",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narrottam",
+    "FLeng": "N",
+    "tel": "న్రరోత్తం",
+    "FLtel": "న"
+  },
+  {
+    "id": "27562",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narsappa",
+    "FLeng": "N",
+    "tel": "నర్సప్ప",
+    "FLtel": "న"
+  },
+  {
+    "id": "27563",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narsev",
+    "FLeng": "N",
+    "tel": "నర్సేవ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27564",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narshi",
+    "FLeng": "N",
+    "tel": "నర్శి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27565",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narshidas",
+    "FLeng": "N",
+    "tel": "నర్శిదాస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27566",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narsi",
+    "FLeng": "N",
+    "tel": "నర్సి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27567",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narsimha",
+    "FLeng": "N",
+    "tel": "నర్సింహా",
+    "FLtel": "న"
+  },
+  {
+    "id": "27568",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narsimlu",
+    "FLeng": "N",
+    "tel": "నర్సింలు",
+    "FLtel": "న"
+  },
+  {
+    "id": "27569",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narsimulu",
+    "FLeng": "N",
+    "tel": "నర్సిములు",
+    "FLtel": "న"
+  },
+  {
+    "id": "27570",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narsinh",
+    "FLeng": "N",
+    "tel": "నర్సింహ",
+    "FLtel": "న"
+  },
+  {
+    "id": "27571",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nartana",
+    "FLeng": "N",
+    "tel": "నర్తన",
+    "FLtel": "న"
+  },
+  {
+    "id": "27572",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narthanarajan",
+    "FLeng": "N",
+    "tel": "నార్థనరాజన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27573",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narun",
+    "FLeng": "N",
+    "tel": "నరుఁ",
+    "FLtel": "న"
+  },
+  {
+    "id": "27574",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Naruna",
+    "FLeng": "N",
+    "tel": "నరుని",
+    "FLtel": "న"
+  },
+  {
+    "id": "27575",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narvar",
+    "FLeng": "N",
+    "tel": "నార్వేర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27576",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narve",
+    "FLeng": "n",
+    "tel": "నార్వే",
+    "FLtel": "న"
+  },
+  {
+    "id": "27577",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narveer",
+    "FLeng": "N",
+    "tel": "నార్వేర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27578",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narveera",
+    "FLeng": "N",
+    "tel": "నెరవేరే",
+    "FLtel": "న"
+  },
+  {
+    "id": "27579",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narvel",
+    "FLeng": "N",
+    "tel": "మార్వెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "27580",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "narvi",
+    "FLeng": "n",
+    "tel": "నార్వి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27581",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Narvin",
+    "FLeng": "N",
+    "tel": "నార్విన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27582",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Narvinder",
+    "FLeng": "N",
+    "tel": "నిర్విందర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27583",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Narvish",
+    "FLeng": "N",
+    "tel": "నార్విష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27584",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Narya",
+    "FLeng": "N",
+    "tel": "నార్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "27585",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Naryan",
+    "FLeng": "N",
+    "tel": "నారాయణ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27586",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nasah",
+    "FLeng": "N",
+    "tel": "నసః",
+    "FLtel": "న"
+  },
+  {
+    "id": "27587",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nasamad",
+    "FLeng": "N",
+    "tel": "నసమద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27588",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nasappa",
+    "FLeng": "N",
+    "tel": "నసప్ప",
+    "FLtel": "న"
+  },
+  {
+    "id": "27589",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nasar",
+    "FLeng": "N",
+    "tel": "నాసర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27590",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nasawi",
+    "FLeng": "N",
+    "tel": "నాసావి",
+    "FLtel": "న"
+  },
+  {
+    "id": "27591",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nascien",
+    "FLeng": "N",
+    "tel": "నాసైన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "27592",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Naseefa",
+    "FLeng": "N",
+    "tel": "నసీఫా",
+    "FLtel": "న"
+  },
+  {
+    "id": "27593",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Naseem",
+    "FLeng": "N",
+    "tel": "నసీం",
+    "FLtel": "న"
+  },
+  {
+    "id": "27594",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Naseer",
+    "FLeng": "N",
+    "tel": "నసీర్",
+    "FLtel": "న"
+  }
+]

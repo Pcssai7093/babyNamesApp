@@ -1,0 +1,866 @@
+[
+  {
+    "id": "110859",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Juspreet",
+    "FLeng": "J",
+    "tel": "జస్ప్రీత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110860",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justa",
+    "FLeng": "J",
+    "tel": "జూస్త",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110861",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justeen",
+    "FLeng": "J",
+    "tel": "జస్టిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110862",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Justeene",
+    "FLeng": "J",
+    "tel": "జస్టిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110863",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justene",
+    "FLeng": "J",
+    "tel": "జూస్తేనే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110864",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justina",
+    "FLeng": "J",
+    "tel": "జుస్తినా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110865",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "justina",
+    "FLeng": "j",
+    "tel": "జుస్తినా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110866",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justine",
+    "FLeng": "J",
+    "tel": "జస్టిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110867",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justise",
+    "FLeng": "J",
+    "tel": "జస్టిస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110868",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "justise",
+    "FLeng": "j",
+    "tel": "జస్టిస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110869",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Justyna",
+    "FLeng": "J",
+    "tel": "జ్యూస్త్యున",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110870",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jusztina",
+    "FLeng": "J",
+    "tel": "జ్యూస్జ్టిన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110871",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Juthika",
+    "FLeng": "J",
+    "tel": "జుతిక",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110872",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Juthwara",
+    "FLeng": "J",
+    "tel": "జుత్వర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110873",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jutta",
+    "FLeng": "J",
+    "tel": "జుట్ట",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110874",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "juul",
+    "FLeng": "j",
+    "tel": "జూలీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110875",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juveria",
+    "FLeng": "J",
+    "tel": "జువేరియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110876",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juwairiyah",
+    "FLeng": "J",
+    "tel": "జువైరియహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110877",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juwairiyyah",
+    "FLeng": "J",
+    "tel": "జువైరియ్యహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110878",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juwan",
+    "FLeng": "J",
+    "tel": "జువాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110879",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juwariah",
+    "FLeng": "J",
+    "tel": "జువారిఆహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110880",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juwariyah",
+    "FLeng": "J",
+    "tel": "జువారీయహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110881",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juwayriyah",
+    "FLeng": "J",
+    "tel": "జువేరియహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110882",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Juwete",
+    "FLeng": "J",
+    "tel": "జువెట్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110883",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Juy",
+    "FLeng": "J",
+    "tel": "జుయ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110884",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Juzla",
+    "FLeng": "J",
+    "tel": "జూజ్ల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110885",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jvala",
+    "FLeng": "J",
+    "tel": "జ్వాలా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110886",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Jwalamalini",
+    "FLeng": "J",
+    "tel": "జ్వాలామాలిని",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110887",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jwalitha",
+    "FLeng": "J",
+    "tel": "జ్వలిత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110888",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jyena",
+    "FLeng": "J",
+    "tel": "జైన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110889",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyeshtha",
+    "FLeng": "J",
+    "tel": "జ్యేష్ఠ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110890",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jyh",
+    "FLeng": "J",
+    "tel": "జైహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110891",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jyl",
+    "FLeng": "J",
+    "tel": "జైల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110892",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jyll",
+    "FLeng": "J",
+    "tel": "జైల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110893",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jyllina",
+    "FLeng": "J",
+    "tel": "జైళ్లిన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110894",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyoshana",
+    "FLeng": "J",
+    "tel": "జ్యోష్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110895",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyoshna",
+    "FLeng": "J",
+    "tel": "జ్యోష్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110896",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyoshni",
+    "FLeng": "J",
+    "tel": "జ్యోష్ని",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110897",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyoshya",
+    "FLeng": "J",
+    "tel": "జ్యోష్య",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110898",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyosna",
+    "FLeng": "J",
+    "tel": "జ్యోస్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110899",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyostana",
+    "FLeng": "J",
+    "tel": "జ్యోస్తానా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110900",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyostna",
+    "FLeng": "J",
+    "tel": "జ్యోస్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110901",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyota",
+    "FLeng": "J",
+    "tel": "జ్యోతి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110902",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothika",
+    "FLeng": "J",
+    "tel": "జ్యోతిక",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110903",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Jyothirmaayee",
+    "FLeng": "J",
+    "tel": "జ్యోతిర్మయాయి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110904",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothirmai",
+    "FLeng": "J",
+    "tel": "జ్యోతిర్మయి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110905",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothirmye",
+    "FLeng": "J",
+    "tel": "జ్యోతిర్మయ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110906",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothishmathi",
+    "FLeng": "J",
+    "tel": "జ్యోతిష్మతి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110907",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothishmati",
+    "FLeng": "J",
+    "tel": "జ్యోతిష్మతి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110908",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothishree",
+    "FLeng": "J",
+    "tel": "జ్యోతిశ్రీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110909",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyothsna",
+    "FLeng": "J",
+    "tel": "జ్యోత్స్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110910",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotibala",
+    "FLeng": "J",
+    "tel": "జ్యోతిబల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110911",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotika",
+    "FLeng": "J",
+    "tel": "జ్యోతిక",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110912",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotikiran",
+    "FLeng": "J",
+    "tel": "జ్యోతికిరణ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110913",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotila",
+    "FLeng": "J",
+    "tel": "జ్యోతిలా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110914",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotirmayi",
+    "FLeng": "J",
+    "tel": "జ్యోతిర్మయి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110915",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotirmoyee",
+    "FLeng": "J",
+    "tel": "జ్యోతిర్మోయీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110916",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotisha",
+    "FLeng": "J",
+    "tel": "జ్యోతిష",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110917",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotishmati",
+    "FLeng": "J",
+    "tel": "జ్యోతిష్మతి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110918",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotsana",
+    "FLeng": "J",
+    "tel": "జ్యోత్సనా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110919",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotshana",
+    "FLeng": "J",
+    "tel": "జ్యోతిషన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110920",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotshna",
+    "FLeng": "J",
+    "tel": "జ్యోత్స్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110921",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotsna",
+    "FLeng": "J",
+    "tel": "జ్యోత్స్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110922",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotsni",
+    "FLeng": "J",
+    "tel": "జ్యోత్స్ని",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110923",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Jyotsnika",
+    "FLeng": "J",
+    "tel": "జ్యోత్సనికా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110924",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "jytte",
+    "FLeng": "j",
+    "tel": "జైట్టే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "110925",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ka",
+    "FLeng": "K",
+    "tel": "క",
+    "FLtel": "క"
+  },
+  {
+    "id": "110926",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaahini",
+    "FLeng": "K",
+    "tel": "కాహిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "110927",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaajal",
+    "FLeng": "K",
+    "tel": "కాజల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "110928",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaakali",
+    "FLeng": "K",
+    "tel": "కాకళి",
+    "FLtel": "క"
+  },
+  {
+    "id": "110929",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaalaka",
+    "FLeng": "K",
+    "tel": "కాలాక",
+    "FLtel": "క"
+  },
+  {
+    "id": "110930",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaalanjari",
+    "FLeng": "K",
+    "tel": "కాలంజరి",
+    "FLtel": "క"
+  },
+  {
+    "id": "110931",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaalaratri",
+    "FLeng": "K",
+    "tel": "కాళరాత్రి",
+    "FLtel": "క"
+  },
+  {
+    "id": "110932",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaali",
+    "FLeng": "K",
+    "tel": "కాళీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "110933",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaalika",
+    "FLeng": "K",
+    "tel": "కాళికా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110934",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaama",
+    "FLeng": "K",
+    "tel": "కామ",
+    "FLtel": "క"
+  },
+  {
+    "id": "110935",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamada",
+    "FLeng": "K",
+    "tel": "కామదా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110936",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaamakya",
+    "FLeng": "K",
+    "tel": "కామాఖ్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110937",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamana",
+    "FLeng": "K",
+    "tel": "కామన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "110938",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaameh",
+    "FLeng": "K",
+    "tel": "కామెహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "110939",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamika",
+    "FLeng": "K",
+    "tel": "కామిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "110940",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaamil",
+    "FLeng": "K",
+    "tel": "కామిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "110941",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaamila",
+    "FLeng": "K",
+    "tel": "కాలమిలా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110942",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamini",
+    "FLeng": "K",
+    "tel": "కామిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "110943",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaamisha",
+    "FLeng": "K",
+    "tel": "కామిషా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110944",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamit",
+    "FLeng": "K",
+    "tel": "కామిటీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "110945",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamita",
+    "FLeng": "K",
+    "tel": "కామితా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110946",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamiya",
+    "FLeng": "K",
+    "tel": "కామియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110947",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaamla",
+    "FLeng": "K",
+    "tel": "కమల",
+    "FLtel": "క"
+  },
+  {
+    "id": "110948",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamma",
+    "FLeng": "K",
+    "tel": "కామ్మా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110949",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaamna",
+    "FLeng": "K",
+    "tel": "కామ్నా",
+    "FLtel": "క"
+  },
+  {
+    "id": "110950",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaamnoosh",
+    "FLeng": "K",
+    "tel": "కాంనూష్",
+    "FLtel": "క"
+  },
+  {
+    "id": "110951",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamodi",
+    "FLeng": "K",
+    "tel": "కామెడీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "110952",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamuna",
+    "FLeng": "K",
+    "tel": "కాలమున",
+    "FLtel": "క"
+  },
+  {
+    "id": "110953",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaamya",
+    "FLeng": "K",
+    "tel": "కామ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "110954",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaanchana",
+    "FLeng": "K",
+    "tel": "కాంచన",
+    "FLtel": "క"
+  }
+]

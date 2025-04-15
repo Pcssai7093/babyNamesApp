@@ -1,0 +1,650 @@
+[
+  {
+    "id": "10153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fur",
+    "FLeng": "F",
+    "tel": "ఫుర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10154",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Furhat",
+    "FLeng": "F",
+    "tel": "ఫుర్హాట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10155",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Furio",
+    "FLeng": "F",
+    "tel": "ఫురియో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10156",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Furkan",
+    "FLeng": "F",
+    "tel": "ఫుర్కం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10157",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Furmaan",
+    "FLeng": "F",
+    "tel": "ఫుర్మాన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10158",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Furman",
+    "FLeng": "F",
+    "tel": "ఫుర్మన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10159",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Furnald",
+    "FLeng": "F",
+    "tel": "ఫుర్నాల్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10160",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Furoogh",
+    "FLeng": "F",
+    "tel": "ఫురోగ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10161",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Furozh",
+    "FLeng": "F",
+    "tel": "ఫురాస్హ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10162",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fursey",
+    "FLeng": "f",
+    "tel": "ఫుర్సేయ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10163",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Furud",
+    "FLeng": "F",
+    "tel": "ఫురుద్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10164",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Furughuddin",
+    "FLeng": "F",
+    "tel": "ఫురుగుద్దిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10165",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Futaih",
+    "FLeng": "F",
+    "tel": "ఫుటయ్య",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10166",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Futuh",
+    "FLeng": "F",
+    "tel": "ఫుతుహ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10167",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Futuhat",
+    "FLeng": "F",
+    "tel": "ఫుతుహత్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10168",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fuwaad",
+    "FLeng": "F",
+    "tel": "ఫువాఁడఁ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10169",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fuwad",
+    "FLeng": "F",
+    "tel": "ఫువాద్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10170",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fuyum",
+    "FLeng": "F",
+    "tel": "ఫుయుమ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10171",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fuyuzat",
+    "FLeng": "F",
+    "tel": "ఫుయుజాత్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10172",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fygla",
+    "FLeng": "F",
+    "tel": "ఫ్యగ్ల",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10173",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fylmer",
+    "FLeng": "F",
+    "tel": "ఫ్యల్మేర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10174",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fynbar",
+    "FLeng": "F",
+    "tel": "ఫ్యన్బర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10175",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fynn",
+    "FLeng": "F",
+    "tel": "ఫ్యన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10176",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fynn",
+    "FLeng": "f",
+    "tel": "ఫ్యన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10177",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fyodor",
+    "FLeng": "F",
+    "tel": "ఫయోడోర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10178",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fytch",
+    "FLeng": "F",
+    "tel": "ఫ్యచ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "10179",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gaajendra",
+    "FLeng": "G",
+    "tel": "గజేంద్ర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10180",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gaalav",
+    "FLeng": "G",
+    "tel": "గాలావ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10181",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaarwine",
+    "FLeng": "G",
+    "tel": "గర్విన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10182",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabba",
+    "FLeng": "G",
+    "tel": "గబ్బా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10183",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabbara",
+    "FLeng": "G",
+    "tel": "గబ్బర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10184",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabe",
+    "FLeng": "G",
+    "tel": "గాబే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10185",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gabe",
+    "FLeng": "g",
+    "tel": "గాబే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10186",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gabin",
+    "FLeng": "g",
+    "tel": "కాబిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "10187",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabino",
+    "FLeng": "G",
+    "tel": "గాబినో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10188",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gabir",
+    "FLeng": "G",
+    "tel": "గాబీర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10189",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gable",
+    "FLeng": "G",
+    "tel": "గాల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10190",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gabo",
+    "FLeng": "g",
+    "tel": "గబా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10191",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gabor",
+    "FLeng": "G",
+    "tel": "గాబోర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10192",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gabran",
+    "FLeng": "G",
+    "tel": "గిబ్రాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10193",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gabrian",
+    "FLeng": "G",
+    "tel": "గాబ్రియాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10194",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gabriele",
+    "FLeng": "G",
+    "tel": "గాబ్రియేల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10195",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gabriello",
+    "FLeng": "G",
+    "tel": "గాబ్రియెల్లో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10196",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabrijel",
+    "FLeng": "G",
+    "tel": "గాబ్రిజిల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabrio",
+    "FLeng": "G",
+    "tel": "గాబ్రియో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10198",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gabryjel",
+    "FLeng": "G",
+    "tel": "గుబురైజెల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10199",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gabryle",
+    "FLeng": "g",
+    "tel": "గాబీరీలే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10200",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gacoki",
+    "FLeng": "G",
+    "tel": "గకాకి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10201",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gad",
+    "FLeng": "g",
+    "tel": "గడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10202",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gadabhrt",
+    "FLeng": "G",
+    "tel": "గదభిర్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10203",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gadadhara",
+    "FLeng": "G",
+    "tel": "గదాధర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10204",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gadd",
+    "FLeng": "G",
+    "tel": "గాడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10205",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gadge",
+    "FLeng": "G",
+    "tel": "గాడ్గే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10206",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gadhadhar",
+    "FLeng": "G",
+    "tel": "గదాధర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10207",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gadi",
+    "FLeng": "G",
+    "tel": "గాడి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10208",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gadiel",
+    "FLeng": "G",
+    "tel": "గడీల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10209",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gadiel",
+    "FLeng": "g",
+    "tel": "గడీల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10210",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gadil",
+    "FLeng": "G",
+    "tel": "గడీల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10211",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gadin",
+    "FLeng": "G",
+    "tel": "గాడి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10212",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gadiva",
+    "FLeng": "G",
+    "tel": "గడివా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10213",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaelen",
+    "FLeng": "G",
+    "tel": "గేలం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10214",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaenbald",
+    "FLeng": "G",
+    "tel": "గాఎంబ్లడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10215",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaenbeald",
+    "FLeng": "G",
+    "tel": "గాఎంబీల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10216",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaenburh",
+    "FLeng": "G",
+    "tel": "గాఎంబర్హ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10217",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaera",
+    "FLeng": "G",
+    "tel": "గారే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10218",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaetan",
+    "FLeng": "G",
+    "tel": "గెటాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10219",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gaetan",
+    "FLeng": "g",
+    "tel": "గెటాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10220",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaetano",
+    "FLeng": "G",
+    "tel": "గెటనో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10221",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gaetano",
+    "FLeng": "g",
+    "tel": "గెటనో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10222",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gaete",
+    "FLeng": "G",
+    "tel": "గేట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10223",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gafa",
+    "FLeng": "G",
+    "tel": "గఫా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10224",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gafar",
+    "FLeng": "G",
+    "tel": "గఫార్",
+    "FLtel": "గ"
+  }
+]

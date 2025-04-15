@@ -1,0 +1,848 @@
+[
+  {
+    "id": "6836",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dorrin",
+    "FLeng": "D",
+    "tel": "దొఱిన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6837",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dorset",
+    "FLeng": "d",
+    "tel": "డోర్సేట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6838",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "doruk",
+    "FLeng": "d",
+    "tel": "దొరుకు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6839",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dorwin",
+    "FLeng": "D",
+    "tel": "డార్విన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6840",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Doryu",
+    "FLeng": "D",
+    "tel": "దొరయు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6841",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dosahari",
+    "FLeng": "D",
+    "tel": "దోసాహారి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6842",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dosakara",
+    "FLeng": "D",
+    "tel": "దోసకారా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6843",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doss",
+    "FLeng": "D",
+    "tel": "డోస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6844",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dost",
+    "FLeng": "D",
+    "tel": "దోస్త్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6845",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "doudlens",
+    "FLeng": "d",
+    "tel": "దౌడలెన్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6846",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doue",
+    "FLeng": "D",
+    "tel": "దౌయే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6847",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doug",
+    "FLeng": "D",
+    "tel": "డౌగ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6848",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "doug",
+    "FLeng": "d",
+    "tel": "డౌగ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6849",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dougal",
+    "FLeng": "D",
+    "tel": "దౌగల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6850",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Douger",
+    "FLeng": "D",
+    "tel": "డౌగ్ర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6851",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doughlas",
+    "FLeng": "D",
+    "tel": "డౌగ్లస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6852",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dougie",
+    "FLeng": "D",
+    "tel": "దౌగై",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6853",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Douglas",
+    "FLeng": "D",
+    "tel": "డగ్లస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6854",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Douglass",
+    "FLeng": "D",
+    "tel": "దౌగ్లాస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6855",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dougray",
+    "FLeng": "D",
+    "tel": "దౌగ్రాయ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6856",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doune",
+    "FLeng": "D",
+    "tel": "డౌన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dousik",
+    "FLeng": "D",
+    "tel": "దౌసిక్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6858",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "douwe",
+    "FLeng": "d",
+    "tel": "దౌవె",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6859",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dov",
+    "FLeng": "D",
+    "tel": "డోవ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6860",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dovatocus",
+    "FLeng": "D",
+    "tel": "దోవలోకస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6861",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dove",
+    "FLeng": "D",
+    "tel": "డావ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6862",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dover",
+    "FLeng": "D",
+    "tel": "డోవర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6863",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dover",
+    "FLeng": "d",
+    "tel": "డోవర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6864",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dovev",
+    "FLeng": "d",
+    "tel": "డోవ్వ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6865",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Dovid",
+    "FLeng": "D",
+    "tel": "డావిడీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6866",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dovydas",
+    "FLeng": "D",
+    "tel": "దోవైదాస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6867",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dow",
+    "FLeng": "D",
+    "tel": "డౌ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6868",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doyle",
+    "FLeng": "D",
+    "tel": "డోయల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6869",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Doyne",
+    "FLeng": "D",
+    "tel": "దోయనే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6870",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Doyu",
+    "FLeng": "D",
+    "tel": "డాయు",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6871",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dozan",
+    "FLeng": "D",
+    "tel": "డోజన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6872",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dozier",
+    "FLeng": "D",
+    "tel": "దోజిర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6873",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draca",
+    "FLeng": "D",
+    "tel": "ధరకే",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6874",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draco",
+    "FLeng": "D",
+    "tel": "డ్రాకో",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6875",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "draco",
+    "FLeng": "d",
+    "tel": "డ్రాకో",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6876",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dracon",
+    "FLeng": "D",
+    "tel": "డ్రక",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6877",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dracon",
+    "FLeng": "d",
+    "tel": "డ్రక",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6878",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dracul",
+    "FLeng": "D",
+    "tel": "డ్రసుల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6879",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draden",
+    "FLeng": "D",
+    "tel": "డ్రాదేం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6880",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draen",
+    "FLeng": "D",
+    "tel": "ద్రెన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6881",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dragan",
+    "FLeng": "D",
+    "tel": "డ్రాగన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6882",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drago",
+    "FLeng": "D",
+    "tel": "డ్రాగో",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6883",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dragomir",
+    "FLeng": "D",
+    "tel": "డ్రాగోమిర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6884",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dragon",
+    "FLeng": "D",
+    "tel": "డ్రాగన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6885",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dragos",
+    "FLeng": "D",
+    "tel": "డ్రాగోస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6886",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dragoslav",
+    "FLeng": "D",
+    "tel": "డ్రాగోస్లావ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6887",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dragutin",
+    "FLeng": "D",
+    "tel": "ద్రాగుతిం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6888",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drahoma­r",
+    "FLeng": "D",
+    "tel": "ద్రహోమా­ర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6889",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drahoslav",
+    "FLeng": "D",
+    "tel": "ద్రహోస్లావ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6890",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draincun",
+    "FLeng": "D",
+    "tel": "డ్రీంకిం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6891",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draisen",
+    "FLeng": "D",
+    "tel": "డ్రైసేం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6892",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drake",
+    "FLeng": "D",
+    "tel": "డ్రేక్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6893",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draken",
+    "FLeng": "D",
+    "tel": "ద్రకేం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6894",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drakon",
+    "FLeng": "D",
+    "tel": "డ్రాకోన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6895",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drapa",
+    "FLeng": "D",
+    "tel": "ద్రప",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6896",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draper",
+    "FLeng": "D",
+    "tel": "డ్రాప్ర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6897",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drashan",
+    "FLeng": "D",
+    "tel": "దర్శన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drasya",
+    "FLeng": "D",
+    "tel": "ద్రస్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Draupada",
+    "FLeng": "D",
+    "tel": "ద్రూపడ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6900",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Dravasp",
+    "FLeng": "D",
+    "tel": "ద్రవస్ప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6901",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draven",
+    "FLeng": "D",
+    "tel": "ద్రావెన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravid",
+    "FLeng": "D",
+    "tel": "ద్రావిడ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6903",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravida",
+    "FLeng": "D",
+    "tel": "ద్రావిడ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravidan",
+    "FLeng": "D",
+    "tel": "ద్రావిడం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6905",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravie",
+    "FLeng": "D",
+    "tel": "ద్రవీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravit",
+    "FLeng": "D",
+    "tel": "ద్రవిట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6907",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravy",
+    "FLeng": "D",
+    "tel": "ద్రవ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6908",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dravya",
+    "FLeng": "D",
+    "tel": "ద్రవ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6909",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "draxler",
+    "FLeng": "d",
+    "tel": "డ్రస్ల్ర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dray",
+    "FLeng": "D",
+    "tel": "డ్రాయ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6911",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drayce",
+    "FLeng": "D",
+    "tel": "డ్రాయ్స్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6912",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draycen",
+    "FLeng": "D",
+    "tel": "డ్రాయసెం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6913",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drayden",
+    "FLeng": "D",
+    "tel": "డ్రయిదేం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6914",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Draydon",
+    "FLeng": "D",
+    "tel": "డ్రాయడ్న్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6915",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drayke",
+    "FLeng": "D",
+    "tel": "డ్రయికే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6916",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drayson",
+    "FLeng": "D",
+    "tel": "ద్రక్స్లోన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6917",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drayton",
+    "FLeng": "D",
+    "tel": "డ్రాయితోన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6918",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drazik",
+    "FLeng": "D",
+    "tel": "ద్రజిక్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6919",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdahana",
+    "FLeng": "D",
+    "tel": "దృఢహన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6920",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Drdhahanu",
+    "FLeng": "D",
+    "tel": "దృఢహను",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6921",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Drdhahanus",
+    "FLeng": "D",
+    "tel": "దృఢహన్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6922",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdhaksa",
+    "FLeng": "D",
+    "tel": "దృఢక్సా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdhanga",
+    "FLeng": "D",
+    "tel": "దృఢంగా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6924",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdharuci",
+    "FLeng": "D",
+    "tel": "దుర్ధరుసి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6925",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdhasena",
+    "FLeng": "D",
+    "tel": "దృఢసేన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdhasva",
+    "FLeng": "D",
+    "tel": "దుర్ధస్వ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6927",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Drdheya",
+    "FLeng": "D",
+    "tel": "డ్రధేయ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6928",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dre",
+    "FLeng": "D",
+    "tel": "డ్రే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6929",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dre",
+    "FLeng": "d",
+    "tel": "డ్రే",
+    "FLtel": "డ"
+  }
+]

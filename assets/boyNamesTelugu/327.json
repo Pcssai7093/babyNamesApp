@@ -1,0 +1,668 @@
+[
+  {
+    "id": "21610",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kusumesh",
+    "FLeng": "K",
+    "tel": "కుసుమేషు",
+    "FLtel": "క"
+  },
+  {
+    "id": "21611",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kusumit",
+    "FLeng": "K",
+    "tel": "కుసుమిటీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "21612",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kusumkar",
+    "FLeng": "K",
+    "tel": "కుసుంకర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21613",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kusumoda",
+    "FLeng": "K",
+    "tel": "కుసుమోద",
+    "FLtel": "క"
+  },
+  {
+    "id": "21614",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kutaiba",
+    "FLeng": "K",
+    "tel": "కూతైబా",
+    "FLtel": "క"
+  },
+  {
+    "id": "21615",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kutaja",
+    "FLeng": "K",
+    "tel": "కుటజ",
+    "FLtel": "క"
+  },
+  {
+    "id": "21616",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kutraalan",
+    "FLeng": "K",
+    "tel": "కుట్రాలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21617",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kutsav",
+    "FLeng": "K",
+    "tel": "కొత్సావ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21618",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kutumb",
+    "FLeng": "K",
+    "tel": "కుటుంబ",
+    "FLtel": "క"
+  },
+  {
+    "id": "21619",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kuukburi",
+    "FLeng": "K",
+    "tel": "కుక్బురి",
+    "FLtel": "క"
+  },
+  {
+    "id": "21620",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kuval",
+    "FLeng": "K",
+    "tel": "కువాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21621",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kuvam",
+    "FLeng": "K",
+    "tel": "కూవం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21622",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kuvar",
+    "FLeng": "K",
+    "tel": "కున్వర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21623",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kuwarjeet",
+    "FLeng": "K",
+    "tel": "కువర్జీత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21624",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kuyilan",
+    "FLeng": "K",
+    "tel": "కుయిలాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21625",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kuzaiyadu",
+    "FLeng": "K",
+    "tel": "కుజయ్యాడు",
+    "FLtel": "క"
+  },
+  {
+    "id": "21626",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "kuzey",
+    "FLeng": "k",
+    "tel": "కుజయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21627",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kuzhagan",
+    "FLeng": "K",
+    "tel": "కుజగన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21628",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kuzhandai",
+    "FLeng": "K",
+    "tel": "కుజనుడై",
+    "FLtel": "క"
+  },
+  {
+    "id": "21629",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kuzma",
+    "FLeng": "K",
+    "tel": "కుజమా",
+    "FLtel": "క"
+  },
+  {
+    "id": "21630",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kuzma",
+    "FLeng": "k",
+    "tel": "కుజమా",
+    "FLtel": "క"
+  },
+  {
+    "id": "21631",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kvanh",
+    "FLeng": "K",
+    "tel": "క్వాంహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kva­gr",
+    "FLeng": "K",
+    "tel": "క్వ­గ్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "21633",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kwame",
+    "FLeng": "K",
+    "tel": "క్వమే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21634",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kwamena",
+    "FLeng": "K",
+    "tel": "క్వమేనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "21635",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kwan",
+    "FLeng": "K",
+    "tel": "క్వాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21636",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kwasi",
+    "FLeng": "K",
+    "tel": "క్వాసి",
+    "FLtel": "క"
+  },
+  {
+    "id": "21637",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kwint",
+    "FLeng": "k",
+    "tel": "క్విన్ట",
+    "FLtel": "క"
+  },
+  {
+    "id": "21638",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kwinten",
+    "FLeng": "K",
+    "tel": "క్విన్తెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21639",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kwong",
+    "FLeng": "K",
+    "tel": "కవన్గ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21640",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ky",
+    "FLeng": "K",
+    "tel": "కీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "21641",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyal",
+    "FLeng": "K",
+    "tel": "క్యాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21642",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyan",
+    "FLeng": "K",
+    "tel": "క్యాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21643",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kyd",
+    "FLeng": "k",
+    "tel": "కీడు",
+    "FLtel": "క"
+  },
+  {
+    "id": "21644",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyden",
+    "FLeng": "K",
+    "tel": "కీడెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21645",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyeseam",
+    "FLeng": "K",
+    "tel": "క్యేసీమ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21646",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kygo",
+    "FLeng": "K",
+    "tel": "క్యగో",
+    "FLtel": "క"
+  },
+  {
+    "id": "21647",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyjuan",
+    "FLeng": "K",
+    "tel": "క్యజులం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21648",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kyjuan",
+    "FLeng": "k",
+    "tel": "క్యజులం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21649",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kylemore",
+    "FLeng": "k",
+    "tel": "కీళేమోరే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21650",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kylynne",
+    "FLeng": "K",
+    "tel": "కీలిన్నే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21651",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kymani",
+    "FLeng": "K",
+    "tel": "క్యమని",
+    "FLtel": "క"
+  },
+  {
+    "id": "21652",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kymani",
+    "FLeng": "k",
+    "tel": "క్యమని",
+    "FLtel": "క"
+  },
+  {
+    "id": "21653",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kymmy",
+    "FLeng": "K",
+    "tel": "కీమ్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21654",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kynaston",
+    "FLeng": "k",
+    "tel": "కీన్స్టన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21655",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyne",
+    "FLeng": "K",
+    "tel": "కీనే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21656",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kyne",
+    "FLeng": "k",
+    "tel": "కీనే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21657",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyneburg",
+    "FLeng": "K",
+    "tel": "కీనేబుర్గ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21658",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kynton",
+    "FLeng": "K",
+    "tel": "క్య్నతోం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21659",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kynton",
+    "FLeng": "k",
+    "tel": "క్య్నతోం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21660",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyon",
+    "FLeng": "K",
+    "tel": "కీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21661",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyong",
+    "FLeng": "K",
+    "tel": "కియోంగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21662",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyosuke",
+    "FLeng": "K",
+    "tel": "క్యోసుకే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21663",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyran",
+    "FLeng": "K",
+    "tel": "కీరన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21664",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kyree",
+    "FLeng": "K",
+    "tel": "కీర్తీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "21665",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyril",
+    "FLeng": "K",
+    "tel": "కీరిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21666",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyrin",
+    "FLeng": "K",
+    "tel": "కీరిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21667",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyrk",
+    "FLeng": "K",
+    "tel": "కీర్క్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21668",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyrkwode",
+    "FLeng": "K",
+    "tel": "కీరకావడే",
+    "FLtel": "క"
+  },
+  {
+    "id": "21669",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyron",
+    "FLeng": "K",
+    "tel": "కీరోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21670",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kyron",
+    "FLeng": "k",
+    "tel": "కీరోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21671",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyros",
+    "FLeng": "K",
+    "tel": "కీరోస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21672",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kyros",
+    "FLeng": "k",
+    "tel": "కీరోస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21673",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyrstyan",
+    "FLeng": "K",
+    "tel": "కీర్స్త్యం",
+    "FLtel": "క"
+  },
+  {
+    "id": "21674",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyrus",
+    "FLeng": "K",
+    "tel": "కీర్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21675",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyrylo",
+    "FLeng": "K",
+    "tel": "కీరీలో",
+    "FLtel": "క"
+  },
+  {
+    "id": "21676",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kyson",
+    "FLeng": "K",
+    "tel": "కీషోను",
+    "FLtel": "క"
+  },
+  {
+    "id": "21677",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kyson",
+    "FLeng": "k",
+    "tel": "కీషోను",
+    "FLtel": "క"
+  },
+  {
+    "id": "21678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyu",
+    "FLeng": "K",
+    "tel": "క్యూ",
+    "FLtel": "క"
+  },
+  {
+    "id": "21679",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyubok",
+    "FLeng": "K",
+    "tel": "క్యూబాకు",
+    "FLtel": "క"
+  },
+  {
+    "id": "21680",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kyung",
+    "FLeng": "K",
+    "tel": "క్యూన్గ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21681",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kywan",
+    "FLeng": "K",
+    "tel": "కీరన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21682",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kywan",
+    "FLeng": "k",
+    "tel": "కీరన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "21683",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Laabh",
+    "FLeng": "L",
+    "tel": "లాబ్",
+    "FLtel": "ల"
+  }
+]

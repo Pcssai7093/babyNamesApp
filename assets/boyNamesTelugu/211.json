@@ -1,0 +1,812 @@
+[
+  {
+    "id": "10549",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garbhaka",
+    "FLeng": "G",
+    "tel": "గర్భక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10550",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garc",
+    "FLeng": "G",
+    "tel": "గార్కి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10551",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gard",
+    "FLeng": "G",
+    "tel": "గార్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10552",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gardener",
+    "FLeng": "G",
+    "tel": "గర్దెనెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10553",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gardie",
+    "FLeng": "G",
+    "tel": "గారడీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10554",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gardiner",
+    "FLeng": "G",
+    "tel": "గార్డినెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10555",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gardner",
+    "FLeng": "G",
+    "tel": "గార్డనర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10556",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gareb",
+    "FLeng": "G",
+    "tel": "గరీబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10557",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gared",
+    "FLeng": "G",
+    "tel": "గార్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10558",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garek",
+    "FLeng": "G",
+    "tel": "గారికి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10559",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garen",
+    "FLeng": "G",
+    "tel": "గారేం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10560",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garet",
+    "FLeng": "G",
+    "tel": "గారెట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10561",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garett",
+    "FLeng": "G",
+    "tel": "గారెట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10562",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garey",
+    "FLeng": "G",
+    "tel": "గారెయ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10563",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garfield",
+    "FLeng": "G",
+    "tel": "గార్ఫీల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10564",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "garfield",
+    "FLeng": "g",
+    "tel": "గార్ఫీల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10565",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garg",
+    "FLeng": "G",
+    "tel": "గార్గ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10566",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garga",
+    "FLeng": "G",
+    "tel": "గర్గ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10567",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gargya",
+    "FLeng": "G",
+    "tel": "గార్గ్య",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10568",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garhapati",
+    "FLeng": "G",
+    "tel": "గార్హపతి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10569",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garhault",
+    "FLeng": "G",
+    "tel": "గార్హఉల్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10570",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Garibnivaj",
+    "FLeng": "G",
+    "tel": "గరీబ్నివాజ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10571",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garick",
+    "FLeng": "G",
+    "tel": "గారిక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10572",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gariland",
+    "FLeng": "G",
+    "tel": "గారిలాండ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10573",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gariman",
+    "FLeng": "G",
+    "tel": "గరిమం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10574",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Garinder",
+    "FLeng": "G",
+    "tel": "గరిందర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10575",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garion",
+    "FLeng": "G",
+    "tel": "గరిన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10576",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garis",
+    "FLeng": "G",
+    "tel": "గిరీష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10577",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garishit",
+    "FLeng": "G",
+    "tel": "గరిషిత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10578",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garisht",
+    "FLeng": "G",
+    "tel": "గరిష్ట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10579",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garistha",
+    "FLeng": "G",
+    "tel": "గరిష్ట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10580",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garit",
+    "FLeng": "G",
+    "tel": "గరిట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10581",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garja",
+    "FLeng": "G",
+    "tel": "గర్జ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10582",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Garjan",
+    "FLeng": "G",
+    "tel": "గర్జన",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10583",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garllan",
+    "FLeng": "G",
+    "tel": "గార్లను",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10584",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garlon",
+    "FLeng": "G",
+    "tel": "గర్లోని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10585",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garman",
+    "FLeng": "G",
+    "tel": "గర్మన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10586",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garmann",
+    "FLeng": "G",
+    "tel": "గర్మన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10587",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garmon",
+    "FLeng": "G",
+    "tel": "కార్మోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "10588",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garmond",
+    "FLeng": "G",
+    "tel": "గారేమండ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10589",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garmund",
+    "FLeng": "G",
+    "tel": "గర్వమును",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10590",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garnell",
+    "FLeng": "G",
+    "tel": "గార్నెల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10591",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garner",
+    "FLeng": "G",
+    "tel": "కార్నెర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "10592",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garnet",
+    "FLeng": "G",
+    "tel": "గార్నెట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10593",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garnett",
+    "FLeng": "G",
+    "tel": "గార్నెట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10594",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garnier",
+    "FLeng": "G",
+    "tel": "గర్నిర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10595",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garo",
+    "FLeng": "G",
+    "tel": "గారో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10596",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garold",
+    "FLeng": "G",
+    "tel": "గారోల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10597",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garon",
+    "FLeng": "G",
+    "tel": "గారొన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10598",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garr",
+    "FLeng": "G",
+    "tel": "గారు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10599",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrad",
+    "FLeng": "G",
+    "tel": "గార్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10600",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garran",
+    "FLeng": "G",
+    "tel": "గుర్రం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10601",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrard",
+    "FLeng": "G",
+    "tel": "గార్నర్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10602",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrath",
+    "FLeng": "G",
+    "tel": "గఱత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garraway",
+    "FLeng": "G",
+    "tel": "గఱవే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10604",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garreck",
+    "FLeng": "G",
+    "tel": "గర్రెక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10605",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garred",
+    "FLeng": "G",
+    "tel": "గర్రెద",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10606",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garren",
+    "FLeng": "G",
+    "tel": "గర్రెన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10607",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garret",
+    "FLeng": "G",
+    "tel": "గర్రెట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10608",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garreth",
+    "FLeng": "G",
+    "tel": "గర్రెత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10609",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrett",
+    "FLeng": "G",
+    "tel": "గర్రెట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10610",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrey",
+    "FLeng": "G",
+    "tel": "గొర్రేయ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10611",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "garrhett",
+    "FLeng": "g",
+    "tel": "గర్హ్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10612",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrick",
+    "FLeng": "G",
+    "tel": "గొర్రిక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10613",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "garrick",
+    "FLeng": "g",
+    "tel": "గొర్రిక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10614",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garridan",
+    "FLeng": "G",
+    "tel": "గఱిడం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10615",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrie",
+    "FLeng": "G",
+    "tel": "గర్రాయి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10616",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrik",
+    "FLeng": "G",
+    "tel": "గఱిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrin",
+    "FLeng": "G",
+    "tel": "గఱిన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10618",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrison",
+    "FLeng": "G",
+    "tel": "గారిసన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10619",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "garrison",
+    "FLeng": "g",
+    "tel": "గారిసన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10620",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garritt",
+    "FLeng": "G",
+    "tel": "గఱిట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10621",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrman",
+    "FLeng": "G",
+    "tel": "గుర్రమం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10622",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garron",
+    "FLeng": "G",
+    "tel": "గార్న్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrott",
+    "FLeng": "G",
+    "tel": "కార్రోట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "10624",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garroway",
+    "FLeng": "G",
+    "tel": "కార్రోవే",
+    "FLtel": "క"
+  },
+  {
+    "id": "10625",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrson",
+    "FLeng": "G",
+    "tel": "గార్స్న్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10626",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrwood",
+    "FLeng": "G",
+    "tel": "గర్రావుడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10627",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garry",
+    "FLeng": "G",
+    "tel": "గారి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garryck",
+    "FLeng": "G",
+    "tel": "గారిక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garryk",
+    "FLeng": "G",
+    "tel": "గారిక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10630",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garrytt",
+    "FLeng": "G",
+    "tel": "గరిట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garsa",
+    "FLeng": "G",
+    "tel": "గర్శ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garson",
+    "FLeng": "G",
+    "tel": "కార్సన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "10633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garsone",
+    "FLeng": "G",
+    "tel": "గార్స్లోనే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garth",
+    "FLeng": "G",
+    "tel": "గర్త్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10635",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gartheride",
+    "FLeng": "G",
+    "tel": "గుర్తెరిగే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10636",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garthrite",
+    "FLeng": "G",
+    "tel": "గార్థ్రిటే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10637",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Garton",
+    "FLeng": "G",
+    "tel": "గుర్తొన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10638",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gartrett",
+    "FLeng": "G",
+    "tel": "గార్ట్రేట్",
+    "FLtel": "గ"
+  }
+]

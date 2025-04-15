@@ -1,0 +1,713 @@
+[
+  {
+    "id": "24888",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Martinus",
+    "FLeng": "M",
+    "tel": "మార్టిన్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24889",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Martirio",
+    "FLeng": "M",
+    "tel": "మార్టిరియో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24890",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "martirio",
+    "FLeng": "m",
+    "tel": "మార్టిరియో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24891",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Martne",
+    "FLeng": "M",
+    "tel": "మార్టునే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24892",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marton",
+    "FLeng": "M",
+    "tel": "మారుతోం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24893",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Martti",
+    "FLeng": "M",
+    "tel": "మార్త్తి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24894",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "martti",
+    "FLeng": "m",
+    "tel": "మార్త్తి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24895",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marty",
+    "FLeng": "M",
+    "tel": "మార్తి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24896",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Martyn",
+    "FLeng": "M",
+    "tel": "మార్టిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24897",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marudan",
+    "FLeng": "M",
+    "tel": "మారడం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Marudeva",
+    "FLeng": "M",
+    "tel": "మారుడెవ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Marudha",
+    "FLeng": "M",
+    "tel": "మారూఢా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24900",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marudhan",
+    "FLeng": "M",
+    "tel": "మారూఢం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24901",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marudu",
+    "FLeng": "M",
+    "tel": "మారుడు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24902",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maruf",
+    "FLeng": "M",
+    "tel": "మార్ఫ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24903",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Marufirah",
+    "FLeng": "M",
+    "tel": "మరుఫరాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24904",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marukatam",
+    "FLeng": "M",
+    "tel": "మరకతం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24905",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marunda",
+    "FLeng": "M",
+    "tel": "మరుండ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24906",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marus",
+    "FLeng": "M",
+    "tel": "మార్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24907",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "marus",
+    "FLeng": "m",
+    "tel": "మార్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24908",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Marut",
+    "FLeng": "M",
+    "tel": "మారుతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24909",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Marutatmaj",
+    "FLeng": "M",
+    "tel": "మారుతాత్మజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Marutatmaja",
+    "FLeng": "M",
+    "tel": "మారుతాత్మజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24911",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maruteesh",
+    "FLeng": "M",
+    "tel": "మారుతీష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24912",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maruth",
+    "FLeng": "M",
+    "tel": "మారుతీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24913",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Marutha",
+    "FLeng": "M",
+    "tel": "మారుత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24914",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maruthi",
+    "FLeng": "M",
+    "tel": "మారుతీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24915",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maruthi Prasad",
+    "FLeng": "M",
+    "tel": "మారుతీ ప్రసాద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24916",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maruti",
+    "FLeng": "M",
+    "tel": "మారుతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24917",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marutpati",
+    "FLeng": "M",
+    "tel": "మరుత్పతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24918",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maruvili",
+    "FLeng": "M",
+    "tel": "మరువిళి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24919",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "marv",
+    "FLeng": "m",
+    "tel": "మెర్వ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24920",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marvan",
+    "FLeng": "M",
+    "tel": "మరువం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24921",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marven",
+    "FLeng": "M",
+    "tel": "మర్వెన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24922",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marvin",
+    "FLeng": "M",
+    "tel": "మార్విన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24923",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marvolo",
+    "FLeng": "M",
+    "tel": "మార్వాలో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24924",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marvyn",
+    "FLeng": "M",
+    "tel": "మరేవైనా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24925",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Marwan",
+    "FLeng": "M",
+    "tel": "మార్వాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24926",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "marwan",
+    "FLeng": "m",
+    "tel": "మార్వాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24927",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marwood",
+    "FLeng": "M",
+    "tel": "మారవుడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24928",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marx",
+    "FLeng": "M",
+    "tel": "మార్క్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24929",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Marzal",
+    "FLeng": "M",
+    "tel": "మరిజాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24930",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marzio",
+    "FLeng": "M",
+    "tel": "మజియో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24931",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Marzug",
+    "FLeng": "M",
+    "tel": "మారిజుగ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24932",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mas'ud",
+    "FLeng": "M",
+    "tel": "మాస్'ఉడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24933",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masa",
+    "FLeng": "M",
+    "tel": "మాస",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24934",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masab",
+    "FLeng": "M",
+    "tel": "మాసాబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24935",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masada",
+    "FLeng": "M",
+    "tel": "మస్దర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24936",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masakazu",
+    "FLeng": "M",
+    "tel": "మసకజు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24937",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masao",
+    "FLeng": "M",
+    "tel": "మాసంలో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24938",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Masar",
+    "FLeng": "M",
+    "tel": "మజార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24939",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masaru",
+    "FLeng": "M",
+    "tel": "మసారు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24940",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masato",
+    "FLeng": "M",
+    "tel": "మాసతో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24941",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maseeh",
+    "FLeng": "M",
+    "tel": "మసీహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24942",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maseehuzzaman",
+    "FLeng": "M",
+    "tel": "మసీహ్యూజ్యామం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24943",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masel",
+    "FLeng": "M",
+    "tel": "మాసెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24944",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masen",
+    "FLeng": "M",
+    "tel": "మాసేన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24945",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "masen",
+    "FLeng": "m",
+    "tel": "మాసేన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24946",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mash'al",
+    "FLeng": "M",
+    "tel": "మాష్'అల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24947",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masheer",
+    "FLeng": "M",
+    "tel": "మషీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24948",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mashhood",
+    "FLeng": "M",
+    "tel": "మషూద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24949",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mashhud",
+    "FLeng": "M",
+    "tel": "మషూద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24950",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mashhur",
+    "FLeng": "M",
+    "tel": "మషూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24951",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mashkoor",
+    "FLeng": "M",
+    "tel": "మషుకూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24952",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mashu",
+    "FLeng": "M",
+    "tel": "మాశు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24953",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masid",
+    "FLeng": "M",
+    "tel": "మసీద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24954",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masilamani",
+    "FLeng": "M",
+    "tel": "మాసిలామని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24955",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masili",
+    "FLeng": "M",
+    "tel": "మజిలీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24956",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masir",
+    "FLeng": "M",
+    "tel": "మసిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24957",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Masis",
+    "FLeng": "M",
+    "tel": "మసిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24958",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Maskeen",
+    "FLeng": "M",
+    "tel": "మసకేఎం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24959",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Maslen",
+    "FLeng": "M",
+    "tel": "మస్లీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24960",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maslyn",
+    "FLeng": "M",
+    "tel": "మస్లీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24961",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masmud",
+    "FLeng": "M",
+    "tel": "మాసముద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24962",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maso",
+    "FLeng": "m",
+    "tel": "మాసో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24963",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mason",
+    "FLeng": "M",
+    "tel": "మసన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24964",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masood",
+    "FLeng": "M",
+    "tel": "మసూద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24965",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masoom",
+    "FLeng": "M",
+    "tel": "మాసూమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24966",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Masoud",
+    "FLeng": "M",
+    "tel": "మసూద్",
+    "FLtel": "మ"
+  }
+]

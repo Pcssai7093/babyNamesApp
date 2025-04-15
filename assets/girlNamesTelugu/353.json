@@ -1,0 +1,776 @@
+[
+  {
+    "id": "124664",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rainey",
+    "FLeng": "R",
+    "tel": "రైనీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124665",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rainie",
+    "FLeng": "R",
+    "tel": "రాయినియే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124666",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rainn",
+    "FLeng": "R",
+    "tel": "రైన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124667",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rainy",
+    "FLeng": "R",
+    "tel": "రెయినో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124668",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Raisa",
+    "FLeng": "R",
+    "tel": "రైసు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124669",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raisie",
+    "FLeng": "R",
+    "tel": "రైసిఎ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124670",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raissa",
+    "FLeng": "R",
+    "tel": "రైస్స",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124671",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raita",
+    "FLeng": "R",
+    "tel": "రైటా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124672",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raitah",
+    "FLeng": "R",
+    "tel": "రైత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124673",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Raivathi",
+    "FLeng": "R",
+    "tel": "రైవతి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124674",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Raivyn",
+    "FLeng": "R",
+    "tel": "రైప్య్న",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124675",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Raiza",
+    "FLeng": "R",
+    "tel": "రైజా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124676",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raizel",
+    "FLeng": "R",
+    "tel": "రైజెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124677",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Raj Kumari",
+    "FLeng": "R",
+    "tel": "రాజ్ కుమారి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124678",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Raja Lakshmi",
+    "FLeng": "R",
+    "tel": "రాజా లక్ష్మి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124679",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Raja'",
+    "FLeng": "R",
+    "tel": "రాజా'",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124680",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajabrata",
+    "FLeng": "R",
+    "tel": "రాజబ్రత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124681",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajah",
+    "FLeng": "R",
+    "tel": "రజః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124682",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajakanya",
+    "FLeng": "R",
+    "tel": "రాజకన్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124683",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajakumari",
+    "FLeng": "R",
+    "tel": "రాజకుమారి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124684",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajalakshmi",
+    "FLeng": "R",
+    "tel": "రాజలక్ష్మి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124685",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajam",
+    "FLeng": "R",
+    "tel": "రాజాం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124686",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajamani",
+    "FLeng": "R",
+    "tel": "రాజమణి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124687",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajanandini",
+    "FLeng": "R",
+    "tel": "రాజనందిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124688",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajanigandha",
+    "FLeng": "R",
+    "tel": "రాజనీగంధ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124689",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajanna",
+    "FLeng": "R",
+    "tel": "రాజన్న",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124690",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajannya",
+    "FLeng": "R",
+    "tel": "రాజన్న్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124691",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajashree",
+    "FLeng": "R",
+    "tel": "రాజశ్రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124692",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajashri",
+    "FLeng": "R",
+    "tel": "రాజశ్రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124693",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajashyamala",
+    "FLeng": "R",
+    "tel": "రాజశ్యామల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124694",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajasri",
+    "FLeng": "R",
+    "tel": "రాజశ్రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124695",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajasuya",
+    "FLeng": "R",
+    "tel": "రాజసూయ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124696",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajata",
+    "FLeng": "R",
+    "tel": "రజత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124697",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajatha",
+    "FLeng": "R",
+    "tel": "రజత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124698",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajathi",
+    "FLeng": "R",
+    "tel": "రజాతి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124699",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajathilaka",
+    "FLeng": "R",
+    "tel": "రజాతిలక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124700",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajbala",
+    "FLeng": "R",
+    "tel": "రాజబాల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124701",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Rajdeep Kaur",
+    "FLeng": "R",
+    "tel": "రాజదీప్ కౌర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124702",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajdulari",
+    "FLeng": "R",
+    "tel": "రాజేబులరీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124703",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajeena",
+    "FLeng": "R",
+    "tel": "రేజీనా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124704",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeevani",
+    "FLeng": "R",
+    "tel": "రాజీవని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124705",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeevi",
+    "FLeng": "R",
+    "tel": "రాజీవి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124706",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajeeyah",
+    "FLeng": "R",
+    "tel": "రాజీయహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124707",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeshni",
+    "FLeng": "R",
+    "tel": "రాజెశ్ని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124708",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeshri",
+    "FLeng": "R",
+    "tel": "రాజెశ్రి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124709",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeshvari",
+    "FLeng": "R",
+    "tel": "రాజేశ్వరి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124710",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeshwari",
+    "FLeng": "R",
+    "tel": "రాజేశ్వరి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124711",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajeswari",
+    "FLeng": "R",
+    "tel": "రాజేశ్వరి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124712",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajhans",
+    "FLeng": "R",
+    "tel": "రఝాన్సీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124713",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajhansa",
+    "FLeng": "R",
+    "tel": "రాజహంస",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124714",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Raji",
+    "FLeng": "R",
+    "tel": "రాజి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124715",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajia",
+    "FLeng": "R",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124716",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajiha",
+    "FLeng": "R",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124717",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajika",
+    "FLeng": "R",
+    "tel": "రాజిక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124718",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajina",
+    "FLeng": "R",
+    "tel": "రేజీనా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124719",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajini",
+    "FLeng": "R",
+    "tel": "రజిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124720",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajisha",
+    "FLeng": "R",
+    "tel": "రాజశ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124721",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajita",
+    "FLeng": "R",
+    "tel": "రజిత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124722",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajitha",
+    "FLeng": "R",
+    "tel": "రజిత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124723",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajivini",
+    "FLeng": "R",
+    "tel": "రాజీవిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124724",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajiya",
+    "FLeng": "R",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124725",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajiyah",
+    "FLeng": "R",
+    "tel": "రాజీయహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124726",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajju",
+    "FLeng": "R",
+    "tel": "రజ్జు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124727",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajkala",
+    "FLeng": "R",
+    "tel": "రాజకాల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124728",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajkumari",
+    "FLeng": "R",
+    "tel": "రాజకుమారి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124729",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajlaxmi",
+    "FLeng": "R",
+    "tel": "రాజేలష్మి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124730",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajm",
+    "FLeng": "R",
+    "tel": "రాజన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124731",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Rajmati",
+    "FLeng": "R",
+    "tel": "రాజ్మాటి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124732",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajnandhini",
+    "FLeng": "R",
+    "tel": "రాజనందిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124733",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajnandini",
+    "FLeng": "R",
+    "tel": "రాజనందిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124734",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Rajneet",
+    "FLeng": "R",
+    "tel": "రాజనీతి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124735",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajnikant",
+    "FLeng": "R",
+    "tel": "రజనీకాంత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124736",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajoua",
+    "FLeng": "R",
+    "tel": "రజత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124737",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajrita",
+    "FLeng": "R",
+    "tel": "రాజేరుట",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124738",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajshree",
+    "FLeng": "R",
+    "tel": "రాజశ్రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124739",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajshri",
+    "FLeng": "R",
+    "tel": "రాజశ్రీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124740",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajsi",
+    "FLeng": "R",
+    "tel": "రాజేసి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124741",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajvanthi",
+    "FLeng": "R",
+    "tel": "రాజవంతి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124742",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajvanti",
+    "FLeng": "R",
+    "tel": "రాజవంటి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124743",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajvi",
+    "FLeng": "R",
+    "tel": "రాజవి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124744",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajvika",
+    "FLeng": "R",
+    "tel": "రాజవిక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124745",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajwa",
+    "FLeng": "R",
+    "tel": "రజ్వా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124746",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajwant",
+    "FLeng": "R",
+    "tel": "రజ్వాన్ట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124747",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rajya",
+    "FLeng": "R",
+    "tel": "రాజ్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124748",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rajyalakshmi",
+    "FLeng": "R",
+    "tel": "రాజ్యలక్ష్మి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "124749",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Raka",
+    "FLeng": "R",
+    "tel": "రక",
+    "FLtel": "ర"
+  }
+]

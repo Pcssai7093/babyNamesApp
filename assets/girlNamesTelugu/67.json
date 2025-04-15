@@ -1,0 +1,839 @@
+[
+  {
+    "id": "138334",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bevin",
+    "FLeng": "B",
+    "tel": "బేవిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138335",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bevlyn",
+    "FLeng": "B",
+    "tel": "బివిలిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138336",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bevverlie",
+    "FLeng": "B",
+    "tel": "వెవ్వేరులై",
+    "FLtel": "వ"
+  },
+  {
+    "id": "138337",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bevverly",
+    "FLeng": "B",
+    "tel": "వెవ్వేరులై",
+    "FLtel": "వ"
+  },
+  {
+    "id": "138338",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bevvy",
+    "FLeng": "B",
+    "tel": "బేవ్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138339",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Beyla",
+    "FLeng": "B",
+    "tel": "బెయిలా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138340",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Beyonce",
+    "FLeng": "B",
+    "tel": "బెయోన్సు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138341",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "beyoncé",
+    "FLeng": "b",
+    "tel": "బెయాన్క్é",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138342",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Beyza",
+    "FLeng": "B",
+    "tel": "బెయిజా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138343",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "beyza",
+    "FLeng": "b",
+    "tel": "బెయిజా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138344",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bezawit",
+    "FLeng": "B",
+    "tel": "బేజావిట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138345",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaagya",
+    "FLeng": "B",
+    "tel": "భాగ్య",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138346",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaagyasree",
+    "FLeng": "B",
+    "tel": "భాగ్యశ్రీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138347",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaama",
+    "FLeng": "B",
+    "tel": "భామ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138348",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaamdhavi",
+    "FLeng": "B",
+    "tel": "భామాధవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138349",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaamini",
+    "FLeng": "B",
+    "tel": "భామిని",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138350",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaanavi",
+    "FLeng": "B",
+    "tel": "భానవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138351",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaanuja",
+    "FLeng": "B",
+    "tel": "భానుజ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138352",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaanulata",
+    "FLeng": "B",
+    "tel": "భానులత",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138353",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaanumati",
+    "FLeng": "B",
+    "tel": "భానుమతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138354",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaanupriya",
+    "FLeng": "B",
+    "tel": "భానుప్రియ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138355",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaanusree",
+    "FLeng": "B",
+    "tel": "భానుశ్రీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138356",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaarati",
+    "FLeng": "B",
+    "tel": "భారతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138357",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaargavi",
+    "FLeng": "B",
+    "tel": "భార్గవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138358",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaavana",
+    "FLeng": "B",
+    "tel": "భావన",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138359",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaavani",
+    "FLeng": "B",
+    "tel": "భావాన్ని",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138360",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaaviki",
+    "FLeng": "B",
+    "tel": "భావికి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138361",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaavini",
+    "FLeng": "B",
+    "tel": "బావిని",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138362",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaavitha",
+    "FLeng": "B",
+    "tel": "భావిత",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138363",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaavya",
+    "FLeng": "B",
+    "tel": "భావ్య",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138364",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadraa",
+    "FLeng": "B",
+    "tel": "భద్రా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138365",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadrabala",
+    "FLeng": "B",
+    "tel": "భద్రబాల",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138366",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadrakaali",
+    "FLeng": "B",
+    "tel": "భద్రకాళి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138367",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadrakali",
+    "FLeng": "B",
+    "tel": "భద్రకాళి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138368",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadrapriya",
+    "FLeng": "B",
+    "tel": "భద్రప్రియా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138369",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadravati",
+    "FLeng": "B",
+    "tel": "భద్రావతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138370",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadrika",
+    "FLeng": "B",
+    "tel": "భద్రికా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138371",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhadrusha",
+    "FLeng": "B",
+    "tel": "భద్రుశ్య",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138372",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagabhai",
+    "FLeng": "B",
+    "tel": "భాగభై",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138373",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagavath",
+    "FLeng": "B",
+    "tel": "భగవత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138374",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagavathi",
+    "FLeng": "B",
+    "tel": "భగవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138375",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagavathy",
+    "FLeng": "B",
+    "tel": "భగవతే",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138376",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagavati",
+    "FLeng": "B",
+    "tel": "భగవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138377",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagavti",
+    "FLeng": "B",
+    "tel": "భగవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138378",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhageerathi",
+    "FLeng": "B",
+    "tel": "భగీరథీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138379",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaghavathi",
+    "FLeng": "B",
+    "tel": "భగవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138380",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagini",
+    "FLeng": "B",
+    "tel": "భగినీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138381",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagira",
+    "FLeng": "B",
+    "tel": "భాగిర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138382",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagirathee",
+    "FLeng": "B",
+    "tel": "భగీరథీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138383",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagirathi",
+    "FLeng": "B",
+    "tel": "భగీరథీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138384",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagvanti",
+    "FLeng": "B",
+    "tel": "భగవంటి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138385",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagvatee",
+    "FLeng": "B",
+    "tel": "భగవతీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138386",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagvati",
+    "FLeng": "B",
+    "tel": "భగవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138387",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagvyta",
+    "FLeng": "B",
+    "tel": "భాగ్వయట",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138388",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagwani",
+    "FLeng": "B",
+    "tel": "భాగ్వని",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138389",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagwanti",
+    "FLeng": "B",
+    "tel": "భాగ్వన్తి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138390",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Bhagwantjot",
+    "FLeng": "B",
+    "tel": "భాగ్వన్తజోత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138391",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagwati",
+    "FLeng": "B",
+    "tel": "భగవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138392",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagya",
+    "FLeng": "B",
+    "tel": "భాగ్య",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138393",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagya Lakshmi",
+    "FLeng": "B",
+    "tel": "భాగ్య లక్ష్మి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138394",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyaa",
+    "FLeng": "B",
+    "tel": "బాగ్యా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138395",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyajyothi",
+    "FLeng": "B",
+    "tel": "భాగ్యజ్యోతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138396",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyalakshmi",
+    "FLeng": "B",
+    "tel": "భాగ్యలక్ష్మి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138397",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyarekha",
+    "FLeng": "B",
+    "tel": "భాగ్యరేఖ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138398",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyashabari",
+    "FLeng": "B",
+    "tel": "భాగ్యశబరి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138399",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyashree",
+    "FLeng": "B",
+    "tel": "భాగ్యశ్రీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138400",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyashri",
+    "FLeng": "B",
+    "tel": "భాగ్యశ్రీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138401",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyasree",
+    "FLeng": "B",
+    "tel": "భాగ్యశ్రీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138402",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyavathi",
+    "FLeng": "B",
+    "tel": "భాగ్యవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138403",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyavati",
+    "FLeng": "B",
+    "tel": "భాగ్యవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138404",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyavi",
+    "FLeng": "B",
+    "tel": "భాగ్యవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138405",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyawati",
+    "FLeng": "B",
+    "tel": "భాగ్యవతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138406",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhagyshree",
+    "FLeng": "B",
+    "tel": "భాజిశ్రీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138407",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhahusuni",
+    "FLeng": "B",
+    "tel": "బహుసుని",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138408",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhairavee",
+    "FLeng": "B",
+    "tel": "భైరవీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138409",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhairavi",
+    "FLeng": "B",
+    "tel": "భైరవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138410",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhairvi",
+    "FLeng": "B",
+    "tel": "భైరవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138411",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bhajat",
+    "FLeng": "B",
+    "tel": "భాజాత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138412",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhajna",
+    "FLeng": "B",
+    "tel": "భజన",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138413",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhajuna",
+    "FLeng": "B",
+    "tel": "భజన",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138414",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhakthi",
+    "FLeng": "B",
+    "tel": "భక్తి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138415",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhakthipriya",
+    "FLeng": "B",
+    "tel": "భక్తిప్రియ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138416",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhakti",
+    "FLeng": "B",
+    "tel": "భక్తి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138417",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhaktipriya",
+    "FLeng": "B",
+    "tel": "భక్తిప్రియ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138418",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhalo",
+    "FLeng": "B",
+    "tel": "భలో",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138419",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhama",
+    "FLeng": "B",
+    "tel": "భామ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138420",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhamini",
+    "FLeng": "B",
+    "tel": "భామిని",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138421",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Bhamkaur",
+    "FLeng": "B",
+    "tel": "బంకర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138422",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhanavi",
+    "FLeng": "B",
+    "tel": "భానవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138423",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhandhavi",
+    "FLeng": "B",
+    "tel": "బంధవి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138424",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhanu Priya",
+    "FLeng": "B",
+    "tel": "భాను ప్రియా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138425",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhanu Rekha",
+    "FLeng": "B",
+    "tel": "భాను రేఖ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138426",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bhanuja",
+    "FLeng": "B",
+    "tel": "భానుజ",
+    "FLtel": "భ"
+  }
+]

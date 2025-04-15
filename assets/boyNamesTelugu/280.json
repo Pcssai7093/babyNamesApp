@@ -1,0 +1,884 @@
+[
+  {
+    "id": "16929",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarin",
+    "FLeng": "J",
+    "tel": "జరీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16930",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarir",
+    "FLeng": "J",
+    "tel": "జారీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16931",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarish",
+    "FLeng": "J",
+    "tel": "జరిష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16932",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaritri",
+    "FLeng": "J",
+    "tel": "జరిత్రి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16933",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarius",
+    "FLeng": "J",
+    "tel": "జారీస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16934",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarl",
+    "FLeng": "J",
+    "tel": "జర్ల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16935",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jarl",
+    "FLeng": "j",
+    "tel": "జర్ల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16936",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jarlan",
+    "FLeng": "j",
+    "tel": "జర్లాం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16937",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarlath",
+    "FLeng": "J",
+    "tel": "జార్లత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16938",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarle",
+    "FLeng": "J",
+    "tel": "ఝరులే",
+    "FLtel": "ఝ"
+  },
+  {
+    "id": "16939",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jarle",
+    "FLeng": "j",
+    "tel": "ఝరులే",
+    "FLtel": "ఝ"
+  },
+  {
+    "id": "16940",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarlen",
+    "FLeng": "J",
+    "tel": "జర్లేన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16941",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jarmaine",
+    "FLeng": "j",
+    "tel": "జర్మైన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16942",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarmal",
+    "FLeng": "J",
+    "tel": "జర్మల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16943",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarman",
+    "FLeng": "J",
+    "tel": "జర్మన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16944",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarmann",
+    "FLeng": "J",
+    "tel": "జర్మన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16945",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarmel",
+    "FLeng": "J",
+    "tel": "జర్మేల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16946",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarmil",
+    "FLeng": "J",
+    "tel": "జర్మిల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16947",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarmo",
+    "FLeng": "J",
+    "tel": "జారేమో",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16948",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jarnail",
+    "FLeng": "J",
+    "tel": "జర్నైల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16949",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarnav",
+    "FLeng": "J",
+    "tel": "జర్నవ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16950",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarno",
+    "FLeng": "J",
+    "tel": "జర్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16951",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarod",
+    "FLeng": "J",
+    "tel": "జరోడ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16952",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarom",
+    "FLeng": "J",
+    "tel": "జారొమ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16953",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarome",
+    "FLeng": "J",
+    "tel": "జారొమే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16954",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaromil",
+    "FLeng": "J",
+    "tel": "జారొమిల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16955",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaromir",
+    "FLeng": "J",
+    "tel": "జారొమిర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jaron",
+    "FLeng": "J",
+    "tel": "జారోన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16957",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jaron",
+    "FLeng": "j",
+    "tel": "జారోన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16958",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarood",
+    "FLeng": "J",
+    "tel": "జరూద్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16959",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaroslav",
+    "FLeng": "J",
+    "tel": "జరోస్లావ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16960",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarrad",
+    "FLeng": "J",
+    "tel": "జర్రాడ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16961",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarran",
+    "FLeng": "J",
+    "tel": "జర్రం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16962",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarrar",
+    "FLeng": "J",
+    "tel": "జర్నర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16963",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarred",
+    "FLeng": "J",
+    "tel": "జారెడ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16964",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarrel",
+    "FLeng": "J",
+    "tel": "జర్రెల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16965",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarrell",
+    "FLeng": "J",
+    "tel": "జర్రెల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16966",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jarren",
+    "FLeng": "J",
+    "tel": "జర్రెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16967",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarres",
+    "FLeng": "J",
+    "tel": "జర్రెస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16968",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarreth",
+    "FLeng": "J",
+    "tel": "జారెత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarrett",
+    "FLeng": "J",
+    "tel": "జార్ట్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16970",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarrick",
+    "FLeng": "J",
+    "tel": "జార్రిక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16971",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jarrick",
+    "FLeng": "j",
+    "tel": "జార్రిక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16972",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarrid",
+    "FLeng": "J",
+    "tel": "జర్రిడ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16973",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarrine",
+    "FLeng": "J",
+    "tel": "జర్రీనే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16974",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarrod",
+    "FLeng": "J",
+    "tel": "జర్వ్డ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16975",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarron",
+    "FLeng": "J",
+    "tel": "జార్న్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16976",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarrott",
+    "FLeng": "J",
+    "tel": "జార్రోట్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16977",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jarry",
+    "FLeng": "J",
+    "tel": "జారి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16978",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarullah",
+    "FLeng": "J",
+    "tel": "జరుల్లాహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16979",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jarum",
+    "FLeng": "J",
+    "tel": "జరుమ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16980",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaruman",
+    "FLeng": "J",
+    "tel": "జరుమాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16981",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarvey",
+    "FLeng": "J",
+    "tel": "జర్వే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16982",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jarvis",
+    "FLeng": "J",
+    "tel": "జార్విస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16983",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jarvis",
+    "FLeng": "j",
+    "tel": "జార్విస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16984",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jary",
+    "FLeng": "J",
+    "tel": "జారీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16985",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaryl",
+    "FLeng": "J",
+    "tel": "జారీల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16986",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jaryn",
+    "FLeng": "J",
+    "tel": "జరీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16987",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jas",
+    "FLeng": "J",
+    "tel": "జాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16988",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasal",
+    "FLeng": "J",
+    "tel": "జసల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16989",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasalina",
+    "FLeng": "J",
+    "tel": "జస్లీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16990",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasamit",
+    "FLeng": "J",
+    "tel": "జాసమిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16991",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasamita",
+    "FLeng": "J",
+    "tel": "జాసమిత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16992",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasan",
+    "FLeng": "J",
+    "tel": "జాసన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16993",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasandeep",
+    "FLeng": "J",
+    "tel": "జసందీప్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16994",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasanjeet",
+    "FLeng": "J",
+    "tel": "జసంజీత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16995",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasanjot",
+    "FLeng": "J",
+    "tel": "జసంజోత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16996",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasanmeet",
+    "FLeng": "J",
+    "tel": "జసంమీత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16997",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasanpal",
+    "FLeng": "J",
+    "tel": "జాసంపల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16998",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasanpreet",
+    "FLeng": "J",
+    "tel": "జసంప్రీత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "16999",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasanroop",
+    "FLeng": "J",
+    "tel": "జసంరూప్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17000",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasapal",
+    "FLeng": "J",
+    "tel": "జసపాల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17001",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasapala",
+    "FLeng": "J",
+    "tel": "జసపాల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17002",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jasar",
+    "FLeng": "J",
+    "tel": "జాస్పర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17003",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jasaraja",
+    "FLeng": "J",
+    "tel": "జసరాజా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17004",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jasavanta",
+    "FLeng": "J",
+    "tel": "జసవంత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17005",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasavira",
+    "FLeng": "J",
+    "tel": "జసవిరా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17006",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasbeer",
+    "FLeng": "J",
+    "tel": "జసబీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17007",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasbhagat",
+    "FLeng": "J",
+    "tel": "జసభగత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17008",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasbhoop",
+    "FLeng": "J",
+    "tel": "జాస్భూప్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17009",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasbinder",
+    "FLeng": "J",
+    "tel": "జాస్బిన్డెర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17010",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jascha",
+    "FLeng": "J",
+    "tel": "జశ్చ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17011",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasdave",
+    "FLeng": "J",
+    "tel": "జాస్డవే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17012",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasdayal",
+    "FLeng": "J",
+    "tel": "జాసదయాళ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17013",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasdeep",
+    "FLeng": "J",
+    "tel": "జసదీప్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17014",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jasdev",
+    "FLeng": "J",
+    "tel": "జసుదేవ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17015",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jase",
+    "FLeng": "J",
+    "tel": "జేసే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17016",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jase",
+    "FLeng": "j",
+    "tel": "జేసే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17017",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jasen",
+    "FLeng": "J",
+    "tel": "జేసెను",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17018",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jaser",
+    "FLeng": "J",
+    "tel": "జాజర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17019",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "jaser",
+    "FLeng": "j",
+    "tel": "జాజర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17020",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jasevaraj",
+    "FLeng": "J",
+    "tel": "జాసేవరజ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17021",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasfateh",
+    "FLeng": "J",
+    "tel": "జాస్ఫాతెహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17022",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasgun",
+    "FLeng": "J",
+    "tel": "జసగున్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17023",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jasgurkirtat",
+    "FLeng": "J",
+    "tel": "జాస్గుర్కిర్తత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jash",
+    "FLeng": "J",
+    "tel": "జష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17025",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jasha",
+    "FLeng": "J",
+    "tel": "జశ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17026",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jashaketh",
+    "FLeng": "J",
+    "tel": "జశకేత్",
+    "FLtel": "జ"
+  }
+]

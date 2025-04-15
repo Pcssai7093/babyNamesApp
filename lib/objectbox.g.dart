@@ -23,7 +23,7 @@ final _entities = <obx_int.ModelEntity>[
   obx_int.ModelEntity(
       id: const obx_int.IdUid(1, 2575178336258568589),
       name: 'NameData',
-      lastPropertyId: const obx_int.IdUid(15, 7931885504604488770),
+      lastPropertyId: const obx_int.IdUid(31, 6351211162377682228),
       flags: 0,
       properties: <obx_int.ModelProperty>[
         obx_int.ModelProperty(
@@ -51,7 +51,8 @@ final _entities = <obx_int.ModelEntity>[
             id: const obx_int.IdUid(5, 8052170515144191112),
             name: 'firstLetterEnglish',
             type: 9,
-            flags: 0),
+            flags: 2048,
+            indexId: const obx_int.IdUid(23, 3670558901675865097)),
         obx_int.ModelProperty(
             id: const obx_int.IdUid(6, 7812827598183989062),
             name: 'firstLetterTelugu',
@@ -64,34 +65,9 @@ final _entities = <obx_int.ModelEntity>[
             type: 9,
             flags: 0),
         obx_int.ModelProperty(
-            id: const obx_int.IdUid(8, 4911248977351714063),
-            name: 'language',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
             id: const obx_int.IdUid(9, 8084114296822984049),
             name: 'religion',
             type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(10, 447245438003669609),
-            name: 'meaningEnglish',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(11, 5448342382136285784),
-            name: 'meaningTelugu',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(12, 3868283936606490388),
-            name: 'origin',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(14, 6399450146117847132),
-            name: 'tags',
-            type: 30,
             flags: 0),
         obx_int.ModelProperty(
             id: const obx_int.IdUid(15, 7931885504604488770),
@@ -104,7 +80,7 @@ final _entities = <obx_int.ModelEntity>[
   obx_int.ModelEntity(
       id: const obx_int.IdUid(2, 4750240983097111712),
       name: 'NameDataLiked',
-      lastPropertyId: const obx_int.IdUid(14, 3112366060189258276),
+      lastPropertyId: const obx_int.IdUid(30, 6888135905557726594),
       flags: 0,
       properties: <obx_int.ModelProperty>[
         obx_int.ModelProperty(
@@ -132,7 +108,8 @@ final _entities = <obx_int.ModelEntity>[
             id: const obx_int.IdUid(5, 3064330510401718725),
             name: 'firstLetterEnglish',
             type: 9,
-            flags: 0),
+            flags: 2048,
+            indexId: const obx_int.IdUid(24, 3407156632756609833)),
         obx_int.ModelProperty(
             id: const obx_int.IdUid(6, 5280063413108870374),
             name: 'firstLetterTelugu',
@@ -145,34 +122,9 @@ final _entities = <obx_int.ModelEntity>[
             type: 9,
             flags: 0),
         obx_int.ModelProperty(
-            id: const obx_int.IdUid(8, 2697829430674085198),
-            name: 'language',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
             id: const obx_int.IdUid(9, 3930354658562960408),
             name: 'religion',
             type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(10, 3616996243301219247),
-            name: 'meaningEnglish',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(11, 4329060216703749451),
-            name: 'meaningTelugu',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(12, 1097928878195210119),
-            name: 'origin',
-            type: 9,
-            flags: 0),
-        obx_int.ModelProperty(
-            id: const obx_int.IdUid(13, 3545148422091363480),
-            name: 'tags',
-            type: 30,
             flags: 0),
         obx_int.ModelProperty(
             id: const obx_int.IdUid(14, 3112366060189258276),
@@ -220,12 +172,75 @@ obx_int.ModelDefinition getObjectBoxModel() {
   final model = obx_int.ModelInfo(
       entities: _entities,
       lastEntityId: const obx_int.IdUid(2, 4750240983097111712),
-      lastIndexId: const obx_int.IdUid(4, 5210151339402012397),
+      lastIndexId: const obx_int.IdUid(24, 3407156632756609833),
       lastRelationId: const obx_int.IdUid(0, 0),
       lastSequenceId: const obx_int.IdUid(0, 0),
       retiredEntityUids: const [],
-      retiredIndexUids: const [],
-      retiredPropertyUids: const [8875568885890111180],
+      retiredIndexUids: const [
+        5649048108201800042,
+        5365051892473485330,
+        6935112719174333766,
+        5245969168447537773,
+        7988076563763189424,
+        7820233768251387334,
+        4171094805083819336,
+        7834109387762255198,
+        5683197659647601702,
+        3444018766442514903,
+        2376915862972212352,
+        4218348472929770045,
+        363968173041652900,
+        5301559982830417114,
+        7603912793470078577,
+        2896701064746587174,
+        5584561777333733392,
+        8946115622118650805
+      ],
+      retiredPropertyUids: const [
+        8875568885890111180,
+        4911248977351714063,
+        447245438003669609,
+        5448342382136285784,
+        3868283936606490388,
+        6399450146117847132,
+        2697829430674085198,
+        3616996243301219247,
+        4329060216703749451,
+        1097928878195210119,
+        3545148422091363480,
+        7941994954938462628,
+        5563285832349918486,
+        6856704569373484994,
+        8295124954478173914,
+        8913635590231674794,
+        4378784154420644824,
+        7417793707840454414,
+        3863986599323126057,
+        6858957756640365426,
+        8816066366207757900,
+        2055046721343344191,
+        4650472215448598937,
+        1496064521499386893,
+        2615771996206072609,
+        7716852755846533976,
+        6351211162377682228,
+        3980622160522958291,
+        6005962474868317354,
+        4138999257399309299,
+        714422028373967016,
+        7913239496745976563,
+        6563918148387327993,
+        5423384580141960576,
+        7336366046739543837,
+        8263131165209714817,
+        6354670839919949980,
+        2787915516242605176,
+        1627511894694372247,
+        5065369895435912373,
+        1607528961777598950,
+        3980613265958650563,
+        6888135905557726594
+      ],
       retiredRelationUids: const [],
       modelVersion: 5,
       modelVersionParserMinimum: 5,
@@ -249,14 +264,8 @@ obx_int.ModelDefinition getObjectBoxModel() {
           final firstLetterTeluguOffset =
               fbb.writeString(object.firstLetterTelugu);
           final genderOffset = fbb.writeString(object.gender);
-          final languageOffset = fbb.writeString(object.language);
           final religionOffset = fbb.writeString(object.religion);
-          final meaningEnglishOffset = fbb.writeString(object.meaningEnglish);
-          final meaningTeluguOffset = fbb.writeString(object.meaningTelugu);
-          final originOffset = fbb.writeString(object.origin);
-          final tagsOffset = fbb.writeList(
-              object.tags.map(fbb.writeString).toList(growable: false));
-          fbb.startTable(16);
+          fbb.startTable(32);
           fbb.addInt64(0, object.id);
           fbb.addOffset(1, docIdOffset);
           fbb.addOffset(2, englishNameOffset);
@@ -264,12 +273,7 @@ obx_int.ModelDefinition getObjectBoxModel() {
           fbb.addOffset(4, firstLetterEnglishOffset);
           fbb.addOffset(5, firstLetterTeluguOffset);
           fbb.addOffset(6, genderOffset);
-          fbb.addOffset(7, languageOffset);
           fbb.addOffset(8, religionOffset);
-          fbb.addOffset(9, meaningEnglishOffset);
-          fbb.addOffset(10, meaningTeluguOffset);
-          fbb.addOffset(11, originOffset);
-          fbb.addOffset(13, tagsOffset);
           fbb.addBool(14, object.isLiked);
           fbb.finish(fbb.endTable());
           return object.id;
@@ -294,22 +298,8 @@ obx_int.ModelDefinition getObjectBoxModel() {
                   .vTableGet(buffer, rootOffset, 14, '');
           final genderParam = const fb.StringReader(asciiOptimization: true)
               .vTableGet(buffer, rootOffset, 16, '');
-          final languageParam = const fb.StringReader(asciiOptimization: true)
-              .vTableGet(buffer, rootOffset, 18, '');
           final religionParam = const fb.StringReader(asciiOptimization: true)
               .vTableGet(buffer, rootOffset, 20, '');
-          final meaningEnglishParam =
-              const fb.StringReader(asciiOptimization: true)
-                  .vTableGet(buffer, rootOffset, 22, '');
-          final meaningTeluguParam =
-              const fb.StringReader(asciiOptimization: true)
-                  .vTableGet(buffer, rootOffset, 24, '');
-          final originParam = const fb.StringReader(asciiOptimization: true)
-              .vTableGet(buffer, rootOffset, 26, '');
-          final tagsParam = const fb.ListReader<String>(
-                  fb.StringReader(asciiOptimization: true),
-                  lazy: false)
-              .vTableGet(buffer, rootOffset, 30, []);
           final isLikedParam =
               const fb.BoolReader().vTableGet(buffer, rootOffset, 32, false);
           final object = NameData(
@@ -320,12 +310,7 @@ obx_int.ModelDefinition getObjectBoxModel() {
               firstLetterEnglish: firstLetterEnglishParam,
               firstLetterTelugu: firstLetterTeluguParam,
               gender: genderParam,
-              language: languageParam,
               religion: religionParam,
-              meaningEnglish: meaningEnglishParam,
-              meaningTelugu: meaningTeluguParam,
-              origin: originParam,
-              tags: tagsParam,
               isLiked: isLikedParam);
 
           return object;
@@ -347,14 +332,8 @@ obx_int.ModelDefinition getObjectBoxModel() {
           final firstLetterTeluguOffset =
               fbb.writeString(object.firstLetterTelugu);
           final genderOffset = fbb.writeString(object.gender);
-          final languageOffset = fbb.writeString(object.language);
           final religionOffset = fbb.writeString(object.religion);
-          final meaningEnglishOffset = fbb.writeString(object.meaningEnglish);
-          final meaningTeluguOffset = fbb.writeString(object.meaningTelugu);
-          final originOffset = fbb.writeString(object.origin);
-          final tagsOffset = fbb.writeList(
-              object.tags.map(fbb.writeString).toList(growable: false));
-          fbb.startTable(15);
+          fbb.startTable(31);
           fbb.addInt64(0, object.id);
           fbb.addOffset(1, docIdOffset);
           fbb.addOffset(2, englishNameOffset);
@@ -362,12 +341,7 @@ obx_int.ModelDefinition getObjectBoxModel() {
           fbb.addOffset(4, firstLetterEnglishOffset);
           fbb.addOffset(5, firstLetterTeluguOffset);
           fbb.addOffset(6, genderOffset);
-          fbb.addOffset(7, languageOffset);
           fbb.addOffset(8, religionOffset);
-          fbb.addOffset(9, meaningEnglishOffset);
-          fbb.addOffset(10, meaningTeluguOffset);
-          fbb.addOffset(11, originOffset);
-          fbb.addOffset(12, tagsOffset);
           fbb.addBool(13, object.isLiked);
           fbb.finish(fbb.endTable());
           return object.id;
@@ -392,22 +366,8 @@ obx_int.ModelDefinition getObjectBoxModel() {
                   .vTableGet(buffer, rootOffset, 14, '');
           final genderParam = const fb.StringReader(asciiOptimization: true)
               .vTableGet(buffer, rootOffset, 16, '');
-          final languageParam = const fb.StringReader(asciiOptimization: true)
-              .vTableGet(buffer, rootOffset, 18, '');
           final religionParam = const fb.StringReader(asciiOptimization: true)
               .vTableGet(buffer, rootOffset, 20, '');
-          final meaningEnglishParam =
-              const fb.StringReader(asciiOptimization: true)
-                  .vTableGet(buffer, rootOffset, 22, '');
-          final meaningTeluguParam =
-              const fb.StringReader(asciiOptimization: true)
-                  .vTableGet(buffer, rootOffset, 24, '');
-          final originParam = const fb.StringReader(asciiOptimization: true)
-              .vTableGet(buffer, rootOffset, 26, '');
-          final tagsParam = const fb.ListReader<String>(
-                  fb.StringReader(asciiOptimization: true),
-                  lazy: false)
-              .vTableGet(buffer, rootOffset, 28, []);
           final isLikedParam =
               const fb.BoolReader().vTableGet(buffer, rootOffset, 30, false);
           final object = NameDataLiked(
@@ -418,12 +378,7 @@ obx_int.ModelDefinition getObjectBoxModel() {
               firstLetterEnglish: firstLetterEnglishParam,
               firstLetterTelugu: firstLetterTeluguParam,
               gender: genderParam,
-              language: languageParam,
               religion: religionParam,
-              meaningEnglish: meaningEnglishParam,
-              meaningTelugu: meaningTeluguParam,
-              origin: originParam,
-              tags: tagsParam,
               isLiked: isLikedParam);
 
           return object;
@@ -463,33 +418,13 @@ class NameData_ {
   static final gender =
       obx.QueryStringProperty<NameData>(_entities[0].properties[6]);
 
-  /// See [NameData.language].
-  static final language =
-      obx.QueryStringProperty<NameData>(_entities[0].properties[7]);
-
   /// See [NameData.religion].
   static final religion =
-      obx.QueryStringProperty<NameData>(_entities[0].properties[8]);
-
-  /// See [NameData.meaningEnglish].
-  static final meaningEnglish =
-      obx.QueryStringProperty<NameData>(_entities[0].properties[9]);
-
-  /// See [NameData.meaningTelugu].
-  static final meaningTelugu =
-      obx.QueryStringProperty<NameData>(_entities[0].properties[10]);
-
-  /// See [NameData.origin].
-  static final origin =
-      obx.QueryStringProperty<NameData>(_entities[0].properties[11]);
-
-  /// See [NameData.tags].
-  static final tags =
-      obx.QueryStringVectorProperty<NameData>(_entities[0].properties[12]);
+      obx.QueryStringProperty<NameData>(_entities[0].properties[7]);
 
   /// See [NameData.isLiked].
   static final isLiked =
-      obx.QueryBooleanProperty<NameData>(_entities[0].properties[13]);
+      obx.QueryBooleanProperty<NameData>(_entities[0].properties[8]);
 }
 
 /// [NameDataLiked] entity fields to define ObjectBox queries.
@@ -522,31 +457,11 @@ class NameDataLiked_ {
   static final gender =
       obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[6]);
 
-  /// See [NameDataLiked.language].
-  static final language =
-      obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[7]);
-
   /// See [NameDataLiked.religion].
   static final religion =
-      obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[8]);
-
-  /// See [NameDataLiked.meaningEnglish].
-  static final meaningEnglish =
-      obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[9]);
-
-  /// See [NameDataLiked.meaningTelugu].
-  static final meaningTelugu =
-      obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[10]);
-
-  /// See [NameDataLiked.origin].
-  static final origin =
-      obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[11]);
-
-  /// See [NameDataLiked.tags].
-  static final tags =
-      obx.QueryStringVectorProperty<NameDataLiked>(_entities[1].properties[12]);
+      obx.QueryStringProperty<NameDataLiked>(_entities[1].properties[7]);
 
   /// See [NameDataLiked.isLiked].
   static final isLiked =
-      obx.QueryBooleanProperty<NameDataLiked>(_entities[1].properties[13]);
+      obx.QueryBooleanProperty<NameDataLiked>(_entities[1].properties[8]);
 }

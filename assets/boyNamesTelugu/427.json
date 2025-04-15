@@ -1,0 +1,821 @@
+[
+  {
+    "id": "31389",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philip",
+    "FLeng": "P",
+    "tel": "ఫిలిప్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31390",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "philip",
+    "FLeng": "p",
+    "tel": "ఫిలిప్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31391",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philipa",
+    "FLeng": "P",
+    "tel": "ఫిలిప",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31392",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philipp",
+    "FLeng": "P",
+    "tel": "ఫిలిప్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31393",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philippa",
+    "FLeng": "P",
+    "tel": "ఫిలిప్పు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31394",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philippe",
+    "FLeng": "P",
+    "tel": "ఫిలిప్పు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31395",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "philippe",
+    "FLeng": "p",
+    "tel": "ఫిలిప్పు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31396",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Philippos",
+    "FLeng": "P",
+    "tel": "ఫిలిప్పోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31397",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philippus",
+    "FLeng": "P",
+    "tel": "ఫిలిప్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31398",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philips",
+    "FLeng": "P",
+    "tel": "ఫిలిప్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31399",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phillbert",
+    "FLeng": "P",
+    "tel": "ఫిల్లబెర్ట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31400",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phillip",
+    "FLeng": "P",
+    "tel": "ఫిలిప్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31401",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phillipe",
+    "FLeng": "P",
+    "tel": "ఫిలిప్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31402",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phillipus",
+    "FLeng": "P",
+    "tel": "ఫిలిప్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31403",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philo",
+    "FLeng": "P",
+    "tel": "ఫిలో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31404",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "philo",
+    "FLeng": "p",
+    "tel": "ఫిలో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31405",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philoma",
+    "FLeng": "P",
+    "tel": "ఫిలోమా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31406",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philomen",
+    "FLeng": "P",
+    "tel": "ఫిల్మ్న్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31407",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philomena",
+    "FLeng": "P",
+    "tel": "ఫిలోమేనా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31408",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Philomenos",
+    "FLeng": "P",
+    "tel": "ఫిలోమినోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31409",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "philomenos",
+    "FLeng": "p",
+    "tel": "ఫిలోమినోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31410",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "philomon",
+    "FLeng": "p",
+    "tel": "ఫిలొమోన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31411",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Philon",
+    "FLeng": "P",
+    "tel": "ఫైలిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31412",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Philotas",
+    "FLeng": "P",
+    "tel": "ఫిలోటస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31413",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Philoxenos",
+    "FLeng": "P",
+    "tel": "ఫిలోక్సనోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31414",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Phinean",
+    "FLeng": "P",
+    "tel": "ఫినీయాం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31415",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phineas",
+    "FLeng": "P",
+    "tel": "ఫినియాస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31416",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "phineas",
+    "FLeng": "p",
+    "tel": "ఫినియాస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31417",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phinehas",
+    "FLeng": "P",
+    "tel": "ఫీనెహాసు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31418",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "phinnaeus",
+    "FLeng": "p",
+    "tel": "ఫిన్నఎస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31419",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "phipps",
+    "FLeng": "p",
+    "tel": "ఫిప్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31420",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Phirum",
+    "FLeng": "P",
+    "tel": "ఫిరం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Phirun",
+    "FLeng": "P",
+    "tel": "ఫిరం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31422",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phoebey",
+    "FLeng": "P",
+    "tel": "ఫోయెబ్య్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31423",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phoebus",
+    "FLeng": "P",
+    "tel": "ఫోబస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31424",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "phoebus",
+    "FLeng": "p",
+    "tel": "ఫోబస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31425",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Phoenix",
+    "FLeng": "P",
+    "tel": "ఫీనిక్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31426",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "phoenix-3",
+    "FLeng": "p",
+    "tel": "ఫీనిక్స్-త్రీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31427",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Phoola",
+    "FLeng": "P",
+    "tel": "ఫ్యూల",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31428",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Phoolendu",
+    "FLeng": "P",
+    "tel": "ఫ్యూలేదు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31429",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Phosak",
+    "FLeng": "P",
+    "tel": "ఫోసాకు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31430",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Phulwant",
+    "FLeng": "P",
+    "tel": "ఫుళ్వాన్ట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31431",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "phyllon",
+    "FLeng": "p",
+    "tel": "ఫీలౌన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31432",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piapot",
+    "FLeng": "P",
+    "tel": "పిఆపో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31433",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Piar",
+    "FLeng": "P",
+    "tel": "పిఆర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31434",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piara",
+    "FLeng": "P",
+    "tel": "పీరా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31435",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "picard",
+    "FLeng": "p",
+    "tel": "పికార్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31436",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "picasso",
+    "FLeng": "p",
+    "tel": "పికాసో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31437",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Picaworth",
+    "FLeng": "P",
+    "tel": "పికవర్థ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31438",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piccolo",
+    "FLeng": "P",
+    "tel": "పికోలో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31439",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pice",
+    "FLeng": "P",
+    "tel": "పీచె",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31440",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Picel",
+    "FLeng": "P",
+    "tel": "పీసీఎల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pices",
+    "FLeng": "P",
+    "tel": "పీసెస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31442",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Picford",
+    "FLeng": "P",
+    "tel": "పిసిఫోర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31443",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pichai",
+    "FLeng": "P",
+    "tel": "పిచాయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31444",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pichchaith",
+    "FLeng": "P",
+    "tel": "పిచ్చైత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31445",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pickford",
+    "FLeng": "P",
+    "tel": "పీక్ఫోర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31446",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pickford",
+    "FLeng": "p",
+    "tel": "పీక్ఫోర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31447",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pickworth",
+    "FLeng": "P",
+    "tel": "పిసికేవర్థ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31448",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pidda",
+    "FLeng": "P",
+    "tel": "పీడా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31449",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pier",
+    "FLeng": "P",
+    "tel": "పీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31450",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pierce",
+    "FLeng": "P",
+    "tel": "పియర్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31451",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piercy",
+    "FLeng": "P",
+    "tel": "పైరసీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31452",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pierluigi",
+    "FLeng": "P",
+    "tel": "పిర్లుఇగి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31453",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pierluigi",
+    "FLeng": "p",
+    "tel": "పిర్లుఇగి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31454",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piero",
+    "FLeng": "P",
+    "tel": "పైరో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31455",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "piero",
+    "FLeng": "p",
+    "tel": "పైరో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31456",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pierre",
+    "FLeng": "P",
+    "tel": "పియరీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31457",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pierrel",
+    "FLeng": "P",
+    "tel": "పైరెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31458",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piers",
+    "FLeng": "P",
+    "tel": "పీర్లు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31459",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "piers",
+    "FLeng": "p",
+    "tel": "పీర్లు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31460",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pierse",
+    "FLeng": "P",
+    "tel": "పియర్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31461",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pierson",
+    "FLeng": "P",
+    "tel": "పీర్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31462",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piet",
+    "FLeng": "P",
+    "tel": "పిఎట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31463",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "piet",
+    "FLeng": "p",
+    "tel": "పిఎట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31464",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pietari",
+    "FLeng": "P",
+    "tel": "పైటరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31465",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pieter",
+    "FLeng": "P",
+    "tel": "పీటర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31466",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pietro",
+    "FLeng": "P",
+    "tel": "పియట్రో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31467",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pietro",
+    "FLeng": "p",
+    "tel": "పియట్రో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31468",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pignores",
+    "FLeng": "P",
+    "tel": "పిగ్నోర్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31469",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pijush",
+    "FLeng": "P",
+    "tel": "పీజుష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31470",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pika",
+    "FLeng": "p",
+    "tel": "పీక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31471",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pike",
+    "FLeng": "P",
+    "tel": "పీకే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31472",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pikesh",
+    "FLeng": "P",
+    "tel": "పిక్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31473",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Piki",
+    "FLeng": "P",
+    "tel": "పైకి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31474",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pil",
+    "FLeng": "P",
+    "tel": "పిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31475",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pileca",
+    "FLeng": "P",
+    "tel": "పీలిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31476",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pilesha",
+    "FLeng": "P",
+    "tel": "పైలేష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31477",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pilheard",
+    "FLeng": "P",
+    "tel": "పిల్హెర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31478",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pili",
+    "FLeng": "P",
+    "tel": "పిలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31479",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pilis",
+    "FLeng": "P",
+    "tel": "ఫిలింస్",
+    "FLtel": "ఫ"
+  }
+]

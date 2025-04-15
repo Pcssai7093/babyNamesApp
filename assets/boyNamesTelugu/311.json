@@ -1,0 +1,596 @@
+[
+  {
+    "id": "20100",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Keneweard",
+    "FLeng": "K",
+    "tel": "కెనెవెర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20101",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenewrec",
+    "FLeng": "K",
+    "tel": "కెనెరెక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20102",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kenil",
+    "FLeng": "K",
+    "tel": "కేణి",
+    "FLtel": "క"
+  },
+  {
+    "id": "20103",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kenit",
+    "FLeng": "K",
+    "tel": "కేంప్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20104",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenji",
+    "FLeng": "K",
+    "tel": "కేంజి",
+    "FLtel": "క"
+  },
+  {
+    "id": "20105",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenly",
+    "FLeng": "K",
+    "tel": "కెన్ల్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20106",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kenmaur",
+    "FLeng": "K",
+    "tel": "కెన్మయూర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenn",
+    "FLeng": "K",
+    "tel": "కెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20108",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kennaird",
+    "FLeng": "K",
+    "tel": "కెంనైర్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20109",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kennald",
+    "FLeng": "K",
+    "tel": "కెనాల్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20110",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kennan",
+    "FLeng": "K",
+    "tel": "కెనాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20111",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kennan",
+    "FLeng": "k",
+    "tel": "కెనాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20112",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kennard",
+    "FLeng": "K",
+    "tel": "కెన్నఁర్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20113",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenneally",
+    "FLeng": "K",
+    "tel": "కెన్నెత్ల్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20114",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kennen",
+    "FLeng": "K",
+    "tel": "కెన్నెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20115",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kennet",
+    "FLeng": "k",
+    "tel": "కెన్నెత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20116",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kenneth",
+    "FLeng": "K",
+    "tel": "కెన్నెత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20117",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kenneth",
+    "FLeng": "k",
+    "tel": "కెన్నెత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20118",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kennett",
+    "FLeng": "K",
+    "tel": "కెన్నెత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20119",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenney",
+    "FLeng": "K",
+    "tel": "కెన్నెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20120",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kennison",
+    "FLeng": "K",
+    "tel": "కెన్నిసొం",
+    "FLtel": "క"
+  },
+  {
+    "id": "20121",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kennith",
+    "FLeng": "K",
+    "tel": "కెన్నిత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20122",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kennon",
+    "FLeng": "k",
+    "tel": "కెన్నోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20123",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenny",
+    "FLeng": "K",
+    "tel": "కెన్నీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "20124",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kenny",
+    "FLeng": "k",
+    "tel": "కెన్నీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "20125",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenric",
+    "FLeng": "K",
+    "tel": "కెంరిక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20126",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenriek",
+    "FLeng": "K",
+    "tel": "కెంరీక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20127",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenrik",
+    "FLeng": "K",
+    "tel": "కెంరిక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20128",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenryk",
+    "FLeng": "K",
+    "tel": "కెన్రీక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20129",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kensey",
+    "FLeng": "K",
+    "tel": "కెన్సెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20130",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kensington",
+    "FLeng": "K",
+    "tel": "కెన్సింగ్టన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kent",
+    "FLeng": "K",
+    "tel": "కెంట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kentaro",
+    "FLeng": "K",
+    "tel": "కంటారో",
+    "FLtel": "క"
+  },
+  {
+    "id": "20133",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kentavious",
+    "FLeng": "K",
+    "tel": "కెంతావియోస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20134",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kentavious",
+    "FLeng": "k",
+    "tel": "కెంతావియోస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20135",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kentley",
+    "FLeng": "K",
+    "tel": "కెంట్ల్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20136",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenton",
+    "FLeng": "K",
+    "tel": "కేంటీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20137",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kentoroabasi",
+    "FLeng": "K",
+    "tel": "కెంటోరోఅబాసి",
+    "FLtel": "క"
+  },
+  {
+    "id": "20138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kentrell",
+    "FLeng": "K",
+    "tel": "కెంట్రెల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20139",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kentson",
+    "FLeng": "K",
+    "tel": "కెంట్స్లోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20140",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kenum",
+    "FLeng": "K",
+    "tel": "కేనుమ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20141",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenward",
+    "FLeng": "K",
+    "tel": "కేన్వార్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20142",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenway",
+    "FLeng": "K",
+    "tel": "కేన్వాయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20143",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenweard",
+    "FLeng": "K",
+    "tel": "కెంవెర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenwrec",
+    "FLeng": "K",
+    "tel": "కెంరెక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenyon",
+    "FLeng": "K",
+    "tel": "కెంయోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20146",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kenzou",
+    "FLeng": "K",
+    "tel": "కెంజాఉ",
+    "FLtel": "క"
+  },
+  {
+    "id": "20147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "keoki",
+    "FLeng": "k",
+    "tel": "కేఓకి",
+    "FLtel": "క"
+  },
+  {
+    "id": "20148",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Keola",
+    "FLeng": "K",
+    "tel": "కేవల",
+    "FLtel": "క"
+  },
+  {
+    "id": "20149",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Keoni",
+    "FLeng": "K",
+    "tel": "కేని",
+    "FLtel": "క"
+  },
+  {
+    "id": "20150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kepano",
+    "FLeng": "k",
+    "tel": "కెపానో",
+    "FLtel": "క"
+  },
+  {
+    "id": "20151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ker",
+    "FLeng": "K",
+    "tel": "కేర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20152",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kerak",
+    "FLeng": "K",
+    "tel": "కిరాక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20153",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerian",
+    "FLeng": "K",
+    "tel": "కెరియన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20154",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kerim",
+    "FLeng": "K",
+    "tel": "కేరిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "20155",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerli",
+    "FLeng": "K",
+    "tel": "కేరళీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "20156",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kermit",
+    "FLeng": "k",
+    "tel": "కూర్మిట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20157",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kern",
+    "FLeng": "K",
+    "tel": "కార్న్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20158",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kerra",
+    "FLeng": "K",
+    "tel": "కుర్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "20159",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerria",
+    "FLeng": "K",
+    "tel": "కెర్రియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "20160",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerrigan",
+    "FLeng": "K",
+    "tel": "కెర్రిగాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20161",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerrim",
+    "FLeng": "K",
+    "tel": "కేర్రీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20162",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kerrin",
+    "FLeng": "K",
+    "tel": "కేర్రీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20163",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerstin",
+    "FLeng": "K",
+    "tel": "కేథిస్తిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20164",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kert",
+    "FLeng": "k",
+    "tel": "కోర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20165",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kerttu",
+    "FLeng": "K",
+    "tel": "కెర్త్తు",
+    "FLtel": "క"
+  }
+]

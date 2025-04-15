@@ -1,10 +1,12 @@
 import 'dart:async';
 
+import 'package:baby_names/constants/string.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../Providers/darkMode.dart';
+import '../../Providers/prefLanguageProvider.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key, required this.setLoader});
@@ -88,7 +90,7 @@ class _navbarState extends State<navbar> {
       setState(() {
         selectedGender = prefs.getString("prefGender") ?? "male";
         selectedReligion = prefs.getString("prefReligion") ?? "Hindu";
-        var index = teluguAlphabets.indexOf(prefs.getString("prefLetter") ?? "ఈ");
+        var index = Strings.constants[prefLanguageProvider.prefLang]["alphabets"].indexOf(prefs.getString("prefLetter") ?? "ఈ");
         selectedLetterIndex = index == -1 ? 4 : index;
       });
 
@@ -100,7 +102,7 @@ class _navbarState extends State<navbar> {
 
         _debounce = Timer(Duration(milliseconds: 300), () async{
           widget.setLoader(true);
-          await prefs.setString("prefLetter", teluguAlphabets[selectedLetterIndex]);
+          await prefs.setString("prefLetter", Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
           widget.setLoader(false);
           print(prefs.getKeys());
         });
@@ -111,9 +113,15 @@ class _navbarState extends State<navbar> {
   }
 
   late DarkModeProvder darkModeProvder;
+  late PrefLanguageProvider prefLanguageProvider;
+
   @override
   Widget build(BuildContext context) {
     darkModeProvder = Provider.of<DarkModeProvder>(context);
+    prefLanguageProvider = context.watch<PrefLanguageProvider>();
+    final prefLang = context.watch<PrefLanguageProvider>().prefLang;
+
+
     double screenWidth = MediaQuery.of(context).size.width; // Get screen width
     double screenHeight = MediaQuery.of(context).size.height; // Get screen height
 
@@ -154,7 +162,7 @@ class _navbarState extends State<navbar> {
                         child: Container(
                           alignment: Alignment.center,
                           child: Text(
-                            "లింగం",
+                            Strings.constants[prefLanguageProvider.prefLang]["gender"],
                             style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 20,
@@ -226,7 +234,7 @@ class _navbarState extends State<navbar> {
                         child: Container(
                           alignment: Alignment.center,
                           child: Text(
-                            "మతం",
+                            Strings.constants[prefLanguageProvider.prefLang]["religion"],
                             style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 20,
@@ -319,7 +327,7 @@ class _navbarState extends State<navbar> {
                         child: Container(
                           alignment: Alignment.center,
                           child: Text(
-                            "అక్షరం",
+                            Strings.constants[prefLanguageProvider.prefLang]["letter"],
                             style: TextStyle(
                                 color: Colors.white,
                                 fontSize: 20,
@@ -343,7 +351,7 @@ class _navbarState extends State<navbar> {
                               clipBehavior: Clip.none,
                               controller: scrollController,
                               childDelegate: ListWheelChildBuilderDelegate(
-                                  childCount: teluguAlphabets.length,
+                                  childCount: Strings.constants[prefLanguageProvider.prefLang]["alphabets"].length,
                                   builder: (context, index) {
                                     return GestureDetector(
                                       onTap: () {
@@ -365,7 +373,7 @@ class _navbarState extends State<navbar> {
                                                   : null),
                                           height: 80,
                                           child: Text(
-                                            teluguAlphabets[index],
+                                            Strings.constants[prefLanguageProvider.prefLang]["alphabets"][index],
                                             style: TextStyle(
                                                 color: Colors.white,
                                                 fontSize: 20,

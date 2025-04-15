@@ -1,0 +1,821 @@
+[
+  {
+    "id": "1609",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bulhut",
+    "FLeng": "B",
+    "tel": "బులహా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1610",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bull",
+    "FLeng": "B",
+    "tel": "బుల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1611",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bull",
+    "FLeng": "b",
+    "tel": "బుల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1612",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buluj",
+    "FLeng": "B",
+    "tel": "బులుజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1613",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bulus",
+    "FLeng": "B",
+    "tel": "బులుసు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1614",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bulusu",
+    "FLeng": "B",
+    "tel": "బులుసు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1615",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "bulut",
+    "FLeng": "b",
+    "tel": "బులిటీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1616",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bulwinder",
+    "FLeng": "B",
+    "tel": "బలవిండెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1617",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bunroeun",
+    "FLeng": "B",
+    "tel": "బుంరోయున్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1618",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bunty",
+    "FLeng": "B",
+    "tel": "బంటీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1619",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bunyan",
+    "FLeng": "B",
+    "tel": "బుణ్యన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1620",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bupendra",
+    "FLeng": "B",
+    "tel": "భూపేంద్ర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "1621",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Bupposo",
+    "FLeng": "B",
+    "tel": "బుప్పొసో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1622",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buraid",
+    "FLeng": "B",
+    "tel": "బురైడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1623",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burak",
+    "FLeng": "B",
+    "tel": "బరాక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1624",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buras",
+    "FLeng": "B",
+    "tel": "బురస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1625",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burat",
+    "FLeng": "B",
+    "tel": "బురత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1626",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burayd",
+    "FLeng": "B",
+    "tel": "బురాయ్ద",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1627",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buraydah",
+    "FLeng": "B",
+    "tel": "బురేదః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burbank",
+    "FLeng": "B",
+    "tel": "బుర్బ్యాంక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burchard",
+    "FLeng": "B",
+    "tel": "బర్చర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1630",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burckhard",
+    "FLeng": "B",
+    "tel": "బుర్కిఖర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burdett",
+    "FLeng": "B",
+    "tel": "బర్డెడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burdon",
+    "FLeng": "B",
+    "tel": "బర్డన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bureig",
+    "FLeng": "B",
+    "tel": "బూరెయిజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burford",
+    "FLeng": "B",
+    "tel": "బురిఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1635",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burg",
+    "FLeng": "B",
+    "tel": "బర్గ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1636",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burgard",
+    "FLeng": "B",
+    "tel": "బర్గర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1637",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burgeis",
+    "FLeng": "B",
+    "tel": "బుర్గెయిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1638",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burges",
+    "FLeng": "B",
+    "tel": "బుర్గెస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1639",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burgess",
+    "FLeng": "B",
+    "tel": "బర్గెస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1640",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burgess",
+    "FLeng": "b",
+    "tel": "బర్గెస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1641",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burghal",
+    "FLeng": "B",
+    "tel": "బుర్గళ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1642",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burghard",
+    "FLeng": "B",
+    "tel": "బర్గర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1643",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burghred",
+    "FLeng": "B",
+    "tel": "బుర్గ్ర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1644",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burgred",
+    "FLeng": "B",
+    "tel": "బుర్గ్రిడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1645",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burgtun",
+    "FLeng": "B",
+    "tel": "బురగ్టన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1646",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burgundy",
+    "FLeng": "B",
+    "tel": "బుర్గున్డి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1647",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burhan",
+    "FLeng": "B",
+    "tel": "బుర్హాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1648",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burhanah",
+    "FLeng": "B",
+    "tel": "బర్హణః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1649",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burhardt",
+    "FLeng": "B",
+    "tel": "బుర్హార్ద్త",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1650",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burhbank",
+    "FLeng": "B",
+    "tel": "బుర్హ్బ్యాంక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1651",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burhdon",
+    "FLeng": "B",
+    "tel": "బుర్హ్డొం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1652",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burhleag",
+    "FLeng": "B",
+    "tel": "బుర్హ్లీగ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1653",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burhred",
+    "FLeng": "B",
+    "tel": "బుర్హ్ర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1654",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burhtred",
+    "FLeng": "B",
+    "tel": "బుర్హ్ట్రేడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1655",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burhtun",
+    "FLeng": "B",
+    "tel": "బుర్హ్తుం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1656",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Buri",
+    "FLeng": "B",
+    "tel": "బరి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1657",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burian",
+    "FLeng": "B",
+    "tel": "బురియన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1658",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burj",
+    "FLeng": "B",
+    "tel": "బుర్జ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1659",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Burjiz",
+    "FLeng": "B",
+    "tel": "బూర్జిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1660",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burke",
+    "FLeng": "B",
+    "tel": "బుర్కే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1661",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burke",
+    "FLeng": "b",
+    "tel": "బుర్కే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1662",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burket",
+    "FLeng": "B",
+    "tel": "బుర్కేట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1663",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burkett",
+    "FLeng": "B",
+    "tel": "బుర్కేట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1664",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burkhardt",
+    "FLeng": "B",
+    "tel": "బురఖార్ద్త",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1665",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burkhart",
+    "FLeng": "B",
+    "tel": "బురఖార్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1666",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burkitt",
+    "FLeng": "B",
+    "tel": "బుర్కిట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1667",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burl",
+    "FLeng": "B",
+    "tel": "బూర్ల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1668",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burleigh",
+    "FLeng": "B",
+    "tel": "బూర్లెఇఘ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1669",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burley",
+    "FLeng": "B",
+    "tel": "బూర్లెయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1670",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burlin",
+    "FLeng": "B",
+    "tel": "బర్లీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1671",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burn",
+    "FLeng": "B",
+    "tel": "బర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1672",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burnard",
+    "FLeng": "B",
+    "tel": "బర్నర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1673",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burne",
+    "FLeng": "B",
+    "tel": "బర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1674",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burne",
+    "FLeng": "b",
+    "tel": "బర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1675",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burnell",
+    "FLeng": "B",
+    "tel": "బర్నెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1676",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burnell",
+    "FLeng": "b",
+    "tel": "బర్నెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1677",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burnet",
+    "FLeng": "b",
+    "tel": "బర్నేట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burney",
+    "FLeng": "B",
+    "tel": "బర్నీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1679",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burns",
+    "FLeng": "B",
+    "tel": "బుర్న్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1680",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burnu",
+    "FLeng": "B",
+    "tel": "బురను",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1681",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burpinder",
+    "FLeng": "B",
+    "tel": "బుర్పిందెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1682",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burr",
+    "FLeng": "B",
+    "tel": "బర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1683",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burrell",
+    "FLeng": "B",
+    "tel": "బుర్రెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1684",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burris",
+    "FLeng": "B",
+    "tel": "బుర్రిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1685",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burroughs",
+    "FLeng": "b",
+    "tel": "బుర్రోజుగ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1686",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bursone",
+    "FLeng": "B",
+    "tel": "బుర్స్లోనే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1687",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bursuq = NA",
+    "FLeng": "B",
+    "tel": "బుర్స్క్ = న",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1688",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burt",
+    "FLeng": "B",
+    "tel": "బర్త్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1689",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burt",
+    "FLeng": "b",
+    "tel": "బర్త్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1690",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Burton",
+    "FLeng": "B",
+    "tel": "బర్టన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1691",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "burton",
+    "FLeng": "b",
+    "tel": "బర్టన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1692",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buru",
+    "FLeng": "B",
+    "tel": "బురు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1693",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buruj",
+    "FLeng": "B",
+    "tel": "బుర్జ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1694",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Burzin",
+    "FLeng": "B",
+    "tel": "బుజిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1695",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "busby",
+    "FLeng": "b",
+    "tel": "బస్బే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1696",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "busch",
+    "FLeng": "b",
+    "tel": "బచ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1697",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Busharat",
+    "FLeng": "B",
+    "tel": "బుష్రాత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1698",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bushr",
+    "FLeng": "B",
+    "tel": "బుష్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1699",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bushur",
+    "FLeng": "B",
+    "tel": "బషర్",
+    "FLtel": "బ"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "id": "48335",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahir",
+    "FLeng": "B",
+    "tel": "బహిర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48336",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiran",
+    "FLeng": "B",
+    "tel": "బహిరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48337",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiri",
+    "FLeng": "B",
+    "tel": "బహిరి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48338",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahirun",
+    "FLeng": "B",
+    "tel": "బహిరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48339",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahis",
+    "FLeng": "B",
+    "tel": "బహిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48340",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiy Udeen",
+    "FLeng": "B",
+    "tel": "బహుయ్ ఉద్దీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48341",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiyat",
+    "FLeng": "B",
+    "tel": "బాహియట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48342",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiyud Din",
+    "FLeng": "B",
+    "tel": "బాహుయుద్ దిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48343",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiyuddin",
+    "FLeng": "B",
+    "tel": "బహియుద్దీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48344",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiyudeen",
+    "FLeng": "B",
+    "tel": "బహియుద్దీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48345",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiyudin",
+    "FLeng": "B",
+    "tel": "బాహుయుడి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48346",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahiyyaldin",
+    "FLeng": "B",
+    "tel": "బహియాల్దిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48347",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahjat",
+    "FLeng": "B",
+    "tel": "భజిత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48348",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahlawan",
+    "FLeng": "B",
+    "tel": "బలవాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48349",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahlol",
+    "FLeng": "B",
+    "tel": "బలోల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48350",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahlul",
+    "FLeng": "B",
+    "tel": "బలులు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48351",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahman",
+    "FLeng": "B",
+    "tel": "బహ్మన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48352",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahmat",
+    "FLeng": "B",
+    "tel": "బహ్మత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48353",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahnam",
+    "FLeng": "B",
+    "tel": "భనం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48354",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bahr",
+    "FLeng": "B",
+    "tel": "భర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48355",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahram",
+    "FLeng": "B",
+    "tel": "బహ్రామ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48356",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahramand",
+    "FLeng": "B",
+    "tel": "బహ్రెమండ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48357",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Bahramchobin",
+    "FLeng": "B",
+    "tel": "బరాంచోబిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48358",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahrawar",
+    "FLeng": "B",
+    "tel": "బహ్రెవార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48359",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahrudin",
+    "FLeng": "B",
+    "tel": "బహ్రుదిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48360",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahu",
+    "FLeng": "B",
+    "tel": "బహు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48361",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahubali",
+    "FLeng": "B",
+    "tel": "బాహుబలి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48362",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahuj",
+    "FLeng": "B",
+    "tel": "బహుజ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48363",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahul",
+    "FLeng": "B",
+    "tel": "బహుళ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48364",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahuleya",
+    "FLeng": "B",
+    "tel": "బహులీయ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48365",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahuleyan",
+    "FLeng": "B",
+    "tel": "బహులీయం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48366",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahuliya",
+    "FLeng": "B",
+    "tel": "బహులీయ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48367",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahumanya",
+    "FLeng": "B",
+    "tel": "బహుమన్య",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48368",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahur",
+    "FLeng": "B",
+    "tel": "బహుర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48369",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahurai",
+    "FLeng": "B",
+    "tel": "బహురై",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48370",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bahwaasy",
+    "FLeng": "B",
+    "tel": "బహ్వాసి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48371",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahy",
+    "FLeng": "B",
+    "tel": "భయ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48372",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahz",
+    "FLeng": "B",
+    "tel": "బజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48373",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bahzar",
+    "FLeng": "B",
+    "tel": "బజార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48374",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baiardo",
+    "FLeng": "B",
+    "tel": "బైనార్డో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48375",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Baid",
+    "FLeng": "B",
+    "tel": "బడి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48376",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Baidurya",
+    "FLeng": "B",
+    "tel": "బైడూర్య",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48377",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Baidyanath",
+    "FLeng": "B",
+    "tel": "బైద్యనాథ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48378",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Baijunath",
+    "FLeng": "B",
+    "tel": "బైజునాధ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48379",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Baikuntha",
+    "FLeng": "B",
+    "tel": "బైకుంఠ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48380",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bail",
+    "FLeng": "B",
+    "tel": "బెయిల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48381",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bailee",
+    "FLeng": "B",
+    "tel": "బైలీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48382",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bailei",
+    "FLeng": "B",
+    "tel": "బైలెయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48383",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bailey-2",
+    "FLeng": "b",
+    "tel": "బైలీ-౨",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48384",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bailie",
+    "FLeng": "B",
+    "tel": "బైలై",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48385",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baillie",
+    "FLeng": "B",
+    "tel": "బల్లిదు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48386",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bailor",
+    "FLeng": "B",
+    "tel": "బైలా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48387",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bailul",
+    "FLeng": "B",
+    "tel": "బాలల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48388",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bainbridge",
+    "FLeng": "b",
+    "tel": "బైంబ్రిడ్జి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48389",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baines",
+    "FLeng": "B",
+    "tel": "బైన్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48390",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "baines",
+    "FLeng": "b",
+    "tel": "బైన్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48391",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bair",
+    "FLeng": "B",
+    "tel": "బైర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48392",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "bairam",
+    "FLeng": "b",
+    "tel": "బైరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48393",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bairbel",
+    "FLeng": "B",
+    "tel": "బైర్బెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48394",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baird",
+    "FLeng": "B",
+    "tel": "బైర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48395",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "baird",
+    "FLeng": "b",
+    "tel": "బైర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48396",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bairn",
+    "FLeng": "B",
+    "tel": "బైరన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48397",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bairn",
+    "FLeng": "b",
+    "tel": "బైరన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48398",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bais",
+    "FLeng": "B",
+    "tel": "బాయ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48399",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bajala",
+    "FLeng": "B",
+    "tel": "బాజాలు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48400",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bajalat",
+    "FLeng": "B",
+    "tel": "బాజాలట్",
+    "FLtel": "బ"
+  }
+]

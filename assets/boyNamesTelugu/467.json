@@ -1,0 +1,830 @@
+[
+  {
+    "id": "34930",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rocelinus",
+    "FLeng": "R",
+    "tel": "రోసెలిన్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34931",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roch",
+    "FLeng": "R",
+    "tel": "రోచ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34932",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rochak",
+    "FLeng": "R",
+    "tel": "రోచక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34933",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roche",
+    "FLeng": "R",
+    "tel": "రోచె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34934",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rochen",
+    "FLeng": "R",
+    "tel": "రోచెన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34935",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rochester",
+    "FLeng": "R",
+    "tel": "రోచెస్టర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34936",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rochester",
+    "FLeng": "r",
+    "tel": "రోచెస్టర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34937",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rochildis",
+    "FLeng": "R",
+    "tel": "రొచైల్డిష్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34938",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rochish",
+    "FLeng": "R",
+    "tel": "రోచిషు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34939",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rochishna",
+    "FLeng": "R",
+    "tel": "రోచిషణ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34940",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rochit",
+    "FLeng": "R",
+    "tel": "రోచిత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34941",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rochlan",
+    "FLeng": "R",
+    "tel": "రోచలం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34942",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rochus",
+    "FLeng": "R",
+    "tel": "రోచుస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34943",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rock",
+    "FLeng": "R",
+    "tel": "రాక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34944",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rock",
+    "FLeng": "r",
+    "tel": "రాక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34945",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockefeller",
+    "FLeng": "R",
+    "tel": "రొకెఫిల్లెర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34946",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rockefeller",
+    "FLeng": "r",
+    "tel": "రొకెఫిల్లెర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34947",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rocker",
+    "FLeng": "R",
+    "tel": "రాకర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34948",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockford",
+    "FLeng": "R",
+    "tel": "రోక్ఫోర్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34949",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rockford",
+    "FLeng": "r",
+    "tel": "రోక్ఫోర్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34950",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockland",
+    "FLeng": "R",
+    "tel": "రొకేక్లాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34951",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rocklee",
+    "FLeng": "R",
+    "tel": "రోక్లీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34952",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockleigh",
+    "FLeng": "R",
+    "tel": "రోక్లేఇఘ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34953",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rockleigh",
+    "FLeng": "r",
+    "tel": "రోక్లేఇఘ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34954",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockley",
+    "FLeng": "R",
+    "tel": "రోక్ల్య్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rockley",
+    "FLeng": "r",
+    "tel": "రోక్ల్య్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockly",
+    "FLeng": "R",
+    "tel": "రోక్ల్య్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34957",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockne",
+    "FLeng": "R",
+    "tel": "రోక్క్నే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34958",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rocko",
+    "FLeng": "R",
+    "tel": "రోసికో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34959",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rocko",
+    "FLeng": "r",
+    "tel": "రోసికో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34960",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rockwell",
+    "FLeng": "R",
+    "tel": "రోక్వెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34961",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rockwell",
+    "FLeng": "r",
+    "tel": "రోక్వెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34962",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rocky",
+    "FLeng": "R",
+    "tel": "రాకీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34963",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rockybule",
+    "FLeng": "R",
+    "tel": "రోకీబుల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34964",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roco",
+    "FLeng": "R",
+    "tel": "రోకో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34965",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rod",
+    "FLeng": "R",
+    "tel": "రాడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34966",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rod",
+    "FLeng": "r",
+    "tel": "రాడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34967",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodan",
+    "FLeng": "R",
+    "tel": "రోదన",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34968",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodas",
+    "FLeng": "R",
+    "tel": "రోదసి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodd",
+    "FLeng": "R",
+    "tel": "రోడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34970",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodd",
+    "FLeng": "r",
+    "tel": "రోడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34971",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roddric",
+    "FLeng": "R",
+    "tel": "రోడ్డ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34972",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roddrick",
+    "FLeng": "R",
+    "tel": "రోడ్డ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34973",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Roddur",
+    "FLeng": "R",
+    "tel": "రోడ్డుర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34974",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roddy",
+    "FLeng": "R",
+    "tel": "రొడ్డి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34975",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "roddy",
+    "FLeng": "r",
+    "tel": "రొడ్డి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34976",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodel",
+    "FLeng": "R",
+    "tel": "రోడెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34977",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roden",
+    "FLeng": "R",
+    "tel": "రోదేన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34978",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "roden",
+    "FLeng": "r",
+    "tel": "రోదేన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34979",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Roder",
+    "FLeng": "R",
+    "tel": "రోడెర్మా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34980",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roderic",
+    "FLeng": "R",
+    "tel": "రోడెరిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34981",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roderick",
+    "FLeng": "R",
+    "tel": "రోడెరిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34982",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "roderick",
+    "FLeng": "r",
+    "tel": "రోడెరిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34983",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roderigo",
+    "FLeng": "R",
+    "tel": "రోడెఱిఁగి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34984",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roderik",
+    "FLeng": "R",
+    "tel": "రోడెరిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34985",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "roderik",
+    "FLeng": "r",
+    "tel": "రోడెరిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34986",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roderyck",
+    "FLeng": "R",
+    "tel": "రోడెరిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34987",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodes",
+    "FLeng": "R",
+    "tel": "రోడ్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34988",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodge",
+    "FLeng": "R",
+    "tel": "రోడ్జ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34989",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodger",
+    "FLeng": "R",
+    "tel": "రొడ్గేర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34990",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodger",
+    "FLeng": "r",
+    "tel": "రొడ్గేర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34991",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodgers",
+    "FLeng": "R",
+    "tel": "రొడ్గేర్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34992",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodi",
+    "FLeng": "R",
+    "tel": "రోది",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34993",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodion",
+    "FLeng": "r",
+    "tel": "రోడిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34994",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodman",
+    "FLeng": "R",
+    "tel": "రోడ్మన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34995",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodman",
+    "FLeng": "r",
+    "tel": "రోడ్మన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34996",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodnee",
+    "FLeng": "R",
+    "tel": "రోడ్నీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34997",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodney",
+    "FLeng": "R",
+    "tel": "రోడ్నీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34998",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodney",
+    "FLeng": "r",
+    "tel": "రోడ్నీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "34999",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodnie",
+    "FLeng": "R",
+    "tel": "రోడ్నీయే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35000",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodolf",
+    "FLeng": "R",
+    "tel": "రోడోల్ఫ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35001",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodolfo",
+    "FLeng": "R",
+    "tel": "రోడాఫో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35002",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodolph",
+    "FLeng": "R",
+    "tel": "రోడోల్ఫ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35003",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodolphus",
+    "FLeng": "R",
+    "tel": "రోడోల్ఫ్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35004",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodric",
+    "FLeng": "R",
+    "tel": "రోడ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35005",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodric",
+    "FLeng": "r",
+    "tel": "రోడ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35006",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodrick",
+    "FLeng": "R",
+    "tel": "రోడ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35007",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodrigo",
+    "FLeng": "R",
+    "tel": "రోడ్రిగో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35008",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodrigo",
+    "FLeng": "r",
+    "tel": "రోడ్రిగో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35009",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodriguez",
+    "FLeng": "R",
+    "tel": "రోడ్రిగీజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35010",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rodriguez",
+    "FLeng": "r",
+    "tel": "రోడ్రిగీజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35011",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodrik",
+    "FLeng": "R",
+    "tel": "రోడ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35012",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodryk",
+    "FLeng": "R",
+    "tel": "రోడ్రిక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35013",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rodwell",
+    "FLeng": "R",
+    "tel": "రోద్వేల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35014",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rody",
+    "FLeng": "R",
+    "tel": "రోడీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35015",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roe",
+    "FLeng": "R",
+    "tel": "రో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35016",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roee",
+    "FLeng": "R",
+    "tel": "రాయీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35017",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roel",
+    "FLeng": "R",
+    "tel": "రోల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35018",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Roey",
+    "FLeng": "R",
+    "tel": "రోలెక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35019",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "roffe",
+    "FLeng": "r",
+    "tel": "రాఫ్ఫ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35020",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rogan",
+    "FLeng": "R",
+    "tel": "రోగం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "35021",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rogan",
+    "FLeng": "r",
+    "tel": "రోగం",
+    "FLtel": "ర"
+  }
+]

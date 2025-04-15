@@ -1,0 +1,875 @@
+[
+  {
+    "id": "130762",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudha",
+    "FLeng": "S",
+    "tel": "సుధా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130763",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhaa",
+    "FLeng": "S",
+    "tel": "సుధా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130764",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhamani",
+    "FLeng": "S",
+    "tel": "సుధామని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130765",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhamayi",
+    "FLeng": "S",
+    "tel": "సుధామయి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130766",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhanya",
+    "FLeng": "S",
+    "tel": "సుధాన్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130767",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudharani",
+    "FLeng": "S",
+    "tel": "సుధారాణి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130768",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudharma",
+    "FLeng": "S",
+    "tel": "సుధర్మ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130769",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudharmini",
+    "FLeng": "S",
+    "tel": "సుధర్మిణి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130770",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhashree",
+    "FLeng": "S",
+    "tel": "సుధాశ్రీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130771",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudheeksha",
+    "FLeng": "S",
+    "tel": "సుధీక్ష",
+    "FLtel": "స"
+  },
+  {
+    "id": "130772",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudheera",
+    "FLeng": "S",
+    "tel": "సుధీర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130773",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudheerga",
+    "FLeng": "S",
+    "tel": "సుదీర్ఘ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130774",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudheshna",
+    "FLeng": "S",
+    "tel": "సుధేష్ణ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130775",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhiksha",
+    "FLeng": "S",
+    "tel": "సుధీక్ష",
+    "FLtel": "స"
+  },
+  {
+    "id": "130776",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhira",
+    "FLeng": "S",
+    "tel": "సుధీర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130777",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhisksha",
+    "FLeng": "S",
+    "tel": "సుదీక్షా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130778",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhita",
+    "FLeng": "S",
+    "tel": "సుధీతా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130779",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhithi",
+    "FLeng": "S",
+    "tel": "సుధీతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130780",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudhrita",
+    "FLeng": "S",
+    "tel": "సుధారిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130781",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Sudie",
+    "FLeng": "S",
+    "tel": "సుడీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130782",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudiksha",
+    "FLeng": "S",
+    "tel": "సుదీక్ష",
+    "FLtel": "స"
+  },
+  {
+    "id": "130783",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudimna",
+    "FLeng": "S",
+    "tel": "సుదిమనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130784",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudipa",
+    "FLeng": "S",
+    "tel": "సుదీప",
+    "FLtel": "స"
+  },
+  {
+    "id": "130785",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudipta",
+    "FLeng": "S",
+    "tel": "సుదీప్త",
+    "FLtel": "స"
+  },
+  {
+    "id": "130786",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudipti",
+    "FLeng": "S",
+    "tel": "సుదీప్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130787",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suditi",
+    "FLeng": "S",
+    "tel": "సుడితి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130788",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudnya",
+    "FLeng": "S",
+    "tel": "సుద్న్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130789",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudrishi",
+    "FLeng": "S",
+    "tel": "సుదృష్టి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130790",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sudzata",
+    "FLeng": "S",
+    "tel": "సుద్జాత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130791",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Sue",
+    "FLeng": "S",
+    "tel": "సూ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130792",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sueanne",
+    "FLeng": "S",
+    "tel": "సురాన్నే",
+    "FLtel": "స"
+  },
+  {
+    "id": "130793",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Sueko",
+    "FLeng": "S",
+    "tel": "సుదుకో",
+    "FLtel": "స"
+  },
+  {
+    "id": "130794",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Suelita",
+    "FLeng": "S",
+    "tel": "సుఏలీట",
+    "FLtel": "స"
+  },
+  {
+    "id": "130795",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Suellen",
+    "FLeng": "S",
+    "tel": "సుయెల్లెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130796",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "suellen",
+    "FLeng": "s",
+    "tel": "సుయెల్లెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130797",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sueta",
+    "FLeng": "S",
+    "tel": "సుయట",
+    "FLtel": "స"
+  },
+  {
+    "id": "130798",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sueteluue",
+    "FLeng": "S",
+    "tel": "సూటలుఈ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130799",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Suette",
+    "FLeng": "S",
+    "tel": "సుఇట్టె",
+    "FLtel": "స"
+  },
+  {
+    "id": "130800",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sueuilda",
+    "FLeng": "S",
+    "tel": "సుయుఇల్డా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130801",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Suewinda",
+    "FLeng": "S",
+    "tel": "సురువింద",
+    "FLtel": "స"
+  },
+  {
+    "id": "130802",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sufeanna",
+    "FLeng": "S",
+    "tel": "సూఫీన్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "130803",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sufia",
+    "FLeng": "S",
+    "tel": "సుఫియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130804",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugaathri",
+    "FLeng": "S",
+    "tel": "సుగాత్రి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130805",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suganda",
+    "FLeng": "S",
+    "tel": "సుగంధ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130806",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugandha",
+    "FLeng": "S",
+    "tel": "సుగంధ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130807",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugandhi",
+    "FLeng": "S",
+    "tel": "సుగంధి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130808",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugani",
+    "FLeng": "S",
+    "tel": "సుగని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130809",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugantha",
+    "FLeng": "S",
+    "tel": "సుగంధ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130810",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suganthi",
+    "FLeng": "S",
+    "tel": "సుగంథ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130811",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suganya",
+    "FLeng": "S",
+    "tel": "సుగణ్యా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130812",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugapriya",
+    "FLeng": "S",
+    "tel": "సుగప్రియ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130813",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sugar",
+    "FLeng": "S",
+    "tel": "షుగర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "130814",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugathi",
+    "FLeng": "S",
+    "tel": "సుగతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130815",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugathri",
+    "FLeng": "S",
+    "tel": "సుగాత్రి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130816",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugati",
+    "FLeng": "S",
+    "tel": "సుగతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130817",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugauri",
+    "FLeng": "S",
+    "tel": "సుగారి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130818",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugeshna",
+    "FLeng": "S",
+    "tel": "సుగేస్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "130819",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sugey",
+    "FLeng": "S",
+    "tel": "సుజయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130820",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suggi",
+    "FLeng": "S",
+    "tel": "సిగ్గు",
+    "FLtel": "స"
+  },
+  {
+    "id": "130821",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sughandeem",
+    "FLeng": "S",
+    "tel": "సుఘండేం",
+    "FLtel": "స"
+  },
+  {
+    "id": "130822",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sughra",
+    "FLeng": "S",
+    "tel": "సూఘ్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130823",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sughraa",
+    "FLeng": "S",
+    "tel": "సూఘ్రా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130824",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugirtha",
+    "FLeng": "S",
+    "tel": "సుగీర్త",
+    "FLtel": "స"
+  },
+  {
+    "id": "130825",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugita",
+    "FLeng": "S",
+    "tel": "సుజిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130826",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugitha",
+    "FLeng": "S",
+    "tel": "సుజిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "130827",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugouri",
+    "FLeng": "S",
+    "tel": "సుగౌరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130828",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sugra",
+    "FLeng": "S",
+    "tel": "సుగ్రా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130829",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Sugumari",
+    "FLeng": "S",
+    "tel": "సుగుమారి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130830",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suguna",
+    "FLeng": "S",
+    "tel": "సుగుణ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130831",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suguni",
+    "FLeng": "S",
+    "tel": "సుగుని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130832",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sugunish",
+    "FLeng": "S",
+    "tel": "సుగునిష్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130833",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suha",
+    "FLeng": "S",
+    "tel": "సహా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130834",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhaana",
+    "FLeng": "S",
+    "tel": "సుహానా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130835",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhad",
+    "FLeng": "S",
+    "tel": "సుహాడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130836",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhag",
+    "FLeng": "S",
+    "tel": "సుహాగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130837",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhagi",
+    "FLeng": "S",
+    "tel": "సహజ",
+    "FLtel": "స"
+  },
+  {
+    "id": "130838",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhaila",
+    "FLeng": "S",
+    "tel": "సుహాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "130839",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhailah",
+    "FLeng": "S",
+    "tel": "సుహాఇలాహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130840",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhaima",
+    "FLeng": "S",
+    "tel": "సుహైమా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130841",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhaimah",
+    "FLeng": "S",
+    "tel": "సుహైమః",
+    "FLtel": "స"
+  },
+  {
+    "id": "130842",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhair",
+    "FLeng": "S",
+    "tel": "సుహార్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130843",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhaira",
+    "FLeng": "S",
+    "tel": "సుహైరా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130844",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhala",
+    "FLeng": "S",
+    "tel": "సుహాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "130845",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhan",
+    "FLeng": "S",
+    "tel": "సుహాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "130846",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suhana",
+    "FLeng": "S",
+    "tel": "సుహానా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130847",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhanaa",
+    "FLeng": "S",
+    "tel": "సుహానా",
+    "FLtel": "స"
+  },
+  {
+    "id": "130848",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhangi",
+    "FLeng": "S",
+    "tel": "సుహానాగి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130849",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhani",
+    "FLeng": "S",
+    "tel": "సుహాని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130850",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhanya",
+    "FLeng": "S",
+    "tel": "సుహన్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "130851",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Suhar",
+    "FLeng": "S",
+    "tel": "సుహ్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "130852",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suharika",
+    "FLeng": "S",
+    "tel": "సుహారిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130853",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhashini",
+    "FLeng": "S",
+    "tel": "సుహాశిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130854",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhasi",
+    "FLeng": "S",
+    "tel": "సుహాసి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130855",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhasika",
+    "FLeng": "S",
+    "tel": "సుహాసిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "130856",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhasini",
+    "FLeng": "S",
+    "tel": "సుహాసిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "130857",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhavi",
+    "FLeng": "S",
+    "tel": "సుహావి",
+    "FLtel": "స"
+  },
+  {
+    "id": "130858",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suhayla",
+    "FLeng": "S",
+    "tel": "సుహయిల",
+    "FLtel": "స"
+  }
+]

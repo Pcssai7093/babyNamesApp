@@ -1,0 +1,713 @@
+[
+  {
+    "id": "49211",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bebak",
+    "FLeng": "B",
+    "tel": "బెబాక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49212",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bebba",
+    "FLeng": "B",
+    "tel": "బెబ్బ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49213",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bebo",
+    "FLeng": "B",
+    "tel": "బెబో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49214",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "becan",
+    "FLeng": "b",
+    "tel": "బీకాం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49215",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beceere",
+    "FLeng": "B",
+    "tel": "బీసీయీరే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49216",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bechir",
+    "FLeng": "B",
+    "tel": "బేచిరి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49217",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beck",
+    "FLeng": "B",
+    "tel": "బెక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49218",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Becker",
+    "FLeng": "B",
+    "tel": "బెక్కెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49219",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beckett",
+    "FLeng": "B",
+    "tel": "బెకెట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49220",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beckham",
+    "FLeng": "B",
+    "tel": "బేసిఖం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49221",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "beckham",
+    "FLeng": "b",
+    "tel": "బేసిఖం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49222",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beda",
+    "FLeng": "B",
+    "tel": "బేడా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49223",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bedar",
+    "FLeng": "B",
+    "tel": "బెటర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49224",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bedaruddin",
+    "FLeng": "B",
+    "tel": "బెదరుద్దీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49225",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Beddhu",
+    "FLeng": "B",
+    "tel": "బెద్దు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49226",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bede",
+    "FLeng": "B",
+    "tel": "బెడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49227",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedel",
+    "FLeng": "B",
+    "tel": "బెడెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49228",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedenis",
+    "FLeng": "B",
+    "tel": "బెడెనిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49229",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedford",
+    "FLeng": "B",
+    "tel": "బెడ్ఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49230",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedfrith",
+    "FLeng": "B",
+    "tel": "బెద్ఫ్రిత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49231",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedgeat",
+    "FLeng": "B",
+    "tel": "బడ్జెట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49232",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedhelm",
+    "FLeng": "B",
+    "tel": "బెదెల్మ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49233",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedivere",
+    "FLeng": "B",
+    "tel": "బెదివేరే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49234",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedla",
+    "FLeng": "B",
+    "tel": "బెడ్ల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49235",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedoich",
+    "FLeng": "B",
+    "tel": "బేదోయ్చ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49236",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedric",
+    "FLeng": "B",
+    "tel": "బెడ్రిచ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49237",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedrich",
+    "FLeng": "B",
+    "tel": "బెడ్రిచ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49238",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "bedrich",
+    "FLeng": "b",
+    "tel": "బెడ్రిచ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49239",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedrisek",
+    "FLeng": "B",
+    "tel": "బెదరిసెక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49240",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedros",
+    "FLeng": "B",
+    "tel": "బెడ్రోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49241",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bedwig",
+    "FLeng": "B",
+    "tel": "బెద్విగ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49242",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beech",
+    "FLeng": "B",
+    "tel": "బీచ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49243",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beecher",
+    "FLeng": "B",
+    "tel": "బీకేర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49244",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beechy",
+    "FLeng": "B",
+    "tel": "బీచే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49245",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Beejal",
+    "FLeng": "B",
+    "tel": "బీజాలు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49246",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beeman",
+    "FLeng": "B",
+    "tel": "బీమన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49247",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Beenu",
+    "FLeng": "B",
+    "tel": "బీను",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49248",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Beerud",
+    "FLeng": "B",
+    "tel": "బిరుదు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49249",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beffa",
+    "FLeng": "B",
+    "tel": "బెఫ్ఫా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49250",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Beg",
+    "FLeng": "B",
+    "tel": "బేగ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49251",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Begild",
+    "FLeng": "B",
+    "tel": "బేగెల్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49252",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Begin",
+    "FLeng": "B",
+    "tel": "బెగిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49253",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "behan",
+    "FLeng": "b",
+    "tel": "బెహన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49254",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "behar",
+    "FLeng": "b",
+    "tel": "బీహార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49255",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behlol",
+    "FLeng": "B",
+    "tel": "బెహెలోల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49256",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behnam",
+    "FLeng": "B",
+    "tel": "బెహ్నం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49257",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behr",
+    "FLeng": "B",
+    "tel": "బీహార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49258",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behraam",
+    "FLeng": "B",
+    "tel": "బెహరామ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49259",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behram",
+    "FLeng": "B",
+    "tel": "బెహ్రామ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49260",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behrang",
+    "FLeng": "B",
+    "tel": "బెహ్రాన్గ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49261",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behrem",
+    "FLeng": "B",
+    "tel": "బెహార్మ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49262",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behrooz",
+    "FLeng": "B",
+    "tel": "బెహెరూజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49263",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behrouz",
+    "FLeng": "B",
+    "tel": "బెహ్రఔస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49264",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behroz",
+    "FLeng": "B",
+    "tel": "బెహరాజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49265",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Behrtferth",
+    "FLeng": "B",
+    "tel": "బెహార్త్ఫ్ర్త్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49266",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Behrtwald",
+    "FLeng": "B",
+    "tel": "బెహార్ట్వేల్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49267",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behruz",
+    "FLeng": "B",
+    "tel": "బేహారుజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49268",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Behzad",
+    "FLeng": "B",
+    "tel": "బెహజాద్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49269",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beini",
+    "FLeng": "B",
+    "tel": "బేణీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49270",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beirne",
+    "FLeng": "B",
+    "tel": "బెయిర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49271",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bejit",
+    "FLeng": "B",
+    "tel": "బేజిత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49272",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bejul",
+    "FLeng": "B",
+    "tel": "బెజుల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49273",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bek",
+    "FLeng": "B",
+    "tel": "బేక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49274",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bekir",
+    "FLeng": "B",
+    "tel": "బిక్కిరి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49275",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bekkem",
+    "FLeng": "B",
+    "tel": "బెక్కెం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49276",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Belarius",
+    "FLeng": "B",
+    "tel": "బెలారస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49277",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Belavardhana",
+    "FLeng": "B",
+    "tel": "బేలవర్ధన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49278",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Belay",
+    "FLeng": "B",
+    "tel": "బలయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49279",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "belcher",
+    "FLeng": "b",
+    "tel": "వెల్చేరు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "49280",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beldan",
+    "FLeng": "B",
+    "tel": "బిల్డన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49281",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beldane",
+    "FLeng": "B",
+    "tel": "బేల్దానే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49282",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Belden",
+    "FLeng": "B",
+    "tel": "బెల్డెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49283",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beldene",
+    "FLeng": "B",
+    "tel": "వెల్దెనే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "49284",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beldin",
+    "FLeng": "B",
+    "tel": "బిల్డిం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49285",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Beldon",
+    "FLeng": "B",
+    "tel": "బెల్డోణ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49286",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Belgr",
+    "FLeng": "B",
+    "tel": "బెళగర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "49287",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Belial",
+    "FLeng": "B",
+    "tel": "వెళిల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "49288",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "belisario",
+    "FLeng": "b",
+    "tel": "వెలిసారియో",
+    "FLtel": "వ"
+  },
+  {
+    "id": "49289",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bellamey",
+    "FLeng": "B",
+    "tel": "బెల్లమే",
+    "FLtel": "బ"
+  }
+]

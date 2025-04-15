@@ -1,0 +1,803 @@
+[
+  {
+    "id": "104966",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gangothry",
+    "FLeng": "G",
+    "tel": "గన్గొత్రై",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104967",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gangotri",
+    "FLeng": "G",
+    "tel": "గంగోత్రి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104968",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ganieda",
+    "FLeng": "G",
+    "tel": "గనియెడ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104969",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ganika",
+    "FLeng": "G",
+    "tel": "గణిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104970",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ganishkha",
+    "FLeng": "G",
+    "tel": "గనిశ్ఖ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104971",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ganita",
+    "FLeng": "G",
+    "tel": "గణిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104972",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ganitha",
+    "FLeng": "G",
+    "tel": "గణిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104973",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ganna",
+    "FLeng": "G",
+    "tel": "గన్న",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104974",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gannika",
+    "FLeng": "G",
+    "tel": "గన్నిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104975",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gantika",
+    "FLeng": "G",
+    "tel": "గాంతిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104976",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ganvitha",
+    "FLeng": "G",
+    "tel": "గన్విత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104977",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ganya",
+    "FLeng": "G",
+    "tel": "గణ్య",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104978",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gaphna",
+    "FLeng": "G",
+    "tel": "గాఫ్న",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104979",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gaphna",
+    "FLeng": "g",
+    "tel": "గాఫ్న",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104980",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gara",
+    "FLeng": "G",
+    "tel": "గార",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104981",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garabina",
+    "FLeng": "G",
+    "tel": "గర్బిని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104982",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garance",
+    "FLeng": "G",
+    "tel": "గరన్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104983",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garati",
+    "FLeng": "G",
+    "tel": "గ్యారంటీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104984",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garbo",
+    "FLeng": "G",
+    "tel": "గార్బో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104985",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garcelle",
+    "FLeng": "G",
+    "tel": "గార్చేల్లె",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104986",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garcia",
+    "FLeng": "G",
+    "tel": "గరుష",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104987",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Garda",
+    "FLeng": "G",
+    "tel": "గరుడ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104988",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garde",
+    "FLeng": "G",
+    "tel": "గార్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104989",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garden",
+    "FLeng": "G",
+    "tel": "గార్డెన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104990",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "garden",
+    "FLeng": "g",
+    "tel": "గార్డెన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104991",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gardenia",
+    "FLeng": "G",
+    "tel": "గార్డెని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104992",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gardenia",
+    "FLeng": "g",
+    "tel": "గార్డెని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104993",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gargeolais",
+    "FLeng": "G",
+    "tel": "గార్గేయలైస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104994",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gargi",
+    "FLeng": "G",
+    "tel": "గార్గి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104995",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gargot",
+    "FLeng": "G",
+    "tel": "కార్గోట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "104996",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gari",
+    "FLeng": "G",
+    "tel": "గారి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104997",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gari",
+    "FLeng": "g",
+    "tel": "గారి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104998",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gariana",
+    "FLeng": "G",
+    "tel": "గారినే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "104999",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garib",
+    "FLeng": "G",
+    "tel": "గరీబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105000",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garim",
+    "FLeng": "G",
+    "tel": "గరిమ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105001",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garima",
+    "FLeng": "G",
+    "tel": "గరిమ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105002",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garin",
+    "FLeng": "G",
+    "tel": "గారి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105003",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garishma",
+    "FLeng": "G",
+    "tel": "గరిష్మ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105004",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gariyashi",
+    "FLeng": "G",
+    "tel": "గరియాషి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105005",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garlan",
+    "FLeng": "G",
+    "tel": "గర్లం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105006",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garlen",
+    "FLeng": "G",
+    "tel": "గార్లెన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105007",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garnette",
+    "FLeng": "G",
+    "tel": "గార్నెట్టే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105008",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Garthf",
+    "FLeng": "G",
+    "tel": "గార్త్ఫ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105009",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gartrite",
+    "FLeng": "G",
+    "tel": "గార్త్రైతే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105010",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gartrude",
+    "FLeng": "G",
+    "tel": "గార్త్రుడే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105011",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garvi",
+    "FLeng": "G",
+    "tel": "గర్వి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105012",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garvika",
+    "FLeng": "G",
+    "tel": "గర్విక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105013",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Garvita",
+    "FLeng": "G",
+    "tel": "గర్విత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105014",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gasha",
+    "FLeng": "G",
+    "tel": "గేశ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105015",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gasira",
+    "FLeng": "G",
+    "tel": "గాసిరా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105016",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gaspara",
+    "FLeng": "G",
+    "tel": "గాస్పర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105017",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gata",
+    "FLeng": "G",
+    "tel": "గత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105018",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gatha",
+    "FLeng": "G",
+    "tel": "గత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105019",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gathika",
+    "FLeng": "G",
+    "tel": "గతిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105020",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gathoni",
+    "FLeng": "G",
+    "tel": "గాథాని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105021",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gati",
+    "FLeng": "G",
+    "tel": "గతి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105022",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gatita",
+    "FLeng": "G",
+    "tel": "గతిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105023",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gatleen",
+    "FLeng": "G",
+    "tel": "గతిలీన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105024",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gatrika",
+    "FLeng": "G",
+    "tel": "గాత్రిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105025",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gatsimar",
+    "FLeng": "G",
+    "tel": "గతసామర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105026",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gatty",
+    "FLeng": "G",
+    "tel": "గట్టి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105027",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gauhar",
+    "FLeng": "G",
+    "tel": "గౌహర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105028",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaura",
+    "FLeng": "G",
+    "tel": "గౌర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105029",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaurama",
+    "FLeng": "G",
+    "tel": "గౌరమ్మ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105030",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaurangi",
+    "FLeng": "G",
+    "tel": "గౌరంగి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105031",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gauranshi",
+    "FLeng": "G",
+    "tel": "గౌరాంశ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105032",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gauravi",
+    "FLeng": "G",
+    "tel": "గౌరవి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105033",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gauravpreet",
+    "FLeng": "G",
+    "tel": "గౌరవప్రీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105034",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gauri",
+    "FLeng": "G",
+    "tel": "గౌరి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105035",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaurika",
+    "FLeng": "G",
+    "tel": "గౌరీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105036",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaurimanohari",
+    "FLeng": "G",
+    "tel": "గౌరీమనోహారి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105037",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaurita",
+    "FLeng": "G",
+    "tel": "గరిట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105038",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaurvi",
+    "FLeng": "G",
+    "tel": "గౌరవి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105039",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaury",
+    "FLeng": "G",
+    "tel": "గౌరీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105040",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gauryanvi",
+    "FLeng": "G",
+    "tel": "గౌర్యాన్వి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105041",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gautami",
+    "FLeng": "G",
+    "tel": "గౌతమి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105042",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gauthami",
+    "FLeng": "G",
+    "tel": "గౌతమి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105043",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gavah",
+    "FLeng": "G",
+    "tel": "గావః",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105044",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gavi",
+    "FLeng": "G",
+    "tel": "గవి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105045",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gavina",
+    "FLeng": "G",
+    "tel": "గవిని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105046",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gavivi",
+    "FLeng": "G",
+    "tel": "కావివి",
+    "FLtel": "క"
+  },
+  {
+    "id": "105047",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gavriela",
+    "FLeng": "G",
+    "tel": "గావ్రిఎలా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105048",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gavriella",
+    "FLeng": "G",
+    "tel": "గావ్రిఏళ్ల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105049",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gavriila",
+    "FLeng": "g",
+    "tel": "గావ్రిఇలా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105050",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gavrila",
+    "FLeng": "G",
+    "tel": "గావ్రిల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105051",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gavrilla",
+    "FLeng": "G",
+    "tel": "గావ్రిల్ల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105052",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gavya",
+    "FLeng": "G",
+    "tel": "కావ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "105053",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gay",
+    "FLeng": "G",
+    "tel": "గే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105054",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gaya",
+    "FLeng": "G",
+    "tel": "గయా",
+    "FLtel": "గ"
+  }
+]

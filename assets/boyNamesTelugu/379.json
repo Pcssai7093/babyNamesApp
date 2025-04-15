@@ -1,0 +1,875 @@
+[
+  {
+    "id": "26534",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "muhammad",
+    "FLeng": "m",
+    "tel": "ముహమ్మద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26535",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "muhammed",
+    "FLeng": "m",
+    "tel": "మొహమ్మెద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26536",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhanna",
+    "FLeng": "M",
+    "tel": "ముహాన్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26537",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhannad",
+    "FLeng": "M",
+    "tel": "ముహన్నది",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26538",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muharem",
+    "FLeng": "M",
+    "tel": "మొహరం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26539",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muharrem",
+    "FLeng": "M",
+    "tel": "ముహర్రెమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26540",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhazzab",
+    "FLeng": "M",
+    "tel": "ముహ్జాబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26541",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhazzim",
+    "FLeng": "M",
+    "tel": "ముహజ్య్మ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26542",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhdah",
+    "FLeng": "M",
+    "tel": "ముహ్దః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26543",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhdee",
+    "FLeng": "M",
+    "tel": "మెహదీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26544",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muheet",
+    "FLeng": "M",
+    "tel": "ముహీట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26545",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhib",
+    "FLeng": "M",
+    "tel": "ముహిబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26546",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhibb",
+    "FLeng": "M",
+    "tel": "ముహిబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26547",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhibuddin",
+    "FLeng": "M",
+    "tel": "ముహిబుద్దీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26548",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhibullah",
+    "FLeng": "M",
+    "tel": "ముహిబుల్లాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26549",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muhil",
+    "FLeng": "M",
+    "tel": "ముహిల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26550",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muhilan",
+    "FLeng": "M",
+    "tel": "ముహులం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26551",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muhir",
+    "FLeng": "M",
+    "tel": "ముహిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26552",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhit",
+    "FLeng": "M",
+    "tel": "మొహిత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26553",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhiyuddin",
+    "FLeng": "M",
+    "tel": "మొహియుద్దీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26554",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhjid",
+    "FLeng": "M",
+    "tel": "ముహాజిద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26555",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhlah",
+    "FLeng": "M",
+    "tel": "ముహ్లః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26556",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhriz",
+    "FLeng": "M",
+    "tel": "మెహ్రిజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26557",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhsin",
+    "FLeng": "M",
+    "tel": "ముహసిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26558",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "muhsin",
+    "FLeng": "m",
+    "tel": "ముహసిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26559",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "muhsina",
+    "FLeng": "m",
+    "tel": "ముచ్సినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26560",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhtadi",
+    "FLeng": "M",
+    "tel": "ముహ్తది",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26561",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhtady",
+    "FLeng": "M",
+    "tel": "ముహ్తడీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26562",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhtashim",
+    "FLeng": "M",
+    "tel": "ముహ్తశిమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26563",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muhyi Al Din",
+    "FLeng": "M",
+    "tel": "ముహ్యి ఆల్ దిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26564",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muin",
+    "FLeng": "M",
+    "tel": "మెయిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26565",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "muir",
+    "FLeng": "m",
+    "tel": "ముయిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26566",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muiz",
+    "FLeng": "M",
+    "tel": "ముయిజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26567",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Muizz",
+    "FLeng": "M",
+    "tel": "ముయిజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26568",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujaahid",
+    "FLeng": "M",
+    "tel": "ముజాహిద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26569",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujab",
+    "FLeng": "M",
+    "tel": "ముజిబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26570",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujafar",
+    "FLeng": "M",
+    "tel": "ముజఫర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26571",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujahid",
+    "FLeng": "M",
+    "tel": "ముజాహిద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26572",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujazziz",
+    "FLeng": "M",
+    "tel": "ముజాజ్జిజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26573",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujeeb",
+    "FLeng": "M",
+    "tel": "ముజీబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26574",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujibur",
+    "FLeng": "M",
+    "tel": "ముజిబూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26575",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mujtaba",
+    "FLeng": "M",
+    "tel": "ముజ్తబా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26576",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mukami",
+    "FLeng": "M",
+    "tel": "ముఖము",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26577",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukammal",
+    "FLeng": "M",
+    "tel": "మూకమ్మల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26578",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukandray",
+    "FLeng": "M",
+    "tel": "ముకండ్రాయ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26579",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukat",
+    "FLeng": "M",
+    "tel": "ముకత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26580",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukesh",
+    "FLeng": "M",
+    "tel": "ముకేశ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26581",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukham",
+    "FLeng": "M",
+    "tel": "ముఖం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26582",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukhesh",
+    "FLeng": "M",
+    "tel": "ముఖేష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26583",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mukhlis",
+    "FLeng": "M",
+    "tel": "ముఖ్లిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26584",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mukhtaar",
+    "FLeng": "M",
+    "tel": "ముఖ్తఆర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26585",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukhtair",
+    "FLeng": "M",
+    "tel": "ముఖ్టైర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26586",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukhtiar",
+    "FLeng": "M",
+    "tel": "ముఖ్తయార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26587",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukhtyar",
+    "FLeng": "M",
+    "tel": "ముఖ్తయర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26588",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Muki",
+    "FLeng": "M",
+    "tel": "మూకీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26589",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukil",
+    "FLeng": "M",
+    "tel": "ముకుల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26590",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukilan",
+    "FLeng": "M",
+    "tel": "ముఖీలం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26591",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukkamala",
+    "FLeng": "M",
+    "tel": "ముక్కామల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26592",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukkannan",
+    "FLeng": "M",
+    "tel": "ముక్కన్నను",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26593",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukt",
+    "FLeng": "M",
+    "tel": "ముక్త్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26594",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muktanand",
+    "FLeng": "M",
+    "tel": "ముక్తనంద",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26595",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muktananda",
+    "FLeng": "M",
+    "tel": "ముక్తనంద",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26596",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Muktbir",
+    "FLeng": "M",
+    "tel": "ముక్త్బీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26597",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muktendra",
+    "FLeng": "M",
+    "tel": "ముక్తేన్ద్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26598",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukteshwar",
+    "FLeng": "M",
+    "tel": "ముక్తేశ్వర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26599",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mukthadir",
+    "FLeng": "M",
+    "tel": "ముక్తాదిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26600",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukthesh",
+    "FLeng": "M",
+    "tel": "ముక్తేషు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26601",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Muktidaya",
+    "FLeng": "M",
+    "tel": "ముక్తిదాయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26602",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukul",
+    "FLeng": "M",
+    "tel": "ముకుల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26603",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "mukul",
+    "FLeng": "m",
+    "tel": "ముకుల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26604",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukund",
+    "FLeng": "M",
+    "tel": "ముకుంద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26605",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukunda",
+    "FLeng": "M",
+    "tel": "ముకుంద",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26606",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukundaram",
+    "FLeng": "M",
+    "tel": "ముకున్దరం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26607",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukundbir",
+    "FLeng": "M",
+    "tel": "ముకుండబిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26608",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukundhan",
+    "FLeng": "M",
+    "tel": "ముకుందం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26609",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukundjeet",
+    "FLeng": "M",
+    "tel": "ముకుందజీత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26610",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukundpal",
+    "FLeng": "M",
+    "tel": "ముకుణ్డపాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26611",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukundpreet",
+    "FLeng": "M",
+    "tel": "ముకుందుప్రీత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26612",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mukundprem",
+    "FLeng": "M",
+    "tel": "ముకుందప్రిమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26613",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukundrai",
+    "FLeng": "M",
+    "tel": "ముకుందరై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26614",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukunth",
+    "FLeng": "M",
+    "tel": "ముకున్త",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26615",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mukut",
+    "FLeng": "M",
+    "tel": "ముకుట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26616",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mul",
+    "FLeng": "M",
+    "tel": "మూలం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mulaka",
+    "FLeng": "M",
+    "tel": "ములక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26618",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mulark",
+    "FLeng": "M",
+    "tel": "ములార్క",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26619",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mulayl",
+    "FLeng": "M",
+    "tel": "ములాయల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26620",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mulazim",
+    "FLeng": "M",
+    "tel": "ములాజిం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26621",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mulchand",
+    "FLeng": "M",
+    "tel": "ముళచంద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26622",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mulham",
+    "FLeng": "M",
+    "tel": "మూళ్హమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26623",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mulhim",
+    "FLeng": "M",
+    "tel": "మెల్లీమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26624",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mulji",
+    "FLeng": "M",
+    "tel": "ములజి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26625",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mulk",
+    "FLeng": "M",
+    "tel": "ముల్క్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26626",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mulkit",
+    "FLeng": "M",
+    "tel": "ముల్కిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26627",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mulkraj",
+    "FLeng": "M",
+    "tel": "ముల్కరాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mull",
+    "FLeng": "M",
+    "tel": "ముళ్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mulligan",
+    "FLeng": "m",
+    "tel": "ముల్లిగాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "26630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mullinti",
+    "FLeng": "M",
+    "tel": "మూలింటి",
+    "FLtel": "మ"
+  }
+]

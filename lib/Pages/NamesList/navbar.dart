@@ -5,6 +5,8 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../Providers/darkMode.dart';
+import '../../Providers/prefLanguageProvider.dart';
+import '../../constants/string.dart';
 
 class navbar extends StatefulWidget {
   const navbar({super.key,required this.filtersSelectd, required this.setLoader});
@@ -54,14 +56,14 @@ class _navbarState extends State<navbar> {
     setState(() {
       selectedReligion = religion;
     });
-    widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
+    widget.filtersSelectd(selectedReligion, selectedGender, Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
   }
 
   void setGender(String gender) {
     setState(() {
       selectedGender = gender;
     });
-    widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
+    widget.filtersSelectd(selectedReligion, selectedGender, Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
   }
 
   late SharedPreferences prefs;
@@ -81,7 +83,7 @@ class _navbarState extends State<navbar> {
         if (_debounce?.isActive ?? false) _debounce?.cancel();
 
         _debounce = Timer(Duration(milliseconds: 300), () {
-          widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
+          widget.filtersSelectd(selectedReligion, selectedGender, Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
         });
       });
 
@@ -89,21 +91,23 @@ class _navbarState extends State<navbar> {
       setState(() {
         selectedGender = prefs.getString("prefGender") ?? "male";
         selectedReligion = prefs.getString("prefReligion") ?? "Hindu";
-        var index = teluguAlphabets.indexOf(prefs.getString("prefLetter") ?? "ఈ");
+        var index = Strings.constants[prefLanguageProvider.prefLang]["alphabets"].indexOf(prefs.getString("prefLetter") ?? "ఈ");
         selectedLetterIndex = index == -1 ? 4 : index;
        });
       scrollToIndex(selectedLetterIndex);
-      widget.filtersSelectd(selectedReligion, selectedGender, teluguAlphabets[selectedLetterIndex]);
+      widget.filtersSelectd(selectedReligion, selectedGender, Strings.constants[prefLanguageProvider.prefLang]["alphabets"][selectedLetterIndex]);
       widget.setLoader(false);
     });
 
 
   }
   late DarkModeProvder darkModeProvder;
+  late PrefLanguageProvider prefLanguageProvider;
 
   @override
   Widget build(BuildContext context) {
     darkModeProvder = Provider.of<DarkModeProvder>(context);
+    prefLanguageProvider = context.watch<PrefLanguageProvider>();
 
     return Container(
       width: double.infinity,
@@ -258,7 +262,7 @@ class _navbarState extends State<navbar> {
                       clipBehavior: Clip.none,
                       controller: scrollController,
                       childDelegate: ListWheelChildBuilderDelegate(
-                          childCount: teluguAlphabets.length,
+                          childCount: Strings.constants[prefLanguageProvider.prefLang]["alphabets"].length,
                           builder: (context, index) {
                             return GestureDetector(
                               onTap: () {
@@ -280,7 +284,7 @@ class _navbarState extends State<navbar> {
                                           : null),
                                   height: 80,
                                   child: Text(
-                                    teluguAlphabets[index],
+                                    Strings.constants[prefLanguageProvider.prefLang]["alphabets"][index],
                                     style: TextStyle(
                                         color: Colors.white,
                                         fontSize: 20,

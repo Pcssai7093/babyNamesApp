@@ -1,0 +1,803 @@
+[
+  {
+    "id": "12526",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gyanveer",
+    "FLeng": "G",
+    "tel": "గ్యాంవీర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12527",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyargy",
+    "FLeng": "G",
+    "tel": "బ్యారేజి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "12528",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gybon",
+    "FLeng": "G",
+    "tel": "జిబోం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12529",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gycsa",
+    "FLeng": "G",
+    "tel": "జీసీసా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12530",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gydel",
+    "FLeng": "G",
+    "tel": "జిగేల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12531",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gye",
+    "FLeng": "G",
+    "tel": "గయే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12532",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyles",
+    "FLeng": "G",
+    "tel": "జిలెస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12533",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyly",
+    "FLeng": "G",
+    "tel": "జిలి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12534",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gymi",
+    "FLeng": "G",
+    "tel": "జిమీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12535",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gymma",
+    "FLeng": "G",
+    "tel": "జిమ్మా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12536",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gynanand",
+    "FLeng": "G",
+    "tel": "జిణ్ణన్డ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12537",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gynni",
+    "FLeng": "G",
+    "tel": "జిన్ని",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12538",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gyorgy",
+    "FLeng": "g",
+    "tel": "గ్యోరేజి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12539",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyppa",
+    "FLeng": "G",
+    "tel": "జిప్పు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12540",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyric",
+    "FLeng": "G",
+    "tel": "జిరిక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12541",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyrth",
+    "FLeng": "G",
+    "tel": "జిర్త్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12542",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gysla",
+    "FLeng": "G",
+    "tel": "జిస్లా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "12543",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gyula",
+    "FLeng": "G",
+    "tel": "గ్యుల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12544",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gyula",
+    "FLeng": "g",
+    "tel": "గ్యుల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12545",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gyuri",
+    "FLeng": "g",
+    "tel": "గ్యురి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "12546",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haadee",
+    "FLeng": "H",
+    "tel": "హాదీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12547",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Haadi",
+    "FLeng": "H",
+    "tel": "హాది",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12548",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haady",
+    "FLeng": "H",
+    "tel": "హడీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12549",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haafiz",
+    "FLeng": "H",
+    "tel": "హాఫీజ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12550",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haaiz",
+    "FLeng": "H",
+    "tel": "ఛైజ్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "12551",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haakim",
+    "FLeng": "H",
+    "tel": "హాకిమ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12552",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Haakon",
+    "FLeng": "H",
+    "tel": "హాకోం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12553",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "haakon",
+    "FLeng": "h",
+    "tel": "హాకోం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12554",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haalah",
+    "FLeng": "H",
+    "tel": "హాలాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12555",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haalim",
+    "FLeng": "H",
+    "tel": "హలీమ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12556",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Haami",
+    "FLeng": "H",
+    "tel": "హామీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12557",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haamid",
+    "FLeng": "H",
+    "tel": "హామీద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12558",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haanee",
+    "FLeng": "H",
+    "tel": "హానీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12559",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haani",
+    "FLeng": "H",
+    "tel": "హాని",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12560",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haanish",
+    "FLeng": "H",
+    "tel": "హానిష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12561",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Haard",
+    "FLeng": "H",
+    "tel": "హార్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12562",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Haardik",
+    "FLeng": "H",
+    "tel": "హార్దిక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12563",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haarij",
+    "FLeng": "H",
+    "tel": "హారిజ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12564",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haaris",
+    "FLeng": "H",
+    "tel": "హారిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12565",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Haarish",
+    "FLeng": "H",
+    "tel": "హారీష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12566",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Haarit",
+    "FLeng": "H",
+    "tel": "హారిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12567",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Haarith",
+    "FLeng": "H",
+    "tel": "హారిత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12568",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haaroon",
+    "FLeng": "H",
+    "tel": "హారూన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12569",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haarun",
+    "FLeng": "H",
+    "tel": "హారం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12570",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haashim",
+    "FLeng": "H",
+    "tel": "హాషిం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12571",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haashir",
+    "FLeng": "H",
+    "tel": "హాషిర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12572",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haasim",
+    "FLeng": "H",
+    "tel": "హాసిం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12573",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Haatim",
+    "FLeng": "H",
+    "tel": "హాతిమ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12574",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habab",
+    "FLeng": "H",
+    "tel": "హబాబ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12575",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Habakkuk",
+    "FLeng": "H",
+    "tel": "హబక్కుక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12576",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "habakkuk",
+    "FLeng": "h",
+    "tel": "హబక్కుక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12577",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habash",
+    "FLeng": "H",
+    "tel": "హబాష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12578",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habbab",
+    "FLeng": "H",
+    "tel": "హబ్బబ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12579",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habbah",
+    "FLeng": "H",
+    "tel": "హబ్బాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12580",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Habbie",
+    "FLeng": "H",
+    "tel": "హాబీబీఏ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12581",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Habeeb",
+    "FLeng": "H",
+    "tel": "హబీబ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12582",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Habeeballah",
+    "FLeng": "H",
+    "tel": "హబీబాల్లాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12583",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habeebullah",
+    "FLeng": "H",
+    "tel": "హబీబుల్లాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12584",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habeel",
+    "FLeng": "H",
+    "tel": "హాబీలు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12585",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Haben",
+    "FLeng": "H",
+    "tel": "హవెన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12586",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habib",
+    "FLeng": "H",
+    "tel": "హబీబ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12587",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Habiballah",
+    "FLeng": "H",
+    "tel": "హబీబాల్లాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12588",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habibullah",
+    "FLeng": "H",
+    "tel": "హబీబుల్లాహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12589",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Habil",
+    "FLeng": "H",
+    "tel": "హబిల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12590",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habis",
+    "FLeng": "H",
+    "tel": "హాబీస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12591",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Habub",
+    "FLeng": "H",
+    "tel": "హాబుబ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12592",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Habushun",
+    "FLeng": "H",
+    "tel": "హబిషన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12593",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Habwat",
+    "FLeng": "H",
+    "tel": "హాబీవా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12594",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hac",
+    "FLeng": "H",
+    "tel": "హక్కు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12595",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Haca",
+    "FLeng": "H",
+    "tel": "హక్కుల",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12596",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hacca",
+    "FLeng": "H",
+    "tel": "హక్క",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12597",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hachim",
+    "FLeng": "H",
+    "tel": "హషిమ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12598",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hacket",
+    "FLeng": "H",
+    "tel": "హక్కెట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12599",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hackett",
+    "FLeng": "H",
+    "tel": "యాక్ట్",
+    "FLtel": "య"
+  },
+  {
+    "id": "12600",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hackit",
+    "FLeng": "H",
+    "tel": "హాస్కిట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12601",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hackitt",
+    "FLeng": "H",
+    "tel": "హాస్కిట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12602",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hackman",
+    "FLeng": "H",
+    "tel": "హాక్మం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hada",
+    "FLeng": "H",
+    "tel": "హడ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12604",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hadabbas",
+    "FLeng": "H",
+    "tel": "హడబ్బస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12605",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hadad",
+    "FLeng": "H",
+    "tel": "హదదు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12606",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hadaf",
+    "FLeng": "H",
+    "tel": "హడాఫ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12607",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hadahid",
+    "FLeng": "H",
+    "tel": "హడాహుడి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12608",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hadal",
+    "FLeng": "H",
+    "tel": "హడల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12609",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Hadar",
+    "FLeng": "H",
+    "tel": "హాథర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12610",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hadara",
+    "FLeng": "H",
+    "tel": "హదార",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12611",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hadarah",
+    "FLeng": "H",
+    "tel": "హదరః",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12612",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hadas",
+    "FLeng": "H",
+    "tel": "హ్యాడ్స",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12613",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hadass",
+    "FLeng": "H",
+    "tel": "హడ్సన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "12614",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hadbar",
+    "FLeng": "H",
+    "tel": "హద్బర్",
+    "FLtel": "హ"
+  }
+]

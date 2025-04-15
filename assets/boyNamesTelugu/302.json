@@ -1,0 +1,803 @@
+[
+  {
+    "id": "19233",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanahins",
+    "FLeng": "K",
+    "tel": "కనహిన్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19234",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanahiya",
+    "FLeng": "K",
+    "tel": "కనహియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19235",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanai",
+    "FLeng": "K",
+    "tel": "కనై",
+    "FLtel": "క"
+  },
+  {
+    "id": "19236",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanailal",
+    "FLeng": "K",
+    "tel": "కణలాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19237",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanaiya",
+    "FLeng": "K",
+    "tel": "కన్నయ్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19238",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanaiyya",
+    "FLeng": "K",
+    "tel": "కానైయ్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19239",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanakachur",
+    "FLeng": "K",
+    "tel": "కనకచూర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19240",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanakalata",
+    "FLeng": "K",
+    "tel": "కనకలత",
+    "FLtel": "క"
+  },
+  {
+    "id": "19241",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanakambujam",
+    "FLeng": "K",
+    "tel": "కనకంబుజం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19242",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanakamya",
+    "FLeng": "K",
+    "tel": "కనకమ్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19243",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanakarasa",
+    "FLeng": "K",
+    "tel": "కనకరస",
+    "FLtel": "క"
+  },
+  {
+    "id": "19244",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanakendu",
+    "FLeng": "K",
+    "tel": "కనకెందు",
+    "FLtel": "క"
+  },
+  {
+    "id": "19245",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanakraj",
+    "FLeng": "K",
+    "tel": "కనక్రజ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19246",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanakva",
+    "FLeng": "K",
+    "tel": "కనకవ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19247",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanal",
+    "FLeng": "K",
+    "tel": "కెనాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19248",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanaladi",
+    "FLeng": "K",
+    "tel": "కణాలది",
+    "FLtel": "క"
+  },
+  {
+    "id": "19249",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanalan",
+    "FLeng": "K",
+    "tel": "కణాలను",
+    "FLtel": "క"
+  },
+  {
+    "id": "19250",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanalendu",
+    "FLeng": "K",
+    "tel": "కనలేదు",
+    "FLtel": "క"
+  },
+  {
+    "id": "19251",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanav",
+    "FLeng": "K",
+    "tel": "కనవ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19252",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanayaha",
+    "FLeng": "K",
+    "tel": "కనయః",
+    "FLtel": "క"
+  },
+  {
+    "id": "19253",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanca",
+    "FLeng": "K",
+    "tel": "కనుక",
+    "FLtel": "క"
+  },
+  {
+    "id": "19254",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanch",
+    "FLeng": "K",
+    "tel": "కంచ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19255",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanchanabha",
+    "FLeng": "K",
+    "tel": "కాంచనాభ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19256",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kanchandeep",
+    "FLeng": "K",
+    "tel": "కంచండీపీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19257",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kanchanjeet",
+    "FLeng": "K",
+    "tel": "కంచంజీత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19258",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kanchanpal",
+    "FLeng": "K",
+    "tel": "కంచంపాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19259",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kanchanpreet",
+    "FLeng": "K",
+    "tel": "కంచన్ప్రీత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19260",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kancuka",
+    "FLeng": "K",
+    "tel": "కంచుక",
+    "FLtel": "క"
+  },
+  {
+    "id": "19261",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanda",
+    "FLeng": "K",
+    "tel": "కంద",
+    "FLtel": "క"
+  },
+  {
+    "id": "19262",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandadai",
+    "FLeng": "K",
+    "tel": "కందాడై",
+    "FLtel": "క"
+  },
+  {
+    "id": "19263",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandaiah",
+    "FLeng": "K",
+    "tel": "కండయ్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19264",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kandala",
+    "FLeng": "K",
+    "tel": "కండల",
+    "FLtel": "క"
+  },
+  {
+    "id": "19265",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandan",
+    "FLeng": "K",
+    "tel": "కందం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19266",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandappan",
+    "FLeng": "K",
+    "tel": "కన్దప్పన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19267",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandaraj",
+    "FLeng": "K",
+    "tel": "కండారాజ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19268",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandarie",
+    "FLeng": "K",
+    "tel": "కండరీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19269",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandarp",
+    "FLeng": "K",
+    "tel": "కందర్ప",
+    "FLtel": "క"
+  },
+  {
+    "id": "19270",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandarpa",
+    "FLeng": "K",
+    "tel": "కందర్ప",
+    "FLtel": "క"
+  },
+  {
+    "id": "19271",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandasam",
+    "FLeng": "K",
+    "tel": "కందాసం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19272",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kandasami",
+    "FLeng": "K",
+    "tel": "కందస్వామి",
+    "FLtel": "క"
+  },
+  {
+    "id": "19273",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandavel",
+    "FLeng": "K",
+    "tel": "కన్దవెల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19274",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kandhan",
+    "FLeng": "K",
+    "tel": "కందం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19275",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kandot",
+    "FLeng": "K",
+    "tel": "కాండోట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19276",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kandyhn",
+    "FLeng": "K",
+    "tel": "కంద్య్హం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19277",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaneen",
+    "FLeng": "K",
+    "tel": "కానీం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19278",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaneer",
+    "FLeng": "K",
+    "tel": "కనీర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19279",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanella",
+    "FLeng": "K",
+    "tel": "కనెల్ల",
+    "FLtel": "క"
+  },
+  {
+    "id": "19280",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanen",
+    "FLeng": "K",
+    "tel": "కనెను",
+    "FLtel": "క"
+  },
+  {
+    "id": "19281",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kang",
+    "FLeng": "K",
+    "tel": "కాంగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19282",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kang-Dae",
+    "FLeng": "K",
+    "tel": "కాంగ్-డే",
+    "FLtel": "క"
+  },
+  {
+    "id": "19283",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kango",
+    "FLeng": "K",
+    "tel": "కాంగో",
+    "FLtel": "క"
+  },
+  {
+    "id": "19284",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanha",
+    "FLeng": "K",
+    "tel": "కన్హా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19285",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanhai",
+    "FLeng": "K",
+    "tel": "కఞ్హి",
+    "FLtel": "క"
+  },
+  {
+    "id": "19286",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kanhaiy",
+    "FLeng": "K",
+    "tel": "కన్హాయియ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19287",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanhaiya",
+    "FLeng": "K",
+    "tel": "కన్హాయియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19288",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanhaiyalal",
+    "FLeng": "K",
+    "tel": "కఞ్హియాలాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19289",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanhu",
+    "FLeng": "K",
+    "tel": "కంచుఁ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19290",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kaniel",
+    "FLeng": "K",
+    "tel": "కనియేల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19291",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kaniel",
+    "FLeng": "k",
+    "tel": "కనియేల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19292",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanik",
+    "FLeng": "K",
+    "tel": "కానిక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19293",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanil",
+    "FLeng": "K",
+    "tel": "కాణి",
+    "FLtel": "క"
+  },
+  {
+    "id": "19294",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanish",
+    "FLeng": "K",
+    "tel": "కనిష్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19295",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanishk",
+    "FLeng": "K",
+    "tel": "కనిష్క్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19296",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanishkan",
+    "FLeng": "K",
+    "tel": "కనిష్కన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19297",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanishkar",
+    "FLeng": "K",
+    "tel": "కనిష్కర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19298",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanishta",
+    "FLeng": "K",
+    "tel": "కనిష్ట",
+    "FLtel": "క"
+  },
+  {
+    "id": "19299",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanisik",
+    "FLeng": "K",
+    "tel": "కనిసిక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19300",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanive",
+    "FLeng": "K",
+    "tel": "కానివీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19301",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanj",
+    "FLeng": "K",
+    "tel": "కాఙ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19302",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanja",
+    "FLeng": "K",
+    "tel": "కంజ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19303",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanjaara",
+    "FLeng": "K",
+    "tel": "కంజారా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19304",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanjak",
+    "FLeng": "K",
+    "tel": "కంజక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19305",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanjam",
+    "FLeng": "K",
+    "tel": "కంజం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19306",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanjan",
+    "FLeng": "K",
+    "tel": "కంజం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19307",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kanjana",
+    "FLeng": "K",
+    "tel": "కంజన",
+    "FLtel": "క"
+  },
+  {
+    "id": "19308",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanjav",
+    "FLeng": "K",
+    "tel": "కంజవే",
+    "FLtel": "క"
+  },
+  {
+    "id": "19309",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanjavadana",
+    "FLeng": "K",
+    "tel": "కంజవదాన",
+    "FLtel": "క"
+  },
+  {
+    "id": "19310",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanji",
+    "FLeng": "K",
+    "tel": "కంజి",
+    "FLtel": "క"
+  },
+  {
+    "id": "19311",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kank",
+    "FLeng": "K",
+    "tel": "కాంక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19312",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kankala",
+    "FLeng": "K",
+    "tel": "కనకాల",
+    "FLtel": "క"
+  },
+  {
+    "id": "19313",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kankesh",
+    "FLeng": "K",
+    "tel": "కాంకేష్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19314",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kankeya",
+    "FLeng": "K",
+    "tel": "కాంకేయ",
+    "FLtel": "క"
+  },
+  {
+    "id": "19315",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kankeyan",
+    "FLeng": "K",
+    "tel": "కాంకేయం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19316",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanksita",
+    "FLeng": "K",
+    "tel": "కాంక్షితా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19317",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kanna",
+    "FLeng": "K",
+    "tel": "కన్నా",
+    "FLtel": "క"
+  },
+  {
+    "id": "19318",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kannadasan",
+    "FLeng": "K",
+    "tel": "కణ్ణదాసన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "19319",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kannaiah",
+    "FLeng": "K",
+    "tel": "కన్నయ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "19320",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kannaiyan",
+    "FLeng": "K",
+    "tel": "కన్నైయం",
+    "FLtel": "క"
+  },
+  {
+    "id": "19321",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kannammal",
+    "FLeng": "K",
+    "tel": "కన్నమ్మలు",
+    "FLtel": "క"
+  }
+]

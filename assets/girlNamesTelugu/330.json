@@ -1,0 +1,812 @@
+[
+  {
+    "id": "122561",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "ozlem",
+    "FLeng": "o",
+    "tel": "ఓజలేం",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122562",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ozra",
+    "FLeng": "O",
+    "tel": "ఓజర",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122563",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ozwell",
+    "FLeng": "O",
+    "tel": "ఓజవెల్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122564",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ozza",
+    "FLeng": "O",
+    "tel": "ఓజజ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122565",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paa",
+    "FLeng": "P",
+    "tel": "పా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122566",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paadini",
+    "FLeng": "P",
+    "tel": "పాడిని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122567",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paajas",
+    "FLeng": "P",
+    "tel": "పాయిజన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122568",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paakhi",
+    "FLeng": "P",
+    "tel": "పాకి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122569",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paalak",
+    "FLeng": "P",
+    "tel": "పాలక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122570",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paalavi",
+    "FLeng": "P",
+    "tel": "పాలవి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122571",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paanchali",
+    "FLeng": "P",
+    "tel": "పాంచాలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122572",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paarijata",
+    "FLeng": "P",
+    "tel": "పారిజాత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122573",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paarthivi",
+    "FLeng": "P",
+    "tel": "పార్తివి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122574",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paarthvi",
+    "FLeng": "P",
+    "tel": "పార్త్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122575",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paarul",
+    "FLeng": "P",
+    "tel": "పారుల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122576",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paarvati",
+    "FLeng": "P",
+    "tel": "పార్వతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122577",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paatala",
+    "FLeng": "P",
+    "tel": "పాటల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122578",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paatalavati",
+    "FLeng": "P",
+    "tel": "పాతాళవతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122579",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paavai",
+    "FLeng": "P",
+    "tel": "పావై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122580",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paavana",
+    "FLeng": "P",
+    "tel": "పావన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122581",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paavani",
+    "FLeng": "P",
+    "tel": "పావని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122582",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paavni",
+    "FLeng": "P",
+    "tel": "పావని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122583",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paawani",
+    "FLeng": "P",
+    "tel": "పావని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122584",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paayal",
+    "FLeng": "P",
+    "tel": "పాయల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122585",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pabani",
+    "FLeng": "P",
+    "tel": "పభని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122586",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pabitrata",
+    "FLeng": "P",
+    "tel": "పబిట్రేట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122587",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pabla",
+    "FLeng": "P",
+    "tel": "పబ్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122588",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paca",
+    "FLeng": "P",
+    "tel": "పచ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122589",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pacca",
+    "FLeng": "P",
+    "tel": "పక్క",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122590",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pacchild",
+    "FLeng": "P",
+    "tel": "పచ్చిల్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122591",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "paccia",
+    "FLeng": "p",
+    "tel": "పాసీసీఏ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122592",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pachaiappan",
+    "FLeng": "P",
+    "tel": "పచ్చయప్పన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122593",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pacholi",
+    "FLeng": "P",
+    "tel": "పంచోలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122594",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Paciencia",
+    "FLeng": "P",
+    "tel": "పసిఎంసిఏ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122595",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "paciencia",
+    "FLeng": "p",
+    "tel": "పసిఎంసిఏ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122596",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pacific",
+    "FLeng": "P",
+    "tel": "పసిఫిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122597",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pacifica",
+    "FLeng": "p",
+    "tel": "పసిఫికే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122598",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Padabali",
+    "FLeng": "P",
+    "tel": "పాడబలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122599",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padamavati",
+    "FLeng": "P",
+    "tel": "పడమవతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122600",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Padget",
+    "FLeng": "P",
+    "tel": "పదగేట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122601",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padhumai",
+    "FLeng": "P",
+    "tel": "పదుమై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122602",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Padidah",
+    "FLeng": "P",
+    "tel": "పదిదాహ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122603",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "padma",
+    "FLeng": "p",
+    "tel": "పద్మ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padma Priya",
+    "FLeng": "P",
+    "tel": "పద్మ ప్రియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122605",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Padma rag",
+    "FLeng": "P",
+    "tel": "పద్మ రాగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122606",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmagriha",
+    "FLeng": "P",
+    "tel": "పద్మగ్రిహ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122607",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmaja",
+    "FLeng": "P",
+    "tel": "పద్మజ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122608",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmajai",
+    "FLeng": "P",
+    "tel": "పద్మజాయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122609",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmakali",
+    "FLeng": "P",
+    "tel": "పద్మకలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122610",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmakalyani",
+    "FLeng": "P",
+    "tel": "పద్మకల్యాణి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122611",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmakshi",
+    "FLeng": "P",
+    "tel": "పద్మాక్షి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122612",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmakshya",
+    "FLeng": "P",
+    "tel": "పద్మాక్ష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122613",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmal",
+    "FLeng": "P",
+    "tel": "పద్మాల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122614",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Padmalay",
+    "FLeng": "P",
+    "tel": "పద్మాలయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122615",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmalaya",
+    "FLeng": "P",
+    "tel": "పద్మాలయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122616",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmalekha",
+    "FLeng": "P",
+    "tel": "పద్మాలేఖ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122617",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmalochana",
+    "FLeng": "P",
+    "tel": "పద్మలోచన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122618",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Padmalochona",
+    "FLeng": "P",
+    "tel": "పద్మలోచానా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122619",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Padmamadhu",
+    "FLeng": "P",
+    "tel": "పద్మమధు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122620",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmamaladhara",
+    "FLeng": "P",
+    "tel": "పద్మమాలాధార",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122621",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmamalini",
+    "FLeng": "P",
+    "tel": "పద్మమాలిని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122622",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmamukhi",
+    "FLeng": "P",
+    "tel": "పద్మముఖి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmana",
+    "FLeng": "P",
+    "tel": "పద్మనా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmanabha Priya",
+    "FLeng": "P",
+    "tel": "పద్మనాభ ప్రియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmanabhapriya",
+    "FLeng": "P",
+    "tel": "పద్మనాభప్రియ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmanethra",
+    "FLeng": "P",
+    "tel": "పద్మనేత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122627",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Padmanetra",
+    "FLeng": "P",
+    "tel": "పద్మనేత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122628",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmanjali",
+    "FLeng": "P",
+    "tel": "పద్మనాలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122629",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmapriya",
+    "FLeng": "P",
+    "tel": "పద్మప్రియ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122630",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmarekha",
+    "FLeng": "P",
+    "tel": "పద్మరేఖ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122631",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmaroopa",
+    "FLeng": "P",
+    "tel": "పద్మరూప",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmashree",
+    "FLeng": "P",
+    "tel": "పద్మశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122633",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmashri",
+    "FLeng": "P",
+    "tel": "పద్మశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122634",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmasree",
+    "FLeng": "P",
+    "tel": "పద్మశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122635",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmasundari",
+    "FLeng": "P",
+    "tel": "పద్మసుందరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122636",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmavasa",
+    "FLeng": "P",
+    "tel": "పద్మవాసి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122637",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmavathi",
+    "FLeng": "P",
+    "tel": "పద్మావతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122638",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmavati",
+    "FLeng": "P",
+    "tel": "పద్మావతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122639",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmini",
+    "FLeng": "P",
+    "tel": "పద్మిని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122640",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padmodbhava",
+    "FLeng": "P",
+    "tel": "పదమోద్భవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122641",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Padnuni",
+    "FLeng": "P",
+    "tel": "పదనుని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122642",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paetta",
+    "FLeng": "P",
+    "tel": "పెట్ట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122643",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pahar",
+    "FLeng": "P",
+    "tel": "పహార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122644",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Paharita",
+    "FLeng": "P",
+    "tel": "పహరిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122645",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paheal",
+    "FLeng": "P",
+    "tel": "పహెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122646",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pahel",
+    "FLeng": "P",
+    "tel": "పహేలీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122647",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pahi",
+    "FLeng": "P",
+    "tel": "పాహి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122648",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pahmagandhi",
+    "FLeng": "P",
+    "tel": "పాహ్మగాంధీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122649",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pahwa",
+    "FLeng": "P",
+    "tel": "పహ్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122650",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paikea",
+    "FLeng": "P",
+    "tel": "పైకెది",
+    "FLtel": "ప"
+  }
+]

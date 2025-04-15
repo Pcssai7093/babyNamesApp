@@ -1,0 +1,821 @@
+[
+  {
+    "id": "8025",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elbhen",
+    "FLeng": "E",
+    "tel": "ఎలాభేన",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8026",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elbridge",
+    "FLeng": "E",
+    "tel": "ఎలిబ్రిడ్జి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8027",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elcanah",
+    "FLeng": "E",
+    "tel": "ఎల్సానః",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8028",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elchanan",
+    "FLeng": "E",
+    "tel": "ఎల్చనం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8029",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "elchanan",
+    "FLeng": "e",
+    "tel": "ఎల్చనం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8030",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elci",
+    "FLeng": "E",
+    "tel": "ఎల్సీకి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8031",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elcu",
+    "FLeng": "E",
+    "tel": "ఎలుక",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8032",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldan",
+    "FLeng": "E",
+    "tel": "ఎల్డన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8033",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Eldar",
+    "FLeng": "E",
+    "tel": "ఎల్డర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8034",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elden",
+    "FLeng": "E",
+    "tel": "ఎల్డెన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8035",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elder",
+    "FLeng": "E",
+    "tel": "ఎల్డర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8036",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldgrim",
+    "FLeng": "E",
+    "tel": "ఎల్డగ్రిమ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8037",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldid",
+    "FLeng": "E",
+    "tel": "ఎల్డిడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8038",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldin",
+    "FLeng": "E",
+    "tel": "ఎల్డిన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldon",
+    "FLeng": "E",
+    "tel": "ఎల్డన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8040",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldous",
+    "FLeng": "E",
+    "tel": "ఎలుడౌస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8041",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldra",
+    "FLeng": "E",
+    "tel": "ఎల్డరా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldred",
+    "FLeng": "E",
+    "tel": "ఎల్డర్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldredge",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రేడ్జ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8044",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrege",
+    "FLeng": "E",
+    "tel": "ఎల్డర్జ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8045",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrian",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రియాన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8046",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldric",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8047",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eldric",
+    "FLeng": "e",
+    "tel": "ఎల్డ్రిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8048",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrich",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రిచ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8049",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrick",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8050",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrid",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రిడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8051",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrida",
+    "FLeng": "E",
+    "tel": "ఎల్డరిదా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8052",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldrige",
+    "FLeng": "E",
+    "tel": "ఎల్డరిగే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8053",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldritch",
+    "FLeng": "E",
+    "tel": "ఎల్డ్రిచ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8054",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elduin",
+    "FLeng": "E",
+    "tel": "ఎల్దుయిం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8055",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldur",
+    "FLeng": "E",
+    "tel": "ఎల్డర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eldwin",
+    "FLeng": "E",
+    "tel": "ఎల్డవిం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8057",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eleasar",
+    "FLeng": "E",
+    "tel": "ఎలీసర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8058",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eleazar",
+    "FLeng": "E",
+    "tel": "ఎలిజార్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8059",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "electric",
+    "FLeng": "e",
+    "tel": "ఎలక్ట్రిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8060",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eledon",
+    "FLeng": "E",
+    "tel": "ఎల్డన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eleftherios",
+    "FLeng": "e",
+    "tel": "ఎలెఫ్టుహేరియస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8062",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "elek",
+    "FLeng": "e",
+    "tel": "ఎలెక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8063",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elemer",
+    "FLeng": "E",
+    "tel": "ఎలీమెర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8064",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Elend",
+    "FLeng": "E",
+    "tel": "ఏలెను",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8065",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eleos",
+    "FLeng": "E",
+    "tel": "ఎలెవన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elery",
+    "FLeng": "E",
+    "tel": "ఎలెర్య్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8067",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Elesh",
+    "FLeng": "E",
+    "tel": "ఇలేష్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8068",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eleuterio",
+    "FLeng": "E",
+    "tel": "ఎలియూటీరియో",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8069",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eleuver",
+    "FLeng": "E",
+    "tel": "ఎలియూవేర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8070",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elewa",
+    "FLeng": "E",
+    "tel": "ఏలేవా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8071",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elewisa",
+    "FLeng": "E",
+    "tel": "ఎలివిసా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8072",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elford",
+    "FLeng": "E",
+    "tel": "ఎలీఫోర్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8073",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elfred",
+    "FLeng": "E",
+    "tel": "ఎల్ఫ్రెడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8074",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elfrid",
+    "FLeng": "E",
+    "tel": "ఎల్ఫ్రిడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8075",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elfstan",
+    "FLeng": "E",
+    "tel": "ఎల్ఫ్స్టన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8076",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elgan",
+    "FLeng": "E",
+    "tel": "ఎలగం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8077",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elgar",
+    "FLeng": "E",
+    "tel": "ఎల్గార్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8078",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elger",
+    "FLeng": "E",
+    "tel": "ఎలుగెర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8079",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elgin",
+    "FLeng": "E",
+    "tel": "ఎల్జిన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elgine",
+    "FLeng": "E",
+    "tel": "ఎల్జిన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8081",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Elgizouli",
+    "FLeng": "E",
+    "tel": "ఎల్జిజోలి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8082",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elgued",
+    "FLeng": "E",
+    "tel": "ఎల్గూఎడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8083",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elhanan",
+    "FLeng": "E",
+    "tel": "ఎల్హానాను",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8084",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eli",
+    "FLeng": "E",
+    "tel": "ఎలి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8085",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eliab",
+    "FLeng": "e",
+    "tel": "ఏలీయాబు",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8086",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliada",
+    "FLeng": "E",
+    "tel": "ఎలియాడా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8087",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliah",
+    "FLeng": "E",
+    "tel": "ఎలియ్య",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8088",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliakim",
+    "FLeng": "E",
+    "tel": "ఎలియాకిమ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8089",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliam",
+    "FLeng": "E",
+    "tel": "ఎలియామ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8090",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Eliar",
+    "FLeng": "E",
+    "tel": "ఎలియార్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8091",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Elias",
+    "FLeng": "E",
+    "tel": "ఎలియాస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8092",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliass",
+    "FLeng": "E",
+    "tel": "ఎలియాస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8093",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eliasz",
+    "FLeng": "e",
+    "tel": "ఎలియాన్స్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8094",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliaz",
+    "FLeng": "E",
+    "tel": "ఇలియాజ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8095",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliazor",
+    "FLeng": "E",
+    "tel": "ఎలీనాజోర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8096",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elie",
+    "FLeng": "E",
+    "tel": "ఎలియే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8097",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliel",
+    "FLeng": "E",
+    "tel": "ఎళిల్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8098",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elieser",
+    "FLeng": "E",
+    "tel": "ఎలిజిర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8099",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliet",
+    "FLeng": "E",
+    "tel": "ఎలైట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8100",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliezer",
+    "FLeng": "E",
+    "tel": "ఎలీయెజెరు",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8101",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eliezer",
+    "FLeng": "e",
+    "tel": "ఎలీయెజెరు",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8102",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliezor",
+    "FLeng": "E",
+    "tel": "ఎలైజార్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8103",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elige",
+    "FLeng": "E",
+    "tel": "ఎలిగే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8104",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eligio",
+    "FLeng": "E",
+    "tel": "ఎలిగిస్తో",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8105",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eligius",
+    "FLeng": "E",
+    "tel": "ఎలిగిస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8106",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elihu",
+    "FLeng": "E",
+    "tel": "ఎలీహు",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elii",
+    "FLeng": "E",
+    "tel": "ఎలిమి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8108",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eliijah",
+    "FLeng": "E",
+    "tel": "యేలియుజ",
+    "FLtel": "య"
+  },
+  {
+    "id": "8109",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elija",
+    "FLeng": "E",
+    "tel": "ఎలిజా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elijaah",
+    "FLeng": "E",
+    "tel": "ఎలిజాహ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8111",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elijachuh",
+    "FLeng": "E",
+    "tel": "ఎలిజాచుహ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8112",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elijahh",
+    "FLeng": "E",
+    "tel": "ఎలిజాహ్హ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8113",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elijha",
+    "FLeng": "E",
+    "tel": "ఎలిఝా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8114",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Elikplim",
+    "FLeng": "E",
+    "tel": "ఏలికపాలిం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8115",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Elil",
+    "FLeng": "E",
+    "tel": "ఎలిళ్",
+    "FLtel": "ఎ"
+  }
+]

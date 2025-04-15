@@ -1,0 +1,758 @@
+[
+  {
+    "id": "13844",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helio",
+    "FLeng": "H",
+    "tel": "హీలియో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13845",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "helio",
+    "FLeng": "h",
+    "tel": "హీలియో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13846",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helios",
+    "FLeng": "H",
+    "tel": "హేలియోస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13847",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helix",
+    "FLeng": "H",
+    "tel": "హెలిక్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13848",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "helladius",
+    "FLeng": "h",
+    "tel": "హెల్లడిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13849",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heller",
+    "FLeng": "H",
+    "tel": "హేల్లెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13850",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hellerson",
+    "FLeng": "h",
+    "tel": "హేల్లెర్స్న్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13851",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hellewell",
+    "FLeng": "H",
+    "tel": "హెలెవెల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13852",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helliwell",
+    "FLeng": "H",
+    "tel": "హెల్లీవెల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13853",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helm",
+    "FLeng": "H",
+    "tel": "హెల్మ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13854",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmand",
+    "FLeng": "H",
+    "tel": "హెల్మండ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13855",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmar",
+    "FLeng": "H",
+    "tel": "హామర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13856",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmech",
+    "FLeng": "H",
+    "tel": "హెల్మెచ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13857",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmer",
+    "FLeng": "H",
+    "tel": "హెల్మెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13858",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "helmer",
+    "FLeng": "h",
+    "tel": "హెల్మెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13859",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmfried",
+    "FLeng": "H",
+    "tel": "హెల్మ్ప్రియద",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13860",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmhead",
+    "FLeng": "H",
+    "tel": "హెల్మ్హీద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13861",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmheard",
+    "FLeng": "H",
+    "tel": "హెల్మ్హెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13862",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmid",
+    "FLeng": "H",
+    "tel": "హామీద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13863",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmut",
+    "FLeng": "H",
+    "tel": "హెల్ముట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13864",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helmutt",
+    "FLeng": "H",
+    "tel": "హెల్ముట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13865",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helouyn",
+    "FLeng": "H",
+    "tel": "హెలౌయ్న",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13866",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heloynet",
+    "FLeng": "H",
+    "tel": "హెలోయ్నేట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13867",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Help",
+    "FLeng": "H",
+    "tel": "హెల్ప్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13868",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helpric",
+    "FLeng": "H",
+    "tel": "హెల్ఫ్రీక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13869",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "helsinki",
+    "FLeng": "h",
+    "tel": "హెల్సింకి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13870",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helton",
+    "FLeng": "H",
+    "tel": "హిల్టన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13871",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helyan",
+    "FLeng": "H",
+    "tel": "హాయాం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13872",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helyas",
+    "FLeng": "H",
+    "tel": "హాయస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13873",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Helyes",
+    "FLeng": "H",
+    "tel": "హెల్య్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13874",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hem",
+    "FLeng": "H",
+    "tel": "హెమ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13875",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemabindu",
+    "FLeng": "H",
+    "tel": "హిమబిందు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13876",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemachander",
+    "FLeng": "H",
+    "tel": "హేమచందర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13877",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemachandra",
+    "FLeng": "H",
+    "tel": "హేమచంద్ర",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13878",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemachandran",
+    "FLeng": "H",
+    "tel": "హేమచంద్రన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13879",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemadri",
+    "FLeng": "H",
+    "tel": "హేమాద్రి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13880",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemagiri",
+    "FLeng": "H",
+    "tel": "హిమగిరి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13881",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemahav",
+    "FLeng": "H",
+    "tel": "హేమాహేవ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13882",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemai",
+    "FLeng": "H",
+    "tel": "హెమై",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13883",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemakesh",
+    "FLeng": "H",
+    "tel": "హేమకేష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13884",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemakuta",
+    "FLeng": "H",
+    "tel": "హేమకుట",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13885",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemamdar",
+    "FLeng": "H",
+    "tel": "హేమాండర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13886",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heman",
+    "FLeng": "H",
+    "tel": "హెమాన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13887",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanand",
+    "FLeng": "H",
+    "tel": "హేమానంద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13888",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanathguru",
+    "FLeng": "H",
+    "tel": "హేమన్తగూరు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13889",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemandra",
+    "FLeng": "H",
+    "tel": "హేమాంధ్ర",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13890",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemang",
+    "FLeng": "H",
+    "tel": "హేమాంగ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13891",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanga",
+    "FLeng": "H",
+    "tel": "హేమంగా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13892",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemangad",
+    "FLeng": "H",
+    "tel": "హేమాంగడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13893",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemank",
+    "FLeng": "H",
+    "tel": "హేమాంక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13894",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemanka",
+    "FLeng": "H",
+    "tel": "హేమాంక",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13895",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemansh",
+    "FLeng": "H",
+    "tel": "హిమాంషు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13896",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanshu",
+    "FLeng": "H",
+    "tel": "హిమాంశు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13897",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemant",
+    "FLeng": "H",
+    "tel": "హేమంత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanth",
+    "FLeng": "H",
+    "tel": "హేమంత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanthraj",
+    "FLeng": "H",
+    "tel": "హేమన్తరాజ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13900",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemanthsree",
+    "FLeng": "H",
+    "tel": "హేమంత్స్ర్తీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13901",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemaprakash",
+    "FLeng": "H",
+    "tel": "హేమప్రకాష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemaprasad",
+    "FLeng": "H",
+    "tel": "హేమప్రసాద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13903",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemaraj",
+    "FLeng": "H",
+    "tel": "హేమరాజ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemashankar",
+    "FLeng": "H",
+    "tel": "హేమశంకర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13905",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hematara",
+    "FLeng": "H",
+    "tel": "హెమటారా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemavatinandan",
+    "FLeng": "H",
+    "tel": "హేమావటినందం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13907",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemayu",
+    "FLeng": "H",
+    "tel": "హేమయు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13908",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemchander",
+    "FLeng": "H",
+    "tel": "హేమచందర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13909",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemchandra",
+    "FLeng": "H",
+    "tel": "హేమచంద్ర",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemdev",
+    "FLeng": "H",
+    "tel": "హెమ్దేవ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13911",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemeda",
+    "FLeng": "H",
+    "tel": "హేమీద",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13912",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemede",
+    "FLeng": "H",
+    "tel": "హేమీదే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13913",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemel",
+    "FLeng": "H",
+    "tel": "హేమీలు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13914",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemele",
+    "FLeng": "H",
+    "tel": "హేమీలు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13915",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemen",
+    "FLeng": "H",
+    "tel": "హెర్మన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13916",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemendra",
+    "FLeng": "H",
+    "tel": "హేమేంద్ర",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13917",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemendu",
+    "FLeng": "H",
+    "tel": "హేమేందు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13918",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemesh",
+    "FLeng": "H",
+    "tel": "హిమేష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13919",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemil",
+    "FLeng": "H",
+    "tel": "హేమీలు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13920",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemin",
+    "FLeng": "H",
+    "tel": "హేమిన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13921",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Heminder",
+    "FLeng": "H",
+    "tel": "హేమిన్డర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13922",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hemingway",
+    "FLeng": "h",
+    "tel": "హెమ్మింగ్వే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemish",
+    "FLeng": "H",
+    "tel": "హేమిష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13924",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemison",
+    "FLeng": "H",
+    "tel": "హేమిసోన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13925",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hemkant",
+    "FLeng": "H",
+    "tel": "హెంకాంత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemkar",
+    "FLeng": "H",
+    "tel": "హెంకర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "13927",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hemkesh",
+    "FLeng": "H",
+    "tel": "హెంకేష్",
+    "FLtel": "హ"
+  }
+]

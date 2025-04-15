@@ -4,6 +4,8 @@ import 'package:baby_names/Components/bottomBannerAd.dart';
 import 'package:baby_names/Components/bottomNavBar.dart';
 import 'package:baby_names/Pages/Dashboard/card.dart';
 import 'package:baby_names/Pages/Dashboard/navbar.dart';
+import 'package:baby_names/Pages/NamesList/nameItem.dart';
+import 'package:baby_names/Providers/prefLanguageProvider.dart';
 import 'package:baby_names/Services/apiService.dart';
 import 'package:baby_names/constants/string.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
@@ -32,6 +34,8 @@ class dashboard extends StatefulWidget {
 
 class _dashboardState extends State<dashboard> {
   late DarkModeProvder darkModeProvder;
+  late PrefLanguageProvider prefLanguageProvider;
+
   Dio dio = DioClient().dio;
 
   bool isLoading = false;
@@ -52,13 +56,10 @@ class _dashboardState extends State<dashboard> {
         return;
       }
     }
-    prefs.setInt("lastTimeFetched", DateTime.now().millisecondsSinceEpoch);
-    // CollectionReference users =
-    //     FirebaseFirestore.instance.collection('teluguNames');
-    //
-    // QuerySnapshot snapshot = await users.get();
 
     final userBox = objectbox.store.box<NameData>();
+    userBox.removeAll();
+
     List<String> likedNames = prefs.getStringList("liked_names") ?? [];
 
     final manifest = await rootBundle.loadString('AssetManifest.json');
@@ -66,13 +67,15 @@ class _dashboardState extends State<dashboard> {
 
     // Filter JSON files in your folder
     final jsonFiles = manifestMap.keys.where((path) =>
-        path.startsWith('assets/boyNames/') && path.endsWith('.json'));
+        path.startsWith('assets/boyNamesTelugu/') && path.endsWith('.json'));
 
     final jsonFilesGirls = manifestMap.keys.where((path) =>
-    path.startsWith('assets/girlNames/') && path.endsWith('.json'));
+    path.startsWith('assets/girlNamesTelugu/') && path.endsWith('.json'));
 
     print(jsonFiles.length);
     print(jsonFilesGirls.length);
+
+    List<NameData> newNameData = [];
 
     for (final filePath in jsonFiles) {
       try {
@@ -80,23 +83,16 @@ class _dashboardState extends State<dashboard> {
         final jsonList = json.decode(fileContent) as List<dynamic>;
 
         for (var item in jsonList) {
-          final existingQuery =
-              userBox.query(NameData_.docId.equals(item["id"])).build();
-          final existingNames = existingQuery.find();
-          existingQuery.close();
-
-          if (existingNames.isNotEmpty) continue;
-
+          print("adding boy");
           NameData? nameData;
-          if (likedNames.contains(item["id"])) {
-            nameData = NameData.fromJson(
-                item as Map<String, dynamic>, 0, item["id"], true);
+          if (false && likedNames.contains(item["id"])) {
+            // nameData = NameData.fromJson(
+            //     item as Map<String, dynamic>, 0, item["id"], true);
           } else {
             nameData = NameData.fromJson(
                 item as Map<String, dynamic>, 0, item["id"], false);
           }
-
-          userBox.put(nameData);
+          newNameData.add(nameData);
         }
       } catch (e) {
         print('Error loading $filePath: $e');
@@ -109,15 +105,9 @@ class _dashboardState extends State<dashboard> {
         final jsonList = json.decode(fileContent) as List<dynamic>;
 
         for (var item in jsonList) {
-          final existingQuery =
-          userBox.query(NameData_.docId.equals(item["id"])).build();
-          final existingNames = existingQuery.find();
-          existingQuery.close();
-
-          if (existingNames.isNotEmpty) continue;
-
+          print("adding girl");
           NameData? nameData;
-          if (likedNames.contains(item["id"])) {
+          if (false && likedNames.contains(item["id"])) {
             nameData = NameData.fromJson(
                 item as Map<String, dynamic>, 0, item["id"], true);
           } else {
@@ -125,12 +115,14 @@ class _dashboardState extends State<dashboard> {
                 item as Map<String, dynamic>, 0, item["id"], false);
           }
 
-          userBox.put(nameData);
+          newNameData.add(nameData);
         }
       } catch (e) {
         print('Error loading $filePath: $e');
       }
     }
+    userBox.putMany(newNameData);
+    prefs.setInt("lastTimeFetched", DateTime.now().millisecondsSinceEpoch);
     print("total name fetched are ${userBox.count()}");
     setLoader2(false);
   }
@@ -183,6 +175,7 @@ class _dashboardState extends State<dashboard> {
   @override
   Widget build(BuildContext context) {
     darkModeProvder = Provider.of<DarkModeProvder>(context);
+    prefLanguageProvider = Provider.of<PrefLanguageProvider>(context);
 
     return Scaffold(
       body: Container(

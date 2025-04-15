@@ -1,0 +1,749 @@
+[
+  {
+    "id": "3145",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chintav",
+    "FLeng": "C",
+    "tel": "చింతావ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3146",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chinthan",
+    "FLeng": "C",
+    "tel": "చింతన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3147",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chinthanaichelvan",
+    "FLeng": "C",
+    "tel": "చింతనకిచెల్వన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3148",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chintu",
+    "FLeng": "C",
+    "tel": "చింటూ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3149",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chintya",
+    "FLeng": "C",
+    "tel": "చింత్య",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3150",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chinu",
+    "FLeng": "C",
+    "tel": "చైను",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chioke",
+    "FLeng": "C",
+    "tel": "చివుకే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3152",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chip",
+    "FLeng": "C",
+    "tel": "చిప్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chipper",
+    "FLeng": "C",
+    "tel": "చిప్పెర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3154",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chir",
+    "FLeng": "C",
+    "tel": "చైర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3155",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiraag",
+    "FLeng": "C",
+    "tel": "చిరాగ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3156",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chiraagh",
+    "FLeng": "C",
+    "tel": "చిరాగ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3157",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirag",
+    "FLeng": "C",
+    "tel": "చిరాగ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3158",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "ChiragDeep",
+    "FLeng": "C",
+    "tel": "చిరగదీప్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3159",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chiragh",
+    "FLeng": "C",
+    "tel": "చిరాగ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3160",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chirah",
+    "FLeng": "C",
+    "tel": "చిరహ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3161",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiraksh",
+    "FLeng": "C",
+    "tel": "చిరక్ష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3162",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chiran",
+    "FLeng": "C",
+    "tel": "చిరం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3163",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirandeep",
+    "FLeng": "C",
+    "tel": "చిరందీప్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3164",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chiranjeet",
+    "FLeng": "C",
+    "tel": "చిరంజీత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3165",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjeev",
+    "FLeng": "C",
+    "tel": "చిరంజీవి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3166",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chiranjeevan",
+    "FLeng": "C",
+    "tel": "చిరంజీవం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3167",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjeevee",
+    "FLeng": "C",
+    "tel": "చిరంజీవీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3168",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjeevi",
+    "FLeng": "C",
+    "tel": "చిరంజీవి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3169",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjeevini",
+    "FLeng": "C",
+    "tel": "చిరంజీవిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3170",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjib",
+    "FLeng": "C",
+    "tel": "చిరంజీబ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3171",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chiranjit",
+    "FLeng": "C",
+    "tel": "చిరంజీత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3172",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjiv",
+    "FLeng": "C",
+    "tel": "చిరంజీవి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3173",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranjivi",
+    "FLeng": "C",
+    "tel": "చిరంజీవి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3174",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirantan",
+    "FLeng": "C",
+    "tel": "చిరంతాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3175",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiranth",
+    "FLeng": "C",
+    "tel": "చిరంత",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3176",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirayu",
+    "FLeng": "C",
+    "tel": "చిరాయు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3177",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirayus",
+    "FLeng": "C",
+    "tel": "చిరాయుస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3178",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chirico",
+    "FLeng": "c",
+    "tel": "చిరికా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3179",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chirjeewan",
+    "FLeng": "C",
+    "tel": "చిరుజీవన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3180",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chiron",
+    "FLeng": "C",
+    "tel": "చిరాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3181",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirosman",
+    "FLeng": "C",
+    "tel": "చిరోస్మాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3182",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirrak",
+    "FLeng": "C",
+    "tel": "చిర్రాక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3183",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirtrang",
+    "FLeng": "C",
+    "tel": "చిరాత్ర్యాంగ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3184",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chiru",
+    "FLeng": "C",
+    "tel": "చిరు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3185",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chirush",
+    "FLeng": "C",
+    "tel": "చిరుష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3186",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chisholm",
+    "FLeng": "C",
+    "tel": "చిషోల్మ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3187",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chistan",
+    "FLeng": "C",
+    "tel": "చిస్తాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3188",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chistoferus",
+    "FLeng": "C",
+    "tel": "ఛిస్టఫర్స్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "3189",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitatam",
+    "FLeng": "C",
+    "tel": "చిటటం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3190",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitavake",
+    "FLeng": "C",
+    "tel": "చితవకే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3191",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitayu",
+    "FLeng": "C",
+    "tel": "చితయు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3192",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitchetan",
+    "FLeng": "C",
+    "tel": "చీటిచేతన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3193",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitdarshan",
+    "FLeng": "C",
+    "tel": "చిత్దర్శన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3194",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitesh",
+    "FLeng": "C",
+    "tel": "చిట్స్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3195",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithayu",
+    "FLeng": "C",
+    "tel": "చితయు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3196",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithesh",
+    "FLeng": "C",
+    "tel": "చిథేష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3197",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithraaksha",
+    "FLeng": "C",
+    "tel": "చిత్రాక్ష",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3198",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithraamga",
+    "FLeng": "C",
+    "tel": "చిత్రరంగ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3199",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithraayudha",
+    "FLeng": "C",
+    "tel": "చిత్రాయుధ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3200",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithrabaana",
+    "FLeng": "C",
+    "tel": "చిత్రబాణ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3201",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithrakundala",
+    "FLeng": "C",
+    "tel": "చిత్రకుండల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3202",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithrakundhala",
+    "FLeng": "C",
+    "tel": "చిత్రకుందల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3203",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chithravarma",
+    "FLeng": "C",
+    "tel": "చిత్రవర్మ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3204",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitnaam",
+    "FLeng": "C",
+    "tel": "చిత్నామ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3205",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitniranjan",
+    "FLeng": "C",
+    "tel": "చితినిరంజన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3206",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitnirmal",
+    "FLeng": "C",
+    "tel": "చితినిర్మలః",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3207",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitnis",
+    "FLeng": "C",
+    "tel": "చిట్నీస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3208",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitnivas",
+    "FLeng": "C",
+    "tel": "చితినివాస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3209",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitpal",
+    "FLeng": "C",
+    "tel": "చిత్పల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3210",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitpreet",
+    "FLeng": "C",
+    "tel": "చిత్ప్రీత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3211",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitprem",
+    "FLeng": "C",
+    "tel": "చిత్ప్రేమ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3212",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrabaahu",
+    "FLeng": "C",
+    "tel": "చిత్రబాహు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3213",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrabahu",
+    "FLeng": "C",
+    "tel": "చిత్రబాహు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3214",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrabhanu",
+    "FLeng": "C",
+    "tel": "చిత్రభాను",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3215",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitradeep",
+    "FLeng": "C",
+    "tel": "చిత్రదీప్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3216",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitragupt",
+    "FLeng": "C",
+    "tel": "చిత్రగుప్ట్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3217",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitragupta",
+    "FLeng": "C",
+    "tel": "చిత్రగుప్త",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3218",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrak",
+    "FLeng": "C",
+    "tel": "చిత్రకే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3219",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitraka",
+    "FLeng": "C",
+    "tel": "చిత్రక",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3220",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrakethu",
+    "FLeng": "C",
+    "tel": "చిత్రకేతు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3221",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitraketu",
+    "FLeng": "C",
+    "tel": "చిత్రకేతు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3222",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrakoot Samashraya",
+    "FLeng": "C",
+    "tel": "చిత్రకూట్ సమాశ్రయ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3223",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitraksh",
+    "FLeng": "C",
+    "tel": "చిత్రకేష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3224",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitraksha",
+    "FLeng": "C",
+    "tel": "చిత్రక్ష",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3225",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitrakuta",
+    "FLeng": "C",
+    "tel": "చిత్రకూట",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3226",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chitral",
+    "FLeng": "C",
+    "tel": "చిత్రాలు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3227",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chitraman",
+    "FLeng": "C",
+    "tel": "చిత్రమని",
+    "FLtel": "చ"
+  }
+]

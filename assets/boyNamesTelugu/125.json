@@ -1,0 +1,839 @@
+[
+  {
+    "id": "2428",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceofel",
+    "FLeng": "C",
+    "tel": "సిఓఫెల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2429",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceol",
+    "FLeng": "C",
+    "tel": "సియోల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2430",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolbald",
+    "FLeng": "C",
+    "tel": "సువోల్బల్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2431",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolbeald",
+    "FLeng": "C",
+    "tel": "సెవులబెల్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2432",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolbeorht",
+    "FLeng": "C",
+    "tel": "సిఆల్బెర్హ్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2433",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolfrid",
+    "FLeng": "C",
+    "tel": "సువల్ఫ్రిడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2434",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolfrih",
+    "FLeng": "C",
+    "tel": "సువల్ఫ్రిహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2435",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolfrith",
+    "FLeng": "C",
+    "tel": "సువల్ఫ్రిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2436",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolheard",
+    "FLeng": "C",
+    "tel": "సెవులహీర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2437",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolhelm",
+    "FLeng": "C",
+    "tel": "సిఓల్హేల్మ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2438",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolhere",
+    "FLeng": "C",
+    "tel": "సిఓల్హేరు",
+    "FLtel": "స"
+  },
+  {
+    "id": "2439",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolla",
+    "FLeng": "C",
+    "tel": "సెవుల్లా",
+    "FLtel": "స"
+  },
+  {
+    "id": "2440",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolmaer",
+    "FLeng": "C",
+    "tel": "సిఓల్మేర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2441",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolmund",
+    "FLeng": "C",
+    "tel": "సెవులమును",
+    "FLtel": "స"
+  },
+  {
+    "id": "2442",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolnoth",
+    "FLeng": "C",
+    "tel": "సెవులన్తో",
+    "FLtel": "స"
+  },
+  {
+    "id": "2443",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolred",
+    "FLeng": "C",
+    "tel": "సిఆల్రెడి",
+    "FLtel": "స"
+  },
+  {
+    "id": "2444",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolswith",
+    "FLeng": "C",
+    "tel": "సెవులశ్విత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2445",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolwald",
+    "FLeng": "C",
+    "tel": "సిఓల్వాల్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2446",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolweald",
+    "FLeng": "C",
+    "tel": "సెమోలివెల్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2447",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceolweard",
+    "FLeng": "C",
+    "tel": "సెమోలివెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2448",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceomma",
+    "FLeng": "C",
+    "tel": "సుకొమ్మ",
+    "FLtel": "స"
+  },
+  {
+    "id": "2449",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceonred",
+    "FLeng": "C",
+    "tel": "సెన్ర్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2450",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceorl",
+    "FLeng": "C",
+    "tel": "సెర్ల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2451",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceorra",
+    "FLeng": "C",
+    "tel": "సియర్రా",
+    "FLtel": "స"
+  },
+  {
+    "id": "2452",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceowald",
+    "FLeng": "C",
+    "tel": "సిఓల్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2453",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cephas",
+    "FLeng": "C",
+    "tel": "సెఫస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2454",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cephus",
+    "FLeng": "C",
+    "tel": "సెఫ్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2455",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cerda",
+    "FLeng": "C",
+    "tel": "సరదా",
+    "FLtel": "స"
+  },
+  {
+    "id": "2456",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cerdic",
+    "FLeng": "C",
+    "tel": "సర్దిక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2457",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceredig",
+    "FLeng": "C",
+    "tel": "సెరెడిగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2458",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cerenhir",
+    "FLeng": "C",
+    "tel": "సురేంహిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2459",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cerennhir",
+    "FLeng": "C",
+    "tel": "సురేన్హిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2460",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceretic",
+    "FLeng": "C",
+    "tel": "సెరెటిక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2461",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cerne",
+    "FLeng": "C",
+    "tel": "సెర్న్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2462",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ceron",
+    "FLeng": "C",
+    "tel": "సెర్న్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2463",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Certa",
+    "FLeng": "C",
+    "tel": "స్ర్త",
+    "FLtel": "స"
+  },
+  {
+    "id": "2464",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ces",
+    "FLeng": "C",
+    "tel": "సీఎస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2465",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cesar",
+    "FLeng": "C",
+    "tel": "చేశారు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2466",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cesare",
+    "FLeng": "C",
+    "tel": "చేశారే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2467",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cesario",
+    "FLeng": "C",
+    "tel": "సెసారియో",
+    "FLtel": "స"
+  },
+  {
+    "id": "2468",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cestmir",
+    "FLeng": "C",
+    "tel": "సిస్టమిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2469",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cetaka",
+    "FLeng": "C",
+    "tel": "చేతకా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2470",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cetarka",
+    "FLeng": "C",
+    "tel": "సుతర్క",
+    "FLtel": "స"
+  },
+  {
+    "id": "2471",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cetas",
+    "FLeng": "C",
+    "tel": "సిట్రస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2472",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cetewind",
+    "FLeng": "C",
+    "tel": "సుతేవింద్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2473",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Cetin",
+    "FLeng": "C",
+    "tel": "సతిం",
+    "FLtel": "స"
+  },
+  {
+    "id": "2474",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cetrama",
+    "FLeng": "C",
+    "tel": "స్త్రమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "2475",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cetuur",
+    "FLeng": "C",
+    "tel": "సితార్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2476",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ceyhun",
+    "FLeng": "C",
+    "tel": "సీహుం",
+    "FLtel": "స"
+  },
+  {
+    "id": "2477",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ceyone",
+    "FLeng": "C",
+    "tel": "సియోన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2478",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cezar",
+    "FLeng": "C",
+    "tel": "సీజర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "2479",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cezary",
+    "FLeng": "C",
+    "tel": "చేజారి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2480",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cha",
+    "FLeng": "C",
+    "tel": "చ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2481",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaah",
+    "FLeng": "C",
+    "tel": "చాహ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2482",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaanakya",
+    "FLeng": "C",
+    "tel": "చాణక్య",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2483",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaaran",
+    "FLeng": "C",
+    "tel": "చారం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2484",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaaruchandra",
+    "FLeng": "C",
+    "tel": "చారుచంద్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2485",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaaruchithra",
+    "FLeng": "C",
+    "tel": "చారుచిత్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2486",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaarudatt",
+    "FLeng": "C",
+    "tel": "చారుదత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2487",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaaruhaas",
+    "FLeng": "C",
+    "tel": "చారుహాస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2488",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaarun",
+    "FLeng": "C",
+    "tel": "చారం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2489",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaayan",
+    "FLeng": "C",
+    "tel": "చాయం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2490",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chabeela",
+    "FLeng": "C",
+    "tel": "ఛాబీల",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2491",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chabila",
+    "FLeng": "C",
+    "tel": "చాభిలా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2492",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chace",
+    "FLeng": "C",
+    "tel": "చాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2493",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chacha",
+    "FLeng": "C",
+    "tel": "చర్చ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2494",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chachi",
+    "FLeng": "c",
+    "tel": "చాచి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2495",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chad",
+    "FLeng": "C",
+    "tel": "చాడ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2496",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadburn",
+    "FLeng": "C",
+    "tel": "చాద్భుర్న్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2497",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadburne",
+    "FLeng": "C",
+    "tel": "చాద్భుర్నే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2498",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadbyrne",
+    "FLeng": "C",
+    "tel": "చాడ్బైర్నే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2499",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadd",
+    "FLeng": "C",
+    "tel": "చాద్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2500",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaddie",
+    "FLeng": "C",
+    "tel": "చడ్డీయే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadrick",
+    "FLeng": "C",
+    "tel": "ఛాడ్రిక్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2502",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadron",
+    "FLeng": "C",
+    "tel": "చంద్రోన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2503",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadwick",
+    "FLeng": "C",
+    "tel": "చద్విక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2504",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chadwik",
+    "FLeng": "C",
+    "tel": "చద్విక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2505",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chael",
+    "FLeng": "C",
+    "tel": "ఖేల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "2506",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chael",
+    "FLeng": "c",
+    "tel": "ఖేల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "2507",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaeralathan",
+    "FLeng": "C",
+    "tel": "చేరాలతం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2508",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaga",
+    "FLeng": "C",
+    "tel": "చగా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2509",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chagala",
+    "FLeng": "C",
+    "tel": "చాగల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2510",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaggan",
+    "FLeng": "C",
+    "tel": "చగ్గన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2511",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chago",
+    "FLeng": "C",
+    "tel": "చాగో",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2512",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chahal",
+    "FLeng": "C",
+    "tel": "చాహల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2513",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chahan",
+    "FLeng": "C",
+    "tel": "చాహం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2514",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chahat",
+    "FLeng": "C",
+    "tel": "చాహత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2515",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chahaya",
+    "FLeng": "C",
+    "tel": "చాహాయ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2516",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chahel",
+    "FLeng": "C",
+    "tel": "చహెల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2517",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chahid",
+    "FLeng": "C",
+    "tel": "చాహిద్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2518",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chahit",
+    "FLeng": "C",
+    "tel": "చాహిట్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2519",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chai",
+    "FLeng": "C",
+    "tel": "చై",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2520",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Chai Son",
+    "FLeng": "C",
+    "tel": "చై సొన్",
+    "FLtel": "చ"
+  }
+]

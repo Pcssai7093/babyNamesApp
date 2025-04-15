@@ -1,0 +1,902 @@
+[
+  {
+    "id": "2832",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheeran",
+    "FLeng": "A",
+    "tel": "అభీరం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2833",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheerup",
+    "FLeng": "A",
+    "tel": "అభీరుప్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2834",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheeshek",
+    "FLeng": "A",
+    "tel": "అభీషేక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2835",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheesht",
+    "FLeng": "A",
+    "tel": "అభీష్ట",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2836",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheeshtha",
+    "FLeng": "A",
+    "tel": "అభీష్ఠా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2837",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheest",
+    "FLeng": "A",
+    "tel": "అభీష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2838",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abheet",
+    "FLeng": "A",
+    "tel": "అభీట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2839",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhejay",
+    "FLeng": "A",
+    "tel": "అభేజాయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2840",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhey",
+    "FLeng": "A",
+    "tel": "అబీయా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2841",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhi",
+    "FLeng": "A",
+    "tel": "అభి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2842",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Abhiansh",
+    "FLeng": "A",
+    "tel": "అభియాన్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2843",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhibhava",
+    "FLeng": "A",
+    "tel": "అభిభవ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2844",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhibhu",
+    "FLeng": "A",
+    "tel": "అభిభూ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2845",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhicandra",
+    "FLeng": "A",
+    "tel": "అభికాంద్ర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2846",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhichandra",
+    "FLeng": "A",
+    "tel": "అభిచంద్ర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2847",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhideep",
+    "FLeng": "A",
+    "tel": "అభిదీప్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2848",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidhan",
+    "FLeng": "A",
+    "tel": "అభిధానం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2849",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidhar",
+    "FLeng": "A",
+    "tel": "అభిధర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2850",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidharm",
+    "FLeng": "A",
+    "tel": "అభిధర్మ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2851",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidhyan",
+    "FLeng": "A",
+    "tel": "అభిధ్యేన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2852",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidi",
+    "FLeng": "A",
+    "tel": "అభిది",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2853",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidipa",
+    "FLeng": "A",
+    "tel": "అభిదీప",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2854",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhidyu",
+    "FLeng": "A",
+    "tel": "అభిద్యు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2855",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhigam",
+    "FLeng": "A",
+    "tel": "అభిగం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2856",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhigeet",
+    "FLeng": "A",
+    "tel": "అభిజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2857",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Abhigita",
+    "FLeng": "A",
+    "tel": "అభిజిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2858",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhignan",
+    "FLeng": "A",
+    "tel": "అభిజ్ఞాన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2859",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhigyaan",
+    "FLeng": "A",
+    "tel": "అభిజియాన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2860",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhigyan",
+    "FLeng": "A",
+    "tel": "అభిజియం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2861",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhihas",
+    "FLeng": "A",
+    "tel": "అభియాన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2862",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhihava",
+    "FLeng": "A",
+    "tel": "అభిహవా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2863",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhihita",
+    "FLeng": "A",
+    "tel": "అభిహిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2864",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijaat",
+    "FLeng": "A",
+    "tel": "అభిజాతి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2865",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijan",
+    "FLeng": "A",
+    "tel": "అభిజ్న",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2866",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijanya",
+    "FLeng": "A",
+    "tel": "అభిజన్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2867",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijat",
+    "FLeng": "A",
+    "tel": "అభిజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2868",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijath",
+    "FLeng": "A",
+    "tel": "అభిజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2869",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijay",
+    "FLeng": "A",
+    "tel": "అభిజాయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2870",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijaya",
+    "FLeng": "A",
+    "tel": "అభిజాయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2871",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijeet",
+    "FLeng": "A",
+    "tel": "అభిజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2872",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijeeth",
+    "FLeng": "A",
+    "tel": "అభిజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2873",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Abhijeevan",
+    "FLeng": "A",
+    "tel": "అభిజీవం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2874",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhiji",
+    "FLeng": "A",
+    "tel": "అభిజి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2875",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijiat",
+    "FLeng": "A",
+    "tel": "అభిజిట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2876",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijin",
+    "FLeng": "A",
+    "tel": "అభిజిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2877",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijit",
+    "FLeng": "A",
+    "tel": "అభిజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2878",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijith",
+    "FLeng": "A",
+    "tel": "అభిజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2879",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijnana",
+    "FLeng": "A",
+    "tel": "అభిజ్ఞాన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2880",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Abhijot-Singh",
+    "FLeng": "A",
+    "tel": "అభిజాతి-సింగ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2881",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijun",
+    "FLeng": "A",
+    "tel": "అభిజాన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2882",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhijvala",
+    "FLeng": "A",
+    "tel": "అభిజ్వల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2883",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhik",
+    "FLeng": "A",
+    "tel": "అభిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2884",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhika",
+    "FLeng": "A",
+    "tel": "అభిక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2885",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhikam",
+    "FLeng": "A",
+    "tel": "అభికం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2886",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhikama",
+    "FLeng": "A",
+    "tel": "అభికమ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2887",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhikarsh",
+    "FLeng": "A",
+    "tel": "అభికర్ష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2888",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhilash",
+    "FLeng": "A",
+    "tel": "అభిలాష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2889",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhilesh",
+    "FLeng": "A",
+    "tel": "అభిలేష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2890",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhim",
+    "FLeng": "A",
+    "tel": "అభిమా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2891",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhima",
+    "FLeng": "A",
+    "tel": "అభిమా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2892",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimaan",
+    "FLeng": "A",
+    "tel": "అభిమానం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2893",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimakar",
+    "FLeng": "A",
+    "tel": "అభిమాకర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2894",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhiman",
+    "FLeng": "A",
+    "tel": "అభిమానం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2895",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimand",
+    "FLeng": "A",
+    "tel": "అభిమాను",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2896",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimanee",
+    "FLeng": "A",
+    "tel": "అభిమాని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2897",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimanuya",
+    "FLeng": "A",
+    "tel": "అభిమానుయా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimanya",
+    "FLeng": "A",
+    "tel": "అభిమన్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimanyu",
+    "FLeng": "A",
+    "tel": "అభిమన్యు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2900",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimanyusuta",
+    "FLeng": "A",
+    "tel": "అభిమన్యుసుట",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2901",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimath",
+    "FLeng": "A",
+    "tel": "అభిమత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhimoda",
+    "FLeng": "A",
+    "tel": "అభిమోద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2903",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Abhin",
+    "FLeng": "A",
+    "tel": "అభినం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinaash",
+    "FLeng": "A",
+    "tel": "అభినాష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2905",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinabhas",
+    "FLeng": "A",
+    "tel": "అభినాభాస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinamin",
+    "FLeng": "A",
+    "tel": "అభినంయం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2907",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinand",
+    "FLeng": "A",
+    "tel": "అభినంద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2908",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinanda",
+    "FLeng": "A",
+    "tel": "అభినంద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2909",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinandan",
+    "FLeng": "A",
+    "tel": "అభినందన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinandana",
+    "FLeng": "A",
+    "tel": "అభినందన",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2911",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinandh",
+    "FLeng": "A",
+    "tel": "అభినంద",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2912",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinash",
+    "FLeng": "A",
+    "tel": "అభినేష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2913",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinatha",
+    "FLeng": "A",
+    "tel": "అభినాథ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2914",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinav",
+    "FLeng": "A",
+    "tel": "అభినవ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2915",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinav-sai",
+    "FLeng": "A",
+    "tel": "అభినవ్-సాయి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2916",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinava",
+    "FLeng": "A",
+    "tel": "అభినవ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2917",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinavan",
+    "FLeng": "A",
+    "tel": "అభినవం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2918",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinay",
+    "FLeng": "A",
+    "tel": "అభినయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2919",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinayan",
+    "FLeng": "A",
+    "tel": "అభినయం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2920",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhindra",
+    "FLeng": "A",
+    "tel": "అభింద్రా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2921",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhineet",
+    "FLeng": "A",
+    "tel": "అభిజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2922",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhineeth",
+    "FLeng": "A",
+    "tel": "అభిజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinesh",
+    "FLeng": "A",
+    "tel": "అభినేష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2924",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinit",
+    "FLeng": "A",
+    "tel": "అభినేట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2925",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinita",
+    "FLeng": "A",
+    "tel": "అభినిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinivesh",
+    "FLeng": "A",
+    "tel": "అభినివేశ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2927",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinivesha",
+    "FLeng": "A",
+    "tel": "అభినివేశం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2928",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinn",
+    "FLeng": "A",
+    "tel": "అభినం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2929",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinna",
+    "FLeng": "A",
+    "tel": "అభిఞ్ఞా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2930",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Abhinoor",
+    "FLeng": "A",
+    "tel": "అభినూర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "2931",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Abhinu",
+    "FLeng": "A",
+    "tel": "అభిను",
+    "FLtel": "అ"
+  }
+]

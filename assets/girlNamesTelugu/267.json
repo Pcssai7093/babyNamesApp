@@ -1,0 +1,848 @@
+[
+  {
+    "id": "116367",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahajabeen",
+    "FLeng": "M",
+    "tel": "మహజబీన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116368",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahak",
+    "FLeng": "M",
+    "tel": "మహాక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116369",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahakali",
+    "FLeng": "M",
+    "tel": "మహాకాళి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116370",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahakanta",
+    "FLeng": "M",
+    "tel": "మహాకాంత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116371",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahakantha",
+    "FLeng": "M",
+    "tel": "మహాకాంత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116372",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "mahal",
+    "FLeng": "m",
+    "tel": "మహల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116373",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahala",
+    "FLeng": "M",
+    "tel": "మహాల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116374",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mahalah",
+    "FLeng": "m",
+    "tel": "మహాలాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116375",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahalakshmi",
+    "FLeng": "M",
+    "tel": "మహాలక్ష్మి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116376",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahalar",
+    "FLeng": "M",
+    "tel": "మహాలర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116377",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahalasa",
+    "FLeng": "M",
+    "tel": "మహాల్సా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116378",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahalath",
+    "FLeng": "M",
+    "tel": "మహాలత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116379",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahalaxmi",
+    "FLeng": "M",
+    "tel": "మహాలష్మి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116380",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahalaya",
+    "FLeng": "M",
+    "tel": "మహాలయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116381",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahald",
+    "FLeng": "M",
+    "tel": "మహల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116382",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahaley",
+    "FLeng": "M",
+    "tel": "మహల్య్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116383",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahalfa",
+    "FLeng": "M",
+    "tel": "మహాల్ఫా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116384",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahalia",
+    "FLeng": "M",
+    "tel": "మహాలయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116385",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mahalia",
+    "FLeng": "m",
+    "tel": "మహాలయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116386",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahalika",
+    "FLeng": "M",
+    "tel": "మహాలిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116387",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahalsa",
+    "FLeng": "M",
+    "tel": "మహాల్సా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116388",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahalt",
+    "FLeng": "M",
+    "tel": "మహల్ట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116389",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahalya",
+    "FLeng": "M",
+    "tel": "మహాలయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116390",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Maham",
+    "FLeng": "M",
+    "tel": "మొహం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116391",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahanandi",
+    "FLeng": "M",
+    "tel": "మహానంది",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116392",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mahangiaan",
+    "FLeng": "M",
+    "tel": "మహాంగిఆన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116393",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mahangun",
+    "FLeng": "M",
+    "tel": "మహాంగున్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116394",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahani",
+    "FLeng": "M",
+    "tel": "మహాని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116395",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mahanjot",
+    "FLeng": "M",
+    "tel": "మొహంజోత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116396",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahanshi",
+    "FLeng": "M",
+    "tel": "మహన్షి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116397",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mahansukh",
+    "FLeng": "M",
+    "tel": "మాహంసుఖ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116398",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahanthi",
+    "FLeng": "M",
+    "tel": "మహంతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116399",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahanvita",
+    "FLeng": "M",
+    "tel": "మహాన్విత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116400",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahanya",
+    "FLeng": "M",
+    "tel": "మహన్యా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116401",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maharaksha",
+    "FLeng": "M",
+    "tel": "మహారాక్ష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116402",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahasen",
+    "FLeng": "M",
+    "tel": "మహాజన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116403",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahashree",
+    "FLeng": "M",
+    "tel": "మహాశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116404",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahashri",
+    "FLeng": "M",
+    "tel": "మహాశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116405",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahaskah",
+    "FLeng": "M",
+    "tel": "మహాసకః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116406",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahasri",
+    "FLeng": "M",
+    "tel": "మహాశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116407",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahasweta",
+    "FLeng": "M",
+    "tel": "మహాశ్వేతా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116408",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahaswetha",
+    "FLeng": "M",
+    "tel": "మహాశ్వేత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116409",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahatapa",
+    "FLeng": "M",
+    "tel": "మహాతప",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116410",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahathi",
+    "FLeng": "M",
+    "tel": "మహతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116411",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahati",
+    "FLeng": "M",
+    "tel": "మహతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116412",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahault",
+    "FLeng": "M",
+    "tel": "మహౌల్ట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116413",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahaut",
+    "FLeng": "M",
+    "tel": "మహౌట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116414",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahavaishnavi",
+    "FLeng": "M",
+    "tel": "మహావైష్ణవి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116415",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahavidya",
+    "FLeng": "M",
+    "tel": "మహావిద్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116416",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbasah",
+    "FLeng": "M",
+    "tel": "మహభాష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116417",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbob",
+    "FLeng": "M",
+    "tel": "మహబాబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116418",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbobah",
+    "FLeng": "M",
+    "tel": "మహాబోబహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116419",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbooba",
+    "FLeng": "M",
+    "tel": "మెహబూబా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116420",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahboobah",
+    "FLeng": "M",
+    "tel": "మహబూబాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116421",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahboobe",
+    "FLeng": "M",
+    "tel": "మహబూబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116422",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbuba",
+    "FLeng": "M",
+    "tel": "మహబూబా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116423",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbubah",
+    "FLeng": "M",
+    "tel": "మహబూబాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116424",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbubee",
+    "FLeng": "M",
+    "tel": "మహబూబీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116425",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahbubi",
+    "FLeng": "M",
+    "tel": "మహబూబీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116426",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahchehr",
+    "FLeng": "M",
+    "tel": "మహాచెహ్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116427",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahdia",
+    "FLeng": "M",
+    "tel": "మహాదిత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116428",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahdis",
+    "FLeng": "M",
+    "tel": "మహాదిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116429",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahdiya",
+    "FLeng": "M",
+    "tel": "మహాడియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116430",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahdiyah",
+    "FLeng": "M",
+    "tel": "మహాదియహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116431",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahdokht",
+    "FLeng": "M",
+    "tel": "మహాదోక్ట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116432",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Maheera",
+    "FLeng": "M",
+    "tel": "మహీరా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116433",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahek",
+    "FLeng": "M",
+    "tel": "మెహెక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116434",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahela",
+    "FLeng": "M",
+    "tel": "మహిళా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116435",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahelia",
+    "FLeng": "M",
+    "tel": "మహాయా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116436",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahelika",
+    "FLeng": "M",
+    "tel": "మహేళిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116437",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahendi",
+    "FLeng": "M",
+    "tel": "మహేంది",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116438",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mahenyld",
+    "FLeng": "M",
+    "tel": "మహేన్య్ల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116439",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahera",
+    "FLeng": "M",
+    "tel": "మహీరా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116440",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mahesa",
+    "FLeng": "M",
+    "tel": "మహేశా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116441",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheshani",
+    "FLeng": "M",
+    "tel": "మహేషాని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116442",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheshi",
+    "FLeng": "M",
+    "tel": "మహిషి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116443",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheshmati",
+    "FLeng": "M",
+    "tel": "మాహిష్మతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116444",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheshwari",
+    "FLeng": "M",
+    "tel": "మహేశ్వరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116445",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheswara",
+    "FLeng": "M",
+    "tel": "మహేశ్వర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116446",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheswari",
+    "FLeng": "M",
+    "tel": "మహేశ్వరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116447",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maheswree",
+    "FLeng": "M",
+    "tel": "మహేస్వరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116448",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maheswri",
+    "FLeng": "M",
+    "tel": "మహేస్వరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116449",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahfooza",
+    "FLeng": "M",
+    "tel": "మఃఫ్యూజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116450",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahfouza",
+    "FLeng": "M",
+    "tel": "మఃఫోనుజా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116451",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahfuza",
+    "FLeng": "M",
+    "tel": "మహఫుజా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116452",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahfuzah",
+    "FLeng": "M",
+    "tel": "మహఫుజాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116453",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahi",
+    "FLeng": "M",
+    "tel": "మహి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116454",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahia",
+    "FLeng": "M",
+    "tel": "మహిళ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116455",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mahibah",
+    "FLeng": "M",
+    "tel": "మహిబహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116456",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mahie",
+    "FLeng": "M",
+    "tel": "మహియ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116457",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahijuba",
+    "FLeng": "M",
+    "tel": "మహిజుబా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116458",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahika",
+    "FLeng": "M",
+    "tel": "మహిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116459",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahikaa",
+    "FLeng": "M",
+    "tel": "మహికా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "116460",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mahilam",
+    "FLeng": "M",
+    "tel": "మహిళం",
+    "FLtel": "మ"
+  }
+]

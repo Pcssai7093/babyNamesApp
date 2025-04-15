@@ -1,0 +1,902 @@
+[
+  {
+    "id": "44047",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijayram",
+    "FLeng": "V",
+    "tel": "విజయరాం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44048",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijayshankar",
+    "FLeng": "V",
+    "tel": "విజయశంకర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44049",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijeesh",
+    "FLeng": "V",
+    "tel": "విజీష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44050",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vijeet",
+    "FLeng": "V",
+    "tel": "విజిట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44051",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vijender",
+    "FLeng": "V",
+    "tel": "విజేందర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44052",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijendra",
+    "FLeng": "V",
+    "tel": "విజేంద్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44053",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijendran",
+    "FLeng": "V",
+    "tel": "విజేంద్రన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44054",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijesh",
+    "FLeng": "V",
+    "tel": "విజేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44055",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijigeesh",
+    "FLeng": "V",
+    "tel": "విజిగీషు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44056",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijit",
+    "FLeng": "V",
+    "tel": "విజిట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44057",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijitendriya",
+    "FLeng": "V",
+    "tel": "విజితేంద్రియ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44058",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijith",
+    "FLeng": "V",
+    "tel": "విజిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44059",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viju",
+    "FLeng": "V",
+    "tel": "విజు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44060",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vijval",
+    "FLeng": "V",
+    "tel": "విజ్వల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44061",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikach",
+    "FLeng": "V",
+    "tel": "వికచ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44062",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikadakavi",
+    "FLeng": "V",
+    "tel": "వికటకవి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44063",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikadan",
+    "FLeng": "V",
+    "tel": "వికడం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44064",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikal",
+    "FLeng": "V",
+    "tel": "వికాల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44065",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikalp",
+    "FLeng": "V",
+    "tel": "వికల్ప",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44066",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikam",
+    "FLeng": "V",
+    "tel": "వికం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44067",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikarm",
+    "FLeng": "V",
+    "tel": "వికారం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44068",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikarna",
+    "FLeng": "V",
+    "tel": "వికర్ణ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44069",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikarnan",
+    "FLeng": "V",
+    "tel": "వికారణం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44070",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikas",
+    "FLeng": "V",
+    "tel": "వికాస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44071",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikash",
+    "FLeng": "V",
+    "tel": "వికాస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44072",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikat",
+    "FLeng": "V",
+    "tel": "వికెట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44073",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikatinanda",
+    "FLeng": "V",
+    "tel": "వికతినండ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44074",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viken",
+    "FLeng": "V",
+    "tel": "వికేం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44075",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikern",
+    "FLeng": "V",
+    "tel": "వికెర్న్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44076",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikesh",
+    "FLeng": "V",
+    "tel": "వికేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44077",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikhyaat",
+    "FLeng": "V",
+    "tel": "విఖ్యాత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44078",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikhyat",
+    "FLeng": "V",
+    "tel": "విఖ్యాత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44079",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikhyath",
+    "FLeng": "V",
+    "tel": "విఖ్యాత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Viki",
+    "FLeng": "V",
+    "tel": "వికీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44081",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikil",
+    "FLeng": "V",
+    "tel": "వికిల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44082",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikirdhan",
+    "FLeng": "V",
+    "tel": "వికీర్ధం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44083",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikram",
+    "FLeng": "V",
+    "tel": "విక్రమ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44084",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "vikram",
+    "FLeng": "v",
+    "tel": "విక్రమ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44085",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikramaditya",
+    "FLeng": "V",
+    "tel": "విక్రమాదిత్య",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44086",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikramajit",
+    "FLeng": "V",
+    "tel": "విక్రమాజిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44087",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikraman",
+    "FLeng": "V",
+    "tel": "విక్రమం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44088",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikramark",
+    "FLeng": "V",
+    "tel": "విక్రమార్క",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44089",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vikramdev",
+    "FLeng": "V",
+    "tel": "విక్రమదేవ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44090",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikramendra",
+    "FLeng": "V",
+    "tel": "విక్రమేంద్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44091",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikramesh",
+    "FLeng": "V",
+    "tel": "విక్రమేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44092",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikramin",
+    "FLeng": "V",
+    "tel": "విక్రమిం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44093",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vikramjeet",
+    "FLeng": "V",
+    "tel": "విక్రంజీత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44094",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vikramjit",
+    "FLeng": "V",
+    "tel": "విక్రంజీత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44095",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vikramjot",
+    "FLeng": "V",
+    "tel": "విక్రంజోత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44096",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vikrampal",
+    "FLeng": "V",
+    "tel": "విక్రంపాల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44097",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Vikrampreet",
+    "FLeng": "V",
+    "tel": "విక్రంప్రీత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44098",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikranath",
+    "FLeng": "V",
+    "tel": "విక్రాన్త",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44099",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikrant",
+    "FLeng": "V",
+    "tel": "విక్రాంత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44100",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikranta",
+    "FLeng": "V",
+    "tel": "విక్రాంత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44101",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikranth",
+    "FLeng": "V",
+    "tel": "విక్రాంత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44102",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viksar",
+    "FLeng": "V",
+    "tel": "వికాసార్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44103",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikshar",
+    "FLeng": "V",
+    "tel": "విక్షర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44104",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Viktor",
+    "FLeng": "V",
+    "tel": "విక్టర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44105",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Viktoras",
+    "FLeng": "V",
+    "tel": "వికటోరస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44106",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikunj",
+    "FLeng": "V",
+    "tel": "వికుంజ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44107",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikunth",
+    "FLeng": "V",
+    "tel": "వికున్త",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44108",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikusra",
+    "FLeng": "V",
+    "tel": "వికీసర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44109",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vikyaath",
+    "FLeng": "V",
+    "tel": "విఖ్యాత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vila",
+    "FLeng": "v",
+    "tel": "విల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44111",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilaas",
+    "FLeng": "V",
+    "tel": "విలాస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44112",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilas",
+    "FLeng": "V",
+    "tel": "విలాస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44113",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilasa",
+    "FLeng": "V",
+    "tel": "విలాస",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44114",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilash",
+    "FLeng": "V",
+    "tel": "విలాస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44115",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilasin",
+    "FLeng": "V",
+    "tel": "విలసిని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44116",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Vilem",
+    "FLeng": "V",
+    "tel": "విల్లి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44117",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vilfred",
+    "FLeng": "v",
+    "tel": "విల్ఫ్రెడ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44118",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Vilhelm",
+    "FLeng": "V",
+    "tel": "విల్హేల్మ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44119",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vilhelmi",
+    "FLeng": "v",
+    "tel": "విల్హేల్మి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44120",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Vilhelms",
+    "FLeng": "V",
+    "tel": "విల్హేల్మ్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44121",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vilho",
+    "FLeng": "v",
+    "tel": "విలహో",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44122",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Viliam",
+    "FLeng": "V",
+    "tel": "విలియం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44123",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Vilis",
+    "FLeng": "V",
+    "tel": "విల్లీస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44124",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "viliulfo",
+    "FLeng": "v",
+    "tel": "విలులఫో",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44125",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Viljam",
+    "FLeng": "V",
+    "tel": "విలిజం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44126",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "viljami",
+    "FLeng": "v",
+    "tel": "విలజామి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44127",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "viljo",
+    "FLeng": "v",
+    "tel": "విలీజా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44128",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilkesh",
+    "FLeng": "V",
+    "tel": "విలకేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44129",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "villads",
+    "FLeng": "v",
+    "tel": "విల్లాడ్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44130",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "villard",
+    "FLeng": "v",
+    "tel": "విల్లార్డ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44131",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Villavan",
+    "FLeng": "V",
+    "tel": "వీళ్ళవన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ville",
+    "FLeng": "v",
+    "tel": "విల్లే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44133",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Villem",
+    "FLeng": "V",
+    "tel": "వీళ్ళేం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44134",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Villiam",
+    "FLeng": "V",
+    "tel": "విలియం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44135",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "villiers",
+    "FLeng": "v",
+    "tel": "విల్లియర్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44136",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "villum",
+    "FLeng": "v",
+    "tel": "విల్లుమ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44137",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilmad",
+    "FLeng": "V",
+    "tel": "విల్మాడీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vilmar",
+    "FLeng": "v",
+    "tel": "విల్మార్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44139",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vilmos",
+    "FLeng": "v",
+    "tel": "విల్మ్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44140",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilochan",
+    "FLeng": "V",
+    "tel": "విలోచన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44141",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilohit",
+    "FLeng": "V",
+    "tel": "విలోహిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44142",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilok",
+    "FLeng": "V",
+    "tel": "విలోకే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44143",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vilokan",
+    "FLeng": "V",
+    "tel": "విలోకం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44144",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viloman",
+    "FLeng": "V",
+    "tel": "విలోమం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "vilppu",
+    "FLeng": "v",
+    "tel": "విలీప్కు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44146",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vimad",
+    "FLeng": "V",
+    "tel": "విండ్",
+    "FLtel": "వ"
+  }
+]

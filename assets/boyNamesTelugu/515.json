@@ -1,0 +1,830 @@
+[
+  {
+    "id": "39437",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitamani",
+    "FLeng": "S",
+    "tel": "సీతామని",
+    "FLtel": "స"
+  },
+  {
+    "id": "39438",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitambuj",
+    "FLeng": "S",
+    "tel": "సీతంబుజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39439",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitanshu",
+    "FLeng": "S",
+    "tel": "శీతాంశు",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39440",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitanveshana",
+    "FLeng": "S",
+    "tel": "సీతాన్వేషణ",
+    "FLtel": "స"
+  },
+  {
+    "id": "39441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitaram",
+    "FLeng": "S",
+    "tel": "సీతారాం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39442",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitaramapada",
+    "FLeng": "S",
+    "tel": "సీతారామపాద",
+    "FLtel": "స"
+  },
+  {
+    "id": "39443",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitashoka",
+    "FLeng": "S",
+    "tel": "సీతాశోక",
+    "FLtel": "స"
+  },
+  {
+    "id": "39444",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sith",
+    "FLeng": "S",
+    "tel": "సిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39445",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitikantha",
+    "FLeng": "S",
+    "tel": "శితికంఠ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39446",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitiman",
+    "FLeng": "S",
+    "tel": "సిటిమాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sitpan",
+    "FLeng": "S",
+    "tel": "సిటపం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39448",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Situl",
+    "FLeng": "S",
+    "tel": "సైటుల",
+    "FLtel": "స"
+  },
+  {
+    "id": "39449",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Siva",
+    "FLeng": "S",
+    "tel": "శివ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39450",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Siva Krishna",
+    "FLeng": "S",
+    "tel": "శివ కృష్ణ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39451",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Siva Kumaran",
+    "FLeng": "S",
+    "tel": "శివ కుమారన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39452",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Siva Preethi",
+    "FLeng": "S",
+    "tel": "శివ ప్రీతీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39453",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivabalan",
+    "FLeng": "S",
+    "tel": "శివబలం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39454",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivabhushan",
+    "FLeng": "S",
+    "tel": "శివభూషణ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39455",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivachelvan",
+    "FLeng": "S",
+    "tel": "సివచ్చెల్వాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39456",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivadas",
+    "FLeng": "S",
+    "tel": "శివదాస్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39457",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivadasan",
+    "FLeng": "S",
+    "tel": "శివదాసాన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39458",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivagnanam",
+    "FLeng": "S",
+    "tel": "శివజ్ఞానం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39459",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaguru",
+    "FLeng": "S",
+    "tel": "శివగురు",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39460",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaiah",
+    "FLeng": "S",
+    "tel": "శివయ్య",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39461",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaji",
+    "FLeng": "S",
+    "tel": "శివాజీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39462",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivakant",
+    "FLeng": "S",
+    "tel": "శివకాంత్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39463",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivakumar",
+    "FLeng": "S",
+    "tel": "శివకుమార్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39464",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivakumaran",
+    "FLeng": "S",
+    "tel": "శివకుమారం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39465",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivalingam",
+    "FLeng": "S",
+    "tel": "శివలింగం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39466",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivalingeshwaran",
+    "FLeng": "S",
+    "tel": "శివలింగేశ్వరం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39467",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivalogam",
+    "FLeng": "S",
+    "tel": "శివలోగం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39468",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivam",
+    "FLeng": "S",
+    "tel": "శివమ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39469",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivamani",
+    "FLeng": "S",
+    "tel": "శివమణి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39470",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivamurugan",
+    "FLeng": "S",
+    "tel": "శివమెరుగన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39471",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivamuthu",
+    "FLeng": "S",
+    "tel": "సివంతు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39472",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sivan",
+    "FLeng": "S",
+    "tel": "శివన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39473",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanand",
+    "FLeng": "S",
+    "tel": "శివానంద",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39474",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivananda",
+    "FLeng": "S",
+    "tel": "శివానంద",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39475",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sivanandam",
+    "FLeng": "S",
+    "tel": "శివానందం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39476",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanantham",
+    "FLeng": "S",
+    "tel": "శివానంతం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39477",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanath",
+    "FLeng": "S",
+    "tel": "శివనాథ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39478",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanathan",
+    "FLeng": "S",
+    "tel": "శివనాథన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39479",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanesan",
+    "FLeng": "S",
+    "tel": "శివనేసాం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39480",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanesh",
+    "FLeng": "S",
+    "tel": "శివనేశ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39481",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivanta",
+    "FLeng": "S",
+    "tel": "సివంత",
+    "FLtel": "స"
+  },
+  {
+    "id": "39482",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivapathi",
+    "FLeng": "S",
+    "tel": "శివపతి",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39483",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaraj",
+    "FLeng": "S",
+    "tel": "శివరాజ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39484",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivarajan",
+    "FLeng": "S",
+    "tel": "శివరాజన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39485",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaram",
+    "FLeng": "S",
+    "tel": "శివరాం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39486",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaramakrishna",
+    "FLeng": "S",
+    "tel": "శివరామకృష్ణ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39487",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sivaraman",
+    "FLeng": "S",
+    "tel": "శివారామం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39488",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sivert",
+    "FLeng": "S",
+    "tel": "సివెర్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39489",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Siwar",
+    "FLeng": "S",
+    "tel": "శివారు",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39490",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Siward",
+    "FLeng": "S",
+    "tel": "శివార్డ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39491",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Siwardus",
+    "FLeng": "S",
+    "tel": "శివార్డ్స్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "39492",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sixte",
+    "FLeng": "S",
+    "tel": "సిస్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39493",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sixten",
+    "FLeng": "S",
+    "tel": "సిక్సటన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39494",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sixto",
+    "FLeng": "S",
+    "tel": "సిక్సతో",
+    "FLtel": "స"
+  },
+  {
+    "id": "39495",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sixtus",
+    "FLeng": "S",
+    "tel": "సిక్త్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39496",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sixtus",
+    "FLeng": "s",
+    "tel": "సిక్త్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39497",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Siyaf",
+    "FLeng": "S",
+    "tel": "సిఎఫ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39498",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Siyamak",
+    "FLeng": "S",
+    "tel": "సియమాక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39499",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Siyavash",
+    "FLeng": "S",
+    "tel": "సియావాష్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39500",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sjoerd",
+    "FLeng": "s",
+    "tel": "సజోర్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skah",
+    "FLeng": "S",
+    "tel": "సకః",
+    "FLtel": "స"
+  },
+  {
+    "id": "39502",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "skah",
+    "FLeng": "s",
+    "tel": "సకః",
+    "FLtel": "స"
+  },
+  {
+    "id": "39503",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Skand",
+    "FLeng": "S",
+    "tel": "స్కంద",
+    "FLtel": "స"
+  },
+  {
+    "id": "39504",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Skandaguru",
+    "FLeng": "S",
+    "tel": "స్కందగురు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39505",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Skandan",
+    "FLeng": "S",
+    "tel": "స్కందం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39506",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Skandaprasad",
+    "FLeng": "S",
+    "tel": "స్కందప్రసాద్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39507",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Skandar",
+    "FLeng": "S",
+    "tel": "స్కందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39508",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "skandar",
+    "FLeng": "s",
+    "tel": "స్కందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39509",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Skandh",
+    "FLeng": "S",
+    "tel": "స్కంద",
+    "FLtel": "స"
+  },
+  {
+    "id": "39510",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skeat",
+    "FLeng": "S",
+    "tel": "స్కెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39511",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skeet",
+    "FLeng": "S",
+    "tel": "స్కెలెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39512",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skeeter",
+    "FLeng": "S",
+    "tel": "స్కెలెటర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39513",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skeets",
+    "FLeng": "S",
+    "tel": "స్కెలెట్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39514",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skeggr",
+    "FLeng": "S",
+    "tel": "స్కెగ్గర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39515",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skelton",
+    "FLeng": "S",
+    "tel": "స్కెలిటన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39516",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skender",
+    "FLeng": "S",
+    "tel": "స్కెన్డెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39517",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skete",
+    "FLeng": "S",
+    "tel": "స్కెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39518",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sketes",
+    "FLeng": "S",
+    "tel": "స్కెట్లు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39519",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skip",
+    "FLeng": "S",
+    "tel": "స్కిప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39520",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skipp",
+    "FLeng": "S",
+    "tel": "స్కిప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39521",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skipper",
+    "FLeng": "S",
+    "tel": "స్కిప్పర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39522",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "skipper",
+    "FLeng": "s",
+    "tel": "స్కిప్పర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39523",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skippere",
+    "FLeng": "S",
+    "tel": "స్కిప్పేర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39524",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skipton",
+    "FLeng": "S",
+    "tel": "స్కిప్టున్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39525",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skjaldolfr",
+    "FLeng": "S",
+    "tel": "స్ఖజ్లడోల్ఫ్ర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39526",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skotte",
+    "FLeng": "S",
+    "tel": "స్కోట్టే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39527",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skule",
+    "FLeng": "S",
+    "tel": "స్కూల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39528",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Skyden",
+    "FLeng": "S",
+    "tel": "స్కీదేం",
+    "FLtel": "స"
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "id": "1972",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caksas",
+    "FLeng": "C",
+    "tel": "కాకసస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1973",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caksu",
+    "FLeng": "C",
+    "tel": "కాక్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1974",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caksus",
+    "FLeng": "C",
+    "tel": "కాకసస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1975",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caksusa",
+    "FLeng": "C",
+    "tel": "చాక్షుస",
+    "FLtel": "చ"
+  },
+  {
+    "id": "1976",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caksusya",
+    "FLeng": "C",
+    "tel": "కాక్షుస్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "1977",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calagiru",
+    "FLeng": "C",
+    "tel": "కాలగిరు",
+    "FLtel": "క"
+  },
+  {
+    "id": "1978",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Calah",
+    "FLeng": "C",
+    "tel": "కాలః",
+    "FLtel": "క"
+  },
+  {
+    "id": "1979",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calahan",
+    "FLeng": "C",
+    "tel": "కలహం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1980",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calan",
+    "FLeng": "C",
+    "tel": "కాలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1981",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Calapati",
+    "FLeng": "C",
+    "tel": "చలపతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "1982",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calbert",
+    "FLeng": "C",
+    "tel": "కాల్బర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1983",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calbex",
+    "FLeng": "C",
+    "tel": "కల్బేస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1984",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calder",
+    "FLeng": "C",
+    "tel": "కాల్డర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1985",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calderon",
+    "FLeng": "C",
+    "tel": "కాల్డేరోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1986",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caldre",
+    "FLeng": "C",
+    "tel": "కెల్డ్రే",
+    "FLtel": "క"
+  },
+  {
+    "id": "1987",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caldwell",
+    "FLeng": "C",
+    "tel": "కాల్డ్వెల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1988",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cale",
+    "FLeng": "C",
+    "tel": "కాలే",
+    "FLtel": "క"
+  },
+  {
+    "id": "1989",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caleb",
+    "FLeng": "C",
+    "tel": "కాలేబు",
+    "FLtel": "క"
+  },
+  {
+    "id": "1990",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calem",
+    "FLeng": "C",
+    "tel": "క్యాలెం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1991",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calemund",
+    "FLeng": "C",
+    "tel": "కాలేమును",
+    "FLtel": "క"
+  },
+  {
+    "id": "1992",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calen",
+    "FLeng": "C",
+    "tel": "కాలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1993",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caley",
+    "FLeng": "C",
+    "tel": "కాలేయ",
+    "FLtel": "క"
+  },
+  {
+    "id": "1994",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calfhierde",
+    "FLeng": "C",
+    "tel": "క్యాలీఫిర్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1995",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calhoun",
+    "FLeng": "C",
+    "tel": "కెల్హౌం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1996",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calian",
+    "FLeng": "C",
+    "tel": "కాలియాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1997",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caliburn",
+    "FLeng": "C",
+    "tel": "క్యాలిబర్న్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1998",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calil",
+    "FLeng": "C",
+    "tel": "కేళి",
+    "FLtel": "క"
+  },
+  {
+    "id": "1999",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calimero",
+    "FLeng": "C",
+    "tel": "కాలిమెర్వ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2000",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calin",
+    "FLeng": "C",
+    "tel": "కాలిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2001",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Caliph",
+    "FLeng": "C",
+    "tel": "కాలిఫ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2002",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calix",
+    "FLeng": "C",
+    "tel": "కలిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2003",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calixto",
+    "FLeng": "C",
+    "tel": "కాలిస్త్రో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2004",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callaghan",
+    "FLeng": "C",
+    "tel": "కెల్లఁగన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2005",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callahan",
+    "FLeng": "C",
+    "tel": "కాళహన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2006",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callan",
+    "FLeng": "C",
+    "tel": "కెల్లన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2007",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callaway",
+    "FLeng": "C",
+    "tel": "కాళ్ళావే",
+    "FLtel": "క"
+  },
+  {
+    "id": "2008",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calle",
+    "FLeng": "C",
+    "tel": "కెళ్లే",
+    "FLtel": "క"
+  },
+  {
+    "id": "2009",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calles",
+    "FLeng": "C",
+    "tel": "కాల్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2010",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callister",
+    "FLeng": "C",
+    "tel": "కాలిస్టర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2011",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callisthenes",
+    "FLeng": "C",
+    "tel": "కెళ్ళిస్తేన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2012",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callixtus",
+    "FLeng": "C",
+    "tel": "కాలిస్ట్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2013",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Callum",
+    "FLeng": "C",
+    "tel": "కాళ్ళుమ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2014",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "callum",
+    "FLeng": "c",
+    "tel": "కాళ్ళుమ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2015",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calogero",
+    "FLeng": "C",
+    "tel": "కాళోజీరో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2016",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "calton",
+    "FLeng": "c",
+    "tel": "కెళ్తోం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2017",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calum",
+    "FLeng": "C",
+    "tel": "కాలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2018",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "calum",
+    "FLeng": "c",
+    "tel": "కాలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2019",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calunoth",
+    "FLeng": "C",
+    "tel": "చాలునోత్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2020",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calvert",
+    "FLeng": "C",
+    "tel": "కల్వర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2021",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calvex",
+    "FLeng": "C",
+    "tel": "కాల్వేస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2022",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calvin",
+    "FLeng": "C",
+    "tel": "కాల్విన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2023",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "calvin",
+    "FLeng": "c",
+    "tel": "కాల్విన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2024",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calvino",
+    "FLeng": "C",
+    "tel": "కాల్వినో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2025",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Calyx",
+    "FLeng": "C",
+    "tel": "కెల్లీస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2026",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cam",
+    "FLeng": "C",
+    "tel": "కాం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2027",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Camaraja",
+    "FLeng": "C",
+    "tel": "కామరాజ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2028",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camarsa",
+    "FLeng": "C",
+    "tel": "కామార్సా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2029",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Camarvala",
+    "FLeng": "C",
+    "tel": "కామర్వలు",
+    "FLtel": "క"
+  },
+  {
+    "id": "2030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Camas",
+    "FLeng": "C",
+    "tel": "కామన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2031",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Camasa",
+    "FLeng": "C",
+    "tel": "కామాస",
+    "FLtel": "క"
+  },
+  {
+    "id": "2032",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camberlie",
+    "FLeng": "C",
+    "tel": "క్యాంబెర్లీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2033",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cambridge",
+    "FLeng": "C",
+    "tel": "కేంబ్రిడ్జి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2034",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camden",
+    "FLeng": "C",
+    "tel": "కండెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2035",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camdyn",
+    "FLeng": "C",
+    "tel": "క్యాండీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2036",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camea",
+    "FLeng": "C",
+    "tel": "కెమెరా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2037",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cameleac",
+    "FLeng": "C",
+    "tel": "కామెలిక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2038",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camenzind",
+    "FLeng": "C",
+    "tel": "కామెంజిన్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cameron",
+    "FLeng": "C",
+    "tel": "కామెరాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Camikara",
+    "FLeng": "C",
+    "tel": "కెమికర",
+    "FLtel": "క"
+  },
+  {
+    "id": "2041",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camillo",
+    "FLeng": "C",
+    "tel": "కామిల్లో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camillus",
+    "FLeng": "C",
+    "tel": "కామిల్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camilo",
+    "FLeng": "C",
+    "tel": "కామిలో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2044",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camlach",
+    "FLeng": "C",
+    "tel": "కేంలచ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2045",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camora",
+    "FLeng": "C",
+    "tel": "కెమెరా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2046",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Campa",
+    "FLeng": "C",
+    "tel": "క్యాంపా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2047",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Campaka",
+    "FLeng": "C",
+    "tel": "క్యాంపక",
+    "FLtel": "క"
+  },
+  {
+    "id": "2048",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Campat",
+    "FLeng": "C",
+    "tel": "క్యాంపస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2049",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Campeya",
+    "FLeng": "C",
+    "tel": "క్యాంపెయి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2050",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Campu",
+    "FLeng": "C",
+    "tel": "క్యాంపు",
+    "FLtel": "క"
+  },
+  {
+    "id": "2051",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "camren",
+    "FLeng": "c",
+    "tel": "కామ్రేన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2052",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camri",
+    "FLeng": "C",
+    "tel": "క్యాంరి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2053",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camrin",
+    "FLeng": "C",
+    "tel": "క్యాంటిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2054",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camron",
+    "FLeng": "C",
+    "tel": "కామ్రాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2055",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camryn",
+    "FLeng": "C",
+    "tel": "క్యాంరీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "camryn-2",
+    "FLeng": "c",
+    "tel": "క్యాంరీన్-౨",
+    "FLtel": "క"
+  },
+  {
+    "id": "2057",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camulorix",
+    "FLeng": "C",
+    "tel": "కెములోరిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2058",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camvlorigi",
+    "FLeng": "C",
+    "tel": "క్యాంవ్లోరిగి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2059",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Camyron",
+    "FLeng": "C",
+    "tel": "కామిరోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2060",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Can",
+    "FLeng": "C",
+    "tel": "చన్",
+    "FLtel": "చ"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "134464",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velanie",
+    "FLeng": "V",
+    "tel": "వెళ్లనియె",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134465",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velantina",
+    "FLeng": "V",
+    "tel": "వేలంటైనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134466",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Velcy",
+    "FLeng": "V",
+    "tel": "వెల్చ్య్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134467",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veleda",
+    "FLeng": "V",
+    "tel": "వేలేదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134468",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velena",
+    "FLeng": "V",
+    "tel": "వేలునా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134469",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velia",
+    "FLeng": "V",
+    "tel": "వెలితి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134470",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Velini",
+    "FLeng": "V",
+    "tel": "వేలిని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134471",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Velli",
+    "FLeng": "V",
+    "tel": "వెళ్లి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134472",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vellma",
+    "FLeng": "V",
+    "tel": "వెళ్లమా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134473",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "velma",
+    "FLeng": "v",
+    "tel": "వెల్మ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134474",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velna",
+    "FLeng": "V",
+    "tel": "వేలునా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134475",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velonia",
+    "FLeng": "V",
+    "tel": "వేలిని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134476",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Velouette",
+    "FLeng": "V",
+    "tel": "వీలౌఎత్తే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134477",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "velvet",
+    "FLeng": "v",
+    "tel": "వెల్వెట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134478",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Velvizhi",
+    "FLeng": "V",
+    "tel": "వెళ్విజహి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134479",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vembarasi",
+    "FLeng": "V",
+    "tel": "వెంబరసి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134480",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vena",
+    "FLeng": "V",
+    "tel": "వేన",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134481",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venah",
+    "FLeng": "V",
+    "tel": "వెనః",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134482",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venaya",
+    "FLeng": "V",
+    "tel": "వెనయా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134483",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venba",
+    "FLeng": "V",
+    "tel": "వెంబ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134484",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vency",
+    "FLeng": "V",
+    "tel": "వెన్సీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134485",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vendela",
+    "FLeng": "v",
+    "tel": "వెండిలా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134486",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Venera",
+    "FLeng": "V",
+    "tel": "వేనేరా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134487",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "venetia",
+    "FLeng": "v",
+    "tel": "వేనేటిఏ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134488",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Venetia",
+    "FLeng": "V",
+    "tel": "వేనేటిఏ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134489",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Venette",
+    "FLeng": "V",
+    "tel": "వెనెట్టే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134490",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "venezia",
+    "FLeng": "v",
+    "tel": "వెనెజిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134491",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "venice",
+    "FLeng": "v",
+    "tel": "వెనిస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134492",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venika",
+    "FLeng": "V",
+    "tel": "వేణిక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134493",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Venisa",
+    "FLeng": "V",
+    "tel": "వెనిస",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134494",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venisha",
+    "FLeng": "V",
+    "tel": "వేణీశ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134495",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Venita",
+    "FLeng": "V",
+    "tel": "వినీత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134496",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venkamali",
+    "FLeng": "V",
+    "tel": "వెంకమలి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134497",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "venla",
+    "FLeng": "v",
+    "tel": "వెన్ల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134498",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venmadhi",
+    "FLeng": "V",
+    "tel": "వెణ్మది",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134499",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venmani",
+    "FLeng": "V",
+    "tel": "వెణ్మని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134500",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venmathi",
+    "FLeng": "V",
+    "tel": "వెణ్మతి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134501",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venmathy",
+    "FLeng": "V",
+    "tel": "వెణ్మతే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134502",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venmati",
+    "FLeng": "V",
+    "tel": "వేనాటి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134503",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venmugil",
+    "FLeng": "V",
+    "tel": "వెంముగిల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134504",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vennala",
+    "FLeng": "V",
+    "tel": "వెన్నల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134505",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vennela",
+    "FLeng": "V",
+    "tel": "వెన్నెల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134506",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vennila",
+    "FLeng": "V",
+    "tel": "వెన్నిలా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134507",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venpa",
+    "FLeng": "V",
+    "tel": "వెంప",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134508",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vensi",
+    "FLeng": "V",
+    "tel": "విఎంసి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134509",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ventamarai",
+    "FLeng": "V",
+    "tel": "వెంతమార్తె",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134510",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venthamarai",
+    "FLeng": "V",
+    "tel": "వెంతమార్తె",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134511",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venuhya",
+    "FLeng": "V",
+    "tel": "వెనూహ్య",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134512",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venuka",
+    "FLeng": "V",
+    "tel": "వెనుక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134513",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venukashree",
+    "FLeng": "V",
+    "tel": "వెనుకశ్రీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134514",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "venus",
+    "FLeng": "v",
+    "tel": "వీనస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134515",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "venusa",
+    "FLeng": "v",
+    "tel": "వెన్యూస",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134516",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Venya",
+    "FLeng": "V",
+    "tel": "వెంట",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134517",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veola",
+    "FLeng": "V",
+    "tel": "వేయాలా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134518",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "vera",
+    "FLeng": "v",
+    "tel": "వేరే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134519",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verbena",
+    "FLeng": "v",
+    "tel": "వేరుబెన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134520",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verctissa",
+    "FLeng": "V",
+    "tel": "వేర్చతిస్స",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134521",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verda",
+    "FLeng": "v",
+    "tel": "వేద",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134522",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verdad",
+    "FLeng": "v",
+    "tel": "వెర్డాడ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134523",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verde",
+    "FLeng": "v",
+    "tel": "వీరిదే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134524",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vereena",
+    "FLeng": "V",
+    "tel": "వేరీన",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134525",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verena",
+    "FLeng": "V",
+    "tel": "వేరేనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134526",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verena",
+    "FLeng": "v",
+    "tel": "వేరేనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134527",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verene",
+    "FLeng": "V",
+    "tel": "వీరినే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134528",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verginia",
+    "FLeng": "V",
+    "tel": "వర్జినియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134529",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verica",
+    "FLeng": "V",
+    "tel": "వీరికే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134530",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "veridian",
+    "FLeng": "v",
+    "tel": "వెరిడియన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134531",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verina",
+    "FLeng": "v",
+    "tel": "వేరైనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134532",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veristi",
+    "FLeng": "V",
+    "tel": "వెరిస్తి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134533",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verita",
+    "FLeng": "V",
+    "tel": "వెరిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134534",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verity",
+    "FLeng": "V",
+    "tel": "వెరైటీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134535",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verity",
+    "FLeng": "v",
+    "tel": "వెరైటీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134536",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verla",
+    "FLeng": "V",
+    "tel": "వేర్ల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134537",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verlee",
+    "FLeng": "V",
+    "tel": "వెర్లీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134538",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verlie",
+    "FLeng": "V",
+    "tel": "వెర్లీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134539",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verlye",
+    "FLeng": "V",
+    "tel": "వెర్ల్య్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134540",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verna",
+    "FLeng": "v",
+    "tel": "వెర్నా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134541",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vernessa",
+    "FLeng": "V",
+    "tel": "వేర్నేస్స",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134542",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vernetta",
+    "FLeng": "V",
+    "tel": "వెర్నెట్ల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134543",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vernica",
+    "FLeng": "V",
+    "tel": "వేర్నికా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134544",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Vernice",
+    "FLeng": "V",
+    "tel": "వెర్న్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134545",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vernika",
+    "FLeng": "V",
+    "tel": "వేర్నికా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134546",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verochka",
+    "FLeng": "v",
+    "tel": "విరోచక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134547",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "verona",
+    "FLeng": "v",
+    "tel": "వెరోనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134548",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Veroncia",
+    "FLeng": "V",
+    "tel": "వేరోన్సియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134549",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Verone",
+    "FLeng": "V",
+    "tel": "వెరోని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134550",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "veronia",
+    "FLeng": "v",
+    "tel": "వెరోనిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "134551",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "veronica",
+    "FLeng": "v",
+    "tel": "వేరోనికా",
+    "FLtel": "వ"
+  }
+]

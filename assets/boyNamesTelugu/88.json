@@ -1,0 +1,614 @@
+[
+  {
+    "id": "48643",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Banko",
+    "FLeng": "B",
+    "tel": "బ్యాంకు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48644",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bankole",
+    "FLeng": "B",
+    "tel": "బ్యాంకులే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48645",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bankroft",
+    "FLeng": "B",
+    "tel": "బంక్రోఫ్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48646",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Banmeet",
+    "FLeng": "B",
+    "tel": "బంమీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48647",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Banna",
+    "FLeng": "B",
+    "tel": "బన్న",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48648",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bannan",
+    "FLeng": "B",
+    "tel": "బన్నం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48649",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Banner",
+    "FLeng": "B",
+    "tel": "బ్యానర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48650",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Banning",
+    "FLeng": "B",
+    "tel": "బన్నింగ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48651",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bannruod",
+    "FLeng": "B",
+    "tel": "బంనృవుడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48652",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Banny",
+    "FLeng": "B",
+    "tel": "బన్నీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48653",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Banpaul",
+    "FLeng": "B",
+    "tel": "బంపయూల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48654",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Banseel",
+    "FLeng": "B",
+    "tel": "బన్సీల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48655",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bansh",
+    "FLeng": "B",
+    "tel": "బంష్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48656",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Banshi",
+    "FLeng": "B",
+    "tel": "బంధి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48657",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Banshidhar",
+    "FLeng": "B",
+    "tel": "బంశిధర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48658",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Banshik",
+    "FLeng": "B",
+    "tel": "బంశిక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48659",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bansi",
+    "FLeng": "B",
+    "tel": "బన్సీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48660",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bansidhar",
+    "FLeng": "B",
+    "tel": "బంశిధర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48661",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bansilal",
+    "FLeng": "B",
+    "tel": "బన్సీలాల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48662",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bansmeet",
+    "FLeng": "B",
+    "tel": "బన్సమీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48663",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Banspal",
+    "FLeng": "B",
+    "tel": "బంస్పల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48664",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Banti",
+    "FLeng": "B",
+    "tel": "బంతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48665",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Banty",
+    "FLeng": "B",
+    "tel": "బంటీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48666",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Banwari",
+    "FLeng": "B",
+    "tel": "బన్వారి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48667",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Banyan",
+    "FLeng": "B",
+    "tel": "బన్యన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48668",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "banyan",
+    "FLeng": "b",
+    "tel": "బన్యన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48669",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Banyu",
+    "FLeng": "B",
+    "tel": "బంయు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48670",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Banzan",
+    "FLeng": "B",
+    "tel": "బంజాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48671",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Bao",
+    "FLeng": "B",
+    "tel": "బయో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48672",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baphomet",
+    "FLeng": "B",
+    "tel": "భాఫార్మట్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48673",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baptist",
+    "FLeng": "B",
+    "tel": "బాప్టిస్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48674",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "baptist",
+    "FLeng": "b",
+    "tel": "బాప్టిస్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48675",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baptiste",
+    "FLeng": "B",
+    "tel": "బాప్టిస్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48676",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "baptiste",
+    "FLeng": "b",
+    "tel": "బాప్టిస్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48677",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bapu",
+    "FLeng": "B",
+    "tel": "బాపు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bar",
+    "FLeng": "B",
+    "tel": "బార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48679",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Baraat",
+    "FLeng": "B",
+    "tel": "బారాత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48680",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barabas",
+    "FLeng": "B",
+    "tel": "బారాబస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48681",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barack",
+    "FLeng": "B",
+    "tel": "బరాక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48682",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "barack",
+    "FLeng": "b",
+    "tel": "బరాక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48683",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barahim",
+    "FLeng": "B",
+    "tel": "బర్హిమ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48684",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Baraj",
+    "FLeng": "B",
+    "tel": "బ్యారేజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48685",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barak",
+    "FLeng": "B",
+    "tel": "బరాక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48686",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "barak",
+    "FLeng": "b",
+    "tel": "బరాక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48687",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Baraka",
+    "FLeng": "B",
+    "tel": "బరక",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48688",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barakaa",
+    "FLeng": "B",
+    "tel": "బరకగా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48689",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barakaat",
+    "FLeng": "B",
+    "tel": "బారకాత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48690",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barakatullah",
+    "FLeng": "B",
+    "tel": "బారకాతుల్లాహ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48691",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baram",
+    "FLeng": "B",
+    "tel": "భారం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48692",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Baran",
+    "FLeng": "B",
+    "tel": "భారం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48693",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baranan",
+    "FLeng": "B",
+    "tel": "భరణం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48694",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Baranar",
+    "FLeng": "B",
+    "tel": "బారానర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48695",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Bararat",
+    "FLeng": "B",
+    "tel": "బారారట",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48696",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barasa",
+    "FLeng": "B",
+    "tel": "భరోసా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "48697",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barayek",
+    "FLeng": "B",
+    "tel": "బరాయ్క్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48698",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Baraz",
+    "FLeng": "B",
+    "tel": "బ్యారేజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48699",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barbaros",
+    "FLeng": "B",
+    "tel": "బార్బరోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48700",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barbat",
+    "FLeng": "B",
+    "tel": "బార్బట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48701",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "barbeau",
+    "FLeng": "b",
+    "tel": "బార్బెలు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48702",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "barber",
+    "FLeng": "b",
+    "tel": "బార్బర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48703",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Barbod",
+    "FLeng": "B",
+    "tel": "బార్బోడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48704",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barbro",
+    "FLeng": "B",
+    "tel": "బార్బరో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48705",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barca",
+    "FLeng": "B",
+    "tel": "బారికే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48706",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barclay",
+    "FLeng": "B",
+    "tel": "బార్క్లేయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48707",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "barclay",
+    "FLeng": "b",
+    "tel": "బార్క్లేయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48708",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barcley",
+    "FLeng": "B",
+    "tel": "బర్కిల్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48709",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Barcvni",
+    "FLeng": "B",
+    "tel": "బర్కివ్ని",
+    "FLtel": "బ"
+  },
+  {
+    "id": "48710",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bard",
+    "FLeng": "B",
+    "tel": "బర్ద్",
+    "FLtel": "బ"
+  }
+]

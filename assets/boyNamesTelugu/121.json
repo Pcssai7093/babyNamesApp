@@ -1,0 +1,830 @@
+[
+  {
+    "id": "2061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cana",
+    "FLeng": "C",
+    "tel": "కానన",
+    "FLtel": "క"
+  },
+  {
+    "id": "2062",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Canaan",
+    "FLeng": "C",
+    "tel": "కెనాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2063",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canains",
+    "FLeng": "C",
+    "tel": "కెనైన్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2064",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Canaka",
+    "FLeng": "C",
+    "tel": "కనక",
+    "FLtel": "క"
+  },
+  {
+    "id": "2065",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Canakya",
+    "FLeng": "C",
+    "tel": "చాణక్య",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cananda",
+    "FLeng": "C",
+    "tel": "కానంద",
+    "FLtel": "క"
+  },
+  {
+    "id": "2067",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canda",
+    "FLeng": "C",
+    "tel": "కాండ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2068",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candaka",
+    "FLeng": "C",
+    "tel": "కండకా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2069",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Candana",
+    "FLeng": "C",
+    "tel": "కాండను",
+    "FLtel": "క"
+  },
+  {
+    "id": "2070",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Candanin",
+    "FLeng": "C",
+    "tel": "కాందానిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2071",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candansu",
+    "FLeng": "C",
+    "tel": "కాండాన్సు",
+    "FLtel": "క"
+  },
+  {
+    "id": "2072",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candavega",
+    "FLeng": "C",
+    "tel": "కాండావెగా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2073",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Candavira",
+    "FLeng": "C",
+    "tel": "కాండవిరా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2074",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Candelario",
+    "FLeng": "C",
+    "tel": "కండెలరిస్తో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2075",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Candid",
+    "FLeng": "C",
+    "tel": "కాండీడ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2076",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candidasa",
+    "FLeng": "C",
+    "tel": "కాండిడాస్త్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2077",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Candido",
+    "FLeng": "C",
+    "tel": "కాండిడా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2078",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candipati",
+    "FLeng": "C",
+    "tel": "కందిపతి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2079",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Candon",
+    "FLeng": "C",
+    "tel": "కండోం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Candor",
+    "FLeng": "C",
+    "tel": "చందోర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2081",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candrabhana",
+    "FLeng": "C",
+    "tel": "కాండ్రభన",
+    "FLtel": "క"
+  },
+  {
+    "id": "2082",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candraja",
+    "FLeng": "C",
+    "tel": "కంద్రాజా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2083",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candraka",
+    "FLeng": "C",
+    "tel": "కాండ్రక",
+    "FLtel": "క"
+  },
+  {
+    "id": "2084",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candrakin",
+    "FLeng": "C",
+    "tel": "కాండ్రకిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2085",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candranatha",
+    "FLeng": "C",
+    "tel": "కంద్రనాథ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2086",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candransu",
+    "FLeng": "C",
+    "tel": "కాండ్రన్సు",
+    "FLtel": "క"
+  },
+  {
+    "id": "2087",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Candrasurya",
+    "FLeng": "C",
+    "tel": "కాండ్రసూర్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "2088",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candrata",
+    "FLeng": "C",
+    "tel": "కాండ్రట",
+    "FLtel": "క"
+  },
+  {
+    "id": "2089",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candresa",
+    "FLeng": "C",
+    "tel": "కాండ్రేస",
+    "FLtel": "క"
+  },
+  {
+    "id": "2090",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candresta",
+    "FLeng": "C",
+    "tel": "కాండ్రేస్తా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2091",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Candrin",
+    "FLeng": "C",
+    "tel": "కాండ్రిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2092",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Canduri",
+    "FLeng": "C",
+    "tel": "కాండూరి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2093",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Cane",
+    "FLeng": "C",
+    "tel": "చనె",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2094",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Canga",
+    "FLeng": "C",
+    "tel": "కాంగ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2095",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cangadasa",
+    "FLeng": "C",
+    "tel": "కాంగదశ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2096",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Canh",
+    "FLeng": "C",
+    "tel": "కాఞ్చ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2097",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canice",
+    "FLeng": "C",
+    "tel": "చాన్స్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2098",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cannan",
+    "FLeng": "C",
+    "tel": "కన్నం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2099",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canne",
+    "FLeng": "C",
+    "tel": "కన్నె",
+    "FLtel": "క"
+  },
+  {
+    "id": "2100",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cannon",
+    "FLeng": "C",
+    "tel": "కణ్ణన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2101",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Cano",
+    "FLeng": "C",
+    "tel": "కానో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2102",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canon",
+    "FLeng": "C",
+    "tel": "కేనన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2103",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cantiori",
+    "FLeng": "C",
+    "tel": "కాంతిరి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2104",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cantiorix",
+    "FLeng": "C",
+    "tel": "కాన్షరిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2105",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "canto",
+    "FLeng": "c",
+    "tel": "కెంతో",
+    "FLtel": "క"
+  },
+  {
+    "id": "2106",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canton",
+    "FLeng": "C",
+    "tel": "కాంటన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cantwine",
+    "FLeng": "C",
+    "tel": "కాన్త్వినే",
+    "FLtel": "క"
+  },
+  {
+    "id": "2108",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Canura",
+    "FLeng": "C",
+    "tel": "చాణూర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2109",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Canute",
+    "FLeng": "C",
+    "tel": "కనుతె",
+    "FLtel": "క"
+  },
+  {
+    "id": "2110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caolan",
+    "FLeng": "C",
+    "tel": "కేవలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2111",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caomh",
+    "FLeng": "C",
+    "tel": "కవుమ్హ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2112",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "cap",
+    "FLeng": "c",
+    "tel": "కాప్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2113",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Capala",
+    "FLeng": "C",
+    "tel": "కాపలా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2114",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "capote",
+    "FLeng": "c",
+    "tel": "కాపోతే",
+    "FLtel": "క"
+  },
+  {
+    "id": "2115",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Captain",
+    "FLeng": "C",
+    "tel": "కెప్టెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2116",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caractacus",
+    "FLeng": "C",
+    "tel": "క్యారక్టక్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2117",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caracy",
+    "FLeng": "C",
+    "tel": "కారసీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2118",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caradoc",
+    "FLeng": "C",
+    "tel": "కార్డోక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2119",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caradog",
+    "FLeng": "C",
+    "tel": "కార్డోగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2120",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carados",
+    "FLeng": "C",
+    "tel": "కార్డోస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2121",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caraka",
+    "FLeng": "C",
+    "tel": "కారక",
+    "FLtel": "క"
+  },
+  {
+    "id": "2122",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caranacus",
+    "FLeng": "C",
+    "tel": "కారణక్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2123",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carantacvs",
+    "FLeng": "C",
+    "tel": "కార్యాంతసీవ్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2124",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carantoc",
+    "FLeng": "C",
+    "tel": "కారంలోకి",
+    "FLtel": "క"
+  },
+  {
+    "id": "2125",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carantok",
+    "FLeng": "C",
+    "tel": "కారంతొక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2126",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carantorivs",
+    "FLeng": "C",
+    "tel": "కారంతోటివ్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2127",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caratacus",
+    "FLeng": "C",
+    "tel": "కెరటాక్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2128",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caratauc",
+    "FLeng": "C",
+    "tel": "కెరటాయూసీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2129",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carbani",
+    "FLeng": "C",
+    "tel": "కార్బని",
+    "FLtel": "క"
+  },
+  {
+    "id": "2130",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carberry",
+    "FLeng": "C",
+    "tel": "కార్బెర్ర్య్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carbry",
+    "FLeng": "C",
+    "tel": "కార్బరీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "2132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carda",
+    "FLeng": "C",
+    "tel": "కదా",
+    "FLtel": "క"
+  },
+  {
+    "id": "2133",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carden",
+    "FLeng": "C",
+    "tel": "కార్డెన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2134",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cardiff",
+    "FLeng": "C",
+    "tel": "కార్డిఫ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2135",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cardwell",
+    "FLeng": "C",
+    "tel": "కార్ద్వేల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2136",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Careem",
+    "FLeng": "C",
+    "tel": "కరీం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2137",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carel",
+    "FLeng": "C",
+    "tel": "కార్ల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carey",
+    "FLeng": "C",
+    "tel": "కారెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2139",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cargan",
+    "FLeng": "C",
+    "tel": "కారేగాం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2140",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cariann",
+    "FLeng": "C",
+    "tel": "కారిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2141",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cariel",
+    "FLeng": "C",
+    "tel": "కెరీర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2142",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carileph",
+    "FLeng": "C",
+    "tel": "క్యారిల్ఫ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2143",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cariman",
+    "FLeng": "C",
+    "tel": "కెరిమం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carinu",
+    "FLeng": "C",
+    "tel": "కారును",
+    "FLtel": "క"
+  },
+  {
+    "id": "2145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cario",
+    "FLeng": "C",
+    "tel": "కరువు",
+    "FLtel": "క"
+  },
+  {
+    "id": "2146",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cariston",
+    "FLeng": "C",
+    "tel": "కరిస్తోం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caritas",
+    "FLeng": "C",
+    "tel": "కారిటాస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2148",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Caritra",
+    "FLeng": "C",
+    "tel": "చరిత్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2149",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carl",
+    "FLeng": "C",
+    "tel": "కార్ల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "2150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carlatun",
+    "FLeng": "C",
+    "tel": "కార్లటం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carlay",
+    "FLeng": "C",
+    "tel": "కళ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "2152",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Carleton",
+    "FLeng": "C",
+    "tel": "చార్లెట్న్",
+    "FLtel": "చ"
+  }
+]

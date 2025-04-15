@@ -1,0 +1,803 @@
+[
+  {
+    "id": "40994",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "teman",
+    "FLeng": "t",
+    "tel": "తేమను",
+    "FLtel": "త"
+  },
+  {
+    "id": "40995",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "temani",
+    "FLeng": "t",
+    "tel": "తేమని",
+    "FLtel": "త"
+  },
+  {
+    "id": "40996",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Temidayo",
+    "FLeng": "T",
+    "tel": "తెమిదయో",
+    "FLtel": "త"
+  },
+  {
+    "id": "40997",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Temiloluwa",
+    "FLeng": "T",
+    "tel": "తెమిలోలువా",
+    "FLtel": "త"
+  },
+  {
+    "id": "40998",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Temitope",
+    "FLeng": "T",
+    "tel": "టేమిటోప్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "40999",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Temp",
+    "FLeng": "T",
+    "tel": "తెంపి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41000",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tempeltun",
+    "FLeng": "T",
+    "tel": "తెంపేల్తున్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41001",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Templeten",
+    "FLeng": "T",
+    "tel": "టెంప్లేటేన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41002",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Templeton",
+    "FLeng": "T",
+    "tel": "టెంప్లేటోన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41003",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Temy",
+    "FLeng": "T",
+    "tel": "టేమి",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41004",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tenant",
+    "FLeng": "T",
+    "tel": "తేనంట",
+    "FLtel": "త"
+  },
+  {
+    "id": "41005",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "tenauri",
+    "FLeng": "t",
+    "tel": "తెనుఁరి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41006",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teniayo",
+    "FLeng": "T",
+    "tel": "తేనియో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41007",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tenison",
+    "FLeng": "T",
+    "tel": "టెన్నిస్లోన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41008",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tenith",
+    "FLeng": "T",
+    "tel": "తేనిత్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41009",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tennant",
+    "FLeng": "T",
+    "tel": "టున్నంత",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41010",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tennent",
+    "FLeng": "T",
+    "tel": "తెంనెంట్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41011",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tennessee",
+    "FLeng": "T",
+    "tel": "టేనస్సీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41012",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tenney",
+    "FLeng": "T",
+    "tel": "తేనెయ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41013",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tennille",
+    "FLeng": "T",
+    "tel": "టెన్నీళ్లే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41014",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "tennis",
+    "FLeng": "t",
+    "tel": "టెన్నిస్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41015",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tennison",
+    "FLeng": "T",
+    "tel": "టెన్నిసన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41016",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tennyson",
+    "FLeng": "T",
+    "tel": "టెన్నీసొం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tenu",
+    "FLeng": "T",
+    "tel": "తెను",
+    "FLtel": "త"
+  },
+  {
+    "id": "41018",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teo",
+    "FLeng": "T",
+    "tel": "తెవు",
+    "FLtel": "త"
+  },
+  {
+    "id": "41019",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teobald",
+    "FLeng": "T",
+    "tel": "తేవొబ్లడ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41020",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teobaldo",
+    "FLeng": "T",
+    "tel": "తేవొబ్లదో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41021",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teobba",
+    "FLeng": "T",
+    "tel": "తెయబ్బ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41022",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teoda",
+    "FLeng": "T",
+    "tel": "టేకూడా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41023",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodocio",
+    "FLeng": "T",
+    "tel": "తెస్తోడోసీఓ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41024",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodor",
+    "FLeng": "T",
+    "tel": "తెస్తోడోర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41025",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodorico",
+    "FLeng": "T",
+    "tel": "తెవుదొరికా",
+    "FLtel": "త"
+  },
+  {
+    "id": "41026",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodoro",
+    "FLeng": "T",
+    "tel": "తెస్తోడోరో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41027",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodors",
+    "FLeng": "T",
+    "tel": "తెస్తోడోర్స్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41028",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodosio",
+    "FLeng": "T",
+    "tel": "తెవుదోష",
+    "FLtel": "త"
+  },
+  {
+    "id": "41029",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodosiu",
+    "FLeng": "T",
+    "tel": "తెస్తోడోసియూ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41030",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teodulo",
+    "FLeng": "T",
+    "tel": "తెడ్డులో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41031",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teofil",
+    "FLeng": "T",
+    "tel": "తేయాఫిల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41032",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teofilo",
+    "FLeng": "T",
+    "tel": "తేవొఫీలో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41033",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Teom",
+    "FLeng": "T",
+    "tel": "తెవుమ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41034",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "teom",
+    "FLeng": "t",
+    "tel": "తెవుమ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41035",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teon",
+    "FLeng": "T",
+    "tel": "టెన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41036",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teorra",
+    "FLeng": "T",
+    "tel": "తీర్స్తో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41037",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teoweald",
+    "FLeng": "T",
+    "tel": "తేవల్డ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41038",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teowulf",
+    "FLeng": "T",
+    "tel": "తెఓఉల్ఫ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tepiltzin",
+    "FLeng": "T",
+    "tel": "తెపిల్టజిన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41040",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "teppo",
+    "FLeng": "t",
+    "tel": "తెప్పో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41041",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "terach",
+    "FLeng": "t",
+    "tel": "తెరచి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terah",
+    "FLeng": "T",
+    "tel": "తెరహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teralea",
+    "FLeng": "T",
+    "tel": "ట్రాలీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41044",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terance",
+    "FLeng": "T",
+    "tel": "ట్రాన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41045",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Tereik",
+    "FLeng": "T",
+    "tel": "ట్రయిక్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41046",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Terek",
+    "FLeng": "T",
+    "tel": "ట్రెక్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41047",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terel",
+    "FLeng": "T",
+    "tel": "తెరెల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41048",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "terence",
+    "FLeng": "t",
+    "tel": "టెరెన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41049",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terenzio",
+    "FLeng": "T",
+    "tel": "తీరేంజిలో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41050",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tereshan",
+    "FLeng": "T",
+    "tel": "తెరేషన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41051",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terje",
+    "FLeng": "T",
+    "tel": "తెర్జీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41052",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tero",
+    "FLeng": "T",
+    "tel": "తేరో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41053",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terral",
+    "FLeng": "T",
+    "tel": "టెర్రర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41054",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terrall",
+    "FLeng": "T",
+    "tel": "టెర్రల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41055",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "terrance",
+    "FLeng": "t",
+    "tel": "టెర్రాన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41056",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "terre",
+    "FLeng": "t",
+    "tel": "తీరే",
+    "FLtel": "త"
+  },
+  {
+    "id": "41057",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terrel",
+    "FLeng": "T",
+    "tel": "టెర్రెల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41058",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "terrell",
+    "FLeng": "t",
+    "tel": "టెర్రెల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41059",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terrelle",
+    "FLeng": "T",
+    "tel": "టెర్రేల్లె",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41060",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terriel",
+    "FLeng": "T",
+    "tel": "టెర్రిల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terrill",
+    "FLeng": "T",
+    "tel": "టెర్రిల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41062",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terrin",
+    "FLeng": "T",
+    "tel": "టెఱిం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41063",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terrol",
+    "FLeng": "T",
+    "tel": "తెర్రోల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41064",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terron",
+    "FLeng": "T",
+    "tel": "టెర్న్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41065",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terryl",
+    "FLeng": "T",
+    "tel": "తెరిల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41066",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Tersem",
+    "FLeng": "T",
+    "tel": "తీసేం",
+    "FLtel": "త"
+  },
+  {
+    "id": "41067",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tersham",
+    "FLeng": "T",
+    "tel": "తెర్షం",
+    "FLtel": "త"
+  },
+  {
+    "id": "41068",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tertius",
+    "FLeng": "T",
+    "tel": "టర్టిస్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41069",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Teruna",
+    "FLeng": "T",
+    "tel": "తీరున",
+    "FLtel": "త"
+  },
+  {
+    "id": "41070",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teryysone",
+    "FLeng": "T",
+    "tel": "తీయ్యతోనే",
+    "FLtel": "త"
+  },
+  {
+    "id": "41071",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Terzo",
+    "FLeng": "T",
+    "tel": "తెరజో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41072",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tesash",
+    "FLeng": "T",
+    "tel": "తేసష్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41073",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tesca",
+    "FLeng": "T",
+    "tel": "తీస్కే",
+    "FLtel": "త"
+  },
+  {
+    "id": "41074",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Tesher",
+    "FLeng": "T",
+    "tel": "తీశారు",
+    "FLtel": "త"
+  },
+  {
+    "id": "41075",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Teslim",
+    "FLeng": "T",
+    "tel": "తెస్లిం",
+    "FLtel": "త"
+  },
+  {
+    "id": "41076",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "teton",
+    "FLeng": "t",
+    "tel": "టెటోన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41077",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Tetsuya",
+    "FLeng": "T",
+    "tel": "తేసుయా",
+    "FLtel": "త"
+  },
+  {
+    "id": "41078",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teudiric",
+    "FLeng": "T",
+    "tel": "తెయుథిరిక్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41079",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teudur",
+    "FLeng": "T",
+    "tel": "తీయుదురు",
+    "FLtel": "త"
+  },
+  {
+    "id": "41080",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Teudus",
+    "FLeng": "T",
+    "tel": "తేజుడున్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41081",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Teufik",
+    "FLeng": "T",
+    "tel": "తెయూఫిక్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41082",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "teun",
+    "FLeng": "t",
+    "tel": "టున్",
+    "FLtel": "ట"
+  }
+]

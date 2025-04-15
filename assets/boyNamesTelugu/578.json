@@ -1,0 +1,848 @@
+[
+  {
+    "id": "44244",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vinu",
+    "FLeng": "V",
+    "tel": "విను",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44245",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vinushi",
+    "FLeng": "V",
+    "tel": "వినుషి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44246",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vinyas",
+    "FLeng": "V",
+    "tel": "విన్యాస",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44247",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Vinzenz",
+    "FLeng": "V",
+    "tel": "వింజన్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44248",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viom",
+    "FLeng": "V",
+    "tel": "వియమ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44249",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Viorel",
+    "FLeng": "V",
+    "tel": "విమోరెల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44250",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipan",
+    "FLeng": "V",
+    "tel": "విపం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44251",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipaschit",
+    "FLeng": "V",
+    "tel": "విపశ్చిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44252",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipashchit",
+    "FLeng": "V",
+    "tel": "విపశ్చిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44253",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipashith",
+    "FLeng": "V",
+    "tel": "విపషిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44254",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipat",
+    "FLeng": "V",
+    "tel": "విరాట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44255",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipesh",
+    "FLeng": "V",
+    "tel": "విపేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44256",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipin",
+    "FLeng": "V",
+    "tel": "విపిన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44257",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipinbehari",
+    "FLeng": "V",
+    "tel": "విపింబేహారి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44258",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viplab",
+    "FLeng": "V",
+    "tel": "విప్లబ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44259",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viplav",
+    "FLeng": "V",
+    "tel": "విప్లవ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44260",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viplov",
+    "FLeng": "V",
+    "tel": "విపలోవ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44261",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipra",
+    "FLeng": "V",
+    "tel": "విప్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44262",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipradhip",
+    "FLeng": "V",
+    "tel": "విప్రధీప్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44263",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipratam",
+    "FLeng": "V",
+    "tel": "విప్రతం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44264",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipratham",
+    "FLeng": "V",
+    "tel": "విప్రతం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44265",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipreet",
+    "FLeng": "V",
+    "tel": "విపరీత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44266",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vipul",
+    "FLeng": "V",
+    "tel": "విపుల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44267",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vir",
+    "FLeng": "V",
+    "tel": "వీర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44268",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viraat",
+    "FLeng": "V",
+    "tel": "విరాట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44269",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viraavy",
+    "FLeng": "V",
+    "tel": "విరావై",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44270",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virabhadra",
+    "FLeng": "V",
+    "tel": "వీరభద్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44271",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viradhavadha",
+    "FLeng": "V",
+    "tel": "విరాధవధ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44272",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virag",
+    "FLeng": "V",
+    "tel": "విరాజ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44273",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viraj",
+    "FLeng": "V",
+    "tel": "విరాజ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44274",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virajass",
+    "FLeng": "V",
+    "tel": "విరజస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44275",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Virajesh",
+    "FLeng": "V",
+    "tel": "విరాజేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44276",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virajin",
+    "FLeng": "V",
+    "tel": "విరాజిన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44277",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viral",
+    "FLeng": "V",
+    "tel": "వైరల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44278",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viralmani",
+    "FLeng": "V",
+    "tel": "విరళమని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44279",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Viram",
+    "FLeng": "V",
+    "tel": "వైరం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44280",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viranath",
+    "FLeng": "V",
+    "tel": "వీరనాథ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44281",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viranch",
+    "FLeng": "V",
+    "tel": "విరఞ్చ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44282",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viranchi",
+    "FLeng": "V",
+    "tel": "విరంచి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44283",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virang",
+    "FLeng": "V",
+    "tel": "వీరన్గ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44284",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viranna",
+    "FLeng": "V",
+    "tel": "వీరన్న",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44285",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viransh",
+    "FLeng": "V",
+    "tel": "వీరన్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44286",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virasana",
+    "FLeng": "V",
+    "tel": "విరసం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44287",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virat",
+    "FLeng": "V",
+    "tel": "విరాట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44288",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viratar",
+    "FLeng": "V",
+    "tel": "విరాటర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44289",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viravrat",
+    "FLeng": "V",
+    "tel": "వీరవ్రత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44290",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virbhadra",
+    "FLeng": "V",
+    "tel": "వీరభద్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44291",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virbhadrasinh",
+    "FLeng": "V",
+    "tel": "వీరభద్రసింహా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44292",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virbhanu",
+    "FLeng": "V",
+    "tel": "విర్భాను",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44293",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vireak",
+    "FLeng": "V",
+    "tel": "వీరెల్ల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44294",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vireakboth",
+    "FLeng": "V",
+    "tel": "వీరెల్లబోధ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44295",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viren",
+    "FLeng": "V",
+    "tel": "వీరేం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44296",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virender",
+    "FLeng": "V",
+    "tel": "వీరేందర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44297",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virendra",
+    "FLeng": "V",
+    "tel": "వీరేంద్ర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44298",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virepas",
+    "FLeng": "V",
+    "tel": "వీరేపస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44299",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viresh",
+    "FLeng": "V",
+    "tel": "వీరేష్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44300",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Vireshvar",
+    "FLeng": "V",
+    "tel": "వీరేశ్వర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44301",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "virgil",
+    "FLeng": "v",
+    "tel": "విర్గిల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44302",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Virgil",
+    "FLeng": "V",
+    "tel": "విర్గిల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44303",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Virgilio",
+    "FLeng": "V",
+    "tel": "విరగిలివు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44304",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Virgiliu",
+    "FLeng": "V",
+    "tel": "విర్గిళ్ళూ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44305",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "viridios",
+    "FLeng": "v",
+    "tel": "విరిడియస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44306",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "viridius",
+    "FLeng": "v",
+    "tel": "విరిడిస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44307",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virik",
+    "FLeng": "V",
+    "tel": "వీరికి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44308",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virikt",
+    "FLeng": "V",
+    "tel": "వీరికెట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44309",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virikvas",
+    "FLeng": "V",
+    "tel": "విరిక్వస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44310",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virinch",
+    "FLeng": "V",
+    "tel": "విరించి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44311",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virinchi",
+    "FLeng": "V",
+    "tel": "విరించి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44312",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Virinder",
+    "FLeng": "V",
+    "tel": "వీరిందర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44313",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viritha",
+    "FLeng": "V",
+    "tel": "విరిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44314",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virko",
+    "FLeng": "V",
+    "tel": "వీరికో",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44315",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Virnin",
+    "FLeng": "V",
+    "tel": "వీర్నిన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44316",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virochan",
+    "FLeng": "V",
+    "tel": "విరోచనం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44317",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viroh",
+    "FLeng": "V",
+    "tel": "విరొహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44318",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virohan",
+    "FLeng": "V",
+    "tel": "విరోహాన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44319",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virohin",
+    "FLeng": "V",
+    "tel": "విరోహిం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44320",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virok",
+    "FLeng": "V",
+    "tel": "విరోక్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44321",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virom",
+    "FLeng": "V",
+    "tel": "విరొమ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44322",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viroop",
+    "FLeng": "V",
+    "tel": "విరూప",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44323",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viroopaksh",
+    "FLeng": "V",
+    "tel": "విరూపాక్ష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44324",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Virpal",
+    "FLeng": "V",
+    "tel": "విరూపల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44325",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virshahi",
+    "FLeng": "V",
+    "tel": "విర్శహి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44326",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Virssuccius",
+    "FLeng": "V",
+    "tel": "విరస్సుకేసిస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44327",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virtuous",
+    "FLeng": "V",
+    "tel": "విర్ధుఔస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44328",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virudh",
+    "FLeng": "V",
+    "tel": "విరుద్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44329",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viruj",
+    "FLeng": "V",
+    "tel": "విరాజ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44330",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virukmat",
+    "FLeng": "V",
+    "tel": "విరుక్మట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44331",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virun",
+    "FLeng": "V",
+    "tel": "విరుం",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44332",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virup",
+    "FLeng": "V",
+    "tel": "విరూప",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44333",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virupaksa",
+    "FLeng": "V",
+    "tel": "విరూపాక్ష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44334",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virupaksh",
+    "FLeng": "V",
+    "tel": "విరూపాక్ష",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44335",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Virurch",
+    "FLeng": "V",
+    "tel": "విరూర్చ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44336",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viryaj",
+    "FLeng": "V",
+    "tel": "వీర్యజ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "44337",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Viryavat",
+    "FLeng": "V",
+    "tel": "వీర్యవతి",
+    "FLtel": "వ"
+  }
+]

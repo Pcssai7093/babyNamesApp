@@ -1,0 +1,839 @@
+[
+  {
+    "id": "121604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nithya",
+    "FLeng": "N",
+    "tel": "నిత్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "121605",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nithyadevi",
+    "FLeng": "N",
+    "tel": "నిత్యదేవి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121606",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nithyahasini",
+    "FLeng": "N",
+    "tel": "నిత్యహాసిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121607",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nithyan",
+    "FLeng": "N",
+    "tel": "నిత్యం",
+    "FLtel": "న"
+  },
+  {
+    "id": "121608",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nithyasmithi",
+    "FLeng": "N",
+    "tel": "నిత్యస్మితి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121609",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nithyasree",
+    "FLeng": "N",
+    "tel": "నిత్యశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121610",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niti",
+    "FLeng": "N",
+    "tel": "నీటి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121611",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nitika",
+    "FLeng": "N",
+    "tel": "నైతిక",
+    "FLtel": "న"
+  },
+  {
+    "id": "121612",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nitima",
+    "FLeng": "N",
+    "tel": "నీటిమ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121613",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitina",
+    "FLeng": "N",
+    "tel": "నితిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121614",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nitisha",
+    "FLeng": "N",
+    "tel": "నీతిశ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121615",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitra",
+    "FLeng": "N",
+    "tel": "మిత్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121616",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitsa",
+    "FLeng": "N",
+    "tel": "నిత్స",
+    "FLtel": "న"
+  },
+  {
+    "id": "121617",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nitu",
+    "FLeng": "N",
+    "tel": "నీతూ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121618",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nituna",
+    "FLeng": "N",
+    "tel": "నిటున",
+    "FLtel": "న"
+  },
+  {
+    "id": "121619",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nitya Priya",
+    "FLeng": "N",
+    "tel": "నిత్య ప్రియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121620",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nitya Sree",
+    "FLeng": "N",
+    "tel": "నిత్య శ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121621",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitya sundara",
+    "FLeng": "N",
+    "tel": "నిత్య సుందర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121622",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitya-sundara",
+    "FLeng": "N",
+    "tel": "నిత్య-సుందర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityanjali",
+    "FLeng": "N",
+    "tel": "నిత్యాంజలి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityapushta",
+    "FLeng": "N",
+    "tel": "నిత్యపుష్ట",
+    "FLtel": "న"
+  },
+  {
+    "id": "121625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityarubini",
+    "FLeng": "N",
+    "tel": "నిత్యరూబిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityasha",
+    "FLeng": "N",
+    "tel": "నిత్యశ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121627",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityashree",
+    "FLeng": "N",
+    "tel": "నిత్యశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121628",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityasree",
+    "FLeng": "N",
+    "tel": "నిత్యశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121629",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityasri",
+    "FLeng": "N",
+    "tel": "నిత్యశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121630",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nityasundara",
+    "FLeng": "N",
+    "tel": "నిత్యసున్దర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121631",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nityavinodhini",
+    "FLeng": "N",
+    "tel": "నిత్యవినోదిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121632",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitza",
+    "FLeng": "N",
+    "tel": "నీటిజా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121633",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nitzah",
+    "FLeng": "N",
+    "tel": "నీటిజాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121634",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Niu",
+    "FLeng": "N",
+    "tel": "నీవు",
+    "FLtel": "న"
+  },
+  {
+    "id": "121635",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Niusha",
+    "FLeng": "N",
+    "tel": "నిముషా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121636",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niva",
+    "FLeng": "N",
+    "tel": "నివ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121637",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivah",
+    "FLeng": "N",
+    "tel": "నివహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121638",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivali",
+    "FLeng": "N",
+    "tel": "నివాళి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121639",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivanshi",
+    "FLeng": "N",
+    "tel": "నీవంశీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121640",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Nivarn",
+    "FLeng": "N",
+    "tel": "నివర్ణ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121641",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivartha",
+    "FLeng": "N",
+    "tel": "నివర్త",
+    "FLtel": "న"
+  },
+  {
+    "id": "121642",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivashini",
+    "FLeng": "N",
+    "tel": "నివశిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121643",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivashne",
+    "FLeng": "N",
+    "tel": "నివేశ్నే",
+    "FLtel": "న"
+  },
+  {
+    "id": "121644",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivashni",
+    "FLeng": "N",
+    "tel": "నివష్ని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121645",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivasini",
+    "FLeng": "N",
+    "tel": "నివాసిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121646",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nivea",
+    "FLeng": "N",
+    "tel": "నీవేనా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121647",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niveda",
+    "FLeng": "N",
+    "tel": "నివేద",
+    "FLtel": "న"
+  },
+  {
+    "id": "121648",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivedha",
+    "FLeng": "N",
+    "tel": "నివేద",
+    "FLtel": "న"
+  },
+  {
+    "id": "121649",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivedharshini",
+    "FLeng": "N",
+    "tel": "నివేదర్షిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121650",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivedhita",
+    "FLeng": "N",
+    "tel": "నివేదిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121651",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivedita",
+    "FLeng": "N",
+    "tel": "నివేదిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121652",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niveditha",
+    "FLeng": "N",
+    "tel": "నివేదిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121653",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivedya",
+    "FLeng": "N",
+    "tel": "నైవేద్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "121654",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niveetha",
+    "FLeng": "N",
+    "tel": "నీవీత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121655",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niveka",
+    "FLeng": "N",
+    "tel": "నీవేక",
+    "FLtel": "న"
+  },
+  {
+    "id": "121656",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niverta",
+    "FLeng": "N",
+    "tel": "నివేరుట",
+    "FLtel": "న"
+  },
+  {
+    "id": "121657",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivetha",
+    "FLeng": "N",
+    "tel": "నివేత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121658",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivi",
+    "FLeng": "N",
+    "tel": "నివి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121659",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nividh",
+    "FLeng": "N",
+    "tel": "నివిధా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121660",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivita",
+    "FLeng": "N",
+    "tel": "ఙివితం",
+    "FLtel": "ఙ"
+  },
+  {
+    "id": "121661",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivitha",
+    "FLeng": "N",
+    "tel": "నీవైతే",
+    "FLtel": "న"
+  },
+  {
+    "id": "121662",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivitri",
+    "FLeng": "N",
+    "tel": "నీవిత్రి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121663",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivrithi",
+    "FLeng": "N",
+    "tel": "నివ్రితి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121664",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivriti",
+    "FLeng": "N",
+    "tel": "నివ్రితి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121665",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivritti",
+    "FLeng": "N",
+    "tel": "నివ్రిత్తి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121666",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivruta",
+    "FLeng": "N",
+    "tel": "నివృతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121667",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivrutha",
+    "FLeng": "N",
+    "tel": "నివృత్త",
+    "FLtel": "న"
+  },
+  {
+    "id": "121668",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nivruti",
+    "FLeng": "N",
+    "tel": "నివృతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121669",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivtha",
+    "FLeng": "N",
+    "tel": "నీవథా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121670",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nivya",
+    "FLeng": "N",
+    "tel": "నివ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "121671",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Niwarn",
+    "FLeng": "N",
+    "tel": "నివార్న్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121672",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "nixi",
+    "FLeng": "n",
+    "tel": "మిక్సీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121673",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nixie",
+    "FLeng": "N",
+    "tel": "నిక్సియే",
+    "FLtel": "న"
+  },
+  {
+    "id": "121674",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niya",
+    "FLeng": "N",
+    "tel": "నియ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121675",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Niyaf",
+    "FLeng": "N",
+    "tel": "నియఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121676",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyama",
+    "FLeng": "N",
+    "tel": "నియమ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121677",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyamya",
+    "FLeng": "N",
+    "tel": "నియమ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "121678",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyana",
+    "FLeng": "N",
+    "tel": "నియాన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121679",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyanta",
+    "FLeng": "N",
+    "tel": "నియంత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121680",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyas",
+    "FLeng": "N",
+    "tel": "నియస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121681",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Niyasa",
+    "FLeng": "N",
+    "tel": "నియస్స",
+    "FLtel": "న"
+  },
+  {
+    "id": "121682",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyat",
+    "FLeng": "N",
+    "tel": "నీట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121683",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Niyath",
+    "FLeng": "N",
+    "tel": "నియత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121684",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyatha",
+    "FLeng": "N",
+    "tel": "నియత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121685",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyathi",
+    "FLeng": "N",
+    "tel": "నియతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121686",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niyati",
+    "FLeng": "N",
+    "tel": "నియతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121687",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Niyyat",
+    "FLeng": "N",
+    "tel": "నియ్యత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121688",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Niza",
+    "FLeng": "N",
+    "tel": "నిజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121689",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nizah",
+    "FLeng": "N",
+    "tel": "నిజాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121690",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nizana",
+    "FLeng": "N",
+    "tel": "నిజాన",
+    "FLtel": "న"
+  },
+  {
+    "id": "121691",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nizhoni",
+    "FLeng": "N",
+    "tel": "నిజహుని",
+    "FLtel": "న"
+  },
+  {
+    "id": "121692",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nizhu",
+    "FLeng": "N",
+    "tel": "నిజహు",
+    "FLtel": "న"
+  },
+  {
+    "id": "121693",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Njeri",
+    "FLeng": "N",
+    "tel": "నఁజేరి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121694",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Njoki",
+    "FLeng": "N",
+    "tel": "అంజోకి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "121695",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Njood",
+    "FLeng": "N",
+    "tel": "అంజూడఁ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "121696",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nkechi",
+    "FLeng": "N",
+    "tel": "నాకెచి",
+    "FLtel": "న"
+  }
+]

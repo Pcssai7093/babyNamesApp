@@ -1,0 +1,821 @@
+[
+  {
+    "id": "42259",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "tuncay",
+    "FLeng": "t",
+    "tel": "తుంచాయ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42260",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tunda",
+    "FLeng": "T",
+    "tel": "తుందా",
+    "FLtel": "త"
+  },
+  {
+    "id": "42261",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tunga",
+    "FLeng": "T",
+    "tel": "తుంగ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42262",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tunganath",
+    "FLeng": "T",
+    "tel": "తుంగనాథ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42263",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungar",
+    "FLeng": "T",
+    "tel": "తుంగర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42264",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungashail",
+    "FLeng": "T",
+    "tel": "తుంగశైల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42265",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungavena",
+    "FLeng": "T",
+    "tel": "తుంగవేనా",
+    "FLtel": "త"
+  },
+  {
+    "id": "42266",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungesh",
+    "FLeng": "T",
+    "tel": "తుంగేష్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42267",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungeshwar",
+    "FLeng": "T",
+    "tel": "తుంగేశ్వర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42268",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungish",
+    "FLeng": "T",
+    "tel": "తుంగిష్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42269",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tungishwar",
+    "FLeng": "T",
+    "tel": "తుంగిశ్వర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42270",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tunir",
+    "FLeng": "T",
+    "tel": "టునీర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42271",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Tunveer",
+    "FLeng": "T",
+    "tel": "తాన్వీర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42272",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tuomas",
+    "FLeng": "T",
+    "tel": "తుయమస్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42273",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tuomo",
+    "FLeng": "T",
+    "tel": "తుయమో",
+    "FLtel": "త"
+  },
+  {
+    "id": "42274",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tupac",
+    "FLeng": "T",
+    "tel": "తుపాకి",
+    "FLtel": "త"
+  },
+  {
+    "id": "42275",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tupam",
+    "FLeng": "T",
+    "tel": "తుపాన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42276",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tupil",
+    "FLeng": "T",
+    "tel": "తూపిల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42277",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tupper",
+    "FLeng": "T",
+    "tel": "తుప్పర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42278",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Turab",
+    "FLeng": "T",
+    "tel": "తురబ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42279",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Turab  #NAME?",
+    "FLeng": "T",
+    "tel": "తురబ్  #నామ?",
+    "FLtel": "త"
+  },
+  {
+    "id": "42280",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turag",
+    "FLeng": "T",
+    "tel": "తురగ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42281",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turang",
+    "FLeng": "T",
+    "tel": "తురంగ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42282",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turanyu",
+    "FLeng": "T",
+    "tel": "తురణ్యు",
+    "FLtel": "త"
+  },
+  {
+    "id": "42283",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turashat",
+    "FLeng": "T",
+    "tel": "తురష్త",
+    "FLtel": "త"
+  },
+  {
+    "id": "42284",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ture",
+    "FLeng": "T",
+    "tel": "టూర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42285",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Turgal",
+    "FLeng": "T",
+    "tel": "టూర్లాల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42286",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Turhan",
+    "FLeng": "T",
+    "tel": "తృహన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42287",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Turialai",
+    "FLeng": "T",
+    "tel": "తురీయాలై",
+    "FLtel": "త"
+  },
+  {
+    "id": "42288",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "turin",
+    "FLeng": "t",
+    "tel": "ట్యూరిన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42289",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Turju",
+    "FLeng": "T",
+    "tel": "తురాజు",
+    "FLtel": "త"
+  },
+  {
+    "id": "42290",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Turnar",
+    "FLeng": "T",
+    "tel": "తుర్నర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42291",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "turner",
+    "FLeng": "t",
+    "tel": "టర్నర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42292",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turni",
+    "FLeng": "T",
+    "tel": "టూర్ని",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42293",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Turoc",
+    "FLeng": "T",
+    "tel": "తురాసీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42294",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Turpin",
+    "FLeng": "T",
+    "tel": "తుర్పిన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42295",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turvash",
+    "FLeng": "T",
+    "tel": "తుర్వేష్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42296",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turvasu",
+    "FLeng": "T",
+    "tel": "తుర్వసు",
+    "FLtel": "త"
+  },
+  {
+    "id": "42297",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turvayan",
+    "FLeng": "T",
+    "tel": "తుర్వయం",
+    "FLtel": "త"
+  },
+  {
+    "id": "42298",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Turviti",
+    "FLeng": "T",
+    "tel": "తుర్విటి",
+    "FLtel": "త"
+  },
+  {
+    "id": "42299",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushaar",
+    "FLeng": "T",
+    "tel": "తుషార్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42300",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushant",
+    "FLeng": "T",
+    "tel": "ట్యూషన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42301",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushar",
+    "FLeng": "T",
+    "tel": "తుషార్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42302",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusharakar",
+    "FLeng": "T",
+    "tel": "తుషారకర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42303",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusharanshu",
+    "FLeng": "T",
+    "tel": "తుషారంశు",
+    "FLtel": "త"
+  },
+  {
+    "id": "42304",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusharkanti",
+    "FLeng": "T",
+    "tel": "తుషారకంటి",
+    "FLtel": "త"
+  },
+  {
+    "id": "42305",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusharsuvra",
+    "FLeng": "T",
+    "tel": "ట్యూషర్సువ్ర",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42306",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusher",
+    "FLeng": "T",
+    "tel": "తుషెర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42307",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushin",
+    "FLeng": "T",
+    "tel": "తూషిన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42308",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushir",
+    "FLeng": "T",
+    "tel": "తూషిర్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42309",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushit",
+    "FLeng": "T",
+    "tel": "తుష్టి",
+    "FLtel": "త"
+  },
+  {
+    "id": "42310",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushtiman",
+    "FLeng": "T",
+    "tel": "తుష్టిమం",
+    "FLtel": "త"
+  },
+  {
+    "id": "42311",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tushya",
+    "FLeng": "T",
+    "tel": "తుష్య",
+    "FLtel": "త"
+  },
+  {
+    "id": "42312",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusya",
+    "FLeng": "T",
+    "tel": "తుష్య",
+    "FLtel": "త"
+  },
+  {
+    "id": "42313",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tusya Udarchis",
+    "FLeng": "T",
+    "tel": "తుష్య ఉదార్చిస్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42314",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tutush",
+    "FLeng": "T",
+    "tel": "టాటూస్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42315",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Tuur",
+    "FLeng": "T",
+    "tel": "టూర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42316",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "tuur",
+    "FLeng": "t",
+    "tel": "టూర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42317",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "tuve",
+    "FLeng": "t",
+    "tel": "తువే",
+    "FLtel": "త"
+  },
+  {
+    "id": "42318",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "tuvia",
+    "FLeng": "t",
+    "tel": "టూవీల",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42319",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tuvidymna",
+    "FLeng": "T",
+    "tel": "టూవీడెమున",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42320",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tuvidyumna",
+    "FLeng": "T",
+    "tel": "టువైద్యుమ్న",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42321",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tuvijat",
+    "FLeng": "T",
+    "tel": "తూవిజ్త",
+    "FLtel": "త"
+  },
+  {
+    "id": "42322",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tuviksh",
+    "FLeng": "T",
+    "tel": "టూవీక్శ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42323",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tuvin",
+    "FLeng": "T",
+    "tel": "టువిం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42324",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Tuvya",
+    "FLeng": "T",
+    "tel": "తువ్య",
+    "FLtel": "త"
+  },
+  {
+    "id": "42325",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tuwile",
+    "FLeng": "T",
+    "tel": "టువిలే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42326",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tuyam",
+    "FLeng": "T",
+    "tel": "తాయం",
+    "FLtel": "త"
+  },
+  {
+    "id": "42327",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tveshin",
+    "FLeng": "T",
+    "tel": "ట్వేశిం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42328",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tvesin",
+    "FLeng": "T",
+    "tel": "టవేసిం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42329",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tvrtko",
+    "FLeng": "T",
+    "tel": "ట్వీర్టుకో",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42330",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Twain",
+    "FLeng": "T",
+    "tel": "ట్వైన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42331",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Twan",
+    "FLeng": "T",
+    "tel": "ట్వేన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42332",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Twayn",
+    "FLeng": "T",
+    "tel": "త్వయాన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "42333",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Twilliam",
+    "FLeng": "T",
+    "tel": "ట్విల్లియం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42334",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ty",
+    "FLeng": "T",
+    "tel": "టీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42335",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tyaagaraaj",
+    "FLeng": "T",
+    "tel": "త్యాగరాజ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42336",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tyag",
+    "FLeng": "T",
+    "tel": "ట్యాగ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42337",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tyagaraj",
+    "FLeng": "T",
+    "tel": "త్యాగరాజ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42338",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tyagin",
+    "FLeng": "T",
+    "tel": "త్యాగిం",
+    "FLtel": "త"
+  },
+  {
+    "id": "42339",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tyagraja",
+    "FLeng": "T",
+    "tel": "త్యాగరాజ",
+    "FLtel": "త"
+  },
+  {
+    "id": "42340",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tybalt",
+    "FLeng": "T",
+    "tel": "టిబెల్ట్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42341",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tyce",
+    "FLeng": "T",
+    "tel": "టైన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42342",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tycho",
+    "FLeng": "T",
+    "tel": "టైచో",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42343",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tychon",
+    "FLeng": "T",
+    "tel": "టీచ్న్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42344",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tydda",
+    "FLeng": "T",
+    "tel": "తిడ్తా",
+    "FLtel": "త"
+  },
+  {
+    "id": "42345",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tydi",
+    "FLeng": "T",
+    "tel": "టీడీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42346",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tydic",
+    "FLeng": "T",
+    "tel": "టీడీసీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42347",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tydwal",
+    "FLeng": "T",
+    "tel": "టీద్వాల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42348",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tye",
+    "FLeng": "T",
+    "tel": "టై",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42349",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tyee",
+    "FLeng": "T",
+    "tel": "టీఈ",
+    "FLtel": "ట"
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "id": "123537",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Polyxena",
+    "FLeng": "P",
+    "tel": "పోలీస్న",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123538",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Polyxeni",
+    "FLeng": "P",
+    "tel": "పోలీస్ని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123539",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pomana",
+    "FLeng": "P",
+    "tel": "పొమ్మన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123540",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pomeline",
+    "FLeng": "P",
+    "tel": "ఫార్మలిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123541",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pomeline",
+    "FLeng": "p",
+    "tel": "ఫార్మలిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123542",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pomme",
+    "FLeng": "p",
+    "tel": "పాము",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123543",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pomona",
+    "FLeng": "P",
+    "tel": "పోమోనా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123544",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ponijao",
+    "FLeng": "P",
+    "tel": "పోనిజాయ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123545",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponmani",
+    "FLeng": "P",
+    "tel": "పోంమని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123546",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnagai",
+    "FLeng": "P",
+    "tel": "పొన్నగై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123547",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnamma",
+    "FLeng": "P",
+    "tel": "పిన్నమ్మ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123548",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnarasi",
+    "FLeng": "P",
+    "tel": "పొన్నరసి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123549",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnazhagi",
+    "FLeng": "P",
+    "tel": "పొన్నజగి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123550",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnazhagu",
+    "FLeng": "P",
+    "tel": "పొన్నజగు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123551",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponni",
+    "FLeng": "P",
+    "tel": "పొన్ని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123552",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnleu",
+    "FLeng": "P",
+    "tel": "పొన్నాలేవు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123553",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnu",
+    "FLeng": "P",
+    "tel": "పొన్ను",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123554",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponnulakshmi",
+    "FLeng": "P",
+    "tel": "పొన్నులక్ష్మి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123555",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ponthara",
+    "FLeng": "P",
+    "tel": "పాంతర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123556",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pooja",
+    "FLeng": "P",
+    "tel": "పూజ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123557",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poojal",
+    "FLeng": "P",
+    "tel": "పూజలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123558",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poojanya",
+    "FLeng": "P",
+    "tel": "పూజన్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123559",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poojasri",
+    "FLeng": "P",
+    "tel": "పూజశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123560",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poojita",
+    "FLeng": "P",
+    "tel": "పూజిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123561",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poojitha",
+    "FLeng": "P",
+    "tel": "పూజిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123562",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poojya",
+    "FLeng": "P",
+    "tel": "పూజ్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123563",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pooma",
+    "FLeng": "P",
+    "tel": "పూమా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123564",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poomaalai",
+    "FLeng": "P",
+    "tel": "పూమాలై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123565",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poomagal",
+    "FLeng": "P",
+    "tel": "పూమగళ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123566",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poombavai",
+    "FLeng": "P",
+    "tel": "పూమ్బావాయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123567",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poomitha",
+    "FLeng": "P",
+    "tel": "పూమిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123568",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Poonah",
+    "FLeng": "P",
+    "tel": "పునః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123569",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poonam",
+    "FLeng": "P",
+    "tel": "పూనమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123570",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poongodi",
+    "FLeng": "P",
+    "tel": "పూంగోడి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123571",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poonguzhali",
+    "FLeng": "P",
+    "tel": "పూంగుజలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123572",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poonkulali",
+    "FLeng": "P",
+    "tel": "పూంకులాలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123573",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poonthalir",
+    "FLeng": "P",
+    "tel": "పూంథాలీరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123574",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorbi",
+    "FLeng": "P",
+    "tel": "పూర్బి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123575",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorika",
+    "FLeng": "P",
+    "tel": "పూరీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123576",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorineeta",
+    "FLeng": "P",
+    "tel": "పూరిణీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123577",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorna",
+    "FLeng": "P",
+    "tel": "పూర్ణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123578",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornakala",
+    "FLeng": "P",
+    "tel": "పూర్ణకల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123579",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornakamala",
+    "FLeng": "P",
+    "tel": "పూర్ణకమలా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123580",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornalalitha",
+    "FLeng": "P",
+    "tel": "పూర్ణలలిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123581",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornamasi",
+    "FLeng": "P",
+    "tel": "పూర్ణమాసీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123582",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornathva",
+    "FLeng": "P",
+    "tel": "పూర్ణత్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123583",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornendhu",
+    "FLeng": "P",
+    "tel": "పూర్ణేన్దు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123584",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poornima",
+    "FLeng": "P",
+    "tel": "పూర్ణిమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123585",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorti",
+    "FLeng": "P",
+    "tel": "పూర్తి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123586",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorva",
+    "FLeng": "P",
+    "tel": "పూర్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123587",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorvabhadra",
+    "FLeng": "P",
+    "tel": "పూర్వాభాద్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123588",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorvaganga",
+    "FLeng": "P",
+    "tel": "పూర్వగంగా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123589",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorvaja",
+    "FLeng": "P",
+    "tel": "పూర్వజా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123590",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorvi",
+    "FLeng": "P",
+    "tel": "పూర్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123591",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorvijha",
+    "FLeng": "P",
+    "tel": "పూర్విఝా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123592",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poorvika",
+    "FLeng": "P",
+    "tel": "పూర్వీక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123593",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pooshitha",
+    "FLeng": "P",
+    "tel": "పూషిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123594",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pootli",
+    "FLeng": "P",
+    "tel": "పోట్లీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123595",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poovarasi",
+    "FLeng": "P",
+    "tel": "పూవారాసి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123596",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poovazhagi",
+    "FLeng": "P",
+    "tel": "పూవజగి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123597",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poovithana",
+    "FLeng": "P",
+    "tel": "పూవిధాన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123598",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Popelina",
+    "FLeng": "P",
+    "tel": "పోపేలిన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123599",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "poppa",
+    "FLeng": "p",
+    "tel": "పొప్ప",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123600",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Poppie",
+    "FLeng": "P",
+    "tel": "పాపపై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123601",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Porama",
+    "FLeng": "P",
+    "tel": "ఫార్మా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123602",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Porca",
+    "FLeng": "P",
+    "tel": "పోరుకే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123603",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Porna",
+    "FLeng": "P",
+    "tel": "పోర్న్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pornima",
+    "FLeng": "P",
+    "tel": "పూర్ణిమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123605",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pornolata",
+    "FLeng": "P",
+    "tel": "పోర్నోలట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123606",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poroma",
+    "FLeng": "P",
+    "tel": "పోరోమా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123607",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Porselvan",
+    "FLeng": "P",
+    "tel": "పోర్సెల్వం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123608",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Porsha",
+    "FLeng": "P",
+    "tel": "పొర్ష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123609",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Portia",
+    "FLeng": "P",
+    "tel": "పార్టీయే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123610",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "portia",
+    "FLeng": "p",
+    "tel": "పార్టీయే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123611",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Portika",
+    "FLeng": "P",
+    "tel": "పూర్తికా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123612",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Posey",
+    "FLeng": "P",
+    "tel": "పోసేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123613",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "posey",
+    "FLeng": "p",
+    "tel": "పోసేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123614",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Posh",
+    "FLeng": "P",
+    "tel": "పోష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123615",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poshika",
+    "FLeng": "P",
+    "tel": "పోషిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123616",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poshita",
+    "FLeng": "P",
+    "tel": "పోషిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123617",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poshitha",
+    "FLeng": "P",
+    "tel": "పోషిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123618",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Posie",
+    "FLeng": "P",
+    "tel": "పోసీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123619",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Posy",
+    "FLeng": "P",
+    "tel": "పోస్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123620",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "posy",
+    "FLeng": "p",
+    "tel": "పోస్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123621",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pothumani",
+    "FLeng": "P",
+    "tel": "పొత్తుమని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123622",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Potralika",
+    "FLeng": "P",
+    "tel": "పాత్రలిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poulima",
+    "FLeng": "P",
+    "tel": "పౌలీమా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Poulomi",
+    "FLeng": "P",
+    "tel": "పౌలోమి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123625",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Pounah",
+    "FLeng": "P",
+    "tel": "పౌనః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pounami",
+    "FLeng": "P",
+    "tel": "పౌనమి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123627",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pounamu",
+    "FLeng": "P",
+    "tel": "పౌనము",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123628",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Pouneh",
+    "FLeng": "P",
+    "tel": "పౌన్హ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123629",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Poupak",
+    "FLeng": "P",
+    "tel": "పౌపాక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123630",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Pouran",
+    "FLeng": "P",
+    "tel": "పౌరన్",
+    "FLtel": "ప"
+  }
+]

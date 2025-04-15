@@ -1,0 +1,821 @@
+[
+  {
+    "id": "39800",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sorya",
+    "FLeng": "S",
+    "tel": "సూర్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "39801",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sosi",
+    "FLeng": "S",
+    "tel": "సిసి",
+    "FLtel": "స"
+  },
+  {
+    "id": "39802",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sosthenes",
+    "FLeng": "S",
+    "tel": "సోస్తెనేసు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39803",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sostratos",
+    "FLeng": "S",
+    "tel": "సోస్ట్రాటోస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39804",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sothea",
+    "FLeng": "S",
+    "tel": "సోథియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "39805",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sothy",
+    "FLeng": "S",
+    "tel": "సోతే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39806",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sotirios",
+    "FLeng": "s",
+    "tel": "సోతిరియస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39807",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sotiris",
+    "FLeng": "S",
+    "tel": "సోటిరీస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39808",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Soto",
+    "FLeng": "S",
+    "tel": "సోతో",
+    "FLtel": "స"
+  },
+  {
+    "id": "39809",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Souban",
+    "FLeng": "S",
+    "tel": "సౌబన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39810",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soubhagya",
+    "FLeng": "S",
+    "tel": "సౌభాగ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "39811",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Souffian",
+    "FLeng": "S",
+    "tel": "సూఫియాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39812",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Souhail",
+    "FLeng": "S",
+    "tel": "సౌహార్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39813",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souhard",
+    "FLeng": "S",
+    "tel": "సౌహార్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39814",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souhardika",
+    "FLeng": "S",
+    "tel": "సౌహార్దిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "39815",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Souheil",
+    "FLeng": "S",
+    "tel": "సౌహెయిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39816",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Souji",
+    "FLeng": "S",
+    "tel": "సూజి",
+    "FLtel": "స"
+  },
+  {
+    "id": "39817",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumak",
+    "FLeng": "S",
+    "tel": "సౌమక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39818",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumav",
+    "FLeng": "S",
+    "tel": "సౌమవ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39819",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumava",
+    "FLeng": "S",
+    "tel": "సౌమవ",
+    "FLtel": "స"
+  },
+  {
+    "id": "39820",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumen",
+    "FLeng": "S",
+    "tel": "సౌమిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39821",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Soumendra",
+    "FLeng": "S",
+    "tel": "సౌమిన్ద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "39822",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumendranath",
+    "FLeng": "S",
+    "tel": "సౌమిన్ద్రనాథ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39823",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumil",
+    "FLeng": "S",
+    "tel": "సౌమిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39824",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumili",
+    "FLeng": "S",
+    "tel": "సౌమిలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "39825",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumith",
+    "FLeng": "S",
+    "tel": "సౌమిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39826",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumitra",
+    "FLeng": "S",
+    "tel": "సౌమిత్రా",
+    "FLtel": "స"
+  },
+  {
+    "id": "39827",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumiyan",
+    "FLeng": "S",
+    "tel": "సౌమియం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39828",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumy",
+    "FLeng": "S",
+    "tel": "సౌమి",
+    "FLtel": "స"
+  },
+  {
+    "id": "39829",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumyadeep",
+    "FLeng": "S",
+    "tel": "సౌమ్యదీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39830",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumyajit",
+    "FLeng": "S",
+    "tel": "సౌమ్యజిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39831",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soumyakanti",
+    "FLeng": "S",
+    "tel": "సౌమ్యకంటి",
+    "FLtel": "స"
+  },
+  {
+    "id": "39832",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sounak",
+    "FLeng": "S",
+    "tel": "సౌనక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39833",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soundar",
+    "FLeng": "S",
+    "tel": "సౌందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39834",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sounil",
+    "FLeng": "S",
+    "tel": "సౌనిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39835",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souniv",
+    "FLeng": "S",
+    "tel": "సౌనివ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39836",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sounskar",
+    "FLeng": "S",
+    "tel": "సౌంస్కర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39837",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souparno",
+    "FLeng": "S",
+    "tel": "సౌపర్ణో",
+    "FLtel": "స"
+  },
+  {
+    "id": "39838",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourabh",
+    "FLeng": "S",
+    "tel": "సౌరభ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39839",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souradeep",
+    "FLeng": "S",
+    "tel": "సౌరదీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39840",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souradip",
+    "FLeng": "S",
+    "tel": "సౌరదీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39841",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourav",
+    "FLeng": "S",
+    "tel": "సౌరవ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39842",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souren",
+    "FLeng": "S",
+    "tel": "సౌరెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39843",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourik",
+    "FLeng": "S",
+    "tel": "సౌరిక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39844",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourindra",
+    "FLeng": "S",
+    "tel": "సౌరిన్ద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "39845",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourindramohan",
+    "FLeng": "S",
+    "tel": "సౌరింద్రమోహన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39846",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souris",
+    "FLeng": "S",
+    "tel": "సౌరిస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39847",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourish",
+    "FLeng": "S",
+    "tel": "సౌరిస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39848",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourja",
+    "FLeng": "S",
+    "tel": "సౌరజ",
+    "FLtel": "స"
+  },
+  {
+    "id": "39849",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourja (shaurya)",
+    "FLeng": "S",
+    "tel": "సౌరజ (షూర్య)",
+    "FLtel": "స"
+  },
+  {
+    "id": "39850",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourkeat",
+    "FLeng": "S",
+    "tel": "సౌర్కెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39851",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourup",
+    "FLeng": "S",
+    "tel": "సౌరుప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39852",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sourya",
+    "FLeng": "S",
+    "tel": "సూర్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "39853",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Souta",
+    "FLeng": "S",
+    "tel": "సూత",
+    "FLtel": "స"
+  },
+  {
+    "id": "39854",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Southern",
+    "FLeng": "S",
+    "tel": "సథరన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39855",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Southwell",
+    "FLeng": "S",
+    "tel": "సౌత్వెల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39856",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "soutine",
+    "FLeng": "s",
+    "tel": "సౌతినే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Souvik",
+    "FLeng": "S",
+    "tel": "సోయూవిక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39858",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sov",
+    "FLeng": "S",
+    "tel": "సోప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39859",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soval",
+    "FLeng": "S",
+    "tel": "సోవల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39860",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sovannar",
+    "FLeng": "S",
+    "tel": "సోవన్నారు",
+    "FLtel": "స"
+  },
+  {
+    "id": "39861",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sovannarith",
+    "FLeng": "S",
+    "tel": "సోవణ్ణరిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39862",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Sovay",
+    "FLeng": "S",
+    "tel": "స్లోవాక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39863",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soven",
+    "FLeng": "S",
+    "tel": "సోవేం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39864",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sovit",
+    "FLeng": "S",
+    "tel": "సావిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39865",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sowmika",
+    "FLeng": "S",
+    "tel": "సౌమిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "39866",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soya",
+    "FLeng": "S",
+    "tel": "సొయా",
+    "FLtel": "స"
+  },
+  {
+    "id": "39867",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Soyan",
+    "FLeng": "S",
+    "tel": "సాయం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39868",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spakeman",
+    "FLeng": "S",
+    "tel": "స్పెక్టేమం",
+    "FLtel": "స"
+  },
+  {
+    "id": "39869",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spalding",
+    "FLeng": "S",
+    "tel": "స్పాల్డింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39870",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Spandan",
+    "FLeng": "S",
+    "tel": "స్పందన",
+    "FLtel": "స"
+  },
+  {
+    "id": "39871",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Spandhana",
+    "FLeng": "S",
+    "tel": "స్పందన",
+    "FLtel": "స"
+  },
+  {
+    "id": "39872",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spangler",
+    "FLeng": "S",
+    "tel": "స్పంగ్లేర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39873",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spark",
+    "FLeng": "S",
+    "tel": "స్పార్క్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39874",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sparke",
+    "FLeng": "S",
+    "tel": "స్పార్క్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39875",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sparks",
+    "FLeng": "S",
+    "tel": "స్పార్క్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39876",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sparsh",
+    "FLeng": "S",
+    "tel": "స్పర్శ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39877",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spartacus",
+    "FLeng": "S",
+    "tel": "స్పార్టకస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39878",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "spartacus",
+    "FLeng": "s",
+    "tel": "స్పార్టకస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39879",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spas",
+    "FLeng": "S",
+    "tel": "స్పాస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39880",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spaulding",
+    "FLeng": "S",
+    "tel": "స్పేఉల్డింగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39881",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spear",
+    "FLeng": "S",
+    "tel": "స్పియర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39882",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Speare",
+    "FLeng": "S",
+    "tel": "స్పీరే",
+    "FLtel": "స"
+  },
+  {
+    "id": "39883",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spearman",
+    "FLeng": "S",
+    "tel": "స్పీర్మన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39884",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Spears",
+    "FLeng": "S",
+    "tel": "స్పియర్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39885",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "speck",
+    "FLeng": "s",
+    "tel": "స్పెక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39886",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sped",
+    "FLeng": "S",
+    "tel": "స్పీడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39887",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Speed",
+    "FLeng": "S",
+    "tel": "స్పీడ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39888",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Speedy",
+    "FLeng": "S",
+    "tel": "స్పీడో",
+    "FLtel": "స"
+  },
+  {
+    "id": "39889",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Speer",
+    "FLeng": "S",
+    "tel": "స్పెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "39890",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Speers",
+    "FLeng": "S",
+    "tel": "స్పెర్స్",
+    "FLtel": "స"
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "105135",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayakapriya",
+    "FLeng": "G",
+    "tel": "గాయకప్రియా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105136",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayalika",
+    "FLeng": "G",
+    "tel": "గాయాలింకా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105137",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayana",
+    "FLeng": "G",
+    "tel": "గయానా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105138",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayanthika",
+    "FLeng": "G",
+    "tel": "గాయంతిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105139",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayantika",
+    "FLeng": "G",
+    "tel": "గాయన్తికా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105140",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayathry",
+    "FLeng": "G",
+    "tel": "గాయత్ర్య్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105141",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayatree",
+    "FLeng": "G",
+    "tel": "గాయత్రీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105142",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayatri",
+    "FLeng": "G",
+    "tel": "గాయత్రీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105143",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayatry",
+    "FLeng": "G",
+    "tel": "గాయాట్రీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105144",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gaye",
+    "FLeng": "G",
+    "tel": "గయే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105145",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gayla",
+    "FLeng": "G",
+    "tel": "గాయాల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105146",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gayle",
+    "FLeng": "G",
+    "tel": "గాయాలే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105147",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gaylene",
+    "FLeng": "G",
+    "tel": "గాయలేనే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105148",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gaylyn",
+    "FLeng": "G",
+    "tel": "గాయాలైన",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105149",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gaynell",
+    "FLeng": "G",
+    "tel": "గైనెల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105150",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gaynell",
+    "FLeng": "g",
+    "tel": "గైనెల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105151",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gaynelle",
+    "FLeng": "G",
+    "tel": "గైనెళ్ళే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105152",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gaynelle",
+    "FLeng": "g",
+    "tel": "గైనెళ్ళే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105153",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gaynor",
+    "FLeng": "G",
+    "tel": "గాయనోర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105154",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gayora",
+    "FLeng": "G",
+    "tel": "గయిరా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105155",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gayora",
+    "FLeng": "g",
+    "tel": "గయిరా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105156",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gazal",
+    "FLeng": "G",
+    "tel": "గజల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105157",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gazala",
+    "FLeng": "G",
+    "tel": "గజాల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105158",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gazbiyya",
+    "FLeng": "G",
+    "tel": "గజబియ్య",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105159",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gazbiyyah",
+    "FLeng": "G",
+    "tel": "గజబియ్యహ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105160",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gazelle",
+    "FLeng": "G",
+    "tel": "గాజెల్లె",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105161",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gazelle",
+    "FLeng": "g",
+    "tel": "గాజెల్లె",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105162",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gazit",
+    "FLeng": "G",
+    "tel": "గజిట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105163",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gazit",
+    "FLeng": "g",
+    "tel": "గజిట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105164",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gazleen",
+    "FLeng": "G",
+    "tel": "గజలీన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105165",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gbemisola",
+    "FLeng": "G",
+    "tel": "గుబేమిసోల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105166",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gbohunmi",
+    "FLeng": "G",
+    "tel": "జైబాహుంమి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105167",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gbolahun",
+    "FLeng": "G",
+    "tel": "జైబాలహుం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105168",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gboyega",
+    "FLeng": "G",
+    "tel": "గబోయేగా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105169",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gea",
+    "FLeng": "G",
+    "tel": "గేయ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105170",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geac",
+    "FLeng": "G",
+    "tel": "జెఏసి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105171",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geana",
+    "FLeng": "G",
+    "tel": "జిన్నా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105172",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gearldine",
+    "FLeng": "G",
+    "tel": "జెఆర్ల్దినే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105173",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gearoidin",
+    "FLeng": "g",
+    "tel": "గేయారోడిన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105174",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geashna",
+    "FLeng": "G",
+    "tel": "గెత్స్న",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105175",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geby",
+    "FLeng": "G",
+    "tel": "జెబ్య్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105176",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Geddi",
+    "FLeng": "G",
+    "tel": "జెడి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105177",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Geela",
+    "FLeng": "G",
+    "tel": "జీల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105178",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geena",
+    "FLeng": "G",
+    "tel": "గీన",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105179",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "geertruida",
+    "FLeng": "g",
+    "tel": "జీర్త్రులంద",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105180",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geeta",
+    "FLeng": "G",
+    "tel": "గీత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105181",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geeta Suhani",
+    "FLeng": "G",
+    "tel": "గీత సుహాని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105182",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetadevi",
+    "FLeng": "G",
+    "tel": "గీతాదేవి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105183",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetai",
+    "FLeng": "G",
+    "tel": "గీతకి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105184",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetanand",
+    "FLeng": "G",
+    "tel": "గీతానంద్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105185",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetanjali",
+    "FLeng": "G",
+    "tel": "గీతాంజలి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105186",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetasri",
+    "FLeng": "G",
+    "tel": "గీతాశ్రీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105187",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetha",
+    "FLeng": "G",
+    "tel": "గీత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105188",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geethadevi",
+    "FLeng": "G",
+    "tel": "గీతాదేవి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105189",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geethalakshmi",
+    "FLeng": "G",
+    "tel": "గీతాలక్ష్మి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105190",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "GeethaMadhuri",
+    "FLeng": "G",
+    "tel": "గీతామాధురి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105191",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geethanjali",
+    "FLeng": "G",
+    "tel": "గీతాంజలి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105192",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geethashree",
+    "FLeng": "G",
+    "tel": "గీతాశ్రీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105193",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geethika",
+    "FLeng": "G",
+    "tel": "గీతికా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105194",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geeti",
+    "FLeng": "G",
+    "tel": "గీతి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105195",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetika",
+    "FLeng": "G",
+    "tel": "గీతికా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105196",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetisha",
+    "FLeng": "G",
+    "tel": "గీతిష",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105197",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Geetleen",
+    "FLeng": "G",
+    "tel": "గీతిలీన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105198",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geetu",
+    "FLeng": "G",
+    "tel": "గీటు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105199",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Geevitha",
+    "FLeng": "G",
+    "tel": "జీవిత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105200",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gefen",
+    "FLeng": "G",
+    "tel": "జెఫెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105201",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gefion",
+    "FLeng": "G",
+    "tel": "జిఫైన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105202",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gefion",
+    "FLeng": "g",
+    "tel": "జిఫైన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105203",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gefjun",
+    "FLeng": "G",
+    "tel": "గేఫ్జుం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105204",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gehaana",
+    "FLeng": "G",
+    "tel": "గేహానా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105205",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gehena",
+    "FLeng": "G",
+    "tel": "గెహెనా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105206",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gehna",
+    "FLeng": "G",
+    "tel": "గెహెనా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105207",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geina",
+    "FLeng": "G",
+    "tel": "గెంతి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105208",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geirbjorg",
+    "FLeng": "G",
+    "tel": "గెయిర్బజార్గ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105209",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geirrid",
+    "FLeng": "G",
+    "tel": "జెఇర్రిడ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105210",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gela",
+    "FLeng": "G",
+    "tel": "గెల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105211",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gelain",
+    "FLeng": "G",
+    "tel": "జెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105212",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Gelarah",
+    "FLeng": "G",
+    "tel": "గెల్ఢ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105213",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gelilah",
+    "FLeng": "G",
+    "tel": "గెలీలహ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105214",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geline",
+    "FLeng": "G",
+    "tel": "గెలినే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105215",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gelisa",
+    "FLeng": "G",
+    "tel": "గేలిస",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105216",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gella",
+    "FLeng": "G",
+    "tel": "జిల్లా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105217",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gella",
+    "FLeng": "g",
+    "tel": "జిల్లా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105218",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gelleia",
+    "FLeng": "G",
+    "tel": "జెల్లెయా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "105219",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gelsey",
+    "FLeng": "G",
+    "tel": "గెలిసేయ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105220",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Geltruda",
+    "FLeng": "G",
+    "tel": "గెల్త్రుడా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105221",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gem",
+    "FLeng": "G",
+    "tel": "గేమ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105222",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gema",
+    "FLeng": "G",
+    "tel": "గేమా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105223",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gemala",
+    "FLeng": "g",
+    "tel": "గేమ్ల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "105224",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gemella",
+    "FLeng": "g",
+    "tel": "గేమేళ్ల",
+    "FLtel": "గ"
+  }
+]

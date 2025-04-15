@@ -1,0 +1,785 @@
+[
+  {
+    "id": "13128",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aegheard",
+    "FLeng": "A",
+    "tel": "ఎగెర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13129",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aegidius",
+    "FLeng": "A",
+    "tel": "ఎగిసిస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13130",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aegir",
+    "FLeng": "A",
+    "tel": "ఎగిరి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "aegis",
+    "FLeng": "a",
+    "tel": "ఎగిసి",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aegthryth",
+    "FLeng": "A",
+    "tel": "ఎగ్త్ర్య్త్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13133",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aejaz",
+    "FLeng": "A",
+    "tel": "ఎజాజ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13134",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aekadamt",
+    "FLeng": "A",
+    "tel": "ఏకదంట",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13135",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aekansh",
+    "FLeng": "A",
+    "tel": "ఏకాంశ",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13136",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeker",
+    "FLeng": "A",
+    "tel": "ఏకేర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13137",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aekerley",
+    "FLeng": "A",
+    "tel": "ఏకేర్ల్య్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aekerman",
+    "FLeng": "A",
+    "tel": "ఏకేర్మన్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13139",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aekley",
+    "FLeng": "A",
+    "tel": "ఎక్కలేయ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13140",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelbehrt",
+    "FLeng": "A",
+    "tel": "ఎలీబెహార్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13141",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelbert",
+    "FLeng": "A",
+    "tel": "ఎల్బెర్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13142",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeldiet",
+    "FLeng": "A",
+    "tel": "ఎల్డిఎట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13143",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeldit",
+    "FLeng": "A",
+    "tel": "ఎల్డిట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeldra",
+    "FLeng": "A",
+    "tel": "ఎల్డరా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeldredus",
+    "FLeng": "A",
+    "tel": "అల్డ్రేడ్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13146",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeldret",
+    "FLeng": "A",
+    "tel": "అల్డ్రేట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfa",
+    "FLeng": "A",
+    "tel": "ఎల్ఫా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13148",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelffrith",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్రిత్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13149",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfgar",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్గర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfhere",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్హెరె",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelflead",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్ల్డ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13152",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfled",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్ల్డ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfraed",
+    "FLeng": "A",
+    "tel": "అల్ఫ్రాయడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13154",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfred",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్రెడ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13155",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfric",
+    "FLeng": "A",
+    "tel": "అల్ఫ్రీక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13156",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "aelfric",
+    "FLeng": "a",
+    "tel": "అల్ఫ్రీక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13157",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfryth",
+    "FLeng": "A",
+    "tel": "అల్ఫ్రీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13158",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfstan",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్స్టన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13159",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfthryth",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్త్ర్య్త్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13160",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfwald",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్వాల్డ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13161",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfwaru",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్వారు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13162",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfweard",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్వెర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13163",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfwin",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్విం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13164",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelfwine",
+    "FLeng": "A",
+    "tel": "ఆల్ఫ్వినే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13165",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelle",
+    "FLeng": "A",
+    "tel": "ఎల్లే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13166",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelmer",
+    "FLeng": "A",
+    "tel": "ఎల్మెర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13167",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aelred",
+    "FLeng": "A",
+    "tel": "అల్ర్డ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13168",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aembriht",
+    "FLeng": "A",
+    "tel": "ఎమ్బ్రిహ్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13169",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeneas",
+    "FLeng": "A",
+    "tel": "అనియాస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "13170",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aenedleah",
+    "FLeng": "A",
+    "tel": "ఆర్నెడ్లీహ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13171",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aenescumb",
+    "FLeng": "A",
+    "tel": "ఎనెస్క్యూమ్బ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13172",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aengifu",
+    "FLeng": "A",
+    "tel": "ఏంజీఫు",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13173",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aengus",
+    "FLeng": "A",
+    "tel": "ఆఇంగుష్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13174",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aenheri",
+    "FLeng": "A",
+    "tel": "ఏంహెరి",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13175",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeolus",
+    "FLeng": "A",
+    "tel": "ఐలస్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "13176",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aera",
+    "FLeng": "A",
+    "tel": "ఆరా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "13177",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeric",
+    "FLeng": "A",
+    "tel": "ఎరిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13178",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aerol",
+    "FLeng": "A",
+    "tel": "ఏరోల్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13179",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeropos",
+    "FLeng": "A",
+    "tel": "ఏరోపోస్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13180",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aesc",
+    "FLeng": "A",
+    "tel": "ఎస్సీ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13181",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aescford",
+    "FLeng": "A",
+    "tel": "ఎస్సీఫోర్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13182",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeschild",
+    "FLeng": "A",
+    "tel": "ఎస్సీహిల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13183",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aesctun",
+    "FLeng": "A",
+    "tel": "ఎస్సీతుం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13184",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aescwig",
+    "FLeng": "A",
+    "tel": "ఎస్సీవిగ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13185",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aescwine",
+    "FLeng": "A",
+    "tel": "ఎస్సీవినే",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13186",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aeshan",
+    "FLeng": "A",
+    "tel": "ఏషన్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13187",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aesir",
+    "FLeng": "A",
+    "tel": "ఏసిర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13188",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aesoburne",
+    "FLeng": "A",
+    "tel": "ఏసోబుర్నే",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13189",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aeson",
+    "FLeng": "A",
+    "tel": "ఏసోన్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13190",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aesop",
+    "FLeng": "A",
+    "tel": "ఏసోప్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13191",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethel",
+    "FLeng": "A",
+    "tel": "ఎతెల్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13192",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelard",
+    "FLeng": "A",
+    "tel": "ఎథెలార్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13193",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelbald",
+    "FLeng": "A",
+    "tel": "ఎథెల్బ్లడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13194",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelbeorht",
+    "FLeng": "A",
+    "tel": "ఎథెల్బ్ర్హ్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13195",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelbeorn",
+    "FLeng": "A",
+    "tel": "ఎథెల్బెర్న్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13196",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelberht",
+    "FLeng": "A",
+    "tel": "ఎథెల్బ్ర్హ్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelbert",
+    "FLeng": "A",
+    "tel": "ఎథెల్బెర్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13198",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelburh",
+    "FLeng": "A",
+    "tel": "ఎథెల్బుర్హ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13199",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aetheldred",
+    "FLeng": "A",
+    "tel": "ఎథెల్డ్రేడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13200",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelfrid",
+    "FLeng": "A",
+    "tel": "ఎథెల్ఫ్రిడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13201",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelfrith",
+    "FLeng": "A",
+    "tel": "ఎథెల్ఫ్రిత్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13202",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelgar",
+    "FLeng": "A",
+    "tel": "ఎథెల్గర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13203",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelgifu",
+    "FLeng": "A",
+    "tel": "ఏతెల్గీఫు",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13204",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelgyth",
+    "FLeng": "A",
+    "tel": "ఎథెల్జిత్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13205",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelhard",
+    "FLeng": "A",
+    "tel": "ఏతేల్హర్డ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13206",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelheah",
+    "FLeng": "A",
+    "tel": "ఎథెల్హీహ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13207",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelhelm",
+    "FLeng": "A",
+    "tel": "ఎథెల్హెల్మ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13208",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelhere",
+    "FLeng": "A",
+    "tel": "ఎథెల్హెరె",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13209",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelhild",
+    "FLeng": "A",
+    "tel": "ఎథెల్హిల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13210",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelhun",
+    "FLeng": "A",
+    "tel": "ఎథెల్హుం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13211",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelind",
+    "FLeng": "A",
+    "tel": "ఏతేలిందే",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "13212",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelisdun",
+    "FLeng": "A",
+    "tel": "ఎథిలిసదుం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13213",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelmod",
+    "FLeng": "A",
+    "tel": "ఎథెల్మ్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "13214",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aethelmund",
+    "FLeng": "A",
+    "tel": "ఎథెల్ముందు",
+    "FLtel": "ఎ"
+  }
+]

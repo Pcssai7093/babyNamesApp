@@ -1,0 +1,668 @@
+[
+  {
+    "id": "5039",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dax",
+    "FLeng": "D",
+    "tel": "దాస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Daxesh",
+    "FLeng": "D",
+    "tel": "దస్ష్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5041",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Daxit",
+    "FLeng": "D",
+    "tel": "డాక్సిట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5042",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daxon",
+    "FLeng": "D",
+    "tel": "డిక్సన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5043",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daxter",
+    "FLeng": "D",
+    "tel": "దస్త్ర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5044",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daxton",
+    "FLeng": "D",
+    "tel": "దస్ట్న్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5045",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daxx",
+    "FLeng": "D",
+    "tel": "డాక్స్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5046",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaakar",
+    "FLeng": "D",
+    "tel": "దయాకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5047",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaal",
+    "FLeng": "D",
+    "tel": "దయాళ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5048",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaananda",
+    "FLeng": "D",
+    "tel": "దయానంద",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5049",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaanidhi",
+    "FLeng": "D",
+    "tel": "దయానిధి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5050",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayabir",
+    "FLeng": "D",
+    "tel": "డయాబిర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5051",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayada",
+    "FLeng": "D",
+    "tel": "డేటా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5052",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayadeep",
+    "FLeng": "D",
+    "tel": "దయదీప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5053",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayajeet",
+    "FLeng": "D",
+    "tel": "దయాజీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5054",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayajot",
+    "FLeng": "D",
+    "tel": "దయాజోత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5055",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayakar",
+    "FLeng": "D",
+    "tel": "దయాకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5056",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayakara",
+    "FLeng": "D",
+    "tel": "దయాకర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5057",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Dayakurca",
+    "FLeng": "D",
+    "tel": "దయకురాక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5058",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayal",
+    "FLeng": "D",
+    "tel": "దయాల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5059",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayalan",
+    "FLeng": "D",
+    "tel": "డయలాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5060",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayaljot",
+    "FLeng": "D",
+    "tel": "దయాళ్జోత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5061",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayalpreet",
+    "FLeng": "D",
+    "tel": "దయాల్ప్రీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5062",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayalroop",
+    "FLeng": "D",
+    "tel": "దయాళ్రూప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5063",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayalu",
+    "FLeng": "D",
+    "tel": "దయ్యాలు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5064",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayamaiah",
+    "FLeng": "D",
+    "tel": "దయామయ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5065",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayamay",
+    "FLeng": "D",
+    "tel": "దయామయి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5066",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayanand",
+    "FLeng": "D",
+    "tel": "దయానంద్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5067",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayananda",
+    "FLeng": "D",
+    "tel": "దయానంద",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5068",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dayanatdar",
+    "FLeng": "D",
+    "tel": "దయాన్తదర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5069",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayandhi",
+    "FLeng": "D",
+    "tel": "దాయాది",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5070",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayanidhan",
+    "FLeng": "D",
+    "tel": "దయనిదం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5071",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayanidhi",
+    "FLeng": "D",
+    "tel": "దయానిధి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5072",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayanishee",
+    "FLeng": "D",
+    "tel": "దయానిషీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5073",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaprakash",
+    "FLeng": "D",
+    "tel": "దాయప్రకాష్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5074",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayapreet",
+    "FLeng": "D",
+    "tel": "దయప్రీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5075",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaram",
+    "FLeng": "D",
+    "tel": "దయరం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5076",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayasagar",
+    "FLeng": "D",
+    "tel": "దయాసాగర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5077",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayasagara",
+    "FLeng": "D",
+    "tel": "దయాసాగర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5078",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayasara",
+    "FLeng": "D",
+    "tel": "దయాసారా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5079",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayashankar",
+    "FLeng": "D",
+    "tel": "దయాశంకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5080",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayashanker",
+    "FLeng": "D",
+    "tel": "దయాశంకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5081",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaswaroop",
+    "FLeng": "D",
+    "tel": "దయాస్వరూప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5082",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayaswarup",
+    "FLeng": "D",
+    "tel": "దయాస్వరూప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5083",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dayavira",
+    "FLeng": "D",
+    "tel": "దయవీర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5084",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dayawant",
+    "FLeng": "D",
+    "tel": "దయవన్త",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5085",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dayim",
+    "FLeng": "D",
+    "tel": "దయిం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5086",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dayl",
+    "FLeng": "D",
+    "tel": "డయల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5087",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Daylam",
+    "FLeng": "D",
+    "tel": "డైలాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5088",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daylan",
+    "FLeng": "D",
+    "tel": "డైలాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5089",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daylann",
+    "FLeng": "D",
+    "tel": "డైలాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5090",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daylen",
+    "FLeng": "D",
+    "tel": "డైలాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5091",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daylon",
+    "FLeng": "D",
+    "tel": "డైలాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5092",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daymion",
+    "FLeng": "D",
+    "tel": "దయామిన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5093",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daymon",
+    "FLeng": "D",
+    "tel": "డైమాం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5094",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dayne",
+    "FLeng": "D",
+    "tel": "డైనే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5095",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dayner",
+    "FLeng": "D",
+    "tel": "డేనెర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5096",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dayshaun",
+    "FLeng": "D",
+    "tel": "దయశుం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5097",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dayson",
+    "FLeng": "D",
+    "tel": "డైసన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5098",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dayyaan",
+    "FLeng": "D",
+    "tel": "డయ్యాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5099",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dayyan",
+    "FLeng": "D",
+    "tel": "దయ్యం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5100",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dayyar",
+    "FLeng": "D",
+    "tel": "డయ్యర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5101",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dayyin",
+    "FLeng": "D",
+    "tel": "డయ్యిం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5102",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daza",
+    "FLeng": "D",
+    "tel": "డజ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5103",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Deacon",
+    "FLeng": "D",
+    "tel": "డీకన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5104",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Deagan",
+    "FLeng": "D",
+    "tel": "దేయాగం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5105",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Deaglan",
+    "FLeng": "D",
+    "tel": "డీగ్లాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5106",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Deagmund",
+    "FLeng": "D",
+    "tel": "డీజైమును",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Deago",
+    "FLeng": "D",
+    "tel": "డీగో",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5108",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Deakin",
+    "FLeng": "D",
+    "tel": "డీకిన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "5109",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Deakshit",
+    "FLeng": "D",
+    "tel": "దేఅక్షిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dealbeorht",
+    "FLeng": "D",
+    "tel": "దేఅల్బెర్హ్ట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5111",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dealbert",
+    "FLeng": "D",
+    "tel": "దేఅల్బెర్ట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "5112",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dean",
+    "FLeng": "D",
+    "tel": "డీన్",
+    "FLtel": "డ"
+  }
+]

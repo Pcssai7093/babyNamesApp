@@ -1,0 +1,785 @@
+[
+  {
+    "id": "135179",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wafia",
+    "FLeng": "W",
+    "tel": "రఫియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135180",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wafiya",
+    "FLeng": "W",
+    "tel": "రఫియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135181",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wafiyah",
+    "FLeng": "W",
+    "tel": "రఫీయాహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135182",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wafiyyah",
+    "FLeng": "W",
+    "tel": "రఫియ్యహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135183",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wafiza",
+    "FLeng": "W",
+    "tel": "రఫీజా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135184",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wagma",
+    "FLeng": "W",
+    "tel": "వాగ్మ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135185",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wahabah",
+    "FLeng": "W",
+    "tel": "వాహబ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135186",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Waheebah",
+    "FLeng": "W",
+    "tel": "వాహీబాహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135187",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Waheeda",
+    "FLeng": "W",
+    "tel": "వహీదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135188",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Wahenoor",
+    "FLeng": "W",
+    "tel": "వాహెనూర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135189",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wahiba",
+    "FLeng": "W",
+    "tel": "వాహిబా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135190",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wahibah",
+    "FLeng": "W",
+    "tel": "వాహిబహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135191",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wahida",
+    "FLeng": "W",
+    "tel": "వహీదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135192",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wahidah",
+    "FLeng": "W",
+    "tel": "వహిదాహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135193",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wahnda",
+    "FLeng": "W",
+    "tel": "వాహనదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135194",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Wahpreet",
+    "FLeng": "W",
+    "tel": "వాహాప్రీత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135195",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wahuj",
+    "FLeng": "W",
+    "tel": "వాహ్యూజ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135196",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "waiola",
+    "FLeng": "w",
+    "tel": "వాయువుల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135197",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wairimu",
+    "FLeng": "W",
+    "tel": "వైరము",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135198",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Waitherero",
+    "FLeng": "W",
+    "tel": "వైతేరేరో",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135199",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Waiya",
+    "FLeng": "W",
+    "tel": "వైయ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135200",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajee",
+    "FLeng": "W",
+    "tel": "వాజీ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135201",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajeeda",
+    "FLeng": "W",
+    "tel": "వాజీదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135202",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajeedah",
+    "FLeng": "W",
+    "tel": "వాజీదః",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135203",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajeeha",
+    "FLeng": "W",
+    "tel": "వాజీహ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135204",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajia",
+    "FLeng": "W",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135205",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajida",
+    "FLeng": "W",
+    "tel": "వాజిదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135206",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajiha",
+    "FLeng": "W",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "135207",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajihah",
+    "FLeng": "W",
+    "tel": "వాజిహః",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135208",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wajna",
+    "FLeng": "W",
+    "tel": "వాజ్ఞ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135209",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wakeela",
+    "FLeng": "W",
+    "tel": "వకీలు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135210",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wakeelah",
+    "FLeng": "W",
+    "tel": "వాకీలాహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135211",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Wakeeta",
+    "FLeng": "W",
+    "tel": "వాకిట",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135212",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wakerild",
+    "FLeng": "W",
+    "tel": "వాకేరిర్డ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135213",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wakerilda",
+    "FLeng": "W",
+    "tel": "వాకేరిల్డా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135214",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wakib",
+    "FLeng": "W",
+    "tel": "వాకిబ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135215",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wakiuru",
+    "FLeng": "W",
+    "tel": "వాకురు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135216",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wala",
+    "FLeng": "W",
+    "tel": "వాలా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135217",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Walaa",
+    "FLeng": "W",
+    "tel": "వాలా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135218",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Walad",
+    "FLeng": "W",
+    "tel": "వాల్డ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135219",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Walberga",
+    "FLeng": "W",
+    "tel": "వాల్బెర్గ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135220",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Walborg",
+    "FLeng": "W",
+    "tel": "వాళ్బోర్గ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135221",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Walborgd",
+    "FLeng": "W",
+    "tel": "వాల్బోర్జ్డ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135222",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "walburga",
+    "FLeng": "w",
+    "tel": "వాళ్బుర్లా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135223",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "walda",
+    "FLeng": "w",
+    "tel": "వాలదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135224",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Waldhurga",
+    "FLeng": "W",
+    "tel": "వలదుర్గ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135225",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Waleeya",
+    "FLeng": "W",
+    "tel": "వాలీయ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135226",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Waleis",
+    "FLeng": "W",
+    "tel": "వలెప్స్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135227",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "walentyna",
+    "FLeng": "w",
+    "tel": "వాలెంటైనా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135228",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Waleria",
+    "FLeng": "W",
+    "tel": "వలేరియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135229",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Walia",
+    "FLeng": "W",
+    "tel": "వాలియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135230",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Walidah",
+    "FLeng": "W",
+    "tel": "వాళిదః",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135231",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Walihah",
+    "FLeng": "W",
+    "tel": "వాళిహః",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135232",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Walita",
+    "FLeng": "W",
+    "tel": "వాలిట",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135233",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Waliyah",
+    "FLeng": "W",
+    "tel": "వాలియాహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135234",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wallada",
+    "FLeng": "W",
+    "tel": "వాళ్ళది",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135235",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wallburga",
+    "FLeng": "W",
+    "tel": "వాల్ళబుర్లా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135236",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wallda",
+    "FLeng": "W",
+    "tel": "వాళ్లదా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135237",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Walliss",
+    "FLeng": "W",
+    "tel": "వాల్లిస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135238",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wallys",
+    "FLeng": "W",
+    "tel": "వాలీస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135239",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Walpurgis",
+    "FLeng": "W",
+    "tel": "వాల్పుర్జిస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135240",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Walta",
+    "FLeng": "W",
+    "tel": "వాల్టా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135241",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Waltraud",
+    "FLeng": "W",
+    "tel": "వాల్టరుద్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135242",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wambui",
+    "FLeng": "W",
+    "tel": "వామ్బుయి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135243",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Wamika",
+    "FLeng": "W",
+    "tel": "వామిక",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135244",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Wamil",
+    "FLeng": "W",
+    "tel": "వామిల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135245",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wamuhu",
+    "FLeng": "W",
+    "tel": "వాముహు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135246",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wamuiru",
+    "FLeng": "W",
+    "tel": "వాముఇరు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135247",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wamweru",
+    "FLeng": "W",
+    "tel": "వామ్వెరు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135248",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wan",
+    "FLeng": "W",
+    "tel": "వన్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135249",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wandah",
+    "FLeng": "W",
+    "tel": "వన్దహ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135250",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wande",
+    "FLeng": "W",
+    "tel": "వన్డే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135251",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wander",
+    "FLeng": "W",
+    "tel": "వన్డేర్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135252",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wandie",
+    "FLeng": "W",
+    "tel": "వన్డిఏ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135253",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wandis",
+    "FLeng": "W",
+    "tel": "వన్దిస్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135254",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wandy",
+    "FLeng": "W",
+    "tel": "వన్డే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135255",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wandzia",
+    "FLeng": "W",
+    "tel": "వన్డజిత్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135256",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wanessa",
+    "FLeng": "W",
+    "tel": "వానేస్స",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135257",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "waneta",
+    "FLeng": "w",
+    "tel": "వనిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135258",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wanetta",
+    "FLeng": "W",
+    "tel": "వనెత్త",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135259",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wangai",
+    "FLeng": "W",
+    "tel": "వన్గి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135260",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wangari",
+    "FLeng": "W",
+    "tel": "వన్గారి",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135261",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wangera",
+    "FLeng": "W",
+    "tel": "వాన్గర",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135262",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wangu",
+    "FLeng": "W",
+    "tel": "వానగు",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135263",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Wania",
+    "FLeng": "W",
+    "tel": "వాని",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135264",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Wanita",
+    "FLeng": "W",
+    "tel": "వనిత",
+    "FLtel": "వ"
+  },
+  {
+    "id": "135265",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Waniya",
+    "FLeng": "W",
+    "tel": "వానియా",
+    "FLtel": "వ"
+  }
+]

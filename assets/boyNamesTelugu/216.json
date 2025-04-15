@@ -1,0 +1,722 @@
+[
+  {
+    "id": "10973",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghabashir",
+    "FLeng": "G",
+    "tel": "ఘబాషిర్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10974",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghadef",
+    "FLeng": "G",
+    "tel": "ఘడిఫ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10975",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ghadhanfar",
+    "FLeng": "G",
+    "tel": "ఘాఢంఫర్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10976",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghadra",
+    "FLeng": "G",
+    "tel": "ఘూద్ర",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10977",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaffar",
+    "FLeng": "G",
+    "tel": "గఫ్ఫార్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10978",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghafr",
+    "FLeng": "G",
+    "tel": "గాఫ్ర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10979",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghafran",
+    "FLeng": "G",
+    "tel": "ఘూఫ్రాన్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10980",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghafur",
+    "FLeng": "G",
+    "tel": "ఘూఫుర్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10981",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaib",
+    "FLeng": "G",
+    "tel": "ఘైబ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10982",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaidan",
+    "FLeng": "G",
+    "tel": "ఘైడం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10983",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghailan",
+    "FLeng": "G",
+    "tel": "ఘైలం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10984",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghairat",
+    "FLeng": "G",
+    "tel": "ఘైర్ట్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10985",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaith",
+    "FLeng": "G",
+    "tel": "ఘైత్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10986",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "ghaith",
+    "FLeng": "g",
+    "tel": "ఘైత్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10987",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaiyyas",
+    "FLeng": "G",
+    "tel": "ఘైయ్యస్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10988",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaiz",
+    "FLeng": "G",
+    "tel": "గయ్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10989",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghakhtalay",
+    "FLeng": "G",
+    "tel": "ఘూఙ్ఖతలే",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10990",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghalb",
+    "FLeng": "G",
+    "tel": "ఘల్బ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10991",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghalbah",
+    "FLeng": "G",
+    "tel": "ఘల్బాహ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10992",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaleb",
+    "FLeng": "G",
+    "tel": "ఘల్బ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10993",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "ghaleb",
+    "FLeng": "g",
+    "tel": "ఘల్బ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10994",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghali",
+    "FLeng": "G",
+    "tel": "గాలి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10995",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghalib",
+    "FLeng": "G",
+    "tel": "గాలిబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10996",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghalinus",
+    "FLeng": "G",
+    "tel": "ఘాలిన్స్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10997",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghallab",
+    "FLeng": "G",
+    "tel": "ఘల్లబ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "10998",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghaman",
+    "FLeng": "G",
+    "tel": "గామం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "10999",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ghamand",
+    "FLeng": "G",
+    "tel": "ఘమందు",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11000",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ghamandjeet",
+    "FLeng": "G",
+    "tel": "ఘమణ్డజీత్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11001",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ghamandjot",
+    "FLeng": "G",
+    "tel": "ఘమండజొట్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11002",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ghamandpal",
+    "FLeng": "G",
+    "tel": "ఘమండపాల్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11003",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghamandpreet",
+    "FLeng": "G",
+    "tel": "ఘమణ్డప్రీత్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11004",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ghamandprem",
+    "FLeng": "G",
+    "tel": "ఘమండ్ప్రెమ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11005",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghamay",
+    "FLeng": "G",
+    "tel": "ఘమై",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11006",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghamir",
+    "FLeng": "G",
+    "tel": "ఘమిర్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11007",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghamzah",
+    "FLeng": "G",
+    "tel": "గంజాహ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11008",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghanaanand",
+    "FLeng": "G",
+    "tel": "ఘనానంద",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11009",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghanalinga",
+    "FLeng": "G",
+    "tel": "ఘనలింగ",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11010",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghananand",
+    "FLeng": "G",
+    "tel": "గణనను",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11011",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghanashyam",
+    "FLeng": "G",
+    "tel": "ఘనశ్యామ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11012",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghanem",
+    "FLeng": "G",
+    "tel": "ఘనేం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11013",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghanendra",
+    "FLeng": "G",
+    "tel": "ఘనేంద్ర",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11014",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghanesh",
+    "FLeng": "G",
+    "tel": "గణేష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11015",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghani",
+    "FLeng": "G",
+    "tel": "గాని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11016",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghani Rich",
+    "FLeng": "G",
+    "tel": "గాని రిచ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11017",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghanim",
+    "FLeng": "G",
+    "tel": "ఘానిన్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11018",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghanimat",
+    "FLeng": "G",
+    "tel": "ఘనిమాత్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11019",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghannam",
+    "FLeng": "G",
+    "tel": "ఘూన్నాం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11020",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghannan",
+    "FLeng": "G",
+    "tel": "ఘూన్నం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11021",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghansara",
+    "FLeng": "G",
+    "tel": "ఘంసర",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11022",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghansham",
+    "FLeng": "G",
+    "tel": "ఘాంశం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11023",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghanshyam",
+    "FLeng": "G",
+    "tel": "ఘనశ్యామ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghansyam",
+    "FLeng": "G",
+    "tel": "ఘనశ్యాం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11025",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghantasala",
+    "FLeng": "G",
+    "tel": "ఘంటసాల",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11026",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghantin",
+    "FLeng": "G",
+    "tel": "ఘంటిం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11027",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gharan",
+    "FLeng": "G",
+    "tel": "గరం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11028",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gharchet",
+    "FLeng": "G",
+    "tel": "ఘూర్కిట్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11029",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gharib",
+    "FLeng": "G",
+    "tel": "గరీబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gharman",
+    "FLeng": "G",
+    "tel": "ఘర్మాం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11031",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gharra",
+    "FLeng": "G",
+    "tel": "గర్ర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11032",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gharsanay",
+    "FLeng": "G",
+    "tel": "ఘర్షణాయ",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11033",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghasaan",
+    "FLeng": "G",
+    "tel": "ఘూసాం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11034",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghasan",
+    "FLeng": "G",
+    "tel": "ఘసం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11035",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghasharab",
+    "FLeng": "G",
+    "tel": "ఘూషరాబు",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11036",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghashiah",
+    "FLeng": "G",
+    "tel": "ఘశయ్య",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11037",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghasif",
+    "FLeng": "G",
+    "tel": "గాసిప్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11038",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghassan",
+    "FLeng": "G",
+    "tel": "ఘస్సన్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11039",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "ghassan",
+    "FLeng": "g",
+    "tel": "ఘస్సన్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghataja",
+    "FLeng": "G",
+    "tel": "గతజ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11041",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghatin",
+    "FLeng": "G",
+    "tel": "ఘాటైన",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11042",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghatool",
+    "FLeng": "G",
+    "tel": "ఘటాల",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11043",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghatotkacha",
+    "FLeng": "G",
+    "tel": "ఘటోత్కచ",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11044",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ghatotkatcha",
+    "FLeng": "G",
+    "tel": "ఘటోత్కత్సా",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11045",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghatrif",
+    "FLeng": "G",
+    "tel": "ఘరీఫ్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11046",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaur",
+    "FLeng": "G",
+    "tel": "ఘర్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11047",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghaus",
+    "FLeng": "G",
+    "tel": "గాస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11048",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghausiazam",
+    "FLeng": "G",
+    "tel": "ఘూఉసిఅజాం",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11049",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghauth",
+    "FLeng": "G",
+    "tel": "ఘూఉత్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11050",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghawani",
+    "FLeng": "G",
+    "tel": "ఘరని",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11051",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghawer",
+    "FLeng": "G",
+    "tel": "ఘూవెర్",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "11052",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ghayab",
+    "FLeng": "G",
+    "tel": "గాయబ్",
+    "FLtel": "గ"
+  }
+]

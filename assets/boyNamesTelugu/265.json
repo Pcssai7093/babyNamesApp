@@ -1,0 +1,875 @@
+[
+  {
+    "id": "15399",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarjot",
+    "FLeng": "I",
+    "tel": "ఇందరజోత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15400",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarmeet",
+    "FLeng": "I",
+    "tel": "ఇందరుమీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15401",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarmohan",
+    "FLeng": "I",
+    "tel": "ఇందర్మోహం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15402",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarpal",
+    "FLeng": "I",
+    "tel": "ఇంటర్పోల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15403",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarpreet",
+    "FLeng": "I",
+    "tel": "ఇందరప్రీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15404",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarprem",
+    "FLeng": "I",
+    "tel": "ఇంటర్ప్రెమ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15405",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indarsukh",
+    "FLeng": "I",
+    "tel": "ఇందర్సుఖ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15406",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indartej",
+    "FLeng": "I",
+    "tel": "ఇండర్టేజ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15407",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Inda­bil",
+    "FLeng": "I",
+    "tel": "ఇంద­బిల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15408",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indeevar",
+    "FLeng": "I",
+    "tel": "ఇందీవర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15409",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indeevaraksh",
+    "FLeng": "I",
+    "tel": "ఇందీవరక్ష్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15410",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indeevaras",
+    "FLeng": "I",
+    "tel": "ఇందీవరస్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15411",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indeever",
+    "FLeng": "I",
+    "tel": "ఇందీవరు",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15412",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inder",
+    "FLeng": "I",
+    "tel": "ఇందర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15413",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Inder Kant",
+    "FLeng": "I",
+    "tel": "ఇందర్ కాంట్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15414",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderbir",
+    "FLeng": "I",
+    "tel": "ఇండెర్బీర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15415",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderdeep",
+    "FLeng": "I",
+    "tel": "ఇందేరదీప్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15416",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderharjeet",
+    "FLeng": "I",
+    "tel": "ఇండెర్హర్జీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15417",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderjeet",
+    "FLeng": "I",
+    "tel": "ఇందర్జీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15418",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderjit",
+    "FLeng": "I",
+    "tel": "ఇండెర్జిత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15419",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderjot",
+    "FLeng": "I",
+    "tel": "ఇందిరజోత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15420",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Inderlal",
+    "FLeng": "I",
+    "tel": "ఇండెర్లాల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15421",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indermaan",
+    "FLeng": "I",
+    "tel": "ఇండెర్మాన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15422",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indermeet",
+    "FLeng": "I",
+    "tel": "ఇండెర్మ్ట్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15423",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indermohan",
+    "FLeng": "I",
+    "tel": "ఇండెర్మోహం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15424",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderpal",
+    "FLeng": "I",
+    "tel": "ఇందెర్పాల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15425",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderpreet",
+    "FLeng": "I",
+    "tel": "ఇండెర్ప్రీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15426",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indertek",
+    "FLeng": "I",
+    "tel": "ఇండెర్టేక్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15427",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Inderveer",
+    "FLeng": "I",
+    "tel": "ఇండెర్వీర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15428",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indervir",
+    "FLeng": "I",
+    "tel": "ఇందర్వీర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15429",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indhuvaz",
+    "FLeng": "I",
+    "tel": "ఇందువాజ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15430",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "indio",
+    "FLeng": "i",
+    "tel": "ఇండియా",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15431",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indiran",
+    "FLeng": "I",
+    "tel": "ఇందిరను",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15432",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indiresh",
+    "FLeng": "I",
+    "tel": "ఇందిరేష్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15433",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indirjeet",
+    "FLeng": "I",
+    "tel": "ఇందిరాజీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15434",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indirjot",
+    "FLeng": "I",
+    "tel": "ఇందిరజోత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15435",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indirpreet",
+    "FLeng": "I",
+    "tel": "ఇందిరప్రీత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15436",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indirveer",
+    "FLeng": "I",
+    "tel": "ఇందిరవీర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15437",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Indirvir",
+    "FLeng": "I",
+    "tel": "ఇందిరవిర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15438",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indivar",
+    "FLeng": "I",
+    "tel": "ఇందీవర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15439",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indiwar",
+    "FLeng": "I",
+    "tel": "ఇండీవార్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15440",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indra",
+    "FLeng": "I",
+    "tel": "ఇంద్ర",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indraarjun",
+    "FLeng": "I",
+    "tel": "ఇంద్రార్జున్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15442",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrabha",
+    "FLeng": "I",
+    "tel": "ఇంద్రభ",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15443",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Indrabhuti",
+    "FLeng": "I",
+    "tel": "ఇంద్రభూతి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15444",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradat",
+    "FLeng": "I",
+    "tel": "ఇంద్రదట",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15445",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradatt",
+    "FLeng": "I",
+    "tel": "ఇంద్రదత్త",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15446",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradhanu",
+    "FLeng": "I",
+    "tel": "ఇంద్రధను",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradhanush",
+    "FLeng": "I",
+    "tel": "ఇంద్రధనుష్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15448",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradu",
+    "FLeng": "I",
+    "tel": "ఇంద్రడు",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15449",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradutt",
+    "FLeng": "I",
+    "tel": "ఇంద్రడుత్త",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15450",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indradyumn",
+    "FLeng": "I",
+    "tel": "ఇంద్రద్యుమున్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15451",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indraghosh",
+    "FLeng": "I",
+    "tel": "ఇంద్రఘోష్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15452",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indragop",
+    "FLeng": "I",
+    "tel": "ఇంద్రగోప",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15453",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrajeet",
+    "FLeng": "I",
+    "tel": "ఇంద్రజిత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15454",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrajit",
+    "FLeng": "I",
+    "tel": "ఇంద్రజిత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15455",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrajith",
+    "FLeng": "I",
+    "tel": "ఇంద్రజిత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15456",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrakant",
+    "FLeng": "I",
+    "tel": "ఇంద్రకంటి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15457",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrakanta",
+    "FLeng": "I",
+    "tel": "ఇంద్రకాంత",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15458",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrakeel",
+    "FLeng": "I",
+    "tel": "ఇంద్రకీల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15459",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indran",
+    "FLeng": "I",
+    "tel": "ఇంద్రన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15460",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indraneel",
+    "FLeng": "I",
+    "tel": "ఇంద్రనీల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15461",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indranil",
+    "FLeng": "I",
+    "tel": "ఇంద్రాణి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15462",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indranila",
+    "FLeng": "I",
+    "tel": "ఇంద్రనీల",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15463",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrapal",
+    "FLeng": "I",
+    "tel": "ఇంద్రపాల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15464",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrarjun",
+    "FLeng": "I",
+    "tel": "ఇంద్రార్జున్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15465",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrasen",
+    "FLeng": "I",
+    "tel": "ఇంద్రసేన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15466",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrashis",
+    "FLeng": "I",
+    "tel": "ఇంద్రశిస్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15467",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrashish",
+    "FLeng": "I",
+    "tel": "ఇంద్రశిష్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15468",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrasuta",
+    "FLeng": "I",
+    "tel": "ఇంద్రసుతా",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15469",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indratan",
+    "FLeng": "I",
+    "tel": "ఇంద్రతం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15470",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indratej",
+    "FLeng": "I",
+    "tel": "ఇంద్రతేజ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15471",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indravadan",
+    "FLeng": "I",
+    "tel": "ఇంద్రవడం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15472",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indravan",
+    "FLeng": "I",
+    "tel": "ఇంద్రవం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15473",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indravarman",
+    "FLeng": "I",
+    "tel": "ఇంద్రవర్మన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15474",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indravathi",
+    "FLeng": "I",
+    "tel": "ఇంద్రావతి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15475",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrayan",
+    "FLeng": "I",
+    "tel": "ఇంద్రయాణ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15476",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indresan",
+    "FLeng": "I",
+    "tel": "ఇంద్రేశం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15477",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indresh",
+    "FLeng": "I",
+    "tel": "ఇంద్రేశ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15478",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indris",
+    "FLeng": "I",
+    "tel": "ఇంద్రీస్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15479",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrish",
+    "FLeng": "I",
+    "tel": "ఇంద్రిష్హ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15480",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indriya",
+    "FLeng": "I",
+    "tel": "ఇంద్రియ",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15481",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrodzit",
+    "FLeng": "I",
+    "tel": "ఇంద్రోడిజిట్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15482",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indrojit",
+    "FLeng": "I",
+    "tel": "ఇంద్రోజిత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15483",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indroth",
+    "FLeng": "I",
+    "tel": "ఇంద్రోత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15484",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indubhav",
+    "FLeng": "I",
+    "tel": "ఇందుభవ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15485",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indubhushan",
+    "FLeng": "I",
+    "tel": "ఇందుభూషణ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15486",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indudar",
+    "FLeng": "I",
+    "tel": "యిందుధర్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15487",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indudeep",
+    "FLeng": "I",
+    "tel": "ఇంగుదీప్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15488",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indudhar",
+    "FLeng": "I",
+    "tel": "యిందుధర్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15489",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Induhasan",
+    "FLeng": "I",
+    "tel": "ఇందుహాసం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15490",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Induj",
+    "FLeng": "I",
+    "tel": "ఇందూజ",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15491",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indujanak",
+    "FLeng": "I",
+    "tel": "ఇందుజానక్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15492",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indukant",
+    "FLeng": "I",
+    "tel": "ఇందుకంటీ",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15493",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indukanta",
+    "FLeng": "I",
+    "tel": "ఇందుకంటా",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15494",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indukanth",
+    "FLeng": "I",
+    "tel": "ఇందుకంత",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15495",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Indulal",
+    "FLeng": "I",
+    "tel": "ఇందూలాల్",
+    "FLtel": "ఇ"
+  }
+]

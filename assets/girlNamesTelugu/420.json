@@ -1,0 +1,884 @@
+[
+  {
+    "id": "131205",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suphulla",
+    "FLeng": "S",
+    "tel": "సుఫుల్ల",
+    "FLtel": "స"
+  },
+  {
+    "id": "131206",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suposhini",
+    "FLeng": "S",
+    "tel": "సుపోషిణి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131207",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprabha",
+    "FLeng": "S",
+    "tel": "సుప్రభా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131208",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprabhata",
+    "FLeng": "S",
+    "tel": "సుప్రభాత",
+    "FLtel": "స"
+  },
+  {
+    "id": "131209",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprada",
+    "FLeng": "S",
+    "tel": "సుప్రదా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131210",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supraja",
+    "FLeng": "S",
+    "tel": "సుప్రజ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131211",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprajaa",
+    "FLeng": "S",
+    "tel": "సుప్రజా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131212",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supranya",
+    "FLeng": "S",
+    "tel": "సుప్రాణ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "131213",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprasanna",
+    "FLeng": "S",
+    "tel": "సుప్రసన్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "131214",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprathika",
+    "FLeng": "S",
+    "tel": "సుప్రతికా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131215",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprati",
+    "FLeng": "S",
+    "tel": "సుప్రతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131216",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supreeta",
+    "FLeng": "S",
+    "tel": "సుప్రీతా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131217",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supreetha",
+    "FLeng": "S",
+    "tel": "సుప్రీతా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131218",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supreethi",
+    "FLeng": "S",
+    "tel": "సుప్రీతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131219",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprema",
+    "FLeng": "S",
+    "tel": "సుప్రేమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131220",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supritha",
+    "FLeng": "S",
+    "tel": "సరితా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131221",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supriti",
+    "FLeng": "S",
+    "tel": "సుప్రితి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131222",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suprity",
+    "FLeng": "S",
+    "tel": "సుప్రితి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131223",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supriya",
+    "FLeng": "S",
+    "tel": "సుప్రియ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131224",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supta",
+    "FLeng": "S",
+    "tel": "సుప్త",
+    "FLtel": "స"
+  },
+  {
+    "id": "131225",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suptha",
+    "FLeng": "S",
+    "tel": "సుప్త",
+    "FLtel": "స"
+  },
+  {
+    "id": "131226",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supti",
+    "FLeng": "S",
+    "tel": "సుప్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131227",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suptinil",
+    "FLeng": "S",
+    "tel": "సుప్తినిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131228",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supunya",
+    "FLeng": "S",
+    "tel": "సుపుణ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "131229",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Supushpa",
+    "FLeng": "S",
+    "tel": "సుపుష్పా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131230",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Sura",
+    "FLeng": "S",
+    "tel": "సుర",
+    "FLtel": "స"
+  },
+  {
+    "id": "131231",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suraa",
+    "FLeng": "S",
+    "tel": "సురా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131232",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "surabhee",
+    "FLeng": "s",
+    "tel": "సురభీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131233",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surabhi",
+    "FLeng": "S",
+    "tel": "సురభి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131234",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surabho",
+    "FLeng": "S",
+    "tel": "సురభో",
+    "FLtel": "స"
+  },
+  {
+    "id": "131235",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surabhu",
+    "FLeng": "S",
+    "tel": "సురభు",
+    "FLtel": "స"
+  },
+  {
+    "id": "131236",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surabi",
+    "FLeng": "S",
+    "tel": "సురభి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131237",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suradhuni",
+    "FLeng": "S",
+    "tel": "సురధుని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131238",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suraganga",
+    "FLeng": "S",
+    "tel": "సురగంగా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131239",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suraiya",
+    "FLeng": "S",
+    "tel": "సురయ్యా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131240",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suraja",
+    "FLeng": "S",
+    "tel": "సూరజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131241",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surajeet",
+    "FLeng": "S",
+    "tel": "సురాజీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131242",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surajni",
+    "FLeng": "S",
+    "tel": "సురాజ్ఞి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131243",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suraksha",
+    "FLeng": "S",
+    "tel": "సురక్ష",
+    "FLtel": "స"
+  },
+  {
+    "id": "131244",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surala",
+    "FLeng": "S",
+    "tel": "సురల",
+    "FLtel": "స"
+  },
+  {
+    "id": "131245",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Surali",
+    "FLeng": "S",
+    "tel": "సురాలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131246",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surama",
+    "FLeng": "S",
+    "tel": "సురమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131247",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surana",
+    "FLeng": "S",
+    "tel": "సూరన",
+    "FLtel": "స"
+  },
+  {
+    "id": "131248",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suranandini",
+    "FLeng": "S",
+    "tel": "సురానందిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131249",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surangana",
+    "FLeng": "S",
+    "tel": "సురంగనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131250",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surangi",
+    "FLeng": "S",
+    "tel": "సురంగి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131251",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surani",
+    "FLeng": "S",
+    "tel": "సురని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131252",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suranjana",
+    "FLeng": "S",
+    "tel": "సూర్యాంజనే",
+    "FLtel": "స"
+  },
+  {
+    "id": "131253",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suranjani",
+    "FLeng": "S",
+    "tel": "సురంజని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131254",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suranna",
+    "FLeng": "S",
+    "tel": "సూరన్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "131255",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suranya",
+    "FLeng": "S",
+    "tel": "సురణ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "131256",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surapriya",
+    "FLeng": "S",
+    "tel": "సురప్రియ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131257",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suraranjini",
+    "FLeng": "S",
+    "tel": "సూరారంజిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131258",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surasa",
+    "FLeng": "S",
+    "tel": "సురస",
+    "FLtel": "స"
+  },
+  {
+    "id": "131259",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surasena",
+    "FLeng": "S",
+    "tel": "సురసేన",
+    "FLtel": "స"
+  },
+  {
+    "id": "131260",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surasindhu",
+    "FLeng": "S",
+    "tel": "సురసింధు",
+    "FLtel": "స"
+  },
+  {
+    "id": "131261",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surasti",
+    "FLeng": "S",
+    "tel": "సురాస్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131262",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surati",
+    "FLeng": "S",
+    "tel": "సురటి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131263",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suratna",
+    "FLeng": "S",
+    "tel": "సురత్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "131264",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suravahini",
+    "FLeng": "S",
+    "tel": "సురావాహిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131265",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suravani",
+    "FLeng": "S",
+    "tel": "సురవని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131266",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suravi",
+    "FLeng": "S",
+    "tel": "సురవి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131267",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suravinda",
+    "FLeng": "S",
+    "tel": "సురవింద",
+    "FLtel": "స"
+  },
+  {
+    "id": "131268",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suraya",
+    "FLeng": "S",
+    "tel": "సూర్యాయ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131269",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Surayya",
+    "FLeng": "S",
+    "tel": "సూరయ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "131270",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Surayyah",
+    "FLeng": "S",
+    "tel": "సూరయ్యహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131271",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surbhi",
+    "FLeng": "S",
+    "tel": "సురభి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131272",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surebha",
+    "FLeng": "S",
+    "tel": "సూరిబా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131273",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suree",
+    "FLeng": "S",
+    "tel": "సూరీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131274",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Sureet",
+    "FLeng": "S",
+    "tel": "సిరీస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131275",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surejya",
+    "FLeng": "S",
+    "tel": "సురేజా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131276",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surekha",
+    "FLeng": "S",
+    "tel": "సురేఖ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131277",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Surelis",
+    "FLeng": "S",
+    "tel": "సురేలీస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131278",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surena",
+    "FLeng": "S",
+    "tel": "సరేనా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131279",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surenia",
+    "FLeng": "S",
+    "tel": "సూరిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131280",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surenu",
+    "FLeng": "S",
+    "tel": "సురేను",
+    "FLtel": "స"
+  },
+  {
+    "id": "131281",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sureshi",
+    "FLeng": "S",
+    "tel": "సురేషి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131282",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Sureshwari",
+    "FLeng": "S",
+    "tel": "సురేశ్వరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131283",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Suria",
+    "FLeng": "S",
+    "tel": "సిరియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131284",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suriani",
+    "FLeng": "S",
+    "tel": "సూరియాని",
+    "FLtel": "స"
+  },
+  {
+    "id": "131285",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suriawati",
+    "FLeng": "S",
+    "tel": "సూరియేవాతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131286",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Surie",
+    "FLeng": "S",
+    "tel": "సూరీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131287",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surina",
+    "FLeng": "S",
+    "tel": "సూరినా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131288",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Surinder",
+    "FLeng": "S",
+    "tel": "సిరిందెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "131289",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surishvari",
+    "FLeng": "S",
+    "tel": "సూరీశ్వరి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131290",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suriya",
+    "FLeng": "S",
+    "tel": "సిరియా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131291",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suriyakala",
+    "FLeng": "S",
+    "tel": "సూరియకాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "131292",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suriyasri",
+    "FLeng": "S",
+    "tel": "సూరియశ్రీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131293",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surma",
+    "FLeng": "S",
+    "tel": "సుర్మా",
+    "FLtel": "స"
+  },
+  {
+    "id": "131294",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surochana",
+    "FLeng": "S",
+    "tel": "సురోచన",
+    "FLtel": "స"
+  },
+  {
+    "id": "131295",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surohini",
+    "FLeng": "S",
+    "tel": "సురోహిణి",
+    "FLtel": "స"
+  },
+  {
+    "id": "131296",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suroma",
+    "FLeng": "S",
+    "tel": "సురోమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131297",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suroopa",
+    "FLeng": "S",
+    "tel": "సురూప",
+    "FLtel": "స"
+  },
+  {
+    "id": "131298",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Suroopika",
+    "FLeng": "S",
+    "tel": "సురూపిక",
+    "FLtel": "స"
+  },
+  {
+    "id": "131299",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surotama",
+    "FLeng": "S",
+    "tel": "సురోత్తమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131300",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surottama",
+    "FLeng": "S",
+    "tel": "సురోత్తమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131301",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surpankha",
+    "FLeng": "S",
+    "tel": "సూర్పనఖ",
+    "FLtel": "స"
+  },
+  {
+    "id": "131302",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Surpriya",
+    "FLeng": "S",
+    "tel": "సుర్ప్రియ",
+    "FLtel": "స"
+  }
+]

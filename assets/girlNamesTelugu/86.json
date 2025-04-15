@@ -1,0 +1,857 @@
+[
+  {
+    "id": "140250",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakori",
+    "FLeng": "C",
+    "tel": "చకోర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140251",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Chakra",
+    "FLeng": "C",
+    "tel": "చక్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140252",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakradharini",
+    "FLeng": "C",
+    "tel": "చక్రధారిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140253",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakranhi",
+    "FLeng": "C",
+    "tel": "చక్రాంహి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140254",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Chakreshwari",
+    "FLeng": "C",
+    "tel": "చక్రేశ్వరి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140255",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakria",
+    "FLeng": "C",
+    "tel": "చక్రిది",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140256",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakrika",
+    "FLeng": "C",
+    "tel": "చక్రికా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140257",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakrikaa",
+    "FLeng": "C",
+    "tel": "చక్రికా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140258",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakrit",
+    "FLeng": "C",
+    "tel": "చక్రిట్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140259",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakshani",
+    "FLeng": "C",
+    "tel": "ఛక్షని",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "140260",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chakshu",
+    "FLeng": "C",
+    "tel": "చక్షు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140261",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chala",
+    "FLeng": "C",
+    "tel": "చాల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140262",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chalama",
+    "FLeng": "C",
+    "tel": "చలం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140263",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chalana",
+    "FLeng": "C",
+    "tel": "చలన",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140264",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chalantika",
+    "FLeng": "C",
+    "tel": "చలాంటిక",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140265",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chalchiuitl",
+    "FLeng": "C",
+    "tel": "చాల్చిఉఇట్ల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140266",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chalice",
+    "FLeng": "C",
+    "tel": "చాలీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140267",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chalina",
+    "FLeng": "C",
+    "tel": "చలిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140268",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chalitha",
+    "FLeng": "C",
+    "tel": "చలిత",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140269",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Challa",
+    "FLeng": "C",
+    "tel": "చల్ల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140270",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Challita",
+    "FLeng": "C",
+    "tel": "చల్లితే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140271",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chalondra",
+    "FLeng": "C",
+    "tel": "చాలొన్ద్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140272",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "chalondra",
+    "FLeng": "c",
+    "tel": "చాలొన్ద్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140273",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chalsia",
+    "FLeng": "C",
+    "tel": "చెల్సియా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140274",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chalsie",
+    "FLeng": "C",
+    "tel": "చాల్సియే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140275",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamanthi",
+    "FLeng": "C",
+    "tel": "చామంతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140276",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamari",
+    "FLeng": "C",
+    "tel": "చమరీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140277",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chambal",
+    "FLeng": "C",
+    "tel": "చంబల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140278",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chambray",
+    "FLeng": "C",
+    "tel": "చంబ్రాయ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140279",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamelee",
+    "FLeng": "C",
+    "tel": "చమేలీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140280",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chameli",
+    "FLeng": "C",
+    "tel": "చమేలీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140281",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamelia",
+    "FLeng": "C",
+    "tel": "చమేలియా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140282",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamini",
+    "FLeng": "C",
+    "tel": "చమిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140283",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "chamois",
+    "FLeng": "c",
+    "tel": "చమోయ్స్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140284",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamomile",
+    "FLeng": "C",
+    "tel": "చమోమిలే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140285",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chamorra",
+    "FLeng": "C",
+    "tel": "ఛామొఱ్ఱ",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "140286",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champa",
+    "FLeng": "C",
+    "tel": "చంప",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140287",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champabati",
+    "FLeng": "C",
+    "tel": "చంపబడి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140288",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champakali",
+    "FLeng": "C",
+    "tel": "చంపకళి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140289",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champakavathi",
+    "FLeng": "C",
+    "tel": "చంపకవతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140290",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champakmala",
+    "FLeng": "C",
+    "tel": "చంపకమాల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140291",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champamalini",
+    "FLeng": "C",
+    "tel": "చంపమలిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140292",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Champapuri",
+    "FLeng": "C",
+    "tel": "చమ్పాపురి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140293",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champei",
+    "FLeng": "C",
+    "tel": "చంపెయ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140294",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Champika",
+    "FLeng": "C",
+    "tel": "చంపిక",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140295",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamroeun",
+    "FLeng": "C",
+    "tel": "ఛాంరోయున్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "140296",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chamunda",
+    "FLeng": "C",
+    "tel": "చాముండా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140297",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chana",
+    "FLeng": "C",
+    "tel": "చానా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140298",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chanah",
+    "FLeng": "C",
+    "tel": "చనః",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140299",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanakshi",
+    "FLeng": "C",
+    "tel": "చానాక్షి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140300",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanasya",
+    "FLeng": "C",
+    "tel": "చణస్య",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140301",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanasyaa",
+    "FLeng": "C",
+    "tel": "చణస్యా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140302",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanchala",
+    "FLeng": "C",
+    "tel": "చంచల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140303",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Chanchan",
+    "FLeng": "C",
+    "tel": "చంచం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140304",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanchari",
+    "FLeng": "C",
+    "tel": "చంచరీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140305",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanchita",
+    "FLeng": "C",
+    "tel": "చంచిత",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140306",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chancy",
+    "FLeng": "C",
+    "tel": "ఛాన్సీ",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "140307",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chand",
+    "FLeng": "C",
+    "tel": "చాంద్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140308",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chanda",
+    "FLeng": "C",
+    "tel": "చందా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140309",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandaa",
+    "FLeng": "C",
+    "tel": "చందా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140310",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandaghanta",
+    "FLeng": "C",
+    "tel": "చంద్రఘంట",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140311",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandalini",
+    "FLeng": "C",
+    "tel": "చందాలిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140312",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandamundavinashini",
+    "FLeng": "C",
+    "tel": "చండముందవినాశిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140313",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandana",
+    "FLeng": "C",
+    "tel": "చందాన",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140314",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandana Laxmi",
+    "FLeng": "C",
+    "tel": "చందాన లక్ష్మి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140315",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Chandanbala",
+    "FLeng": "C",
+    "tel": "చందంబాల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140316",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandani",
+    "FLeng": "C",
+    "tel": "చండని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140317",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandanika",
+    "FLeng": "C",
+    "tel": "చండానికా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140318",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandanpal",
+    "FLeng": "C",
+    "tel": "చందంపేల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140319",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandasri",
+    "FLeng": "C",
+    "tel": "చంద్రశ్రీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140320",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandee",
+    "FLeng": "C",
+    "tel": "చండీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140321",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandeep",
+    "FLeng": "C",
+    "tel": "చండీపీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140322",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandhana",
+    "FLeng": "C",
+    "tel": "చందన",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140323",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandhini",
+    "FLeng": "C",
+    "tel": "చాందిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140324",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandhraka",
+    "FLeng": "C",
+    "tel": "చంద్రక",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140325",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandi",
+    "FLeng": "C",
+    "tel": "చండి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140326",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chandice",
+    "FLeng": "C",
+    "tel": "చండీస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140327",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandika",
+    "FLeng": "C",
+    "tel": "చండిక",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140328",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandini",
+    "FLeng": "C",
+    "tel": "చాందిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140329",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandira",
+    "FLeng": "C",
+    "tel": "చండీరా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140330",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandlan",
+    "FLeng": "C",
+    "tel": "చండ్లని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140331",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandni",
+    "FLeng": "C",
+    "tel": "చాందిని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140332",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandnika",
+    "FLeng": "C",
+    "tel": "చందునిక",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140333",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandodeva",
+    "FLeng": "C",
+    "tel": "ఛన్దోదేవ",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "140334",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Chandona",
+    "FLeng": "C",
+    "tel": "ఛందోన",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "140335",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandra Vadana",
+    "FLeng": "C",
+    "tel": "చంద్ర వాదన",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140336",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandraane",
+    "FLeng": "C",
+    "tel": "చంద్రయాన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140337",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandrabala",
+    "FLeng": "C",
+    "tel": "చంద్రబాల",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140338",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandrabali",
+    "FLeng": "C",
+    "tel": "చంద్రబాలి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140339",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandrabhadra",
+    "FLeng": "C",
+    "tel": "చంద్రభాద్ర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140340",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandrabhaga",
+    "FLeng": "C",
+    "tel": "చంద్రభాగా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140341",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandrabindu",
+    "FLeng": "C",
+    "tel": "చంద్రబిందు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140342",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandrabrati",
+    "FLeng": "C",
+    "tel": "చంద్రబ్రతి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140343",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandradhara",
+    "FLeng": "C",
+    "tel": "చంద్రధార",
+    "FLtel": "చ"
+  },
+  {
+    "id": "140344",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Chandraharika",
+    "FLeng": "C",
+    "tel": "చంద్రహారిక",
+    "FLtel": "చ"
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "id": "550",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Binnu",
+    "FLeng": "B",
+    "tel": "బిన్ను",
+    "FLtel": "బ"
+  },
+  {
+    "id": "551",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Binnyker",
+    "FLeng": "B",
+    "tel": "బిన్నీకేర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "552",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Binoba",
+    "FLeng": "B",
+    "tel": "బినోబా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "553",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Binod",
+    "FLeng": "B",
+    "tel": "బినోద్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "554",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Binodan",
+    "FLeng": "B",
+    "tel": "బినోదం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "555",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Binota",
+    "FLeng": "B",
+    "tel": "బినోట",
+    "FLtel": "బ"
+  },
+  {
+    "id": "556",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Binoy",
+    "FLeng": "B",
+    "tel": "బినోయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "557",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Binpaul",
+    "FLeng": "B",
+    "tel": "బింపయూల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "558",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bintu",
+    "FLeng": "B",
+    "tel": "బింటు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "559",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Binwant",
+    "FLeng": "B",
+    "tel": "బింవన్త",
+    "FLtel": "బ"
+  },
+  {
+    "id": "560",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Binyamin",
+    "FLeng": "B",
+    "tel": "బిన్యామిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "561",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Binyamin   ,",
+    "FLeng": "B",
+    "tel": "బిన్యామిన్   ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "562",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bion",
+    "FLeng": "B",
+    "tel": "బిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "563",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bionbyr",
+    "FLeng": "B",
+    "tel": "బిన్బైర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "564",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biorn",
+    "FLeng": "B",
+    "tel": "బిర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "565",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bipashwi",
+    "FLeng": "B",
+    "tel": "బిపశ్వి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "566",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bipin",
+    "FLeng": "B",
+    "tel": "బిపిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "567",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bipinjeet",
+    "FLeng": "B",
+    "tel": "బిపిజీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "568",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bipinjot",
+    "FLeng": "B",
+    "tel": "బిపింజోత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "569",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bipinmeet",
+    "FLeng": "B",
+    "tel": "బిపిమీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "570",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bipinpreet",
+    "FLeng": "B",
+    "tel": "బిపిప్రీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "571",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Biplab",
+    "FLeng": "B",
+    "tel": "బిపీలాబ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "572",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biplav",
+    "FLeng": "B",
+    "tel": "బిప్లవః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "573",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biplojit",
+    "FLeng": "B",
+    "tel": "బీపీలోజిత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "574",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biplop",
+    "FLeng": "B",
+    "tel": "బీపీలోప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "575",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bipra",
+    "FLeng": "B",
+    "tel": "భిప్ర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "576",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bipradhar",
+    "FLeng": "B",
+    "tel": "బిప్రదర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "577",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bipul",
+    "FLeng": "B",
+    "tel": "బిపుల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "578",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bipula",
+    "FLeng": "B",
+    "tel": "బిపుల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "579",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bir",
+    "FLeng": "B",
+    "tel": "బీర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "580",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biraaj",
+    "FLeng": "B",
+    "tel": "బిరాజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "581",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biraat",
+    "FLeng": "B",
+    "tel": "బిరాత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "582",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Biradol",
+    "FLeng": "B",
+    "tel": "బిరడా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "583",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biraj",
+    "FLeng": "B",
+    "tel": "బిరాజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "584",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birakaal",
+    "FLeng": "B",
+    "tel": "బీరకాల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "585",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biral",
+    "FLeng": "B",
+    "tel": "బీరాలు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "586",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biran",
+    "FLeng": "B",
+    "tel": "బీరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "587",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biranchi",
+    "FLeng": "B",
+    "tel": "బిరంచి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "588",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birapaar",
+    "FLeng": "B",
+    "tel": "బీరపార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "589",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Birat",
+    "FLeng": "B",
+    "tel": "బైరటీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "590",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birbahadur",
+    "FLeng": "B",
+    "tel": "బీర్బహదూర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "591",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Birbal",
+    "FLeng": "B",
+    "tel": "బీర్బల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "592",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birbala",
+    "FLeng": "B",
+    "tel": "బీర్బల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "593",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birbhoop",
+    "FLeng": "B",
+    "tel": "బిర్భూప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "594",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birch",
+    "FLeng": "B",
+    "tel": "బిర్చ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "595",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birchard",
+    "FLeng": "B",
+    "tel": "బిర్చర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "596",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birche",
+    "FLeng": "B",
+    "tel": "బిర్చే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "597",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birdavinder",
+    "FLeng": "B",
+    "tel": "బిరుదవిండెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "598",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birde",
+    "FLeng": "B",
+    "tel": "బిర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "599",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birdhil",
+    "FLeng": "B",
+    "tel": "బిరుదిల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "600",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birdhill",
+    "FLeng": "B",
+    "tel": "బిర్ధిల్లఁ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "601",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Biren",
+    "FLeng": "B",
+    "tel": "బిరేం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "602",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Birendra",
+    "FLeng": "B",
+    "tel": "బీరేంద్ర",
+    "FLtel": "బ"
+  },
+  {
+    "id": "603",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Biresvara",
+    "FLeng": "B",
+    "tel": "బీరేశ్వర",
+    "FLtel": "బ"
+  },
+  {
+    "id": "604",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birger",
+    "FLeng": "B",
+    "tel": "బిర్గెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "605",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birghiva",
+    "FLeng": "B",
+    "tel": "బిర్గివ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "606",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birgir",
+    "FLeng": "B",
+    "tel": "బిర్జిర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "607",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birhanu",
+    "FLeng": "B",
+    "tel": "బిర్హాను",
+    "FLtel": "బ"
+  },
+  {
+    "id": "608",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Birinchi",
+    "FLeng": "B",
+    "tel": "బిరించి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "609",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birindar",
+    "FLeng": "B",
+    "tel": "బిరిందర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "610",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birinder",
+    "FLeng": "B",
+    "tel": "బిరిందర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "611",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birinderdeep",
+    "FLeng": "B",
+    "tel": "బిరిందేరదీప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "612",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birinderjeet",
+    "FLeng": "B",
+    "tel": "బిరిందర్జీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "613",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birinderjot",
+    "FLeng": "B",
+    "tel": "బిరిందెఱఁజోత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "614",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birinderpaul",
+    "FLeng": "B",
+    "tel": "బిరిందేర్పముల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "615",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birinderpreet",
+    "FLeng": "B",
+    "tel": "బిరిందెర్ప్రీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "616",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Birjees",
+    "FLeng": "B",
+    "tel": "బిర్జీస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "617",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birjeet",
+    "FLeng": "B",
+    "tel": "బిర్జీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "618",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birjeevan",
+    "FLeng": "B",
+    "tel": "బిర్జీవం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "619",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birjot",
+    "FLeng": "B",
+    "tel": "బిర్జోత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "620",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Birju",
+    "FLeng": "B",
+    "tel": "బిర్జు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "621",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birk",
+    "FLeng": "B",
+    "tel": "బిర్క్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "622",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birket",
+    "FLeng": "B",
+    "tel": "బిర్కెట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birkett",
+    "FLeng": "B",
+    "tel": "బిర్కెట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "624",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birkey",
+    "FLeng": "B",
+    "tel": "బిరికీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "625",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birkhead",
+    "FLeng": "B",
+    "tel": "బిర్ఖేడ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "626",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birkir",
+    "FLeng": "B",
+    "tel": "బిర్కిర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "627",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birkit",
+    "FLeng": "B",
+    "tel": "బిర్కిట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birkitt",
+    "FLeng": "B",
+    "tel": "బిర్కిట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birky",
+    "FLeng": "B",
+    "tel": "బిర్క్య",
+    "FLtel": "బ"
+  },
+  {
+    "id": "630",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birley",
+    "FLeng": "B",
+    "tel": "బిర్ల్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birly",
+    "FLeng": "B",
+    "tel": "బిర్ల్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birney",
+    "FLeng": "B",
+    "tel": "బిర్న్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birny",
+    "FLeng": "B",
+    "tel": "బిర్న్య్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Biron",
+    "FLeng": "B",
+    "tel": "బైరాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "635",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Birousk",
+    "FLeng": "B",
+    "tel": "బిరౌస్క్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "636",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birpal",
+    "FLeng": "B",
+    "tel": "బిర్పాల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "637",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birpratap",
+    "FLeng": "B",
+    "tel": "బిర్ప్రతాప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "638",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birprem",
+    "FLeng": "B",
+    "tel": "బిర్ప్రెమ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "639",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Birsaroop",
+    "FLeng": "B",
+    "tel": "బిర్సారూప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "640",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birtel",
+    "FLeng": "B",
+    "tel": "బిర్టెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "641",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Birtingr",
+    "FLeng": "B",
+    "tel": "బిర్టింగ్ర్",
+    "FLtel": "బ"
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "id": "120578",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Anahya",
+    "FLeng": "A",
+    "tel": "అనుహ్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120579",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Anaida",
+    "FLeng": "A",
+    "tel": "అణైడా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120580",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anaika",
+    "FLeng": "A",
+    "tel": "అనైక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120581",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Anais",
+    "FLeng": "A",
+    "tel": "అణైస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120582",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anaisha",
+    "FLeng": "A",
+    "tel": "అనైషా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120583",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Anaita",
+    "FLeng": "A",
+    "tel": "అనైటా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120584",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Anaitha",
+    "FLeng": "A",
+    "tel": "అనైతే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120585",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anaiya",
+    "FLeng": "A",
+    "tel": "అన్నయ్యా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120586",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anajana",
+    "FLeng": "A",
+    "tel": "అంజనా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120587",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anakha",
+    "FLeng": "A",
+    "tel": "అనేక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120588",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anala",
+    "FLeng": "A",
+    "tel": "అనాలా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120589",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "analeigh",
+    "FLeng": "a",
+    "tel": "అనలేఇఘ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120590",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "analia",
+    "FLeng": "a",
+    "tel": "అనాలియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120591",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Analilia",
+    "FLeng": "A",
+    "tel": "అనలిలియా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120592",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anamika",
+    "FLeng": "A",
+    "tel": "అనామిక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120593",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anamiva",
+    "FLeng": "A",
+    "tel": "అనామివ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120594",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anamone",
+    "FLeng": "A",
+    "tel": "అనామోనే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120595",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anan",
+    "FLeng": "A",
+    "tel": "ఆనం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120596",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananda",
+    "FLeng": "A",
+    "tel": "ఆనంద",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120597",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananda Lakshmi",
+    "FLeng": "A",
+    "tel": "ఆనంద లక్ష్మి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120598",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandalahari",
+    "FLeng": "A",
+    "tel": "ఆనందలహరి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120599",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandalakshmi",
+    "FLeng": "A",
+    "tel": "ఆనందాలక్ష్మి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120600",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandamaye",
+    "FLeng": "A",
+    "tel": "ఆనందమయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120601",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandamayi",
+    "FLeng": "A",
+    "tel": "ఆనందమయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120602",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandani",
+    "FLeng": "A",
+    "tel": "ఆనందాన్ని",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120603",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandbhairavi",
+    "FLeng": "A",
+    "tel": "ఆనందభైరవి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandhapradha",
+    "FLeng": "A",
+    "tel": "ఆనందప్రద",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120605",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandhi",
+    "FLeng": "A",
+    "tel": "ఆనంది",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120606",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandhita",
+    "FLeng": "A",
+    "tel": "ఆనందితా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120607",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandi",
+    "FLeng": "A",
+    "tel": "ఆనంది",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120608",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "anandi",
+    "FLeng": "a",
+    "tel": "ఆనంది",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120609",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandika",
+    "FLeng": "A",
+    "tel": "ఆనందిక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120610",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandini",
+    "FLeng": "A",
+    "tel": "ఆనందిని",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120611",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandita",
+    "FLeng": "A",
+    "tel": "ఆనందితా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120612",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandithya",
+    "FLeng": "A",
+    "tel": "ఆనందిత్య",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120613",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anandmayee",
+    "FLeng": "A",
+    "tel": "ఆనందమయీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120614",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anangalekha",
+    "FLeng": "A",
+    "tel": "అనంగలేఖా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120615",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anangamalini",
+    "FLeng": "A",
+    "tel": "అనంగమాలిని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120616",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anangee",
+    "FLeng": "A",
+    "tel": "అనంగీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120617",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anangu",
+    "FLeng": "A",
+    "tel": "అనంగు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120618",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anania",
+    "FLeng": "A",
+    "tel": "అనని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120619",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananka",
+    "FLeng": "A",
+    "tel": "ఆనంక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120620",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anankna",
+    "FLeng": "A",
+    "tel": "ఆనంకన్నా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120621",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anannya",
+    "FLeng": "A",
+    "tel": "అఞ్ఞన్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120622",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananshi",
+    "FLeng": "A",
+    "tel": "అనాన్షి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananta",
+    "FLeng": "A",
+    "tel": "అనంత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anantashree",
+    "FLeng": "A",
+    "tel": "అనంతశ్రీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anantha",
+    "FLeng": "A",
+    "tel": "అనంత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananthalakshmi",
+    "FLeng": "A",
+    "tel": "అనంతలక్ష్మి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120627",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananthi",
+    "FLeng": "A",
+    "tel": "అఞ్ఞతి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120628",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananthini",
+    "FLeng": "A",
+    "tel": "అనంతుని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120629",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananti",
+    "FLeng": "A",
+    "tel": "ఆనాటి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120630",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anantika",
+    "FLeng": "A",
+    "tel": "నాటిక",
+    "FLtel": "న"
+  },
+  {
+    "id": "120631",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anantya",
+    "FLeng": "A",
+    "tel": "అనన్తయా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananya",
+    "FLeng": "A",
+    "tel": "అనన్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120633",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ananyaa",
+    "FLeng": "A",
+    "tel": "అనన్యా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120634",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anapayina",
+    "FLeng": "A",
+    "tel": "అనాపయినా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120635",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anara",
+    "FLeng": "A",
+    "tel": "అన్నారు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120636",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anargha",
+    "FLeng": "A",
+    "tel": "అనర్ఘ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120637",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anarghya",
+    "FLeng": "A",
+    "tel": "ఆనర్ఘ్య",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "120638",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anarkali",
+    "FLeng": "A",
+    "tel": "అనార్కలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120639",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anashree",
+    "FLeng": "A",
+    "tel": "అనశ్రీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120640",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Anashwara",
+    "FLeng": "A",
+    "tel": "అనశ్వర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "120641",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "anastasia",
+    "FLeng": "a",
+    "tel": "అనస్టాసియా",
+    "FLtel": "అ"
+  }
+]

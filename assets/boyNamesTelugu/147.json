@@ -1,0 +1,767 @@
+[
+  {
+    "id": "4439",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshatan",
+    "FLeng": "D",
+    "tel": "దక్షతను",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4440",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshesh",
+    "FLeng": "D",
+    "tel": "దక్షేషు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Daksheshwar",
+    "FLeng": "D",
+    "tel": "దక్షేశ్వర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4442",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Daksheswar",
+    "FLeng": "D",
+    "tel": "దక్షేశ్వర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4443",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshi",
+    "FLeng": "D",
+    "tel": "దక్షి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4444",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshinayan",
+    "FLeng": "D",
+    "tel": "దక్షిణాయనం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4445",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dakshish",
+    "FLeng": "D",
+    "tel": "దక్షిష్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4446",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshit",
+    "FLeng": "D",
+    "tel": "దక్షిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshith",
+    "FLeng": "D",
+    "tel": "దక్షిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4448",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshithjai",
+    "FLeng": "D",
+    "tel": "దక్షతఁజై",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4449",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dakshya",
+    "FLeng": "D",
+    "tel": "దక్ష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4450",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Daksi",
+    "FLeng": "D",
+    "tel": "దక్షి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4451",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dal",
+    "FLeng": "D",
+    "tel": "దళ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4452",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dala",
+    "FLeng": "D",
+    "tel": "దళ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4453",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dalair",
+    "FLeng": "D",
+    "tel": "దలైర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4454",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dalaj",
+    "FLeng": "D",
+    "tel": "దలజే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4455",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalajit",
+    "FLeng": "D",
+    "tel": "దల్జీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4456",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalajita",
+    "FLeng": "D",
+    "tel": "డాలజిత",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4457",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalan",
+    "FLeng": "D",
+    "tel": "డలం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4458",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalapathi",
+    "FLeng": "D",
+    "tel": "దళపతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4459",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalapati",
+    "FLeng": "D",
+    "tel": "దళపతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4460",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalas",
+    "FLeng": "D",
+    "tel": "డాలస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4461",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalbert",
+    "FLeng": "D",
+    "tel": "దల్బెర్ట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4462",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalbha",
+    "FLeng": "D",
+    "tel": "దాల్బ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4463",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalbhya",
+    "FLeng": "D",
+    "tel": "దాల్భ్యు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4464",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalbinder",
+    "FLeng": "D",
+    "tel": "దల్బీన్డెర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4465",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalbinderjit",
+    "FLeng": "D",
+    "tel": "దల్బీన్దేర్జిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4466",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Daleel",
+    "FLeng": "D",
+    "tel": "డాలీల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4467",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalek",
+    "FLeng": "D",
+    "tel": "డాలీకి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4468",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalen",
+    "FLeng": "D",
+    "tel": "డలం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4469",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Daler",
+    "FLeng": "D",
+    "tel": "డాలర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4470",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dalfon",
+    "FLeng": "d",
+    "tel": "డాలీఫోన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4471",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalgeet",
+    "FLeng": "D",
+    "tel": "డాలజీత్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4472",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dalham",
+    "FLeng": "D",
+    "tel": "దళ్హమ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4473",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dalil",
+    "FLeng": "D",
+    "tel": "దళి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4474",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalip",
+    "FLeng": "D",
+    "tel": "దిలీప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4475",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalipinder",
+    "FLeng": "D",
+    "tel": "దాలిండెర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4476",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dalir",
+    "FLeng": "D",
+    "tel": "దళిర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4477",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Daljeet",
+    "FLeng": "D",
+    "tel": "దల్జీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4478",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Daljinder",
+    "FLeng": "D",
+    "tel": "డాల్జిన్డెర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4479",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Daljit",
+    "FLeng": "D",
+    "tel": "దల్జీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4480",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Daljodh",
+    "FLeng": "D",
+    "tel": "దాలజోద్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4481",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dall",
+    "FLeng": "D",
+    "tel": "డాల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4482",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dallace",
+    "FLeng": "D",
+    "tel": "డల్లాస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4483",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dallan",
+    "FLeng": "D",
+    "tel": "డాళ్లను",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4484",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dallas",
+    "FLeng": "D",
+    "tel": "డల్లాస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4485",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalldav",
+    "FLeng": "D",
+    "tel": "డాల్లడవు",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4486",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dallen",
+    "FLeng": "D",
+    "tel": "దల్లేం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4487",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dallon",
+    "FLeng": "D",
+    "tel": "దాల్లోం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4488",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dallton",
+    "FLeng": "D",
+    "tel": "డాళ్ళ్తోన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4489",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalmar",
+    "FLeng": "D",
+    "tel": "దాల్మార్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4490",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalmat",
+    "FLeng": "D",
+    "tel": "దల్మట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4491",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dalmazio",
+    "FLeng": "d",
+    "tel": "దాల్మాజియో",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4492",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalmeet",
+    "FLeng": "D",
+    "tel": "బల్మీటి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "4493",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalmi",
+    "FLeng": "D",
+    "tel": "దాల్మి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4494",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalminder",
+    "FLeng": "D",
+    "tel": "దాల్మిన్డెర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4495",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalon",
+    "FLeng": "D",
+    "tel": "దలోం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4496",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalpati",
+    "FLeng": "D",
+    "tel": "దళపతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4497",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalpinder",
+    "FLeng": "D",
+    "tel": "డాల్పిందేర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4498",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalpreet",
+    "FLeng": "D",
+    "tel": "దాల్ప్రీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4499",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalraj",
+    "FLeng": "D",
+    "tel": "డల్రాజ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4500",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalsher",
+    "FLeng": "D",
+    "tel": "డాళ్షెర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalston",
+    "FLeng": "D",
+    "tel": "దాల్స్టోన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4502",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalten",
+    "FLeng": "D",
+    "tel": "దాల్తేన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4503",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalton",
+    "FLeng": "D",
+    "tel": "డాల్టన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4504",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dalvie",
+    "FLeng": "D",
+    "tel": "దాల్వీయి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4505",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalvinder",
+    "FLeng": "D",
+    "tel": "దాల్విన్డెర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4506",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dalvir",
+    "FLeng": "D",
+    "tel": "దాల్విర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4507",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalwin",
+    "FLeng": "D",
+    "tel": "దాలివిన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4508",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Daly",
+    "FLeng": "D",
+    "tel": "డాలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4509",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dalyn",
+    "FLeng": "D",
+    "tel": "దలైన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4510",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dalziel",
+    "FLeng": "d",
+    "tel": "డాలీజిఎల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4511",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dam",
+    "FLeng": "D",
+    "tel": "డాం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4512",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Damaghosa",
+    "FLeng": "D",
+    "tel": "దమఘోష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4513",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Damajot",
+    "FLeng": "D",
+    "tel": "దమజోత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4514",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Damakesin",
+    "FLeng": "D",
+    "tel": "డమకేసిన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "4515",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Daman",
+    "FLeng": "D",
+    "tel": "థమన్",
+    "FLtel": "థ"
+  },
+  {
+    "id": "4516",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Damana",
+    "FLeng": "D",
+    "tel": "దమన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4517",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Damanaka",
+    "FLeng": "D",
+    "tel": "దమనక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4518",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Damani",
+    "FLeng": "D",
+    "tel": "దామని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4519",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Damaninder",
+    "FLeng": "D",
+    "tel": "దామనినఁడెర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4520",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Damanjeet",
+    "FLeng": "D",
+    "tel": "దమంజీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4521",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Damanjit",
+    "FLeng": "D",
+    "tel": "దమంజీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4522",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Damanjot",
+    "FLeng": "D",
+    "tel": "దామనుజోత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "4523",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Damanjote",
+    "FLeng": "D",
+    "tel": "దామనుజోతే",
+    "FLtel": "ద"
+  }
+]

@@ -1,0 +1,884 @@
+[
+  {
+    "id": "117040",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manibha",
+    "FLeng": "M",
+    "tel": "మనోభా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117041",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manideepa",
+    "FLeng": "M",
+    "tel": "మణిదీప",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117042",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manidipa",
+    "FLeng": "M",
+    "tel": "మణిదీప",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117043",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manidra",
+    "FLeng": "M",
+    "tel": "మందిర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117044",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manika",
+    "FLeng": "M",
+    "tel": "మాణిక్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117045",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manikarni",
+    "FLeng": "M",
+    "tel": "మాణికర్ణి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117046",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manikarnika",
+    "FLeng": "M",
+    "tel": "మణికర్ణికా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117047",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manikkodi",
+    "FLeng": "M",
+    "tel": "మణిక్కోడి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117048",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manikodi",
+    "FLeng": "M",
+    "tel": "మణికుడి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117049",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manikuntala",
+    "FLeng": "M",
+    "tel": "మణికుంటల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117050",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manila",
+    "FLeng": "M",
+    "tel": "మనిల్లా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117051",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manilala",
+    "FLeng": "M",
+    "tel": "మనీలాల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117052",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Manild",
+    "FLeng": "M",
+    "tel": "మణిల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117053",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "ManiMaalai",
+    "FLeng": "M",
+    "tel": "మానిమాలై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117054",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimaanivitha",
+    "FLeng": "M",
+    "tel": "మణిమాణివిత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117055",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimala",
+    "FLeng": "M",
+    "tel": "మణిమాల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117056",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Maniman",
+    "FLeng": "M",
+    "tel": "మణిమం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117057",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimay",
+    "FLeng": "M",
+    "tel": "మణిమయ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117058",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimegalai",
+    "FLeng": "M",
+    "tel": "మణిమేఘాలై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117059",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimekala",
+    "FLeng": "M",
+    "tel": "మణిమేఖల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117060",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimekhala",
+    "FLeng": "M",
+    "tel": "మణిమేఖల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117061",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manimoli",
+    "FLeng": "M",
+    "tel": "మణిమొళి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117062",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manimozhi",
+    "FLeng": "M",
+    "tel": "మానిమోజహి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117063",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manina",
+    "FLeng": "M",
+    "tel": "మానిన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117064",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maninagai",
+    "FLeng": "M",
+    "tel": "మణినాగై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117065",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maninee",
+    "FLeng": "M",
+    "tel": "మానినీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117066",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maninga",
+    "FLeng": "M",
+    "tel": "మానింగా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117067",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manini",
+    "FLeng": "M",
+    "tel": "మణిని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117068",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maniprabha",
+    "FLeng": "M",
+    "tel": "మణిప్రభ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117069",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manipura",
+    "FLeng": "M",
+    "tel": "మణిపుర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117070",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manirama",
+    "FLeng": "M",
+    "tel": "మనోరమ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117071",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maniratna",
+    "FLeng": "M",
+    "tel": "మణిరత్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117072",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manisha",
+    "FLeng": "M",
+    "tel": "మనీషా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117073",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manishi",
+    "FLeng": "M",
+    "tel": "మనిషి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117074",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manishika",
+    "FLeng": "M",
+    "tel": "మనిషికే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117075",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manishini",
+    "FLeng": "M",
+    "tel": "మనిషిని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117076",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manishita",
+    "FLeng": "M",
+    "tel": "మనిషిత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117077",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manishitha",
+    "FLeng": "M",
+    "tel": "మనిషిత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117078",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manishka",
+    "FLeng": "M",
+    "tel": "మానిష్క",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117079",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manisi",
+    "FLeng": "M",
+    "tel": "మనిషి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117080",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manisila",
+    "FLeng": "M",
+    "tel": "మనిషిలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117081",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manisitha",
+    "FLeng": "M",
+    "tel": "మానిసిత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117082",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manita",
+    "FLeng": "M",
+    "tel": "మానిట",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117083",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manitha",
+    "FLeng": "M",
+    "tel": "మానితే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117084",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maniv",
+    "FLeng": "M",
+    "tel": "మణివి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117085",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maniya",
+    "FLeng": "M",
+    "tel": "మానియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117086",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Maniyammal",
+    "FLeng": "M",
+    "tel": "మణియమ్మళ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117087",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manizeh",
+    "FLeng": "M",
+    "tel": "మణిజహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117088",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manja",
+    "FLeng": "M",
+    "tel": "మాంజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117089",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjali",
+    "FLeng": "M",
+    "tel": "మాంజలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117090",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjari",
+    "FLeng": "M",
+    "tel": "మంజరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117091",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjeera",
+    "FLeng": "M",
+    "tel": "మంజీరా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117092",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjeetha",
+    "FLeng": "M",
+    "tel": "మంజీత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117093",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manji",
+    "FLeng": "M",
+    "tel": "మంజి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117094",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manjika",
+    "FLeng": "M",
+    "tel": "మంజిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117095",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjila",
+    "FLeng": "M",
+    "tel": "మంజిల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117096",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjima",
+    "FLeng": "M",
+    "tel": "మంజిమ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117097",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manjinder",
+    "FLeng": "M",
+    "tel": "మంజిన్డెర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117098",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjira",
+    "FLeng": "M",
+    "tel": "మంజీరా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117099",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjiri",
+    "FLeng": "M",
+    "tel": "మంజరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117100",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjishtya",
+    "FLeng": "M",
+    "tel": "మంజిష్ట్యా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117101",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjistha",
+    "FLeng": "M",
+    "tel": "మంజిష్ఠా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117102",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Manjodh",
+    "FLeng": "M",
+    "tel": "మంజాద్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117103",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjri",
+    "FLeng": "M",
+    "tel": "మంజరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117104",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manju",
+    "FLeng": "M",
+    "tel": "మంజు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117105",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjubala",
+    "FLeng": "M",
+    "tel": "మంజూబ్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117106",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manjubhargavi",
+    "FLeng": "M",
+    "tel": "మంజుభార్గవి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117107",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjula",
+    "FLeng": "M",
+    "tel": "మంజుల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117108",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjulabai",
+    "FLeng": "M",
+    "tel": "మంజులబై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117109",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjuladevi",
+    "FLeng": "M",
+    "tel": "మంజులాదేవి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117110",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjulika",
+    "FLeng": "M",
+    "tel": "మంజులిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117111",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjuri",
+    "FLeng": "M",
+    "tel": "మంజూరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117112",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjusha",
+    "FLeng": "M",
+    "tel": "మంజూష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117113",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjushree",
+    "FLeng": "M",
+    "tel": "మంజుశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117114",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjushri",
+    "FLeng": "M",
+    "tel": "మంజుశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117115",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjusree",
+    "FLeng": "M",
+    "tel": "మంజుశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117116",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjusri",
+    "FLeng": "M",
+    "tel": "మంజుశ్రీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117117",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manjyot",
+    "FLeng": "M",
+    "tel": "మనుజ్యోత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117118",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manka",
+    "FLeng": "M",
+    "tel": "మంక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117119",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mankiran",
+    "FLeng": "M",
+    "tel": "మంకిరణ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117120",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Mankirat",
+    "FLeng": "M",
+    "tel": "మంకీరత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117121",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manmayi",
+    "FLeng": "M",
+    "tel": "మన్మయి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117122",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Manmeet-Kaur",
+    "FLeng": "M",
+    "tel": "మంమీత్-కౌర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117123",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Manmukat",
+    "FLeng": "M",
+    "tel": "మానముకత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117124",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manna",
+    "FLeng": "M",
+    "tel": "మంన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117125",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mannal",
+    "FLeng": "M",
+    "tel": "మన్నార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117126",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mannana",
+    "FLeng": "M",
+    "tel": "మన్నన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117127",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mannat",
+    "FLeng": "M",
+    "tel": "మొన్నటి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117128",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mannata",
+    "FLeng": "M",
+    "tel": "మన్నంత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117129",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Mannitha",
+    "FLeng": "M",
+    "tel": "మఞ్ఞితా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117130",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mannya",
+    "FLeng": "M",
+    "tel": "మానన్యా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117131",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manobala",
+    "FLeng": "M",
+    "tel": "మనోబలం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117132",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "manoela",
+    "FLeng": "m",
+    "tel": "మానోయేలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117133",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manogna",
+    "FLeng": "M",
+    "tel": "మనోజ్ఞ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117134",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manoja",
+    "FLeng": "M",
+    "tel": "మనోజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117135",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Manojna",
+    "FLeng": "M",
+    "tel": "మనోజ్ఞ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117136",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Manojya",
+    "FLeng": "M",
+    "tel": "మనోజా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "117137",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Manolya",
+    "FLeng": "M",
+    "tel": "మనోలయ",
+    "FLtel": "మ"
+  }
+]

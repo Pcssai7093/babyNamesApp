@@ -10,6 +10,7 @@ import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../Components/bottomBannerAd.dart';
 import '../../ObjectBox/NamesModelTelugu.dart';
 import '../../Providers/darkMode.dart';
 import '../../constants/string.dart';
@@ -54,6 +55,7 @@ class _nameListState extends State<nameList> {
   String selectedGender = "male";
   String selectedLetter = "ఆ";
   bool isLoading = false;
+  bool isLoading2 = false;
 
   final nameBox = objectbox.store.box<NameData>();
   final ScrollController _scrollController = ScrollController();
@@ -87,14 +89,58 @@ class _nameListState extends State<nameList> {
   }
 
   void filterHandler(String religion, String gender, String firstLetter) async {
-    setLoader(true);
+    setLoader2(true);
     await Future.delayed(Duration(seconds: 1));
     print("selected filters: ${religion},${gender},${firstLetter}");
+
+
+    var prefs = await SharedPreferences.getInstance();
+    String prefLang = prefs.getString("prefLang") ?? "telugu";
+    print(prefLang);
+    dynamic condition;
+
+    switch (prefLang) {
+      case 'english':
+        condition = NameData_.firstLetterEnglish.equals(firstLetter);
+        break;
+      case 'telugu':
+        condition = NameData_.firstLetterTelugu.equals(firstLetter);
+        break;
+      // case 'hindi':
+      //   condition = NameData_.firstLetterHindi.equals(firstLetter);
+      //   break;
+      // case 'bengali':
+      //   condition = NameData_.firstLetterBengali.equals(firstLetter);
+      //   break;
+      // case 'tamil':
+      //   condition = NameData_.firstLetterTamil.equals(firstLetter);
+      //   break;
+      // case 'gujarati':
+      //   condition = NameData_.firstLetterGujarati.equals(firstLetter);
+      //   break;
+      // case 'kannada':
+      //   condition = NameData_.firstLetterKannada.equals(firstLetter);
+      //   break;
+      // case 'odia':
+      //   condition = NameData_.firstLetterOdia.equals(firstLetter);
+      //   break;
+      // case 'malayalam':
+      //   condition = NameData_.firstLetterMalayalam.equals(firstLetter);
+      //   break;
+      // case 'punjabi':
+      //   condition = NameData_.firstLetterPunjabi.equals(firstLetter);
+      //   break;
+      default:
+        print('No match found for language: $prefLang');
+    }
+
+
+
     final query = nameBox
         .query(NameData_.religion
             .equals(religion)
             .and(NameData_.gender.equals(gender))
-            .and(NameData_.firstLetterTelugu.equals(firstLetter)))
+            .and(condition))
         .build();
     final results = query.find();
     query.close();
@@ -107,7 +153,7 @@ class _nameListState extends State<nameList> {
     _scrollController?.jumpTo(0);
     }
     print(names);
-    setLoader(false);
+    setLoader2(false);
   }
 
   void setLoader(bool value) {
@@ -116,6 +162,14 @@ class _nameListState extends State<nameList> {
         isLoading = value;
       });
     } 
+  }
+
+  void setLoader2(bool value) {
+    if (mounted) {
+      setState(() {
+        isLoading2 = value;
+      });
+    }
   }
 
   void prefLangSelectHanlder(String selectedLang) async{
@@ -181,7 +235,7 @@ class _nameListState extends State<nameList> {
                           },
                         ),
                       ),
-                      if(isLoading)
+                      if(isLoading || isLoading2)
                       Center(
                         child: LoadingAnimationWidget.staggeredDotsWave(
                           color: Colors.blueAccent,
@@ -194,6 +248,7 @@ class _nameListState extends State<nameList> {
               ],
             ),
             bottomNavBar(prefLangSelectHanlder:prefLangSelectHanlder),
+            bottomBannerAd(),
           ],
         ),
       ),

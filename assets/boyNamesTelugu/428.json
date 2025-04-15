@@ -1,0 +1,884 @@
+[
+  {
+    "id": "31480",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pillaines",
+    "FLeng": "P",
+    "tel": "పిల్లైన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31481",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pillaiyar",
+    "FLeng": "P",
+    "tel": "పిళ్ళైయార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31482",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pilot",
+    "FLeng": "P",
+    "tel": "పైలట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31483",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pilou",
+    "FLeng": "p",
+    "tel": "పిలోను",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31484",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinaaki",
+    "FLeng": "P",
+    "tel": "పినాకి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31485",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinak",
+    "FLeng": "P",
+    "tel": "పింక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31486",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinaki",
+    "FLeng": "P",
+    "tel": "పినాకి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31487",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinakin",
+    "FLeng": "P",
+    "tel": "పినాకిని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31488",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinakpani",
+    "FLeng": "P",
+    "tel": "పినాకపాణి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31489",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinank",
+    "FLeng": "P",
+    "tel": "పినంక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31490",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinaz",
+    "FLeng": "P",
+    "tel": "పిన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31491",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinchas",
+    "FLeng": "P",
+    "tel": "పింఛన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31492",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pinchas",
+    "FLeng": "p",
+    "tel": "పింఛన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31493",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinchos",
+    "FLeng": "P",
+    "tel": "పించోస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31494",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinchu",
+    "FLeng": "P",
+    "tel": "పించు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31495",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinchus",
+    "FLeng": "P",
+    "tel": "పించుస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31496",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pincus",
+    "FLeng": "P",
+    "tel": "పిక్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31497",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pindara",
+    "FLeng": "P",
+    "tel": "పిండార",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31498",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinel",
+    "FLeng": "P",
+    "tel": "పిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31499",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pingakshi",
+    "FLeng": "P",
+    "tel": "పింగాక్ష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31500",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pingal",
+    "FLeng": "P",
+    "tel": "పింగళ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31501",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pingalaksha",
+    "FLeng": "P",
+    "tel": "పింగళాక్ష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31502",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pingalan",
+    "FLeng": "P",
+    "tel": "పింగళాం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31503",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pingesha",
+    "FLeng": "P",
+    "tel": "పింగేశా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31504",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinkal",
+    "FLeng": "P",
+    "tel": "పింకల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31505",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinkay",
+    "FLeng": "P",
+    "tel": "పింకయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31506",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinkesh",
+    "FLeng": "P",
+    "tel": "పిన్క్ష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31507",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pinki",
+    "FLeng": "P",
+    "tel": "పింకీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31508",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pino",
+    "FLeng": "P",
+    "tel": "పైనో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31509",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pintu",
+    "FLeng": "P",
+    "tel": "పింటూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31510",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pinynyakan",
+    "FLeng": "P",
+    "tel": "పినైణ్యకం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31511",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pio",
+    "FLeng": "p",
+    "tel": "పిఓ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31512",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pio",
+    "FLeng": "P",
+    "tel": "పిఓ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31513",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piotr",
+    "FLeng": "P",
+    "tel": "పిస్తోత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31514",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "piotr",
+    "FLeng": "p",
+    "tel": "పిస్తోత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31515",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pip",
+    "FLeng": "P",
+    "tel": "పిప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31516",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pipal",
+    "FLeng": "P",
+    "tel": "పిపల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31517",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pippen",
+    "FLeng": "P",
+    "tel": "పిప్పెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31518",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pippin",
+    "FLeng": "P",
+    "tel": "పిప్పిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31519",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pippin",
+    "FLeng": "p",
+    "tel": "పిప్పిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31520",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pippo",
+    "FLeng": "P",
+    "tel": "పీపీపీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31521",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pipyana",
+    "FLeng": "P",
+    "tel": "పైపైన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31522",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Pir",
+    "FLeng": "P",
+    "tel": "పీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31523",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Pir Mohammed",
+    "FLeng": "P",
+    "tel": "పీర్ మహమ్మద్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31524",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pirabakaran",
+    "FLeng": "P",
+    "tel": "పిఱబాకారం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31525",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piraichudan",
+    "FLeng": "P",
+    "tel": "పిఱైచుదాం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31526",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piraiyalan",
+    "FLeng": "P",
+    "tel": "పిఱైయాలం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31527",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piran",
+    "FLeng": "P",
+    "tel": "పీరం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31528",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "piran",
+    "FLeng": "p",
+    "tel": "పీరం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31529",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pirathish",
+    "FLeng": "P",
+    "tel": "పిరితిష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31530",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pirayou",
+    "FLeng": "P",
+    "tel": "పిరయూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31531",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pires",
+    "FLeng": "P",
+    "tel": "పిర్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31532",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pirizzi",
+    "FLeng": "P",
+    "tel": "పిరిజ్య్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31533",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pirmohammed",
+    "FLeng": "P",
+    "tel": "పిర్మొహమ్మెద్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31534",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pirnav",
+    "FLeng": "P",
+    "tel": "పిర్నేవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31535",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Piroj",
+    "FLeng": "P",
+    "tel": "ఫిరోజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "31536",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pirthee",
+    "FLeng": "P",
+    "tel": "పిర్తీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31537",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pirtinaci",
+    "FLeng": "P",
+    "tel": "పిరితినేసి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31538",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Pirzada",
+    "FLeng": "P",
+    "tel": "పిరజాడ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31539",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pisa",
+    "FLeng": "P",
+    "tel": "పిసా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31540",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "piscine",
+    "FLeng": "p",
+    "tel": "పిసిసిని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31541",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Piseth",
+    "FLeng": "P",
+    "tel": "పిసేత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31542",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pisey",
+    "FLeng": "P",
+    "tel": "పిసెయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31543",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pista",
+    "FLeng": "p",
+    "tel": "పిస్తా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31544",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pit",
+    "FLeng": "P",
+    "tel": "పిట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31545",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pita Vasase",
+    "FLeng": "P",
+    "tel": "పిటా వాససే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31546",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitam",
+    "FLeng": "P",
+    "tel": "పీఠం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31547",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pitambar",
+    "FLeng": "P",
+    "tel": "పీతాంబర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31548",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pitambara",
+    "FLeng": "P",
+    "tel": "పీతాంబర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31549",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pitambari",
+    "FLeng": "P",
+    "tel": "పీతాంబర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31550",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitamber",
+    "FLeng": "P",
+    "tel": "పీతాంబర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31551",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitar",
+    "FLeng": "P",
+    "tel": "పీటర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31552",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitavasas",
+    "FLeng": "P",
+    "tel": "పీతవాసస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31553",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitchai",
+    "FLeng": "P",
+    "tel": "పిత్చాయి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31554",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitchaimani",
+    "FLeng": "P",
+    "tel": "పిత్చాయుమని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31555",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pithambara",
+    "FLeng": "P",
+    "tel": "పీతాంబర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31556",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pithin",
+    "FLeng": "P",
+    "tel": "పీతిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31557",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pithyou",
+    "FLeng": "P",
+    "tel": "పితయూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31558",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pitney",
+    "FLeng": "p",
+    "tel": "పిట్నెయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31559",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pitobash",
+    "FLeng": "P",
+    "tel": "పితోబాష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31560",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pitrabhakta",
+    "FLeng": "P",
+    "tel": "పిత్రభక్త",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31561",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pitri",
+    "FLeng": "P",
+    "tel": "పుత్రి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31562",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pitt",
+    "FLeng": "P",
+    "tel": "పిట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31563",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pittesh",
+    "FLeng": "P",
+    "tel": "పిట్టేస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31564",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pittman",
+    "FLeng": "p",
+    "tel": "పిత్తమం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31565",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pittney",
+    "FLeng": "P",
+    "tel": "పిట్టనే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31566",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Piu",
+    "FLeng": "P",
+    "tel": "పియూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31567",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Piuda",
+    "FLeng": "P",
+    "tel": "పీయూడ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31568",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pius",
+    "FLeng": "P",
+    "tel": "పీయూష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31569",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Piyan",
+    "FLeng": "P",
+    "tel": "పియన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31570",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Piyush",
+    "FLeng": "P",
+    "tel": "పీయూష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31571",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Placid",
+    "FLeng": "P",
+    "tel": "ప్లాసిడ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31572",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Placido",
+    "FLeng": "P",
+    "tel": "ప్లాసిడా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31573",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "placido",
+    "FLeng": "p",
+    "tel": "ప్లాసిడా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31574",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Placidus",
+    "FLeng": "P",
+    "tel": "ప్లాసిడ్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31575",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "placidus",
+    "FLeng": "p",
+    "tel": "ప్లాసిడ్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31576",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Plaine",
+    "FLeng": "P",
+    "tel": "ప్లైన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31577",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Plaksh",
+    "FLeng": "P",
+    "tel": "ప్లక్ష",
+    "FLtel": "ప"
+  }
+]

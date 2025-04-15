@@ -1,0 +1,785 @@
+[
+  {
+    "id": "123299",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Phalyn",
+    "FLeng": "P",
+    "tel": "ఫాలిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123300",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pheakkley",
+    "FLeng": "P",
+    "tel": "ఫెర్క్ల్య్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123301",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pheasant",
+    "FLeng": "P",
+    "tel": "ఫెఅసన్త",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123302",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Phebee",
+    "FLeng": "P",
+    "tel": "ఫెబీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123303",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phebian",
+    "FLeng": "P",
+    "tel": "ఫేబియన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123304",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "phedora",
+    "FLeng": "p",
+    "tel": "ఫెడోరా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123305",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phenyo",
+    "FLeng": "P",
+    "tel": "ఫెంయో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123306",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pheobe",
+    "FLeng": "P",
+    "tel": "ఫెఓబీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123307",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pherenike",
+    "FLeng": "P",
+    "tel": "ఫెరెనికే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123308",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pheriche",
+    "FLeng": "P",
+    "tel": "ఫెరిచే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123309",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Phhoung",
+    "FLeng": "P",
+    "tel": "ఫ్హౌంగ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123310",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Phia",
+    "FLeng": "P",
+    "tel": "ఫీల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123311",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Phiala",
+    "FLeng": "P",
+    "tel": "ఫియాలా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123312",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "phila",
+    "FLeng": "p",
+    "tel": "ఫిలిం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123313",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philana",
+    "FLeng": "p",
+    "tel": "ఫిలన",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123314",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philantha",
+    "FLeng": "P",
+    "tel": "ఫిలంతా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123315",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philberta",
+    "FLeng": "P",
+    "tel": "ఫిల్బెర్టా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123316",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philena",
+    "FLeng": "P",
+    "tel": "ఫిలేనా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123317",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Philina",
+    "FLeng": "P",
+    "tel": "ఫైలిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123318",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Philipinna",
+    "FLeng": "P",
+    "tel": "ఫిలిపినో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123319",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philippa",
+    "FLeng": "p",
+    "tel": "ఫిలిప్పు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123320",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philippina",
+    "FLeng": "P",
+    "tel": "ఫిలిప్పిన",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123321",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philippine",
+    "FLeng": "p",
+    "tel": "ఫిలిప్పీన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123322",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philis",
+    "FLeng": "P",
+    "tel": "ఫిలింస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123323",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phillida",
+    "FLeng": "P",
+    "tel": "ఫిల్లిదా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123324",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phillipa",
+    "FLeng": "P",
+    "tel": "ఫిలిప",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123325",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phillippa",
+    "FLeng": "P",
+    "tel": "ఫిలిప్పు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123326",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phillips",
+    "FLeng": "P",
+    "tel": "ఫిలిప్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123327",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phillis",
+    "FLeng": "P",
+    "tel": "ఫిలిస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123328",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philmen",
+    "FLeng": "P",
+    "tel": "ఫిల్మేన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123329",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philomela",
+    "FLeng": "p",
+    "tel": "ఫిలోమిలా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123330",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philomena",
+    "FLeng": "p",
+    "tel": "ఫిలోమేనా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123331",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philomene",
+    "FLeng": "P",
+    "tel": "ఫిలోమినే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123332",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philomine",
+    "FLeng": "p",
+    "tel": "ఫిలోమినే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123333",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philophrosyne",
+    "FLeng": "p",
+    "tel": "ఫిలిఫ్రోసైన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123334",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philota",
+    "FLeng": "P",
+    "tel": "ఫిలోత",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123335",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philothea",
+    "FLeng": "p",
+    "tel": "ఫిలోతేఆ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123336",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "philou",
+    "FLeng": "p",
+    "tel": "ఫీలౌ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123337",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Philyra",
+    "FLeng": "P",
+    "tel": "ఫిలిరా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123338",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Phiroza",
+    "FLeng": "P",
+    "tel": "ఫిరోజా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123339",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phitsamai",
+    "FLeng": "P",
+    "tel": "ఫీట్సామై",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123340",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "phoebe",
+    "FLeng": "p",
+    "tel": "ఫోఈబే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123341",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Phoenicia",
+    "FLeng": "P",
+    "tel": "ఫోఎంఇసియా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123342",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pholma",
+    "FLeng": "P",
+    "tel": "ఫోల్మా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123343",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phomello",
+    "FLeng": "P",
+    "tel": "ఫోమ్ల్లో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123344",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Phoolan",
+    "FLeng": "P",
+    "tel": "ఫ్యూలం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123345",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phryne",
+    "FLeng": "P",
+    "tel": "ఫ్రీనే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123346",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phueng",
+    "FLeng": "P",
+    "tel": "ఫుఇంగ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123347",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Phullara",
+    "FLeng": "P",
+    "tel": "ఫుల్లారా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123348",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Phuman",
+    "FLeng": "P",
+    "tel": "ఫుమం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123349",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Phuong",
+    "FLeng": "P",
+    "tel": "ఫూన్గ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123350",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Phutika",
+    "FLeng": "P",
+    "tel": "ఫుతిక",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123351",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phylicia",
+    "FLeng": "P",
+    "tel": "ఫీలిసియా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123352",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phylis",
+    "FLeng": "P",
+    "tel": "ఫీలైస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123353",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phyliss",
+    "FLeng": "P",
+    "tel": "ఫీలైస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123354",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phyllida",
+    "FLeng": "P",
+    "tel": "ఫ్యల్లిదా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123355",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Phyllis",
+    "FLeng": "P",
+    "tel": "ఫ్యల్లిస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "123356",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pia",
+    "FLeng": "P",
+    "tel": "పియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123357",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Piaar",
+    "FLeng": "P",
+    "tel": "పిఆర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123358",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "piaf",
+    "FLeng": "p",
+    "tel": "పిఎఫ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123359",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pial",
+    "FLeng": "P",
+    "tel": "పిల్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123360",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Piali",
+    "FLeng": "P",
+    "tel": "పిల్లి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123361",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pialli",
+    "FLeng": "P",
+    "tel": "పిల్లలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123362",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Piata",
+    "FLeng": "P",
+    "tel": "పీటా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123363",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pic",
+    "FLeng": "P",
+    "tel": "పిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123364",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pica",
+    "FLeng": "P",
+    "tel": "పిచ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123365",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Picabo",
+    "FLeng": "P",
+    "tel": "పికాబో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123366",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pichipoo",
+    "FLeng": "P",
+    "tel": "పిచ్చిపూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123367",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "picotee",
+    "FLeng": "p",
+    "tel": "పికోటీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123368",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Piedad",
+    "FLeng": "P",
+    "tel": "పైదాడి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123369",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Piera",
+    "FLeng": "P",
+    "tel": "పైరా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123370",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pierette",
+    "FLeng": "p",
+    "tel": "పైరెత్తే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123371",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pierina",
+    "FLeng": "P",
+    "tel": "పైరిన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123372",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pierrette",
+    "FLeng": "P",
+    "tel": "పైరెత్తే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123373",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pieta",
+    "FLeng": "P",
+    "tel": "పైట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123374",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pieternel",
+    "FLeng": "p",
+    "tel": "పైటర్నెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123375",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pietja",
+    "FLeng": "P",
+    "tel": "పైటజా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123376",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pietra",
+    "FLeng": "P",
+    "tel": "పైతర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123377",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pietronella",
+    "FLeng": "P",
+    "tel": "పియట్రోనెల్ల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123378",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Piety",
+    "FLeng": "P",
+    "tel": "పీఈటీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123379",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pihoo",
+    "FLeng": "P",
+    "tel": "పిహూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123380",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pihu",
+    "FLeng": "P",
+    "tel": "పిహి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123381",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pihuna",
+    "FLeng": "P",
+    "tel": "పిహిన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123382",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Piia",
+    "FLeng": "P",
+    "tel": "పియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123383",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pila",
+    "FLeng": "P",
+    "tel": "పిల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123384",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pilar",
+    "FLeng": "P",
+    "tel": "పిల్లర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123385",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pilvi",
+    "FLeng": "P",
+    "tel": "పిలవి",
+    "FLtel": "ప"
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "id": "114476",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lefwen",
+    "FLeng": "L",
+    "tel": "లెఫ్వెన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114477",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lefwenna",
+    "FLeng": "L",
+    "tel": "లెఫ్వెన్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114478",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Legacy",
+    "FLeng": "L",
+    "tel": "లెగసె",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114479",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Legarda",
+    "FLeng": "L",
+    "tel": "లేగర్థ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114480",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Legend",
+    "FLeng": "L",
+    "tel": "లెజెండ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114481",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Legna",
+    "FLeng": "L",
+    "tel": "లిగ్నా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114482",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lehak",
+    "FLeng": "L",
+    "tel": "లెహక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114483",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lehanna",
+    "FLeng": "L",
+    "tel": "లేహ్యాన్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114484",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lehar",
+    "FLeng": "L",
+    "tel": "లెహర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114485",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Leheri",
+    "FLeng": "L",
+    "tel": "లాహిరి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114486",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lehna",
+    "FLeng": "L",
+    "tel": "లెహ్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114487",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leiann",
+    "FLeng": "L",
+    "tel": "లియాన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114488",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leianna",
+    "FLeng": "L",
+    "tel": "లేయన్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114489",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leianne",
+    "FLeng": "L",
+    "tel": "లేయాన్నే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114490",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leida",
+    "FLeng": "L",
+    "tel": "లెయిదా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114491",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leigb",
+    "FLeng": "L",
+    "tel": "లెయిగ్బ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114492",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leigha",
+    "FLeng": "L",
+    "tel": "లేయగా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114493",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "leigha",
+    "FLeng": "l",
+    "tel": "లేయగా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114494",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leighann",
+    "FLeng": "L",
+    "tel": "లేయగాన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114495",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leighanna",
+    "FLeng": "L",
+    "tel": "లేఖ్యఘన్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114496",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "leighanna",
+    "FLeng": "l",
+    "tel": "లేఖ్యఘన్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114497",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "leighanne",
+    "FLeng": "l",
+    "tel": "లెయిఘాన్నే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114498",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leighdyn",
+    "FLeng": "L",
+    "tel": "లేఇఘ్ఢ్యం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114499",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Leighla",
+    "FLeng": "L",
+    "tel": "లేఇఘ్ల",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114500",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leighna",
+    "FLeng": "L",
+    "tel": "లేయఘ్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114501",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "leighna",
+    "FLeng": "l",
+    "tel": "లేయఘ్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114502",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leighsaide",
+    "FLeng": "L",
+    "tel": "లేఇఘ్సైడే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114503",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leighton",
+    "FLeng": "L",
+    "tel": "లేప్ట్న్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114504",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Leila",
+    "FLeng": "L",
+    "tel": "లెయిల",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114505",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Leilah",
+    "FLeng": "L",
+    "tel": "లాఇలాహ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114506",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Leilanii",
+    "FLeng": "L",
+    "tel": "లెయిలాన్ని",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114507",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Leilanni",
+    "FLeng": "L",
+    "tel": "లేఖ్యలన్నీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114508",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Leira",
+    "FLeng": "L",
+    "tel": "లెయిరా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114509",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leisa",
+    "FLeng": "L",
+    "tel": "లెయిసా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114510",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leisel",
+    "FLeng": "L",
+    "tel": "లుఇసేల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114511",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Leisha",
+    "FLeng": "L",
+    "tel": "లెయిషా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114512",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leisl",
+    "FLeng": "L",
+    "tel": "లేప్స్ల",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114513",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Leith",
+    "FLeng": "L",
+    "tel": "లేప్త్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114514",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Leivina",
+    "FLeng": "L",
+    "tel": "లెయివిన",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114515",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "lejane",
+    "FLeng": "l",
+    "tel": "లేజనే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114516",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Leka",
+    "FLeng": "L",
+    "tel": "లేక",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114517",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Lekeesha",
+    "FLeng": "L",
+    "tel": "లేకేశ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114518",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lekeisha",
+    "FLeng": "L",
+    "tel": "లేకెఇస్హా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114519",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekha",
+    "FLeng": "L",
+    "tel": "లేఖ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114520",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhana",
+    "FLeng": "L",
+    "tel": "లేఖన",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114521",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lekhani",
+    "FLeng": "L",
+    "tel": "లేఖని",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114522",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhashree",
+    "FLeng": "L",
+    "tel": "లేఖశ్రీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114523",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhi",
+    "FLeng": "L",
+    "tel": "లేఖి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114524",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhika",
+    "FLeng": "L",
+    "tel": "లేఖికు",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114525",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhisha",
+    "FLeng": "L",
+    "tel": "లేఖిష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114526",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhitha",
+    "FLeng": "L",
+    "tel": "లిఖిత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114527",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhna",
+    "FLeng": "L",
+    "tel": "లేఖ్న",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114528",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekhya",
+    "FLeng": "L",
+    "tel": "లేఖ్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114529",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekisha",
+    "FLeng": "L",
+    "tel": "లేకిష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114530",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekshana",
+    "FLeng": "L",
+    "tel": "లెక్షన",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114531",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lekya",
+    "FLeng": "L",
+    "tel": "లేఖ్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114532",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lelia",
+    "FLeng": "L",
+    "tel": "లిలిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114533",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "lelia",
+    "FLeng": "l",
+    "tel": "లిలిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114534",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Leliana",
+    "FLeng": "L",
+    "tel": "లేలిన",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114535",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lema",
+    "FLeng": "L",
+    "tel": "లేమా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114536",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lena",
+    "FLeng": "L",
+    "tel": "లేనా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114537",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lencha",
+    "FLeng": "L",
+    "tel": "లంచ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114538",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lenci",
+    "FLeng": "L",
+    "tel": "లెన్సె",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114539",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "lenci",
+    "FLeng": "l",
+    "tel": "లెన్సె",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114540",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lenda",
+    "FLeng": "L",
+    "tel": "లెండి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114541",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lendca",
+    "FLeng": "L",
+    "tel": "లెందుకే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114542",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Lene",
+    "FLeng": "L",
+    "tel": "లేనే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114543",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "lene",
+    "FLeng": "l",
+    "tel": "లేనే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114544",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lenet",
+    "FLeng": "L",
+    "tel": "లెన్త్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114545",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "leni",
+    "FLeng": "l",
+    "tel": "లేని",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114546",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lenina",
+    "FLeng": "L",
+    "tel": "లెనిన",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114547",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Lenisha",
+    "FLeng": "L",
+    "tel": "లేనిష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "114548",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Lenita",
+    "FLeng": "L",
+    "tel": "లేనిత",
+    "FLtel": "ల"
+  }
+]

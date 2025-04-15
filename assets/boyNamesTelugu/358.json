@@ -1,0 +1,749 @@
+[
+  {
+    "id": "24588",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mansour",
+    "FLeng": "M",
+    "tel": "మన్సోర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24589",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "mansour",
+    "FLeng": "m",
+    "tel": "మన్సోర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24590",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mansukh",
+    "FLeng": "M",
+    "tel": "మనసుఖ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24591",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mansukha",
+    "FLeng": "M",
+    "tel": "మనసుఖ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24592",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mansur",
+    "FLeng": "M",
+    "tel": "మన్సూర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24593",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mansurkhan",
+    "FLeng": "M",
+    "tel": "మన్సుర్ఖం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24594",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mant",
+    "FLeng": "M",
+    "tel": "మంత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24595",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mantaj",
+    "FLeng": "M",
+    "tel": "ముంతాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24596",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantar",
+    "FLeng": "M",
+    "tel": "మంతర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24597",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantavya",
+    "FLeng": "M",
+    "tel": "మంతవ్యా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24598",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantavyah",
+    "FLeng": "M",
+    "tel": "మంతవ్యాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24599",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mantej",
+    "FLeng": "M",
+    "tel": "మాంటేజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24600",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Mantek",
+    "FLeng": "M",
+    "tel": "మాంటెక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24601",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mantel",
+    "FLeng": "M",
+    "tel": "మోంటెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24602",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mantel",
+    "FLeng": "m",
+    "tel": "మోంటెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Manten",
+    "FLeng": "M",
+    "tel": "మంతెన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24604",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manth",
+    "FLeng": "M",
+    "tel": "మంత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24605",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantha",
+    "FLeng": "M",
+    "tel": "మంథా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24606",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manthan",
+    "FLeng": "M",
+    "tel": "మంథన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24607",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "manthos",
+    "FLeng": "m",
+    "tel": "మంథన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24608",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manthri",
+    "FLeng": "M",
+    "tel": "మంత్రి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24609",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantik",
+    "FLeng": "M",
+    "tel": "మాంటిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24610",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Manton",
+    "FLeng": "M",
+    "tel": "మంటోం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24611",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantosh",
+    "FLeng": "M",
+    "tel": "మంతోష్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24612",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantram",
+    "FLeng": "M",
+    "tel": "మంత్రం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24613",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantraraj",
+    "FLeng": "M",
+    "tel": "మంత్రరాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24614",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mantrin",
+    "FLeng": "M",
+    "tel": "మంత్రిని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24615",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manu-Mitran",
+    "FLeng": "M",
+    "tel": "మను-మిత్రన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24616",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manuel",
+    "FLeng": "M",
+    "tel": "మానుల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "manuel",
+    "FLeng": "m",
+    "tel": "మానుల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24618",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manuell",
+    "FLeng": "M",
+    "tel": "మానులెల్ల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24619",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manuelo",
+    "FLeng": "M",
+    "tel": "మణుల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24620",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manuj",
+    "FLeng": "M",
+    "tel": "మనుజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24621",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manuprairna",
+    "FLeng": "M",
+    "tel": "మనుప్రయుర్న",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24622",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manurai",
+    "FLeng": "M",
+    "tel": "మంజురై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24623",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manuraj",
+    "FLeng": "M",
+    "tel": "మానురాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24624",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manus",
+    "FLeng": "M",
+    "tel": "మనుస్సా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24625",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manusha",
+    "FLeng": "M",
+    "tel": "మానుష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24626",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manushya",
+    "FLeng": "M",
+    "tel": "మనుష్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24627",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manvanthar",
+    "FLeng": "M",
+    "tel": "మన్వంతర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24628",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manvay",
+    "FLeng": "M",
+    "tel": "మన్వాయ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24629",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manvel",
+    "FLeng": "M",
+    "tel": "మంవెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manvendra",
+    "FLeng": "M",
+    "tel": "మానవేంద్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24631",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manvesh",
+    "FLeng": "M",
+    "tel": "మాన్వేశ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24632",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manvik",
+    "FLeng": "M",
+    "tel": "మాన్విక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24633",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manvir",
+    "FLeng": "M",
+    "tel": "మాన్వీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24634",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manvit",
+    "FLeng": "M",
+    "tel": "మాన్విత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24635",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manvith",
+    "FLeng": "M",
+    "tel": "మాన్విత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24636",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Manwant",
+    "FLeng": "M",
+    "tel": "మన్వాన్త",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24637",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Manwantbir",
+    "FLeng": "M",
+    "tel": "మన్వాన్తబీర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24638",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Manwantpal",
+    "FLeng": "M",
+    "tel": "మన్వాన్తపాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24639",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manwendra",
+    "FLeng": "M",
+    "tel": "మాన్వేన్ద్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24640",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manyam",
+    "FLeng": "M",
+    "tel": "మన్యం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24641",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manyata",
+    "FLeng": "M",
+    "tel": "మాన్యత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24642",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Manyu",
+    "FLeng": "M",
+    "tel": "మన్యు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24643",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Manyudeva",
+    "FLeng": "M",
+    "tel": "మాన్యుడేవా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24644",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Manzar",
+    "FLeng": "M",
+    "tel": "మంజరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24645",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Manzir",
+    "FLeng": "M",
+    "tel": "మంజిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24646",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Manzoor",
+    "FLeng": "M",
+    "tel": "మంజూరు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24647",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "manzu",
+    "FLeng": "m",
+    "tel": "మంజు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24648",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Manzur",
+    "FLeng": "M",
+    "tel": "మంజురు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24649",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "maoz",
+    "FLeng": "m",
+    "tel": "మావుజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24650",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mapappa",
+    "FLeng": "M",
+    "tel": "మాపప్ప",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24651",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mara",
+    "FLeng": "M",
+    "tel": "మర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24652",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Maraatib",
+    "FLeng": "M",
+    "tel": "మరాటీబీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24653",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maraimalai",
+    "FLeng": "M",
+    "tel": "మరిమలై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24654",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maraimani",
+    "FLeng": "M",
+    "tel": "మఱైమని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24655",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maral",
+    "FLeng": "M",
+    "tel": "మరల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24656",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Maran",
+    "FLeng": "M",
+    "tel": "మారన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24657",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marant",
+    "FLeng": "M",
+    "tel": "మారాంట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24658",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marappan",
+    "FLeng": "M",
+    "tel": "మారప్పన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24659",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marat",
+    "FLeng": "M",
+    "tel": "మరాఠీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24660",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maratib",
+    "FLeng": "M",
+    "tel": "మరతిబ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24661",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Maravan",
+    "FLeng": "M",
+    "tel": "మరువం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24662",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marboar",
+    "FLeng": "M",
+    "tel": "మారబోయర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24663",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marboart",
+    "FLeng": "M",
+    "tel": "మారబోయర్ట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24664",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marc",
+    "FLeng": "M",
+    "tel": "ంఅర్చ్",
+    "FLtel": "ం"
+  },
+  {
+    "id": "24665",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "marc",
+    "FLeng": "m",
+    "tel": "ంఅర్చ్",
+    "FLtel": "ం"
+  },
+  {
+    "id": "24666",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marc-antoine",
+    "FLeng": "M",
+    "tel": "ంఅర్చ్-అంటోనీ",
+    "FLtel": "ం"
+  },
+  {
+    "id": "24667",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "marc-antoine",
+    "FLeng": "m",
+    "tel": "ంఅర్చ్-అంటోనీ",
+    "FLtel": "ం"
+  },
+  {
+    "id": "24668",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marcaeus",
+    "FLeng": "M",
+    "tel": "మర్సీఎస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24669",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Marcario",
+    "FLeng": "M",
+    "tel": "మరుకారియో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "24670",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Marcas",
+    "FLeng": "M",
+    "tel": "మరికాస్",
+    "FLtel": "మ"
+  }
+]

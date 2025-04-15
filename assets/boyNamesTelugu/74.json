@@ -1,0 +1,767 @@
+[
+  {
+    "id": "47735",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "attila",
+    "FLeng": "a",
+    "tel": "అత్తిలి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47736",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attilio",
+    "FLeng": "A",
+    "tel": "అత్తిలిలో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47737",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Attin",
+    "FLeng": "A",
+    "tel": "అత్తిం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47738",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attison",
+    "FLeng": "A",
+    "tel": "ఠిస్న్",
+    "FLtel": "ఠ"
+  },
+  {
+    "id": "47739",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Attkins",
+    "FLeng": "A",
+    "tel": "అట్టకిన్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47740",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attlee",
+    "FLeng": "A",
+    "tel": "అట్లేదు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47741",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attley",
+    "FLeng": "A",
+    "tel": "అట్లేయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47742",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attmore",
+    "FLeng": "A",
+    "tel": "అట్ఠమోరే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47743",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atto",
+    "FLeng": "A",
+    "tel": "అత్తో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47744",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attwell",
+    "FLeng": "A",
+    "tel": "అట్టవెల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47745",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Attwood",
+    "FLeng": "A",
+    "tel": "అత్తవూడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47746",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Atuf",
+    "FLeng": "A",
+    "tel": "యఫ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "47747",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "atuf",
+    "FLeng": "a",
+    "tel": "యఫ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "47748",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Atufa",
+    "FLeng": "A",
+    "tel": "అటుఫా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47749",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atul",
+    "FLeng": "A",
+    "tel": "అతుల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47750",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atulbir",
+    "FLeng": "A",
+    "tel": "అటుల్బీర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47751",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atulprasad",
+    "FLeng": "A",
+    "tel": "ఆతులుప్రసాద్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47752",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atultejas",
+    "FLeng": "A",
+    "tel": "అతులంటేజస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47753",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atulya",
+    "FLeng": "A",
+    "tel": "అతుల్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47754",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atun",
+    "FLeng": "A",
+    "tel": "అరుణ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47755",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atvar",
+    "FLeng": "A",
+    "tel": "సత్వర",
+    "FLtel": "స"
+  },
+  {
+    "id": "47756",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Atvi",
+    "FLeng": "A",
+    "tel": "అటవీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47757",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atwater",
+    "FLeng": "A",
+    "tel": "ఆత్వత్ర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47758",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atwell",
+    "FLeng": "A",
+    "tel": "అత్వేల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47759",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atwood",
+    "FLeng": "A",
+    "tel": "అటీవుడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47760",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atwoode",
+    "FLeng": "A",
+    "tel": "టువుడే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "47761",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Atworth",
+    "FLeng": "A",
+    "tel": "ఆటవర్థ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47762",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Atyab",
+    "FLeng": "A",
+    "tel": "అట్యాబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47763",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Atyaf",
+    "FLeng": "A",
+    "tel": "అట్యాఫ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47764",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "aubade",
+    "FLeng": "a",
+    "tel": "అంబాడే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47765",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Aubeidulla",
+    "FLeng": "A",
+    "tel": "ఆబీబుల్లా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47766",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubelet",
+    "FLeng": "A",
+    "tel": "ఆబెల్ట్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47767",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubertin",
+    "FLeng": "A",
+    "tel": "ఆబెర్టిన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47768",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubery",
+    "FLeng": "A",
+    "tel": "అంబరీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47769",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubin",
+    "FLeng": "A",
+    "tel": "ఆబిన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47770",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "aubin",
+    "FLeng": "a",
+    "tel": "ఆబిన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47771",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubinnet",
+    "FLeng": "A",
+    "tel": "ఆబినెట్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47772",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubour",
+    "FLeng": "A",
+    "tel": "ఆబోరు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47773",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubray",
+    "FLeng": "A",
+    "tel": "ఆబ్రాయ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47774",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubreigh",
+    "FLeng": "A",
+    "tel": "అంబ్రెయిగ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47775",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubrey",
+    "FLeng": "A",
+    "tel": "అంబ్రెయి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47776",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubriel",
+    "FLeng": "A",
+    "tel": "లుబ్రియెల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "47777",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubriella",
+    "FLeng": "A",
+    "tel": "లుబ్రియేల్ల",
+    "FLtel": "ల"
+  },
+  {
+    "id": "47778",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aubyn",
+    "FLeng": "A",
+    "tel": "ఆబ్యన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47779",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aucaman",
+    "FLeng": "A",
+    "tel": "ఆకారం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47780",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "aucaman",
+    "FLeng": "a",
+    "tel": "ఆకారం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47781",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Auday",
+    "FLeng": "A",
+    "tel": "ఆడే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47782",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audel",
+    "FLeng": "A",
+    "tel": "అందేలా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47783",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Auden",
+    "FLeng": "A",
+    "tel": "ఆడేం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47784",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audie",
+    "FLeng": "A",
+    "tel": "అండీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47785",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audley",
+    "FLeng": "A",
+    "tel": "ఆడ్లేయ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47786",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audra",
+    "FLeng": "A",
+    "tel": "అంద్రా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47787",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audric",
+    "FLeng": "A",
+    "tel": "అండ్రిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47788",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audrick",
+    "FLeng": "A",
+    "tel": "అండ్రిక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47789",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audun",
+    "FLeng": "A",
+    "tel": "ఆడుం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47790",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "audun",
+    "FLeng": "a",
+    "tel": "ఆడుం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47791",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Audvik",
+    "FLeng": "A",
+    "tel": "ఆడ్విక్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47792",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Audwin",
+    "FLeng": "A",
+    "tel": "ఆద్విన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47793",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Augadh",
+    "FLeng": "A",
+    "tel": "అంగద్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47794",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Auger",
+    "FLeng": "A",
+    "tel": "అంజీర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47795",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "August",
+    "FLeng": "A",
+    "tel": "ఆగష్టు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47796",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "august",
+    "FLeng": "a",
+    "tel": "ఆగష్టు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47797",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augusta",
+    "FLeng": "A",
+    "tel": "ఆగస్తా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47798",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustan",
+    "FLeng": "A",
+    "tel": "అంగుష్టం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47799",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustas",
+    "FLeng": "A",
+    "tel": "అగస్టస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47800",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augusten",
+    "FLeng": "A",
+    "tel": "అగస్టీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47801",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustijn",
+    "FLeng": "A",
+    "tel": "అగస్టీజ్ఞ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47802",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustin",
+    "FLeng": "A",
+    "tel": "అగస్టీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47803",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "augustin",
+    "FLeng": "a",
+    "tel": "అగస్టీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47804",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustina",
+    "FLeng": "A",
+    "tel": "అగస్టీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47805",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustine",
+    "FLeng": "A",
+    "tel": "అగస్టిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47806",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustino",
+    "FLeng": "A",
+    "tel": "అగస్టినో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47807",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "augustino",
+    "FLeng": "a",
+    "tel": "అగస్టినో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47808",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustinus",
+    "FLeng": "A",
+    "tel": "అగస్టీన్స్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47809",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augusto",
+    "FLeng": "A",
+    "tel": "అగస్టా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47810",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustu",
+    "FLeng": "A",
+    "tel": "ఆగస్టు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47811",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Augustus",
+    "FLeng": "A",
+    "tel": "ఆగస్తాస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47812",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "augustus",
+    "FLeng": "a",
+    "tel": "ఆగస్తాస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47813",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Auicatus",
+    "FLeng": "A",
+    "tel": "ఆయికాట్స్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47814",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Auj",
+    "FLeng": "A",
+    "tel": "ఆజ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47815",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Aula",
+    "FLeng": "A",
+    "tel": "ఆలా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47816",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Aulay",
+    "FLeng": "A",
+    "tel": "ఆలే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47817",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Auli",
+    "FLeng": "A",
+    "tel": "ఆలీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47818",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aum",
+    "FLeng": "A",
+    "tel": "ఆమ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47819",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Aumansh",
+    "FLeng": "A",
+    "tel": "ఆమన్స్",
+    "FLtel": "ఆ"
+  }
+]

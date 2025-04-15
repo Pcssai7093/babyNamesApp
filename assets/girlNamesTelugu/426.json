@@ -1,0 +1,839 @@
+[
+  {
+    "id": "131773",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tahmineh",
+    "FLeng": "T",
+    "tel": "తమిన్హ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131774",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tahnee",
+    "FLeng": "T",
+    "tel": "తనీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131775",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tahnyat",
+    "FLeng": "T",
+    "tel": "తన్యత్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131776",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tahra",
+    "FLeng": "T",
+    "tel": "తర",
+    "FLtel": "త"
+  },
+  {
+    "id": "131777",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tahreem",
+    "FLeng": "T",
+    "tel": "తరీం",
+    "FLtel": "త"
+  },
+  {
+    "id": "131778",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tahrima",
+    "FLeng": "T",
+    "tel": "తరిమా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131779",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tahseenah",
+    "FLeng": "T",
+    "tel": "తహసీనః",
+    "FLtel": "త"
+  },
+  {
+    "id": "131780",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tahzib",
+    "FLeng": "T",
+    "tel": "తహజిబ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131781",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taiat",
+    "FLeng": "T",
+    "tel": "టైట్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131782",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taiba",
+    "FLeng": "T",
+    "tel": "తాయిబా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131783",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taibah",
+    "FLeng": "T",
+    "tel": "తైబాహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131784",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taide",
+    "FLeng": "T",
+    "tel": "టైడ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131785",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taieb",
+    "FLeng": "T",
+    "tel": "టబ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131786",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taiel",
+    "FLeng": "T",
+    "tel": "టైల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131787",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taigi",
+    "FLeng": "T",
+    "tel": "తరిగి",
+    "FLtel": "త"
+  },
+  {
+    "id": "131788",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taija",
+    "FLeng": "T",
+    "tel": "టైజ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131789",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taika",
+    "FLeng": "T",
+    "tel": "తైక",
+    "FLtel": "త"
+  },
+  {
+    "id": "131790",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tailer",
+    "FLeng": "T",
+    "tel": "తైలం",
+    "FLtel": "త"
+  },
+  {
+    "id": "131791",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tailynn",
+    "FLeng": "T",
+    "tel": "టైలిన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131792",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taima",
+    "FLeng": "T",
+    "tel": "టైమ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131793",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taimi",
+    "FLeng": "T",
+    "tel": "టైం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131794",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taina",
+    "FLeng": "T",
+    "tel": "తైనా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131795",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "taina",
+    "FLeng": "t",
+    "tel": "తైనా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131796",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taini",
+    "FLeng": "T",
+    "tel": "టైని",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131797",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tainn",
+    "FLeng": "T",
+    "tel": "టైన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131798",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taiomah",
+    "FLeng": "T",
+    "tel": "తైయమః",
+    "FLtel": "త"
+  },
+  {
+    "id": "131799",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taipa",
+    "FLeng": "T",
+    "tel": "టైపా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131800",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taisha",
+    "FLeng": "T",
+    "tel": "తైసా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131801",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taisie",
+    "FLeng": "T",
+    "tel": "తైసీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131802",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taisiya",
+    "FLeng": "T",
+    "tel": "తైషియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131803",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tait",
+    "FLeng": "T",
+    "tel": "తైట్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131804",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taitasi",
+    "FLeng": "T",
+    "tel": "టైటాసి",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131805",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taitlynn",
+    "FLeng": "T",
+    "tel": "టైటిలిన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131806",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taiunaya",
+    "FLeng": "T",
+    "tel": "టైలున్నాయా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131807",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taiwo",
+    "FLeng": "T",
+    "tel": "తైవ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131808",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taiya",
+    "FLeng": "T",
+    "tel": "టైయ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131809",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tajagna",
+    "FLeng": "T",
+    "tel": "రాజాజ్ఞ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "131810",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tajah",
+    "FLeng": "T",
+    "tel": "తాజ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131811",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tajana",
+    "FLeng": "T",
+    "tel": "తజన",
+    "FLtel": "త"
+  },
+  {
+    "id": "131812",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tajasri",
+    "FLeng": "T",
+    "tel": "తేజశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131813",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Tajbanu",
+    "FLeng": "T",
+    "tel": "తఙభను",
+    "FLtel": "త"
+  },
+  {
+    "id": "131814",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tajia",
+    "FLeng": "T",
+    "tel": "రజియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "131815",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tajmeel",
+    "FLeng": "T",
+    "tel": "తజమీల్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131816",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tajweed",
+    "FLeng": "T",
+    "tel": "తఙవీద్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131817",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Taka",
+    "FLeng": "T",
+    "tel": "టక",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131818",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Takako",
+    "FLeng": "T",
+    "tel": "తక్కవు",
+    "FLtel": "త"
+  },
+  {
+    "id": "131819",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Takala",
+    "FLeng": "T",
+    "tel": "రకాల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "131820",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "takala",
+    "FLeng": "t",
+    "tel": "రకాల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "131821",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Takara",
+    "FLeng": "T",
+    "tel": "తాకరా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131822",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Takarra",
+    "FLeng": "T",
+    "tel": "తకర్ర",
+    "FLtel": "త"
+  },
+  {
+    "id": "131823",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takeia",
+    "FLeng": "T",
+    "tel": "తాకేయినా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131824",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takeiyah",
+    "FLeng": "T",
+    "tel": "తాకేయియహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131825",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takeya",
+    "FLeng": "T",
+    "tel": "తాకేయ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131826",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Taki",
+    "FLeng": "T",
+    "tel": "తాకి",
+    "FLtel": "త"
+  },
+  {
+    "id": "131827",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takia",
+    "FLeng": "T",
+    "tel": "తాకినా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131828",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takija",
+    "FLeng": "T",
+    "tel": "టాకీజా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131829",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takisha",
+    "FLeng": "T",
+    "tel": "తకిష",
+    "FLtel": "త"
+  },
+  {
+    "id": "131830",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takiya",
+    "FLeng": "T",
+    "tel": "టాకియా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131831",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takiyah",
+    "FLeng": "T",
+    "tel": "టకీయహ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131832",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takiyya",
+    "FLeng": "T",
+    "tel": "తాకియ్య",
+    "FLtel": "త"
+  },
+  {
+    "id": "131833",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takiyyah",
+    "FLeng": "T",
+    "tel": "తాకియ్యహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131834",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takkia",
+    "FLeng": "T",
+    "tel": "తక్కినా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131835",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takreem",
+    "FLeng": "T",
+    "tel": "తక్రీమ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131836",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Takseen",
+    "FLeng": "T",
+    "tel": "టాక్సెలెన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131837",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Takshaya",
+    "FLeng": "T",
+    "tel": "తక్షయా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131838",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Takshii",
+    "FLeng": "T",
+    "tel": "తక్షియు",
+    "FLtel": "త"
+  },
+  {
+    "id": "131839",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Takshika",
+    "FLeng": "T",
+    "tel": "తక్షక",
+    "FLtel": "త"
+  },
+  {
+    "id": "131840",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Takshvi",
+    "FLeng": "T",
+    "tel": "తక్షివి",
+    "FLtel": "త"
+  },
+  {
+    "id": "131841",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Takshya",
+    "FLeng": "T",
+    "tel": "తక్ష",
+    "FLtel": "త"
+  },
+  {
+    "id": "131842",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taksvih",
+    "FLeng": "T",
+    "tel": "తాక్స్విఛ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131843",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tal",
+    "FLeng": "T",
+    "tel": "తల",
+    "FLtel": "త"
+  },
+  {
+    "id": "131844",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tala",
+    "FLeng": "T",
+    "tel": "తలా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131845",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "tala",
+    "FLeng": "t",
+    "tel": "తలా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131846",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Talah",
+    "FLeng": "T",
+    "tel": "తలాహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131847",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Talar",
+    "FLeng": "T",
+    "tel": "టేలర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131848",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Talash",
+    "FLeng": "T",
+    "tel": "తలాష్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131849",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Talaya",
+    "FLeng": "T",
+    "tel": "తలయ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131850",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Talayah",
+    "FLeng": "T",
+    "tel": "తలయహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131851",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Talayeh",
+    "FLeng": "T",
+    "tel": "తలఎహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131852",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Talbashah",
+    "FLeng": "T",
+    "tel": "తాలీబాషా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131853",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tale",
+    "FLeng": "T",
+    "tel": "టేల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131854",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taleah",
+    "FLeng": "T",
+    "tel": "టాలీహ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "131855",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taleigha",
+    "FLeng": "T",
+    "tel": "తలేమిగా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131856",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taleisha",
+    "FLeng": "T",
+    "tel": "తలెయిషా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131857",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Talena",
+    "FLeng": "T",
+    "tel": "తలేనా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131858",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taletha",
+    "FLeng": "T",
+    "tel": "తలెత్త",
+    "FLtel": "త"
+  },
+  {
+    "id": "131859",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Talia",
+    "FLeng": "T",
+    "tel": "తాలియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131860",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taliah",
+    "FLeng": "T",
+    "tel": "తలయ్య",
+    "FLtel": "త"
+  },
+  {
+    "id": "131861",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taliana",
+    "FLeng": "T",
+    "tel": "తాలియానా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131862",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Taliba",
+    "FLeng": "T",
+    "tel": "తాలిబ",
+    "FLtel": "త"
+  },
+  {
+    "id": "131863",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Talibah",
+    "FLeng": "T",
+    "tel": "తాలిబహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "131864",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Talicia",
+    "FLeng": "T",
+    "tel": "తెలిసియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "131865",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Talida",
+    "FLeng": "T",
+    "tel": "తెలీదా",
+    "FLtel": "త"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "1700",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Busrat",
+    "FLeng": "B",
+    "tel": "బుష్రాత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1701",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Buster",
+    "FLeng": "B",
+    "tel": "బస్టర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1702",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "buster",
+    "FLeng": "b",
+    "tel": "బస్టర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1703",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Busuttil",
+    "FLeng": "B",
+    "tel": "బుసుత్తిల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1704",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Buta",
+    "FLeng": "B",
+    "tel": "బూతా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1705",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Butch",
+    "FLeng": "B",
+    "tel": "బుచ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1706",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Butcher",
+    "FLeng": "B",
+    "tel": "బుట్చేర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1707",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "butcher",
+    "FLeng": "b",
+    "tel": "బుట్చేర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1708",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Butler",
+    "FLeng": "B",
+    "tel": "బట్లర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1709",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Butras",
+    "FLeng": "B",
+    "tel": "బుత్రస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1710",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Butros",
+    "FLeng": "B",
+    "tel": "బిత్రోస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1711",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Butrus",
+    "FLeng": "B",
+    "tel": "బుత్రుస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1712",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Butsugen",
+    "FLeng": "B",
+    "tel": "బూట్సుజిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1713",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Butsuju",
+    "FLeng": "B",
+    "tel": "బూట్సుజు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1714",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Buttel",
+    "FLeng": "B",
+    "tel": "బుట్టెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1715",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Butterfly",
+    "FLeng": "B",
+    "tel": "బటర్ఫ్లై",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1716",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Buu",
+    "FLeng": "B",
+    "tel": "భూ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "1717",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buurab",
+    "FLeng": "B",
+    "tel": "బూరబ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1718",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Buvdeep",
+    "FLeng": "B",
+    "tel": "బువదీప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1719",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "buxton",
+    "FLeng": "b",
+    "tel": "బుక్సటన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1720",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buyahya",
+    "FLeng": "B",
+    "tel": "బూయాహ్యా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1721",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Buyugo",
+    "FLeng": "B",
+    "tel": "బూయుగో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1722",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Buz",
+    "FLeng": "B",
+    "tel": "బుజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1723",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buzabiz",
+    "FLeng": "B",
+    "tel": "బుజాబిజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1724",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Buzat",
+    "FLeng": "B",
+    "tel": "బూస్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1725",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Buzz",
+    "FLeng": "B",
+    "tel": "బజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1726",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "byatt",
+    "FLeng": "b",
+    "tel": "బ్యాట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1727",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Byblos",
+    "FLeng": "B",
+    "tel": "బ్యబ్లాస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1728",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byford",
+    "FLeng": "B",
+    "tel": "బైఫోర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1729",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byram",
+    "FLeng": "B",
+    "tel": "బైరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1730",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "byram",
+    "FLeng": "b",
+    "tel": "బైరం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1731",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byran",
+    "FLeng": "B",
+    "tel": "బైరన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1732",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byrd",
+    "FLeng": "B",
+    "tel": "బైర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1733",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byren",
+    "FLeng": "B",
+    "tel": "బైరెన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1734",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byrguith",
+    "FLeng": "B",
+    "tel": "బైరాగిత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1735",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byrne",
+    "FLeng": "B",
+    "tel": "బైర్నే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1736",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byrnhorn",
+    "FLeng": "B",
+    "tel": "బ్యర్ణహోర్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1737",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byrnwold",
+    "FLeng": "B",
+    "tel": "బ్యర్నవర్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1738",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byrom",
+    "FLeng": "B",
+    "tel": "బైరోమ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1739",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byron",
+    "FLeng": "B",
+    "tel": "బైరాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1740",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "byron",
+    "FLeng": "b",
+    "tel": "బైరాన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1741",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Bysshe",
+    "FLeng": "B",
+    "tel": "బైస్శే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1742",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byttel",
+    "FLeng": "B",
+    "tel": "బైటల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1743",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Byttic",
+    "FLeng": "B",
+    "tel": "బ్యత్తికి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "1744",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cab",
+    "FLeng": "C",
+    "tel": "క్యాబ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1745",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabail",
+    "FLeng": "C",
+    "tel": "కాబాయిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1746",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabal",
+    "FLeng": "C",
+    "tel": "క్యాబ్ల",
+    "FLtel": "క"
+  },
+  {
+    "id": "1747",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabbrieli",
+    "FLeng": "C",
+    "tel": "కాబ్రీలీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "1748",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabe",
+    "FLeng": "C",
+    "tel": "క్యాబ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1749",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabell",
+    "FLeng": "C",
+    "tel": "కాబిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1750",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cable",
+    "FLeng": "C",
+    "tel": "కేబుల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1751",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabot",
+    "FLeng": "C",
+    "tel": "కాబోట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1752",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabott",
+    "FLeng": "C",
+    "tel": "కాబోట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1753",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cabrini",
+    "FLeng": "C",
+    "tel": "కాబ్రిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "1754",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cace",
+    "FLeng": "C",
+    "tel": "కేసు",
+    "FLtel": "క"
+  },
+  {
+    "id": "1755",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cacumattus",
+    "FLeng": "C",
+    "tel": "కేసుమాట్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1756",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cada",
+    "FLeng": "C",
+    "tel": "కాదా",
+    "FLtel": "క"
+  },
+  {
+    "id": "1757",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadabyr",
+    "FLeng": "C",
+    "tel": "కాదబ్యర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1758",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadal",
+    "FLeng": "C",
+    "tel": "కాదల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1759",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadan",
+    "FLeng": "C",
+    "tel": "కదం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1760",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadassi",
+    "FLeng": "C",
+    "tel": "కాదస్సి",
+    "FLtel": "క"
+  },
+  {
+    "id": "1761",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadby",
+    "FLeng": "C",
+    "tel": "క్యాడ్బయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1762",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadda",
+    "FLeng": "C",
+    "tel": "కాద్ధ",
+    "FLtel": "క"
+  },
+  {
+    "id": "1763",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caddaham",
+    "FLeng": "C",
+    "tel": "కాద్దహం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1764",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caddam",
+    "FLeng": "C",
+    "tel": "కేడ్తామ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1765",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caddaric",
+    "FLeng": "C",
+    "tel": "కాద్దరికి",
+    "FLtel": "క"
+  },
+  {
+    "id": "1766",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caddarik",
+    "FLeng": "C",
+    "tel": "కాద్దరికే",
+    "FLtel": "క"
+  },
+  {
+    "id": "1767",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cade",
+    "FLeng": "C",
+    "tel": "కాడే",
+    "FLtel": "క"
+  },
+  {
+    "id": "1768",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadee",
+    "FLeng": "C",
+    "tel": "కేడీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "1769",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadel",
+    "FLeng": "C",
+    "tel": "కాడెల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1770",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadell",
+    "FLeng": "C",
+    "tel": "కాడెల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1771",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Caden",
+    "FLeng": "C",
+    "tel": "కాదేం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1772",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadfael",
+    "FLeng": "C",
+    "tel": "కేదఫాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1773",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadfan",
+    "FLeng": "C",
+    "tel": "కేదఫాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1774",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadhla",
+    "FLeng": "C",
+    "tel": "కదల",
+    "FLtel": "క"
+  },
+  {
+    "id": "1775",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadmael",
+    "FLeng": "C",
+    "tel": "కేడీమల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1776",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadman",
+    "FLeng": "C",
+    "tel": "కాడిమాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1777",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadmon",
+    "FLeng": "C",
+    "tel": "కాదేమోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1778",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadmus",
+    "FLeng": "C",
+    "tel": "కదమ్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1779",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadoc",
+    "FLeng": "C",
+    "tel": "కాడోచ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1780",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadog",
+    "FLeng": "C",
+    "tel": "కాడోగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1781",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadogan",
+    "FLeng": "C",
+    "tel": "కాదోగం",
+    "FLtel": "క"
+  },
+  {
+    "id": "1782",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cador",
+    "FLeng": "C",
+    "tel": "క్యాడర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1783",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cadrasva",
+    "FLeng": "C",
+    "tel": "కేద్రాశ్వ",
+    "FLtel": "క"
+  },
+  {
+    "id": "1784",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadwal",
+    "FLeng": "C",
+    "tel": "కడ్వాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1785",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadwalader",
+    "FLeng": "C",
+    "tel": "కడ్వాలాడెర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1786",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadwaladr",
+    "FLeng": "C",
+    "tel": "కడ్వాలాడర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "1787",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cadwallader",
+    "FLeng": "C",
+    "tel": "కాద్వల్లడెర్",
+    "FLtel": "క"
+  }
+]

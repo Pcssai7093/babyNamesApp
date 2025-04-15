@@ -1,0 +1,803 @@
+[
+  {
+    "id": "122932",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parmita",
+    "FLeng": "P",
+    "tel": "పరిమిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122933",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parmjit",
+    "FLeng": "P",
+    "tel": "పరంజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122934",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Parmpreet",
+    "FLeng": "P",
+    "tel": "పరమప్రీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122935",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parna",
+    "FLeng": "P",
+    "tel": "పర్ణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122936",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parnakshi",
+    "FLeng": "P",
+    "tel": "పరిణాక్షి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122937",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnal",
+    "FLeng": "P",
+    "tel": "పార్నెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122938",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnashri",
+    "FLeng": "P",
+    "tel": "పర్ణశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122939",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnavi",
+    "FLeng": "P",
+    "tel": "ప్రణవి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122940",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Parneet",
+    "FLeng": "P",
+    "tel": "పరిణీతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122941",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parni",
+    "FLeng": "P",
+    "tel": "పేర్ని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122942",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnik",
+    "FLeng": "P",
+    "tel": "పర్నిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122943",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnika",
+    "FLeng": "P",
+    "tel": "పర్ణిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122944",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnita",
+    "FLeng": "P",
+    "tel": "ప్రణీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122945",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnitha",
+    "FLeng": "P",
+    "tel": "ప్రణీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122946",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Parniyan",
+    "FLeng": "P",
+    "tel": "పర్నియం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122947",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parno",
+    "FLeng": "P",
+    "tel": "పోర్నో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122948",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parnvi",
+    "FLeng": "P",
+    "tel": "పర్నవి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122949",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paro",
+    "FLeng": "P",
+    "tel": "పరో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122950",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parokshi",
+    "FLeng": "P",
+    "tel": "పరోక్ష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122951",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paromarshi",
+    "FLeng": "P",
+    "tel": "పరామర్శిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122952",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paromita",
+    "FLeng": "P",
+    "tel": "ఫరోమీట",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "122953",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paronel",
+    "FLeng": "P",
+    "tel": "ఫరోనెల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "122954",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paroo",
+    "FLeng": "P",
+    "tel": "పేరూ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122955",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parpati",
+    "FLeng": "P",
+    "tel": "పరిపాటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122956",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parris",
+    "FLeng": "P",
+    "tel": "పర్రీస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122957",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parsha",
+    "FLeng": "P",
+    "tel": "పర్శ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122958",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Parsla",
+    "FLeng": "P",
+    "tel": "పర్సల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122959",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Parteet",
+    "FLeng": "P",
+    "tel": "పార్టీట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122960",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parthavi",
+    "FLeng": "P",
+    "tel": "పార్థవి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122961",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Parthena",
+    "FLeng": "P",
+    "tel": "పార్థేన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122962",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parthenia",
+    "FLeng": "P",
+    "tel": "పార్థేని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122963",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "parthenia",
+    "FLeng": "p",
+    "tel": "పార్థేని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122964",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Parthenope",
+    "FLeng": "P",
+    "tel": "పార్థేనోపి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122965",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parthi",
+    "FLeng": "P",
+    "tel": "పార్థి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122966",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parthivi",
+    "FLeng": "P",
+    "tel": "పార్తివి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122967",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Paru",
+    "FLeng": "P",
+    "tel": "పేరు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122968",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parushi",
+    "FLeng": "P",
+    "tel": "పరిశీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122969",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Parvana",
+    "FLeng": "P",
+    "tel": "పార్వణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122970",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parvaneh",
+    "FLeng": "P",
+    "tel": "పర్వాన్హ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122971",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvani",
+    "FLeng": "P",
+    "tel": "పర్వాన్ని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122972",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvatham",
+    "FLeng": "P",
+    "tel": "పర్వతం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122973",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvathi",
+    "FLeng": "P",
+    "tel": "పార్వతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122974",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvathy",
+    "FLeng": "P",
+    "tel": "పర్వతే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122975",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvati",
+    "FLeng": "P",
+    "tel": "పార్వతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122976",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "parvati",
+    "FLeng": "p",
+    "tel": "పార్వతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122977",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parvati\"\"",
+    "FLeng": "P",
+    "tel": "పార్వతి&quot;&quot;",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122978",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parveen",
+    "FLeng": "P",
+    "tel": "పర్వీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122979",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Parveena",
+    "FLeng": "P",
+    "tel": "పర్వీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122980",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Parveer",
+    "FLeng": "P",
+    "tel": "పార్వీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122981",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvi",
+    "FLeng": "P",
+    "tel": "పర్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122982",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Parvin",
+    "FLeng": "P",
+    "tel": "పర్వీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122983",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Parvina",
+    "FLeng": "P",
+    "tel": "పర్వీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122984",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Parvinder",
+    "FLeng": "P",
+    "tel": "పర్విన్డెర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122985",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvini",
+    "FLeng": "P",
+    "tel": "పర్విని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122986",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Parvita",
+    "FLeng": "P",
+    "tel": "పర్విత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122987",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Parwin",
+    "FLeng": "P",
+    "tel": "పర్విన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122988",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parya",
+    "FLeng": "P",
+    "tel": "పర్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122989",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paryapti",
+    "FLeng": "P",
+    "tel": "పర్యప్తి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122990",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Parzival",
+    "FLeng": "P",
+    "tel": "పజివాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122991",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pasca",
+    "FLeng": "P",
+    "tel": "పస్కా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122992",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pascale",
+    "FLeng": "p",
+    "tel": "పేస్కేల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122993",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pascaline",
+    "FLeng": "P",
+    "tel": "పేస్కేలినే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122994",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pascalle",
+    "FLeng": "P",
+    "tel": "పేస్కేల్ల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122995",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pascen",
+    "FLeng": "P",
+    "tel": "పాసెం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122996",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pascha",
+    "FLeng": "P",
+    "tel": "పాశ్చ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122997",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "pascua",
+    "FLeng": "p",
+    "tel": "పస్క్యూర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122998",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Pasha",
+    "FLeng": "P",
+    "tel": "పశ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122999",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pashmina",
+    "FLeng": "P",
+    "tel": "పష్మీనా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123000",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pashu Priya",
+    "FLeng": "P",
+    "tel": "పశు ప్రియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123001",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pashupriya",
+    "FLeng": "P",
+    "tel": "పశుపరియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123002",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Paskalina",
+    "FLeng": "P",
+    "tel": "పాస్కలిన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123003",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Passion",
+    "FLeng": "P",
+    "tel": "పస్సిఒన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123004",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pata",
+    "FLeng": "P",
+    "tel": "పాట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123005",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Patala",
+    "FLeng": "P",
+    "tel": "పాతాళ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123006",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patali",
+    "FLeng": "P",
+    "tel": "పాటలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123007",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patalika",
+    "FLeng": "P",
+    "tel": "పాటలిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123008",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patalin",
+    "FLeng": "P",
+    "tel": "పాటలిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123009",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Patasa",
+    "FLeng": "P",
+    "tel": "పాఠశ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123010",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patatri",
+    "FLeng": "P",
+    "tel": "పతత్రి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123011",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patava",
+    "FLeng": "P",
+    "tel": "పాటవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123012",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patavya",
+    "FLeng": "P",
+    "tel": "పాతవ్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123013",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pate",
+    "FLeng": "P",
+    "tel": "పాటె",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123014",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Path",
+    "FLeng": "P",
+    "tel": "పాత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123015",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pathare",
+    "FLeng": "P",
+    "tel": "పాతరే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123016",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pathmasani",
+    "FLeng": "P",
+    "tel": "పాత్మసాని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123017",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Pathya",
+    "FLeng": "P",
+    "tel": "పాఠ్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123018",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Patia",
+    "FLeng": "P",
+    "tel": "పాటిల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123019",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "patience",
+    "FLeng": "p",
+    "tel": "పేషన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "123020",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Patient",
+    "FLeng": "P",
+    "tel": "పేషెంట్",
+    "FLtel": "ప"
+  }
+]

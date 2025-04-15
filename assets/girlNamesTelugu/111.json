@@ -1,0 +1,848 @@
+[
+  {
+    "id": "101271",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhita",
+    "FLeng": "D",
+    "tel": "ధిత",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101272",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhitha",
+    "FLeng": "D",
+    "tel": "ధిత",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101273",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhithi",
+    "FLeng": "D",
+    "tel": "దితి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101274",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhiti",
+    "FLeng": "D",
+    "tel": "దితి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101275",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhitya",
+    "FLeng": "D",
+    "tel": "దిత్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101276",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhivarsini",
+    "FLeng": "D",
+    "tel": "దివార్సీని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101277",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhivija",
+    "FLeng": "D",
+    "tel": "దివిజ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101278",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhivisha",
+    "FLeng": "D",
+    "tel": "దివిష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101279",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhivja",
+    "FLeng": "D",
+    "tel": "దివిజ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101280",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhivya",
+    "FLeng": "D",
+    "tel": "దివ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101281",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhiya",
+    "FLeng": "D",
+    "tel": "దియా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101282",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhiyan",
+    "FLeng": "D",
+    "tel": "థియన్",
+    "FLtel": "థ"
+  },
+  {
+    "id": "101283",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhiyana",
+    "FLeng": "D",
+    "tel": "ధియానా",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101284",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhiyanshi",
+    "FLeng": "D",
+    "tel": "ధియన్షి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101285",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhiyashini",
+    "FLeng": "D",
+    "tel": "దివ్యశిని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101286",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhlriti",
+    "FLeng": "D",
+    "tel": "ధాల్రిటి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101287",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhnashri",
+    "FLeng": "D",
+    "tel": "ధనశ్రీ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101288",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhoolika",
+    "FLeng": "D",
+    "tel": "ధూళిక",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101289",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhoon",
+    "FLeng": "D",
+    "tel": "ధూన్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101290",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhoshinee",
+    "FLeng": "D",
+    "tel": "దోషిని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101291",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrasika",
+    "FLeng": "D",
+    "tel": "ధ్రసీకా",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101292",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrasti",
+    "FLeng": "D",
+    "tel": "ద్రష్టి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101293",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhridha",
+    "FLeng": "D",
+    "tel": "ధ్రిద",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101294",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhriga",
+    "FLeng": "D",
+    "tel": "ధ్రిగా",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101295",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrisha",
+    "FLeng": "D",
+    "tel": "ద్రిశ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101296",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrishika",
+    "FLeng": "D",
+    "tel": "ద్రిష్టిక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101297",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrishtika",
+    "FLeng": "D",
+    "tel": "ద్రిష్టిక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101298",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhristi",
+    "FLeng": "D",
+    "tel": "ద్రిష్టి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101299",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrithi",
+    "FLeng": "D",
+    "tel": "ద్రితి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101300",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrivali",
+    "FLeng": "D",
+    "tel": "ధ్రివాలి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101301",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrivika",
+    "FLeng": "D",
+    "tel": "ద్రివిక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101302",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhriya",
+    "FLeng": "D",
+    "tel": "ద్రియ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101303",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "dhrti",
+    "FLeng": "d",
+    "tel": "ధృతి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101304",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruhi",
+    "FLeng": "D",
+    "tel": "ద్రుహి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101305",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrumal",
+    "FLeng": "D",
+    "tel": "ద్రుమల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101306",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrumi",
+    "FLeng": "D",
+    "tel": "ద్రుమి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101307",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhrushma",
+    "FLeng": "D",
+    "tel": "దృష్మ్యా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101308",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruthi",
+    "FLeng": "D",
+    "tel": "ధృతి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101309",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruti",
+    "FLeng": "D",
+    "tel": "ధృతి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101310",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruva",
+    "FLeng": "D",
+    "tel": "ధ్రువ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101311",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvadevi",
+    "FLeng": "D",
+    "tel": "ధ్రువాదేవి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101312",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvalata",
+    "FLeng": "D",
+    "tel": "ధృవాలట",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101313",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvangi",
+    "FLeng": "D",
+    "tel": "ధృవంగి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101314",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvatara",
+    "FLeng": "D",
+    "tel": "ధృవతార",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101315",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvi",
+    "FLeng": "D",
+    "tel": "ధ్రువి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101316",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvika",
+    "FLeng": "D",
+    "tel": "ధృవీక",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101317",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvini",
+    "FLeng": "D",
+    "tel": "ధ్రువిని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101318",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvita",
+    "FLeng": "D",
+    "tel": "ధ్రువిత",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101319",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhruvti",
+    "FLeng": "D",
+    "tel": "ధృవీటి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101320",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Dhuha",
+    "FLeng": "D",
+    "tel": "ధూహ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101321",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhuhita",
+    "FLeng": "D",
+    "tel": "దుహితా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101322",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Dhuka",
+    "FLeng": "D",
+    "tel": "దుకా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101323",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhumavathi",
+    "FLeng": "D",
+    "tel": "ధూమావతి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101324",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhun",
+    "FLeng": "D",
+    "tel": "దుం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101325",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhundhun",
+    "FLeng": "D",
+    "tel": "ధుంధుం",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101326",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhuni",
+    "FLeng": "D",
+    "tel": "ధుని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101327",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhunisha",
+    "FLeng": "D",
+    "tel": "దునిష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101328",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhurita",
+    "FLeng": "D",
+    "tel": "దురిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101329",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhushitha",
+    "FLeng": "D",
+    "tel": "దూషిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101330",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhuthi",
+    "FLeng": "D",
+    "tel": "దుతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101331",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhuti",
+    "FLeng": "D",
+    "tel": "ధూటి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101332",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhuvaraga",
+    "FLeng": "D",
+    "tel": "ధూవరగా",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101333",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhvani",
+    "FLeng": "D",
+    "tel": "ధ్వని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101334",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhvij",
+    "FLeng": "D",
+    "tel": "ద్విజ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101335",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhvija",
+    "FLeng": "D",
+    "tel": "ద్విజ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101336",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhviti",
+    "FLeng": "D",
+    "tel": "ద్వితీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101337",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhwaja",
+    "FLeng": "D",
+    "tel": "ధ్వజ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101338",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhwamsini",
+    "FLeng": "D",
+    "tel": "ధ్వంసిని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101339",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhwani",
+    "FLeng": "D",
+    "tel": "ధ్వని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101340",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhwiti",
+    "FLeng": "D",
+    "tel": "ధ్వితి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101341",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhyaara",
+    "FLeng": "D",
+    "tel": "ద్యారా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101342",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhyavani",
+    "FLeng": "D",
+    "tel": "ధ్యావని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101343",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhyeya",
+    "FLeng": "D",
+    "tel": "ధ్యేయ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "101344",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhyuthi",
+    "FLeng": "D",
+    "tel": "ద్యుతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101345",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dhyuti",
+    "FLeng": "D",
+    "tel": "ద్యుతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101346",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Di",
+    "FLeng": "D",
+    "tel": "డి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101347",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "di",
+    "FLeng": "d",
+    "tel": "డి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101348",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "diablo",
+    "FLeng": "d",
+    "tel": "డియాబ్లో",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101349",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diah",
+    "FLeng": "D",
+    "tel": "దయ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101350",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diahann",
+    "FLeng": "D",
+    "tel": "డైయాన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101351",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diamanda",
+    "FLeng": "D",
+    "tel": "డైమండ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101352",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diamanta",
+    "FLeng": "D",
+    "tel": "డైమంతా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101353",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "diamanta",
+    "FLeng": "d",
+    "tel": "డైమంతా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101354",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diamante",
+    "FLeng": "D",
+    "tel": "డైమంటే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101355",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diamantina",
+    "FLeng": "D",
+    "tel": "డైమంటిన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101356",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diamond",
+    "FLeng": "D",
+    "tel": "డైమండ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101357",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diamontina",
+    "FLeng": "D",
+    "tel": "డైమాంటిన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101358",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diana",
+    "FLeng": "D",
+    "tel": "డయానా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101359",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dianda",
+    "FLeng": "D",
+    "tel": "డిఅందా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101360",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diandra",
+    "FLeng": "D",
+    "tel": "డైన్ద్ర",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101361",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "diandra",
+    "FLeng": "d",
+    "tel": "డైన్ద్ర",
+    "FLtel": "డ"
+  },
+  {
+    "id": "101362",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Diane",
+    "FLeng": "D",
+    "tel": "దినే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101363",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "diane",
+    "FLeng": "d",
+    "tel": "దినే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "101364",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dianell",
+    "FLeng": "D",
+    "tel": "డిఎంఎల్",
+    "FLtel": "డ"
+  }
+]

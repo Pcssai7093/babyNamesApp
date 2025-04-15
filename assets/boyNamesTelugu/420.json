@@ -1,0 +1,857 @@
+[
+  {
+    "id": "30745",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parithi",
+    "FLeng": "P",
+    "tel": "పరిథి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30746",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parithosh",
+    "FLeng": "P",
+    "tel": "పారితోష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30747",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paritosh",
+    "FLeng": "P",
+    "tel": "పారితోష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30748",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parityaj",
+    "FLeng": "P",
+    "tel": "పరిత్యజి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30749",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parivrajaka",
+    "FLeng": "P",
+    "tel": "పరివ్రాజకా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30750",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parixit",
+    "FLeng": "P",
+    "tel": "పరిక్సయిట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30751",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pariya",
+    "FLeng": "P",
+    "tel": "పరియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30752",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parjany",
+    "FLeng": "P",
+    "tel": "పర్జన్యు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30753",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parjanya",
+    "FLeng": "P",
+    "tel": "పర్జన్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30754",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parjeet",
+    "FLeng": "P",
+    "tel": "పార్జీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30755",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Park",
+    "FLeng": "P",
+    "tel": "పార్క్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30756",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Parka",
+    "FLeng": "P",
+    "tel": "పర్కా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30757",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkar",
+    "FLeng": "P",
+    "tel": "పార్కర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30758",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parkash",
+    "FLeng": "P",
+    "tel": "ప్రకాష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30759",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Parke",
+    "FLeng": "P",
+    "tel": "పార్క్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30760",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parker",
+    "FLeng": "P",
+    "tel": "పార్కర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30761",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "parker-3",
+    "FLeng": "p",
+    "tel": "పార్కర్-త్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30762",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkere",
+    "FLeng": "P",
+    "tel": "పార్కేరే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30763",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkerr",
+    "FLeng": "P",
+    "tel": "పార్కర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30764",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkerre",
+    "FLeng": "P",
+    "tel": "పార్కేర్రే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30765",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkin",
+    "FLeng": "P",
+    "tel": "పార్కిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30766",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkins",
+    "FLeng": "P",
+    "tel": "పార్కిన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30767",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parkinson",
+    "FLeng": "P",
+    "tel": "పార్కిన్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30768",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Parkus",
+    "FLeng": "P",
+    "tel": "పార్క్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30769",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parle",
+    "FLeng": "P",
+    "tel": "పేర్లే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30770",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parmaad",
+    "FLeng": "P",
+    "tel": "పార్మాదే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30771",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parmaarth",
+    "FLeng": "P",
+    "tel": "పర్మార్త్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30772",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parmanand",
+    "FLeng": "P",
+    "tel": "పర్మనంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30773",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parmanda",
+    "FLeng": "P",
+    "tel": "పర్మనంద",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30774",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parmarth",
+    "FLeng": "P",
+    "tel": "పర్మార్త్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30775",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parmeet",
+    "FLeng": "P",
+    "tel": "పేరుమీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30776",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Parmenion",
+    "FLeng": "P",
+    "tel": "పర్మేనియన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30777",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parmesh",
+    "FLeng": "P",
+    "tel": "పరమేష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30778",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parmeshwar",
+    "FLeng": "P",
+    "tel": "పరమేశ్వర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30779",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parminder",
+    "FLeng": "P",
+    "tel": "పర్మిన్డెర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30780",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parminderpal",
+    "FLeng": "P",
+    "tel": "పర్మిందెర్పాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30781",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parmit",
+    "FLeng": "P",
+    "tel": "పర్మిట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30782",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parmveer",
+    "FLeng": "P",
+    "tel": "పారంవీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30783",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parmvir",
+    "FLeng": "P",
+    "tel": "పర్మవిరు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30784",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parn",
+    "FLeng": "P",
+    "tel": "పోర్న్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30785",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parnab",
+    "FLeng": "P",
+    "tel": "ప్రణబ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30786",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parnabha",
+    "FLeng": "P",
+    "tel": "పర్ణాభా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30787",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parnad",
+    "FLeng": "P",
+    "tel": "పర్నాడ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30788",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parnall",
+    "FLeng": "P",
+    "tel": "పార్నెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30789",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parnand",
+    "FLeng": "P",
+    "tel": "పార్నాన్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30790",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parnav",
+    "FLeng": "P",
+    "tel": "ప్రణవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30791",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parnel",
+    "FLeng": "P",
+    "tel": "పార్నెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30792",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parnell",
+    "FLeng": "P",
+    "tel": "పార్నెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30793",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "parnell",
+    "FLeng": "p",
+    "tel": "పార్నెల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30794",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Parnian",
+    "FLeng": "P",
+    "tel": "పర్నియాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30795",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Paroksh",
+    "FLeng": "P",
+    "tel": "పరోక్ష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30796",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parphullat",
+    "FLeng": "P",
+    "tel": "పర్ఫుల్గాట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30797",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Parr",
+    "FLeng": "P",
+    "tel": "పార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30798",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "parr",
+    "FLeng": "p",
+    "tel": "పార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30799",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parsad",
+    "FLeng": "P",
+    "tel": "ప్రసాద్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30800",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parsafal",
+    "FLeng": "P",
+    "tel": "పర్సాఫేల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30801",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parsan",
+    "FLeng": "P",
+    "tel": "పర్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30802",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parsanjit",
+    "FLeng": "P",
+    "tel": "పారసంజిత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30803",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parsefal",
+    "FLeng": "P",
+    "tel": "పార్సెఫేల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30804",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parshad",
+    "FLeng": "P",
+    "tel": "పరిషద్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30805",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Parshan",
+    "FLeng": "P",
+    "tel": "పర్శన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30806",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parshav",
+    "FLeng": "P",
+    "tel": "పరిష్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30807",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Parshotam",
+    "FLeng": "P",
+    "tel": "పరిశోటం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30808",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parshottam",
+    "FLeng": "P",
+    "tel": "పరుషోత్తం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30809",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parshuram",
+    "FLeng": "P",
+    "tel": "పరశురామ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30810",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parshv",
+    "FLeng": "P",
+    "tel": "పరిష్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30811",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parshva",
+    "FLeng": "P",
+    "tel": "పార్శ్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30812",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parshvanath",
+    "FLeng": "P",
+    "tel": "పార్శ్వనాథ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30813",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parshwa",
+    "FLeng": "P",
+    "tel": "పార్శ్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30814",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parshwakumar",
+    "FLeng": "P",
+    "tel": "పార్శ్వకుమార్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30815",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Parsifal",
+    "FLeng": "P",
+    "tel": "పర్సిఫేల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30816",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parson",
+    "FLeng": "P",
+    "tel": "పర్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30817",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "parsons",
+    "FLeng": "p",
+    "tel": "పార్సన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30818",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parsottam",
+    "FLeng": "P",
+    "tel": "పర్సోత్తం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30819",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parsva",
+    "FLeng": "P",
+    "tel": "పార్శ్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30820",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Partab",
+    "FLeng": "P",
+    "tel": "పర్వతం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30821",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Partait",
+    "FLeng": "P",
+    "tel": "పర్తయ్త్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30822",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Partap",
+    "FLeng": "P",
+    "tel": "ప్రతాప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30823",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Partapi",
+    "FLeng": "P",
+    "tel": "పార్టీపై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30824",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parteek",
+    "FLeng": "P",
+    "tel": "పార్టీకే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30825",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parth",
+    "FLeng": "P",
+    "tel": "పెర్త్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30826",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Partha",
+    "FLeng": "P",
+    "tel": "పార్థ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30827",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthadhwajagrasamvasine",
+    "FLeng": "P",
+    "tel": "పార్ధధ్వజాగ్రసంవాసినే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30828",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthail",
+    "FLeng": "P",
+    "tel": "పార్థీల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30829",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Partham",
+    "FLeng": "P",
+    "tel": "పర్థం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30830",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthan",
+    "FLeng": "P",
+    "tel": "పర్థం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30831",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthapratim",
+    "FLeng": "P",
+    "tel": "పార్థప్రతిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30832",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Parthasakha",
+    "FLeng": "P",
+    "tel": "పార్థసాఖా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30833",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthasarathi",
+    "FLeng": "P",
+    "tel": "పార్థసారథి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30834",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthasarathy",
+    "FLeng": "P",
+    "tel": "పార్థసారతే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30835",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthasarthi",
+    "FLeng": "P",
+    "tel": "పార్థసారథి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30836",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthathy",
+    "FLeng": "P",
+    "tel": "పార్థతే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30837",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthav",
+    "FLeng": "P",
+    "tel": "పార్థ్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30838",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "parthenios",
+    "FLeng": "p",
+    "tel": "పార్థేనియస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30839",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parthey",
+    "FLeng": "P",
+    "tel": "పార్థేయ్",
+    "FLtel": "ప"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "37837",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "shaffer",
+    "FLeng": "s",
+    "tel": "షాఫర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37838",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shafi",
+    "FLeng": "S",
+    "tel": "షఫీ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37839",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shafin",
+    "FLeng": "S",
+    "tel": "షఫిన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37840",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shafraz",
+    "FLeng": "S",
+    "tel": "శాఫ్రాజ్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37841",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Shagandeep",
+    "FLeng": "S",
+    "tel": "శాగందీప్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37842",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shagul",
+    "FLeng": "S",
+    "tel": "షాగుల్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37843",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaguna",
+    "FLeng": "S",
+    "tel": "షగుణ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37844",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shah",
+    "FLeng": "S",
+    "tel": "షా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37845",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shah Nawaz",
+    "FLeng": "S",
+    "tel": "షా నవాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37846",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahaab",
+    "FLeng": "S",
+    "tel": "షహాబ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37847",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahab",
+    "FLeng": "S",
+    "tel": "షాహబ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37848",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahabul",
+    "FLeng": "S",
+    "tel": "షహాబుల్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37849",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahadat",
+    "FLeng": "S",
+    "tel": "షహదత్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37850",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahadev",
+    "FLeng": "S",
+    "tel": "షహాదేవః",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37851",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahalad",
+    "FLeng": "S",
+    "tel": "షహలాడి",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37852",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahalam",
+    "FLeng": "S",
+    "tel": "షహలం",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37853",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Shaham",
+    "FLeng": "S",
+    "tel": "షహం",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37854",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahanshah",
+    "FLeng": "S",
+    "tel": "షహనాషా",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37855",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahant",
+    "FLeng": "S",
+    "tel": "షహన్త",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37856",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaharyar",
+    "FLeng": "S",
+    "tel": "షహర్యార్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahash",
+    "FLeng": "S",
+    "tel": "సాహస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37858",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahazad",
+    "FLeng": "S",
+    "tel": "షహజాద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37859",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahbaaz",
+    "FLeng": "S",
+    "tel": "షాబాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37860",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahbaz",
+    "FLeng": "S",
+    "tel": "షాబాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37861",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Shaheeb",
+    "FLeng": "S",
+    "tel": "సాహెబ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37862",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaheed",
+    "FLeng": "S",
+    "tel": "షహీద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37863",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaheem",
+    "FLeng": "S",
+    "tel": "షాహీమ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37864",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaheen",
+    "FLeng": "S",
+    "tel": "షహీన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37865",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaheer",
+    "FLeng": "S",
+    "tel": "షాహీర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37866",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahid",
+    "FLeng": "S",
+    "tel": "షాహిద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37867",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahir",
+    "FLeng": "S",
+    "tel": "షాహిర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37868",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahmeer",
+    "FLeng": "S",
+    "tel": "షామీర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37869",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Shahnan",
+    "FLeng": "S",
+    "tel": "షానన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37870",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahnawaz",
+    "FLeng": "S",
+    "tel": "షానవాజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37871",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahood",
+    "FLeng": "S",
+    "tel": "షాహూడ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37872",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahou",
+    "FLeng": "S",
+    "tel": "షావు",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37873",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahpar",
+    "FLeng": "S",
+    "tel": "షాపర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37874",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahpur",
+    "FLeng": "S",
+    "tel": "షాపూర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37875",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahraan",
+    "FLeng": "S",
+    "tel": "శహెరాన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37876",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahran",
+    "FLeng": "S",
+    "tel": "షారన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37877",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahriar",
+    "FLeng": "S",
+    "tel": "షారియార్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37878",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahrukh",
+    "FLeng": "S",
+    "tel": "షారుఖ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37879",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahrul",
+    "FLeng": "S",
+    "tel": "షారుల్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37880",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahruz",
+    "FLeng": "S",
+    "tel": "షారూజ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37881",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahu",
+    "FLeng": "S",
+    "tel": "షాహు",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37882",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shahul",
+    "FLeng": "S",
+    "tel": "షాహుల్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37883",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahzaada",
+    "FLeng": "S",
+    "tel": "షాజాడ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37884",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahzad",
+    "FLeng": "S",
+    "tel": "షాజాద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37885",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahzada",
+    "FLeng": "S",
+    "tel": "షాజాడ",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37886",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahzaib",
+    "FLeng": "S",
+    "tel": "షాజాయిబ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37887",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shahzor",
+    "FLeng": "S",
+    "tel": "షాజార్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37888",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Shai",
+    "FLeng": "S",
+    "tel": "షాప్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37889",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "shai",
+    "FLeng": "s",
+    "tel": "షాప్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37890",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaibaan",
+    "FLeng": "S",
+    "tel": "శైబాన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37891",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaida",
+    "FLeng": "S",
+    "tel": "శైడా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37892",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaidaa",
+    "FLeng": "S",
+    "tel": "శైడా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37893",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaiel",
+    "FLeng": "S",
+    "tel": "శైల్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37894",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaifali",
+    "FLeng": "S",
+    "tel": "శైఫాలీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37895",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaifta",
+    "FLeng": "S",
+    "tel": "శైఫ్తా",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37896",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaik",
+    "FLeng": "S",
+    "tel": "షైక్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37897",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaikh",
+    "FLeng": "S",
+    "tel": "షేఖ్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37898",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaikhulislam",
+    "FLeng": "S",
+    "tel": "శైఖులీసులం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaiksha",
+    "FLeng": "S",
+    "tel": "శైక్ష",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37900",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shail",
+    "FLeng": "S",
+    "tel": "శైలీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37901",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shailaj",
+    "FLeng": "S",
+    "tel": "శైలజ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaildhar",
+    "FLeng": "S",
+    "tel": "శైల్ధార్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37903",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shailen",
+    "FLeng": "S",
+    "tel": "శైలేన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shailender",
+    "FLeng": "S",
+    "tel": "శైలేందర్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37905",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shailendra",
+    "FLeng": "S",
+    "tel": "శైలేంద్ర",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shailesh",
+    "FLeng": "S",
+    "tel": "శైలేష్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37907",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Shailinder",
+    "FLeng": "S",
+    "tel": "శైలిండెర్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37908",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shainin",
+    "FLeng": "S",
+    "tel": "షైనిన్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37909",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shairyaar",
+    "FLeng": "S",
+    "tel": "శైర్యార్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaistakhan",
+    "FLeng": "S",
+    "tel": "శైస్తఖాన్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37911",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaiv",
+    "FLeng": "S",
+    "tel": "శైవ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37912",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shaivya",
+    "FLeng": "S",
+    "tel": "శైవ్య",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37913",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Shaizad",
+    "FLeng": "S",
+    "tel": "షైజాద్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37914",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Shajan",
+    "FLeng": "S",
+    "tel": "షాజన్",
+    "FLtel": "ష"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "id": "17779",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jimmy",
+    "FLeng": "J",
+    "tel": "జిమ్మీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17780",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jimmyl",
+    "FLeng": "J",
+    "tel": "జిమ్మీల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17781",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jimoh",
+    "FLeng": "J",
+    "tel": "జిమోహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17782",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jimuta",
+    "FLeng": "J",
+    "tel": "జీమూత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17783",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jin",
+    "FLeng": "J",
+    "tel": "జిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17784",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jina",
+    "FLeng": "J",
+    "tel": "జైన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17785",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinabhadra",
+    "FLeng": "J",
+    "tel": "జనాభాద్ర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17786",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jinadath",
+    "FLeng": "J",
+    "tel": "జింటాత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17787",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinadev",
+    "FLeng": "J",
+    "tel": "జినాదేవ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17788",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jinah",
+    "FLeng": "J",
+    "tel": "జినః",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17789",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinand",
+    "FLeng": "J",
+    "tel": "జినంద్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17790",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinansh",
+    "FLeng": "J",
+    "tel": "జినాన్స్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17791",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinaprasad",
+    "FLeng": "J",
+    "tel": "జనప్రసాద్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17792",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jinavimala",
+    "FLeng": "J",
+    "tel": "జినవిమల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17793",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinay",
+    "FLeng": "J",
+    "tel": "జినాయ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17794",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jind",
+    "FLeng": "J",
+    "tel": "జింద్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17795",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jinda",
+    "FLeng": "J",
+    "tel": "జిందా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17796",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jindoich",
+    "FLeng": "J",
+    "tel": "జిందోయ్చ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17797",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jindrich",
+    "FLeng": "j",
+    "tel": "జిన్డ్రిచ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17798",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinen",
+    "FLeng": "J",
+    "tel": "జినాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17799",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinendra",
+    "FLeng": "J",
+    "tel": "జైనేంద్ర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17800",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinesh",
+    "FLeng": "J",
+    "tel": "జీన్స్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17801",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jinesha",
+    "FLeng": "J",
+    "tel": "జినేష",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17802",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jineshwar",
+    "FLeng": "J",
+    "tel": "జినేశ్వర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17803",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jinnah",
+    "FLeng": "J",
+    "tel": "జిన్నాహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17804",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jinodaya",
+    "FLeng": "J",
+    "tel": "జినోదయ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17805",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jinraj",
+    "FLeng": "J",
+    "tel": "జింరాజ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17806",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jinshith",
+    "FLeng": "J",
+    "tel": "జింషిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17807",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jioa­",
+    "FLeng": "J",
+    "tel": "జిఓ­",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17808",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jirair",
+    "FLeng": "J",
+    "tel": "జిరాయిర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17809",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jiral",
+    "FLeng": "J",
+    "tel": "జీరలు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17810",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jiri",
+    "FLeng": "J",
+    "tel": "జిరి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17811",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jisar",
+    "FLeng": "J",
+    "tel": "జిసర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17812",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jish",
+    "FLeng": "J",
+    "tel": "జోష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17813",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jishaan",
+    "FLeng": "J",
+    "tel": "జీషాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17814",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jishanth",
+    "FLeng": "J",
+    "tel": "జీషాన్త్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17815",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jishnu",
+    "FLeng": "J",
+    "tel": "జిష్ణు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17816",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jishu",
+    "FLeng": "J",
+    "tel": "జిషు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17817",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jisnu",
+    "FLeng": "J",
+    "tel": "జిష్ణు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17818",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jit",
+    "FLeng": "J",
+    "tel": "జిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17819",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jita",
+    "FLeng": "J",
+    "tel": "జిత",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17820",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitain",
+    "FLeng": "J",
+    "tel": "జిటైన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17821",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitaindre",
+    "FLeng": "J",
+    "tel": "జితఇంద్రే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17822",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitakrodha",
+    "FLeng": "J",
+    "tel": "జితక్రోధ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17823",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitamitra",
+    "FLeng": "J",
+    "tel": "జీతమిత్ర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17824",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitan",
+    "FLeng": "J",
+    "tel": "జితన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17825",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitarth",
+    "FLeng": "J",
+    "tel": "జితార్త్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17826",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jitatma",
+    "FLeng": "J",
+    "tel": "జితాత్మా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17827",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitavarashaye",
+    "FLeng": "J",
+    "tel": "జితవర్షయే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17828",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitavrata",
+    "FLeng": "J",
+    "tel": "జితవ్రతాః",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17829",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jiten",
+    "FLeng": "J",
+    "tel": "జితేన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17830",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitendar",
+    "FLeng": "J",
+    "tel": "జితేందర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17831",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jitender",
+    "FLeng": "J",
+    "tel": "జితేందర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17832",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitendra",
+    "FLeng": "J",
+    "tel": "జితేంద్ర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17833",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitendriya",
+    "FLeng": "J",
+    "tel": "జితేంద్రియ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17834",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitesh",
+    "FLeng": "J",
+    "tel": "జితేష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17835",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jith",
+    "FLeng": "J",
+    "tel": "జిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17836",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithakam",
+    "FLeng": "J",
+    "tel": "జితకం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17837",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithan",
+    "FLeng": "J",
+    "tel": "జితన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17838",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithendra",
+    "FLeng": "J",
+    "tel": "జితేంద్ర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17839",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithendriyan",
+    "FLeng": "J",
+    "tel": "జితేంద్రియం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17840",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithesh",
+    "FLeng": "J",
+    "tel": "జితేష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17841",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithin",
+    "FLeng": "J",
+    "tel": "జితిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17842",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jithu",
+    "FLeng": "J",
+    "tel": "జీతూ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17843",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jithush",
+    "FLeng": "J",
+    "tel": "జితూష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17844",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jithvar",
+    "FLeng": "J",
+    "tel": "జిత్వార్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17845",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitin",
+    "FLeng": "J",
+    "tel": "జితిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17846",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitinder",
+    "FLeng": "J",
+    "tel": "జితిండెర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17847",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "jitinder",
+    "FLeng": "j",
+    "tel": "జితిండెర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17848",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitindre",
+    "FLeng": "J",
+    "tel": "జైటిన్ద్రే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17849",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitrendra",
+    "FLeng": "J",
+    "tel": "జిట్రేన్ద్ర",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17850",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitu",
+    "FLeng": "J",
+    "tel": "జీతూ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17851",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jitul",
+    "FLeng": "J",
+    "tel": "జీతాలు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17852",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jitvan",
+    "FLeng": "J",
+    "tel": "జిత్వాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17853",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jiva",
+    "FLeng": "J",
+    "tel": "జీవ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17854",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivadeva",
+    "FLeng": "J",
+    "tel": "జీవదేవ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17855",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivaj",
+    "FLeng": "J",
+    "tel": "జివ్వాజి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17856",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jivaja",
+    "FLeng": "J",
+    "tel": "జీవజ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jival",
+    "FLeng": "J",
+    "tel": "జివాల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17858",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jivala",
+    "FLeng": "J",
+    "tel": "జీవాల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17859",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivan",
+    "FLeng": "J",
+    "tel": "జీవం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17860",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivana",
+    "FLeng": "J",
+    "tel": "జీవన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17861",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jivanananda",
+    "FLeng": "J",
+    "tel": "జీవనానంద",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17862",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivandeep",
+    "FLeng": "J",
+    "tel": "జీవందీప్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17863",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivanlal",
+    "FLeng": "J",
+    "tel": "జీవంలాల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17864",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivant",
+    "FLeng": "J",
+    "tel": "జివంటి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17865",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivaraja",
+    "FLeng": "J",
+    "tel": "జీవరాజా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17866",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivathran",
+    "FLeng": "J",
+    "tel": "జీవ్త్రన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17867",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jivatram",
+    "FLeng": "J",
+    "tel": "జీవరం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17868",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivesh",
+    "FLeng": "J",
+    "tel": "జీవెస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "17869",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jivin",
+    "FLeng": "J",
+    "tel": "జీవిం",
+    "FLtel": "జ"
+  }
+]

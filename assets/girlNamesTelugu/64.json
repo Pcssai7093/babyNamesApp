@@ -1,0 +1,803 @@
+[
+  {
+    "id": "138069",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Begum",
+    "FLeng": "B",
+    "tel": "బేగం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138070",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Behati",
+    "FLeng": "B",
+    "tel": "బెహతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138071",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Beheshta",
+    "FLeng": "B",
+    "tel": "బెహెష్ట",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138072",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Behnaz",
+    "FLeng": "B",
+    "tel": "బెహనాజ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138073",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Behrokh",
+    "FLeng": "B",
+    "tel": "బెహెరాఖ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138074",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Behula",
+    "FLeng": "B",
+    "tel": "బహుళ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138075",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bei",
+    "FLeng": "B",
+    "tel": "బీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138076",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "beibhinn",
+    "FLeng": "b",
+    "tel": "బీబీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138077",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "beileag",
+    "FLeng": "b",
+    "tel": "బెయిలీగ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138078",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Beitris",
+    "FLeng": "B",
+    "tel": "బీట్రిస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138079",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bekah",
+    "FLeng": "B",
+    "tel": "బెకః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138080",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Bekki",
+    "FLeng": "B",
+    "tel": "బెక్కి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138081",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bekkie",
+    "FLeng": "B",
+    "tel": "బెక్కియ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138082",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bekuri",
+    "FLeng": "B",
+    "tel": "బెకూరి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138083",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bel",
+    "FLeng": "B",
+    "tel": "బెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138084",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bela",
+    "FLeng": "B",
+    "tel": "బేలా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138085",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belanna",
+    "FLeng": "B",
+    "tel": "బేలన్న",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138086",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bele",
+    "FLeng": "B",
+    "tel": "బెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138087",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belem",
+    "FLeng": "B",
+    "tel": "బెలెం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138088",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belen",
+    "FLeng": "B",
+    "tel": "బెలెం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138089",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belet",
+    "FLeng": "B",
+    "tel": "బెల్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138090",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belette",
+    "FLeng": "B",
+    "tel": "బేలెత్తే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138091",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belevia",
+    "FLeng": "B",
+    "tel": "బెలీవియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138092",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "belgin",
+    "FLeng": "b",
+    "tel": "బెల్జిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138093",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belia",
+    "FLeng": "B",
+    "tel": "బెలియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138094",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belias",
+    "FLeng": "B",
+    "tel": "బెలియాస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138095",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belicia",
+    "FLeng": "B",
+    "tel": "బెలీసియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138096",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "belicia",
+    "FLeng": "b",
+    "tel": "బెలీసియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138097",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belina",
+    "FLeng": "B",
+    "tel": "బలైన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138098",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belinda",
+    "FLeng": "B",
+    "tel": "బెలిండా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138099",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "beline",
+    "FLeng": "b",
+    "tel": "బెలినే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138100",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "belinha",
+    "FLeng": "b",
+    "tel": "బేలింహ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138101",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belisencia",
+    "FLeng": "B",
+    "tel": "బెలిసిన్సియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138102",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belisma",
+    "FLeng": "B",
+    "tel": "బెలిస్మా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138103",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belita",
+    "FLeng": "B",
+    "tel": "బెలిత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138104",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bell",
+    "FLeng": "B",
+    "tel": "బెల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138105",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bella",
+    "FLeng": "B",
+    "tel": "బెల్లా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138106",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bella",
+    "FLeng": "b",
+    "tel": "బెల్లా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138107",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bellachay",
+    "FLeng": "b",
+    "tel": "బెల్లచాయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138108",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belladonna",
+    "FLeng": "B",
+    "tel": "బెల్లడోనా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138109",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellarosa",
+    "FLeng": "B",
+    "tel": "బెల్లరోసా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138110",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellatrix",
+    "FLeng": "B",
+    "tel": "బెల్లట్రిక్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138111",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belle",
+    "FLeng": "B",
+    "tel": "బెల్లె",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138112",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellefleur",
+    "FLeng": "B",
+    "tel": "బెల్లెఫ్లెర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138113",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellerose",
+    "FLeng": "B",
+    "tel": "వెళ్ళేరోసే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "138114",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belleus",
+    "FLeng": "B",
+    "tel": "బెల్లెస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138115",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bellezza",
+    "FLeng": "b",
+    "tel": "బెల్లెజ్ల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138116",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Belli",
+    "FLeng": "B",
+    "tel": "బెల్లి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138117",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellina",
+    "FLeng": "B",
+    "tel": "వెళ్లిన",
+    "FLtel": "వ"
+  },
+  {
+    "id": "138118",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellini",
+    "FLeng": "B",
+    "tel": "బల్లిని",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138119",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bellona",
+    "FLeng": "B",
+    "tel": "బెల్లోనా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138120",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belma",
+    "FLeng": "B",
+    "tel": "వెల్మ",
+    "FLtel": "వ"
+  },
+  {
+    "id": "138121",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belmira",
+    "FLeng": "B",
+    "tel": "బల్మిరా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138122",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belora",
+    "FLeng": "B",
+    "tel": "బెలోరా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138123",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belphoebe",
+    "FLeng": "B",
+    "tel": "బెల్ఫోఈబే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138124",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belsant",
+    "FLeng": "B",
+    "tel": "బెల్సన్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138125",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belsante",
+    "FLeng": "B",
+    "tel": "బెల్సన్ట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138126",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Belurmi",
+    "FLeng": "B",
+    "tel": "బెలూరేమి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138127",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belva",
+    "FLeng": "B",
+    "tel": "బిల్వ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138128",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Belynda",
+    "FLeng": "B",
+    "tel": "బెలిన్ద",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138129",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bemadette",
+    "FLeng": "B",
+    "tel": "బేమాడెత్తే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138130",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bemma",
+    "FLeng": "B",
+    "tel": "బెమ్మ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138131",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bena",
+    "FLeng": "B",
+    "tel": "బెనా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138132",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benazeer",
+    "FLeng": "B",
+    "tel": "బెనజీర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138133",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Benazir",
+    "FLeng": "B",
+    "tel": "బెనజిర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138134",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Benazira",
+    "FLeng": "B",
+    "tel": "బెనజిరా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138135",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benca",
+    "FLeng": "B",
+    "tel": "బెంకే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138136",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bencelina",
+    "FLeng": "B",
+    "tel": "బీన్సులిన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138137",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Beneatha",
+    "FLeng": "B",
+    "tel": "బెనెత్త",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138138",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benecia",
+    "FLeng": "B",
+    "tel": "బినేష",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138139",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "benedetta",
+    "FLeng": "b",
+    "tel": "బెనెదెట్టా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138140",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benedicta",
+    "FLeng": "B",
+    "tel": "బెనెడిక్ట్స్తో",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138141",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benedita",
+    "FLeng": "B",
+    "tel": "బెనెడిత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138142",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benesa",
+    "FLeng": "B",
+    "tel": "బెనెసఁ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138143",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Benesh",
+    "FLeng": "B",
+    "tel": "బీఎంఎస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138144",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benet",
+    "FLeng": "B",
+    "tel": "బెనెట్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138145",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Beneve",
+    "FLeng": "B",
+    "tel": "బెనెవే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138146",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benevolence",
+    "FLeng": "B",
+    "tel": "బెనెవోలెన్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138147",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bengta",
+    "FLeng": "b",
+    "tel": "బెంజిత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138148",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benicia",
+    "FLeng": "B",
+    "tel": "బెనిష",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138149",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benigna",
+    "FLeng": "B",
+    "tel": "బెనిజ్ఞా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138150",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benigne",
+    "FLeng": "B",
+    "tel": "బెనోజ్ఞే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138151",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "benilde",
+    "FLeng": "b",
+    "tel": "బెణిదే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138152",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Benisha",
+    "FLeng": "B",
+    "tel": "బేనిషా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138153",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benita",
+    "FLeng": "B",
+    "tel": "బెణిత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138154",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Benitha",
+    "FLeng": "B",
+    "tel": "బెణిత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138155",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "benjamina",
+    "FLeng": "b",
+    "tel": "బెంజమిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138156",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Benna",
+    "FLeng": "B",
+    "tel": "వెన్న",
+    "FLtel": "వ"
+  },
+  {
+    "id": "138157",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bennath",
+    "FLeng": "B",
+    "tel": "బెంనాథ్",
+    "FLtel": "బ"
+  }
+]

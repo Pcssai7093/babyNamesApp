@@ -1,0 +1,803 @@
+[
+  {
+    "id": "46366",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zafer",
+    "FLeng": "Z",
+    "tel": "జాఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46367",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zaffar",
+    "FLeng": "Z",
+    "tel": "జఫ్ఫార్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46368",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zafir",
+    "FLeng": "Z",
+    "tel": "జాఫర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46369",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zafof",
+    "FLeng": "Z",
+    "tel": "జఫాఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46370",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zafran",
+    "FLeng": "Z",
+    "tel": "జాఫ్రాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46371",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zafrul",
+    "FLeng": "Z",
+    "tel": "జాఫరుల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46372",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahaar",
+    "FLeng": "Z",
+    "tel": "జహార్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46373",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zaharia",
+    "FLeng": "Z",
+    "tel": "జాహరియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46374",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zahav",
+    "FLeng": "Z",
+    "tel": "జహ్యావ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46375",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zahavi",
+    "FLeng": "z",
+    "tel": "జహావి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46376",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaheer",
+    "FLeng": "Z",
+    "tel": "జహీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46377",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaheeruddin",
+    "FLeng": "Z",
+    "tel": "జహీరుద్దీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46378",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahhaak",
+    "FLeng": "Z",
+    "tel": "జాహ్హ్హక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46379",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahi",
+    "FLeng": "Z",
+    "tel": "జాహి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46380",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahid",
+    "FLeng": "Z",
+    "tel": "జాహిద్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46381",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahil",
+    "FLeng": "Z",
+    "tel": "జహీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46382",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahin",
+    "FLeng": "Z",
+    "tel": "జాహీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46383",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahir",
+    "FLeng": "Z",
+    "tel": "జహీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46384",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahirul",
+    "FLeng": "Z",
+    "tel": "జహీరుల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46385",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zahn",
+    "FLeng": "z",
+    "tel": "జహాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46386",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahoor",
+    "FLeng": "Z",
+    "tel": "జహూర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46387",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahri",
+    "FLeng": "Z",
+    "tel": "జాహ్రి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46388",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahrun",
+    "FLeng": "Z",
+    "tel": "జాహృన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46389",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahuk",
+    "FLeng": "Z",
+    "tel": "జహుక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46390",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahur",
+    "FLeng": "Z",
+    "tel": "జహూర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46391",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zahyan",
+    "FLeng": "Z",
+    "tel": "జహ్యాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46392",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaia",
+    "FLeng": "Z",
+    "tel": "జయ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46393",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Zaibjeet",
+    "FLeng": "Z",
+    "tel": "జాఇబ్జీట్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46394",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaid",
+    "FLeng": "Z",
+    "tel": "జాడి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46395",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaidan",
+    "FLeng": "Z",
+    "tel": "జాయిదం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46396",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaiden",
+    "FLeng": "Z",
+    "tel": "జాఇదేం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46397",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaifullah",
+    "FLeng": "Z",
+    "tel": "జాఇఫుల్లాహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46398",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaigham",
+    "FLeng": "Z",
+    "tel": "జాఇఘం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46399",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaighum",
+    "FLeng": "Z",
+    "tel": "జాఇఘ్యం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46400",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Zail",
+    "FLeng": "Z",
+    "tel": "జాయిల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46401",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaim",
+    "FLeng": "Z",
+    "tel": "జాయిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46402",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaimuddin",
+    "FLeng": "Z",
+    "tel": "జాలిముద్దీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46403",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zain ul Abideen",
+    "FLeng": "Z",
+    "tel": "జాయిన్ ఉల్ అబిదీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46404",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zaine",
+    "FLeng": "Z",
+    "tel": "జాయిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46405",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zainuddin",
+    "FLeng": "Z",
+    "tel": "జాయినుద్దీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46406",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zainul",
+    "FLeng": "Z",
+    "tel": "జనుల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46407",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zainul Abidin",
+    "FLeng": "Z",
+    "tel": "జానుల్ అబిదీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46408",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zair",
+    "FLeng": "Z",
+    "tel": "జాకిర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46409",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaiyaan",
+    "FLeng": "Z",
+    "tel": "జాఇయాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46410",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zajil",
+    "FLeng": "Z",
+    "tel": "జాజిల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46411",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zajzon",
+    "FLeng": "Z",
+    "tel": "జాజ్జ్న్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46412",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaka",
+    "FLeng": "Z",
+    "tel": "జక",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46413",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakaa",
+    "FLeng": "Z",
+    "tel": "జాకా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46414",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zakai",
+    "FLeng": "z",
+    "tel": "జాకై",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46415",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakar",
+    "FLeng": "Z",
+    "tel": "జాకార్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46416",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakaria",
+    "FLeng": "Z",
+    "tel": "జకారియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46417",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zakarie",
+    "FLeng": "Z",
+    "tel": "జాకారీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46418",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakariya",
+    "FLeng": "Z",
+    "tel": "జకారియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46419",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakariyya",
+    "FLeng": "Z",
+    "tel": "జకారియా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46420",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakawan",
+    "FLeng": "Z",
+    "tel": "జకవన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46421",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakawat",
+    "FLeng": "Z",
+    "tel": "జకవా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46422",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Zaker",
+    "FLeng": "Z",
+    "tel": "జాకిర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46423",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zakery",
+    "FLeng": "Z",
+    "tel": "జాకేరీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46424",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakhif",
+    "FLeng": "Z",
+    "tel": "జాఖిఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46425",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakhir",
+    "FLeng": "Z",
+    "tel": "జాకిర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46426",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaki",
+    "FLeng": "Z",
+    "tel": "జాకీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46427",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakir",
+    "FLeng": "Z",
+    "tel": "జాకిర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46428",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakiuddin",
+    "FLeng": "Z",
+    "tel": "జాకీలుద్దీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46429",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakiy",
+    "FLeng": "Z",
+    "tel": "జకీయ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46430",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zakiyy",
+    "FLeng": "Z",
+    "tel": "జాకుయ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46431",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zakk",
+    "FLeng": "z",
+    "tel": "జాక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46432",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zakkai",
+    "FLeng": "z",
+    "tel": "జక్కాయి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46433",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zako",
+    "FLeng": "z",
+    "tel": "జకో",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46434",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakoor",
+    "FLeng": "Z",
+    "tel": "జాకూర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46435",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zakwan",
+    "FLeng": "Z",
+    "tel": "జాక్వన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46436",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zaky",
+    "FLeng": "Z",
+    "tel": "జాకీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46437",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zalaan",
+    "FLeng": "Z",
+    "tel": "జలాం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46438",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Zalak",
+    "FLeng": "Z",
+    "tel": "జలక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46439",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zalan",
+    "FLeng": "Z",
+    "tel": "జాలం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46440",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaland",
+    "FLeng": "Z",
+    "tel": "జలాండ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46441",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zalman",
+    "FLeng": "Z",
+    "tel": "జల్మన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46442",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zalmay",
+    "FLeng": "Z",
+    "tel": "జలమే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46443",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zalool",
+    "FLeng": "Z",
+    "tel": "జలూల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46444",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zamaam",
+    "FLeng": "Z",
+    "tel": "జమాం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46445",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zamaar",
+    "FLeng": "Z",
+    "tel": "జామార్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46446",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaman",
+    "FLeng": "Z",
+    "tel": "జామున్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46447",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaman Shah",
+    "FLeng": "Z",
+    "tel": "జామున్ షా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46448",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Zamar",
+    "FLeng": "Z",
+    "tel": "జామర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46449",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zameer",
+    "FLeng": "Z",
+    "tel": "జమీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46450",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "zamiel",
+    "FLeng": "z",
+    "tel": "జామాయిల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46451",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zamil",
+    "FLeng": "Z",
+    "tel": "జమీల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46452",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zamin",
+    "FLeng": "Z",
+    "tel": "జమీన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46453",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zaminah",
+    "FLeng": "Z",
+    "tel": "జామినః",
+    "FLtel": "జ"
+  },
+  {
+    "id": "46454",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Zamir",
+    "FLeng": "Z",
+    "tel": "జమీర్",
+    "FLtel": "జ"
+  }
+]

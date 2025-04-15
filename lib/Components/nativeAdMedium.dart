@@ -18,7 +18,7 @@ class _nativeAdMediumState extends State<nativeAdMedium> {
   void initState() {
     super.initState();
     _nativeAd = NativeAd(
-        adUnitId: "ca-app-pub-2071196384129241/4756310685",
+        adUnitId: "ca-app-pub-2071196384129241/2882345441",
         listener: NativeAdListener(
           onAdLoaded: (ad) {
             print('$NativeAd loaded.');
@@ -32,7 +32,7 @@ class _nativeAdMediumState extends State<nativeAdMedium> {
                 await AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize(
                     MediaQuery.sizeOf(context).width.truncate());
             _bannerAd = BannerAd(
-              adUnitId: "ca-app-pub-2071196384129241/6828130207",
+              adUnitId: "ca-app-pub-2071196384129241/8887498519",
               request: const AdRequest(),
               size: size!,
               listener: BannerAdListener(

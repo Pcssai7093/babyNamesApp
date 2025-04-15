@@ -1,0 +1,569 @@
+[
+  {
+    "id": "46980",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Artin",
+    "FLeng": "A",
+    "tel": "ఆర్టిన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46981",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Artis",
+    "FLeng": "A",
+    "tel": "ఆర్టిస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46982",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Artjoms",
+    "FLeng": "A",
+    "tel": "ఆర్టీజోమ్స్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46983",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Arto",
+    "FLeng": "A",
+    "tel": "ఆర్తో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46984",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Artturi",
+    "FLeng": "A",
+    "tel": "అర్ట్టూరి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46985",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Artur",
+    "FLeng": "A",
+    "tel": "ఆర్తురు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46986",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Arturo",
+    "FLeng": "A",
+    "tel": "ఆర్తురో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46987",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "arturo",
+    "FLeng": "a",
+    "tel": "ఆర్తురో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46988",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Arturs",
+    "FLeng": "A",
+    "tel": "ఆర్తుర్స్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46989",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Arty",
+    "FLeng": "A",
+    "tel": "ఆర్తి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46990",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "artyom",
+    "FLeng": "a",
+    "tel": "ఆర్టీఓమ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46991",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arudhra",
+    "FLeng": "A",
+    "tel": "ఆరుద్ర",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46992",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aruj",
+    "FLeng": "A",
+    "tel": "ఆరోజే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46993",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arujas",
+    "FLeng": "A",
+    "tel": "అరుజస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46994",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arul",
+    "FLeng": "A",
+    "tel": "అరుళ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46995",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arul Kannan",
+    "FLeng": "A",
+    "tel": "అరుళ్ కన్నం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46996",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arulappan",
+    "FLeng": "A",
+    "tel": "ఆరులప్పన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46997",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arulchelvan",
+    "FLeng": "A",
+    "tel": "అరుళ్చెల్వన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46998",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aruldasan",
+    "FLeng": "A",
+    "tel": "అరుల్దాసం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46999",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aruloli",
+    "FLeng": "A",
+    "tel": "ఆరులోలి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47000",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arulsyankar",
+    "FLeng": "A",
+    "tel": "ఆరూల్సయాంకర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47001",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumin Kadalan",
+    "FLeng": "A",
+    "tel": "ఆరుమిన్ కడలం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47002",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumoy",
+    "FLeng": "A",
+    "tel": "ఆరుమోయ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47003",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumugam",
+    "FLeng": "A",
+    "tel": "ఆరుముగం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47004",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumugan",
+    "FLeng": "A",
+    "tel": "ఆరుముగం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47005",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumugathamudhu",
+    "FLeng": "A",
+    "tel": "ఆరుమూగతముదు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47006",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumughan",
+    "FLeng": "A",
+    "tel": "ఆరుముగన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47007",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arumukhan",
+    "FLeng": "A",
+    "tel": "ఆరుముఖం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47008",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arun",
+    "FLeng": "A",
+    "tel": "అరుణ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47009",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arun Kumar",
+    "FLeng": "A",
+    "tel": "అరుణ్ కుమార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47010",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunab",
+    "FLeng": "A",
+    "tel": "అరుణబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47011",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunabh",
+    "FLeng": "A",
+    "tel": "అరుణాభః",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47012",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunachalam",
+    "FLeng": "A",
+    "tel": "అరుణాచలం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47013",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunachaleshwara",
+    "FLeng": "A",
+    "tel": "అరుణాచలేశ్వర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47014",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunah",
+    "FLeng": "A",
+    "tel": "ఆరుణః",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47015",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunakar",
+    "FLeng": "A",
+    "tel": "అరుణాకర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47016",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunakham",
+    "FLeng": "A",
+    "tel": "అరుణాఖం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunamshu",
+    "FLeng": "A",
+    "tel": "అరుణాంశు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47018",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunan",
+    "FLeng": "A",
+    "tel": "అరుణాం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunank",
+    "FLeng": "A",
+    "tel": "అరుణాంక్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47020",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunava",
+    "FLeng": "A",
+    "tel": "అరుణవ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47021",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Arundel",
+    "FLeng": "A",
+    "tel": "అరండేల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47022",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arundh",
+    "FLeng": "A",
+    "tel": "అరుంధ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47023",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunesh",
+    "FLeng": "A",
+    "tel": "అరుణేష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47024",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunith",
+    "FLeng": "A",
+    "tel": "అరుణిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47025",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Arunjeet",
+    "FLeng": "A",
+    "tel": "అరంజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47026",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Arunjot",
+    "FLeng": "A",
+    "tel": "అరుంజోత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47027",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunkant",
+    "FLeng": "A",
+    "tel": "అరుంకాంత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47028",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunkiran",
+    "FLeng": "A",
+    "tel": "అరుంకిరణ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47029",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunkumar",
+    "FLeng": "A",
+    "tel": "అరుణ్కుమార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunoday",
+    "FLeng": "A",
+    "tel": "అరుణోదయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47031",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunopal",
+    "FLeng": "A",
+    "tel": "అరుణోపాల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47032",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Arunpal",
+    "FLeng": "A",
+    "tel": "ఆరుంపాల్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47033",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arunthiran",
+    "FLeng": "A",
+    "tel": "అరుంథరన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47034",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Arunvir",
+    "FLeng": "A",
+    "tel": "అరుంవిర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47035",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arush",
+    "FLeng": "A",
+    "tel": "అరుస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47036",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arushan",
+    "FLeng": "A",
+    "tel": "ఆరుషన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47037",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aruth",
+    "FLeng": "A",
+    "tel": "ఆరుథ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "47038",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arva",
+    "FLeng": "A",
+    "tel": "సర్వ",
+    "FLtel": "స"
+  },
+  {
+    "id": "47039",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Arvakl",
+    "FLeng": "A",
+    "tel": "సర్వకాల",
+    "FLtel": "స"
+  },
+  {
+    "id": "47040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arvalan",
+    "FLeng": "A",
+    "tel": "సర్వలం",
+    "FLtel": "స"
+  },
+  {
+    "id": "47041",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arvan",
+    "FLeng": "A",
+    "tel": "అరవం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "47042",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Arvanpreet",
+    "FLeng": "A",
+    "tel": "సర్వాన్ప్రీత్",
+    "FLtel": "స"
+  }
+]

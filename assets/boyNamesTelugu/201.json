@@ -1,0 +1,812 @@
+[
+  {
+    "id": "9601",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fell",
+    "FLeng": "F",
+    "tel": "ఫిల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9602",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Felman",
+    "FLeng": "F",
+    "tel": "ఫిల్మన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Felot",
+    "FLeng": "F",
+    "tel": "ఫెలోస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9604",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Felten",
+    "FLeng": "F",
+    "tel": "ఫిల్టెన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9605",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feltin",
+    "FLeng": "F",
+    "tel": "ఫిల్టయిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9606",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Felton",
+    "FLeng": "F",
+    "tel": "ఫిల్టన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9607",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Felu",
+    "FLeng": "F",
+    "tel": "పేలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9608",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Femi",
+    "FLeng": "F",
+    "tel": "ఫెమి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9609",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fen",
+    "FLeng": "F",
+    "tel": "ఫేం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9610",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Feng",
+    "FLeng": "F",
+    "tel": "ఫెంగ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9611",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Fenil",
+    "FLeng": "F",
+    "tel": "ఫినిల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9612",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fenix",
+    "FLeng": "F",
+    "tel": "ఫినిక్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9613",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fenno",
+    "FLeng": "f",
+    "tel": "ఫినో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9614",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fenrir",
+    "FLeng": "f",
+    "tel": "ఫెంరీర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9615",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fenris",
+    "FLeng": "F",
+    "tel": "ఫెంరిస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9616",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fenton",
+    "FLeng": "F",
+    "tel": "ఫెంటోన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fenwick",
+    "FLeng": "F",
+    "tel": "ఫెంవిక్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9618",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fenwicke",
+    "FLeng": "F",
+    "tel": "ఫెంవికె",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9619",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "feo",
+    "FLeng": "f",
+    "tel": "ఫెలో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9620",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feodor",
+    "FLeng": "F",
+    "tel": "ఫియోడోర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9621",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "feofan",
+    "FLeng": "f",
+    "tel": "ఫియోఫాం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9622",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feolma",
+    "FLeng": "F",
+    "tel": "ఫెఆల్మ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feologild",
+    "FLeng": "F",
+    "tel": "ఫెలోగిళ్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9624",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feolomaer",
+    "FLeng": "F",
+    "tel": "ఫెలోమెర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9625",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feoluca",
+    "FLeng": "F",
+    "tel": "ఫియోలుకా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9626",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feolugeld",
+    "FLeng": "F",
+    "tel": "ఫెవులుగెల్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9627",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feolumaer",
+    "FLeng": "F",
+    "tel": "ఫెవులుమార్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feoras",
+    "FLeng": "F",
+    "tel": "ఫెర్త్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferd",
+    "FLeng": "F",
+    "tel": "ఫర్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9630",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ferdi",
+    "FLeng": "f",
+    "tel": "ఫది",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferdie",
+    "FLeng": "F",
+    "tel": "ఫెర్డిఏ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferdinand",
+    "FLeng": "F",
+    "tel": "ఫెర్డినాండ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferdinando",
+    "FLeng": "F",
+    "tel": "ఫెర్డినాండ్స్తో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferdinandus",
+    "FLeng": "F",
+    "tel": "ఫెర్డినాండ్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9635",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferdnan",
+    "FLeng": "F",
+    "tel": "ఫద్నన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9636",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferdo",
+    "FLeng": "F",
+    "tel": "ఫదో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9637",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferdous",
+    "FLeng": "F",
+    "tel": "ఫిరదౌసి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9638",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ferdows",
+    "FLeng": "F",
+    "tel": "ఫిరదౌసి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9639",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferdynand",
+    "FLeng": "F",
+    "tel": "ఫెర్ఢ్యనంద్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9640",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferenc",
+    "FLeng": "F",
+    "tel": "ఫెరెన్క్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9641",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fereydoon",
+    "FLeng": "F",
+    "tel": "ఫెరెయ్డూన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9642",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fergal",
+    "FLeng": "F",
+    "tel": "ఫగల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9643",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fergal",
+    "FLeng": "f",
+    "tel": "ఫగల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9644",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fergall",
+    "FLeng": "f",
+    "tel": "ఫగల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9645",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fergie",
+    "FLeng": "F",
+    "tel": "ఫగై",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9646",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fergus",
+    "FLeng": "F",
+    "tel": "ఫెర్గుస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9647",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferguson",
+    "FLeng": "F",
+    "tel": "ఫెర్గుసన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9648",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferhat",
+    "FLeng": "F",
+    "tel": "ఫర్హాట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9649",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "feri",
+    "FLeng": "f",
+    "tel": "ఫెరి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9650",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferid",
+    "FLeng": "F",
+    "tel": "ఫరీద్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9651",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferin",
+    "FLeng": "F",
+    "tel": "ఫెరిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9652",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "ferit",
+    "FLeng": "f",
+    "tel": "పేరిట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9653",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Feriz",
+    "FLeng": "F",
+    "tel": "ఫిరోజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9654",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferjal",
+    "FLeng": "F",
+    "tel": "ఫజల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9655",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferka",
+    "FLeng": "F",
+    "tel": "ఫిర్కా",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9656",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ferko",
+    "FLeng": "f",
+    "tel": "పేర్కొ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "9657",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ferlin",
+    "FLeng": "f",
+    "tel": "ఫలిం",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9658",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferman",
+    "FLeng": "F",
+    "tel": "ఫెర్మాన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9659",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fermin",
+    "FLeng": "F",
+    "tel": "ఫెర్మిన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9660",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernald",
+    "FLeng": "F",
+    "tel": "ఫెర్నాల్డ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9661",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernall",
+    "FLeng": "F",
+    "tel": "ఫెర్నాల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9662",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernand",
+    "FLeng": "F",
+    "tel": "ఫెర్నాండ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9663",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernandelle",
+    "FLeng": "F",
+    "tel": "ఫెర్నాండేళ్లే",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9664",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernandez",
+    "FLeng": "F",
+    "tel": "ఫెర్నాండేజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9665",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernando",
+    "FLeng": "F",
+    "tel": "ఫెర్నాండో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9666",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "fernao",
+    "FLeng": "f",
+    "tel": "ఫణమో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9667",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernham",
+    "FLeng": "F",
+    "tel": "ఫన్హామ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9668",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernlea",
+    "FLeng": "F",
+    "tel": "ఫెర్న్లీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9669",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernlee",
+    "FLeng": "F",
+    "tel": "ఫన్లీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9670",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernleigh",
+    "FLeng": "F",
+    "tel": "ఫన్లేఇఘ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9671",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernley",
+    "FLeng": "F",
+    "tel": "ఫెర్న్ల్య్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9672",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fernly",
+    "FLeng": "F",
+    "tel": "ఫెర్న్ల్య్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9673",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferns",
+    "FLeng": "F",
+    "tel": "ఫెర్న్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9674",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Feroz",
+    "FLeng": "F",
+    "tel": "ఫిరోజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9675",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ferran",
+    "FLeng": "F",
+    "tel": "ఫరాన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9676",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferrand",
+    "FLeng": "F",
+    "tel": "ఫరెండ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9677",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferrant",
+    "FLeng": "F",
+    "tel": "ఫెరెంట్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9678",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferrao",
+    "FLeng": "F",
+    "tel": "ఫెర్రావు",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9679",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferrin",
+    "FLeng": "F",
+    "tel": "ఫెర్రీన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9680",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferris",
+    "FLeng": "F",
+    "tel": "ఫెర్రిస్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9681",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferrol",
+    "FLeng": "F",
+    "tel": "ఫెర్రోల్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9682",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferron",
+    "FLeng": "F",
+    "tel": "ఫెర్రోన్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9683",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ferruccio",
+    "FLeng": "F",
+    "tel": "ఫెర్రుసీసీలో",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9684",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Feruzi",
+    "FLeng": "F",
+    "tel": "ఫెరుజి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9685",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fessler",
+    "FLeng": "F",
+    "tel": "ఫెన్స్లర్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9686",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Festus",
+    "FLeng": "F",
+    "tel": "ఫెస్ట్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9687",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "festus",
+    "FLeng": "f",
+    "tel": "ఫెస్ట్స్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9688",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fethee",
+    "FLeng": "F",
+    "tel": "ఫెతీ",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9689",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Fethi",
+    "FLeng": "F",
+    "tel": "ఫెతి",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "9690",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Fey",
+    "FLeng": "F",
+    "tel": "పేయ్",
+    "FLtel": "ప"
+  }
+]

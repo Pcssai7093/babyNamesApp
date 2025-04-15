@@ -1,0 +1,866 @@
+[
+  {
+    "id": "4084",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cubert",
+    "FLeng": "C",
+    "tel": "సుబీర్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4085",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuchein",
+    "FLeng": "C",
+    "tel": "సుచేయిఁ",
+    "FLtel": "స"
+  },
+  {
+    "id": "4086",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuchulainn",
+    "FLeng": "C",
+    "tel": "క్యూచులైన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4087",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuco",
+    "FLeng": "C",
+    "tel": "చుకా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "4088",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cucola",
+    "FLeng": "C",
+    "tel": "కకాల",
+    "FLtel": "క"
+  },
+  {
+    "id": "4089",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuda",
+    "FLeng": "C",
+    "tel": "కదా",
+    "FLtel": "క"
+  },
+  {
+    "id": "4090",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cudamani",
+    "FLeng": "C",
+    "tel": "సుదామని",
+    "FLtel": "స"
+  },
+  {
+    "id": "4091",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cudbert",
+    "FLeng": "C",
+    "tel": "కడఁబెర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4092",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cudbriht",
+    "FLeng": "C",
+    "tel": "సుద్బ్రెహ్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4093",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuddey",
+    "FLeng": "C",
+    "tel": "సుద్దేయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4094",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuddie",
+    "FLeng": "C",
+    "tel": "సుద్ధియే",
+    "FLtel": "స"
+  },
+  {
+    "id": "4095",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuddy",
+    "FLeng": "C",
+    "tel": "కడ్డీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4096",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuelino",
+    "FLeng": "C",
+    "tel": "సుఇలినో",
+    "FLtel": "స"
+  },
+  {
+    "id": "4097",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuetlachtli",
+    "FLeng": "C",
+    "tel": "క్యూఎట్లాక్ట్లీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4098",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cufa",
+    "FLeng": "C",
+    "tel": "కఫ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4099",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cufel",
+    "FLeng": "C",
+    "tel": "సుఫిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4100",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cufna",
+    "FLeng": "C",
+    "tel": "సీఫ్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "4101",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cugga",
+    "FLeng": "C",
+    "tel": "సుగ్గ",
+    "FLtel": "స"
+  },
+  {
+    "id": "4102",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuha",
+    "FLeng": "C",
+    "tel": "కహా",
+    "FLtel": "క"
+  },
+  {
+    "id": "4103",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuichelm",
+    "FLeng": "C",
+    "tel": "సుమిచేల్మ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4104",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuin",
+    "FLeng": "C",
+    "tel": "క్యూయిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4105",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuinn",
+    "FLeng": "C",
+    "tel": "క్యూయిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4106",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuithbeart",
+    "FLeng": "C",
+    "tel": "క్యూయితఁబెర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuithbrig",
+    "FLeng": "C",
+    "tel": "క్యూయితఁబ్రిగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4108",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuitlahuac",
+    "FLeng": "C",
+    "tel": "క్యూయిట్లహుల్క్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4109",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuitlahuatzin",
+    "FLeng": "C",
+    "tel": "క్యూయిట్లహుటుజిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4110",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuixtli",
+    "FLeng": "C",
+    "tel": "క్యూయిస్ట్లీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4111",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cula",
+    "FLeng": "C",
+    "tel": "కల",
+    "FLtel": "క"
+  },
+  {
+    "id": "4112",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Culann",
+    "FLeng": "C",
+    "tel": "కలాన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4113",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Culbart",
+    "FLeng": "C",
+    "tel": "కల్బర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4114",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Culbert",
+    "FLeng": "C",
+    "tel": "కల్బర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4115",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Culkin",
+    "FLeng": "C",
+    "tel": "కల్కిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4116",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cullen",
+    "FLeng": "C",
+    "tel": "కళ్ళెం",
+    "FLtel": "క"
+  },
+  {
+    "id": "4117",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Culley",
+    "FLeng": "C",
+    "tel": "కలీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4118",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cullin",
+    "FLeng": "C",
+    "tel": "సుల్లిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4119",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "cullinan",
+    "FLeng": "c",
+    "tel": "సుల్లినం",
+    "FLtel": "స"
+  },
+  {
+    "id": "4120",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cully",
+    "FLeng": "C",
+    "tel": "సుల్లి",
+    "FLtel": "స"
+  },
+  {
+    "id": "4121",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Culver",
+    "FLeng": "C",
+    "tel": "కల్వర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4122",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuma",
+    "FLeng": "C",
+    "tel": "సుమ",
+    "FLtel": "స"
+  },
+  {
+    "id": "4123",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cumbra",
+    "FLeng": "C",
+    "tel": "చుమ్బర",
+    "FLtel": "చ"
+  },
+  {
+    "id": "4124",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "cumhur",
+    "FLeng": "c",
+    "tel": "సుముహూర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4125",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cumma",
+    "FLeng": "C",
+    "tel": "కమ్మ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4126",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cummum",
+    "FLeng": "C",
+    "tel": "కమ్ముము",
+    "FLtel": "క"
+  },
+  {
+    "id": "4127",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cumow",
+    "FLeng": "C",
+    "tel": "క్యూఎంఓ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4128",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunacenni",
+    "FLeng": "C",
+    "tel": "సునాకెన్ని",
+    "FLtel": "స"
+  },
+  {
+    "id": "4129",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunacus",
+    "FLeng": "C",
+    "tel": "సునాక్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4130",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cunanda",
+    "FLeng": "C",
+    "tel": "సునంద",
+    "FLtel": "స"
+  },
+  {
+    "id": "4131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunatami",
+    "FLeng": "C",
+    "tel": "సునాటమి",
+    "FLtel": "స"
+  },
+  {
+    "id": "4132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunbran",
+    "FLeng": "C",
+    "tel": "కింబరం",
+    "FLtel": "క"
+  },
+  {
+    "id": "4133",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cuncu",
+    "FLeng": "C",
+    "tel": "కించు",
+    "FLtel": "క"
+  },
+  {
+    "id": "4134",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunda",
+    "FLeng": "C",
+    "tel": "కింద",
+    "FLtel": "క"
+  },
+  {
+    "id": "4135",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunedog",
+    "FLeng": "C",
+    "tel": "సుణేదోగ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4136",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunignos",
+    "FLeng": "C",
+    "tel": "సునిగానోస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4137",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunningham",
+    "FLeng": "C",
+    "tel": "సున్నింఘం",
+    "FLtel": "స"
+  },
+  {
+    "id": "4138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "cuno",
+    "FLeng": "c",
+    "tel": "చునో",
+    "FLtel": "చ"
+  },
+  {
+    "id": "4139",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunobarrus",
+    "FLeng": "C",
+    "tel": "సుణోబర్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4140",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunobelinus",
+    "FLeng": "C",
+    "tel": "కింఒబెలిన్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4141",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunocennos",
+    "FLeng": "C",
+    "tel": "సునోసఞ్ఞోస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4142",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunogusus",
+    "FLeng": "C",
+    "tel": "సుణోగుసుస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4143",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunopectus",
+    "FLeng": "C",
+    "tel": "సుణోపెక్ట్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunotamus",
+    "FLeng": "C",
+    "tel": "సుణోత్తమున్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunovindus",
+    "FLeng": "C",
+    "tel": "సుణోవిండ్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4146",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cunuaret",
+    "FLeng": "C",
+    "tel": "కింవరెట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cupere",
+    "FLeng": "C",
+    "tel": "చుపేరే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "4148",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cupid",
+    "FLeng": "C",
+    "tel": "క్యుపిడ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4149",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cupka",
+    "FLeng": "C",
+    "tel": "క్యూపక",
+    "FLtel": "క"
+  },
+  {
+    "id": "4150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuppa",
+    "FLeng": "C",
+    "tel": "కప్ప",
+    "FLtel": "క"
+  },
+  {
+    "id": "4151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curnow",
+    "FLeng": "C",
+    "tel": "క్యూరనౌ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4152",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curra",
+    "FLeng": "C",
+    "tel": "కర్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "4153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curran",
+    "FLeng": "C",
+    "tel": "కరెం",
+    "FLtel": "క"
+  },
+  {
+    "id": "4154",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Currau",
+    "FLeng": "C",
+    "tel": "చుఱ్ఱు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "4155",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Currer",
+    "FLeng": "C",
+    "tel": "క్యూర్ర్ర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4156",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Currie",
+    "FLeng": "C",
+    "tel": "చుఱ్ఱియె",
+    "FLtel": "చ"
+  },
+  {
+    "id": "4157",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Currier",
+    "FLeng": "C",
+    "tel": "కర్రిర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4158",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Currin",
+    "FLeng": "C",
+    "tel": "కర్రీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4159",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curry",
+    "FLeng": "C",
+    "tel": "కర్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "4160",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curt",
+    "FLeng": "C",
+    "tel": "క్యూర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4161",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curtis",
+    "FLeng": "C",
+    "tel": "కర్టిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4162",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Curtiss",
+    "FLeng": "C",
+    "tel": "కర్టిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4163",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cusa",
+    "FLeng": "C",
+    "tel": "కస",
+    "FLtel": "క"
+  },
+  {
+    "id": "4164",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cusick",
+    "FLeng": "C",
+    "tel": "సుసిక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4165",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuss",
+    "FLeng": "C",
+    "tel": "క్యూస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4166",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cussa",
+    "FLeng": "C",
+    "tel": "కస్స",
+    "FLtel": "క"
+  },
+  {
+    "id": "4167",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cust",
+    "FLeng": "C",
+    "tel": "సీస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "4168",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Custanti",
+    "FLeng": "C",
+    "tel": "కష్ఠన్తి",
+    "FLtel": "క"
+  },
+  {
+    "id": "4169",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Custantinu",
+    "FLeng": "C",
+    "tel": "కస్టాన్టిను",
+    "FLtel": "క"
+  },
+  {
+    "id": "4170",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Custanzu",
+    "FLeng": "C",
+    "tel": "కష్టంజు",
+    "FLtel": "క"
+  },
+  {
+    "id": "4171",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Custer",
+    "FLeng": "C",
+    "tel": "కస్టర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4172",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cutbertus",
+    "FLeng": "C",
+    "tel": "క్యూట్బెర్ట్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4173",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthbert",
+    "FLeng": "C",
+    "tel": "కథఃబెర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4174",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthert",
+    "FLeng": "C",
+    "tel": "కథెర్ట్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4175",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthgils",
+    "FLeng": "C",
+    "tel": "కథగిల్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4176",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthred",
+    "FLeng": "C",
+    "tel": "క్యూత్రెడ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "4177",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthsa",
+    "FLeng": "C",
+    "tel": "కత్స",
+    "FLtel": "క"
+  },
+  {
+    "id": "4178",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthsige",
+    "FLeng": "C",
+    "tel": "క్యూత్సిగే",
+    "FLtel": "క"
+  },
+  {
+    "id": "4179",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Cuthwin",
+    "FLeng": "C",
+    "tel": "క్యూత్విన్",
+    "FLtel": "క"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "id": "138965",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Bolavi",
+    "FLeng": "B",
+    "tel": "బాలవి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138966",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Bolour",
+    "FLeng": "B",
+    "tel": "బోలోర్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138967",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boluwaji",
+    "FLeng": "B",
+    "tel": "బోలువాజి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138968",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boluwatife",
+    "FLeng": "B",
+    "tel": "బోలువాటిఫ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138969",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bona",
+    "FLeng": "B",
+    "tel": "బాణా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138970",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bona",
+    "FLeng": "b",
+    "tel": "బాణా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138971",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonajoia",
+    "FLeng": "B",
+    "tel": "బోనాజోయా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138972",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bonasri",
+    "FLeng": "B",
+    "tel": "బొనశ్రీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138973",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonelle",
+    "FLeng": "B",
+    "tel": "బోనెళ్ళే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138974",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bonfilia",
+    "FLeng": "b",
+    "tel": "బొంఫీలియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138975",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bong-Cha",
+    "FLeng": "B",
+    "tel": "బోంగ్-చ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138976",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonie",
+    "FLeng": "B",
+    "tel": "బోణీయే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138977",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boniface",
+    "FLeng": "B",
+    "tel": "బోనిఫేస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138978",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonita",
+    "FLeng": "B",
+    "tel": "బోణీత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138979",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonni",
+    "FLeng": "B",
+    "tel": "బొన్నీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138980",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonnie",
+    "FLeng": "B",
+    "tel": "బోనీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138981",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bonny",
+    "FLeng": "B",
+    "tel": "బొన్నీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138982",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bontu",
+    "FLeng": "B",
+    "tel": "బొంతు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138983",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Boo",
+    "FLeng": "B",
+    "tel": "భూ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138984",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Boomi",
+    "FLeng": "B",
+    "tel": "భూమి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138985",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Boomika",
+    "FLeng": "B",
+    "tel": "భూమిక",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138986",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Boond",
+    "FLeng": "B",
+    "tel": "బూంద్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138987",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Boonsri",
+    "FLeng": "B",
+    "tel": "బౌన్సరీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138988",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Booshani",
+    "FLeng": "B",
+    "tel": "భూషణి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "138989",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Boota",
+    "FLeng": "B",
+    "tel": "బూతా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138990",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bopha",
+    "FLeng": "B",
+    "tel": "బోఫా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138991",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Borah",
+    "FLeng": "B",
+    "tel": "బొరః",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138992",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "borbala",
+    "FLeng": "b",
+    "tel": "బోర్బల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138993",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Borghilda",
+    "FLeng": "B",
+    "tel": "బోర్గిల్డా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138994",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Borislava",
+    "FLeng": "B",
+    "tel": "బోరిస్లవ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138995",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bosa",
+    "FLeng": "B",
+    "tel": "బోస",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138996",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bosky",
+    "FLeng": "B",
+    "tel": "బొస్కీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138997",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Bostan",
+    "FLeng": "B",
+    "tel": "బోస్టన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138998",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bothild",
+    "FLeng": "B",
+    "tel": "బోథిల్డ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "138999",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Botilda",
+    "FLeng": "B",
+    "tel": "బోటిల్డా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139000",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Botill",
+    "FLeng": "B",
+    "tel": "బోటిల్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139001",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Botum",
+    "FLeng": "B",
+    "tel": "బోటుమ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139002",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boudibiua",
+    "FLeng": "B",
+    "tel": "బౌడిబివ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139003",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boudica",
+    "FLeng": "B",
+    "tel": "బౌడికే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139004",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Boupha",
+    "FLeng": "B",
+    "tel": "బౌఫా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139005",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boyana",
+    "FLeng": "B",
+    "tel": "బోయన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139006",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Boyika",
+    "FLeng": "B",
+    "tel": "బొయిక",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139007",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boyka",
+    "FLeng": "B",
+    "tel": "బోయక",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139008",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boyna",
+    "FLeng": "B",
+    "tel": "బోయిన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139009",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boyncia",
+    "FLeng": "B",
+    "tel": "బొయ్న్సియా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139010",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Boyne",
+    "FLeng": "B",
+    "tel": "బోయిన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139011",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bozena",
+    "FLeng": "B",
+    "tel": "భోజన",
+    "FLtel": "భ"
+  },
+  {
+    "id": "139012",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bozhidara",
+    "FLeng": "B",
+    "tel": "బోజ్హైదరా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139013",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "BOÅ½ENA",
+    "FLeng": "B",
+    "tel": "బోÅ½ఎన",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139014",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Braahmi",
+    "FLeng": "B",
+    "tel": "బ్రాహ్మి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139015",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bracca",
+    "FLeng": "B",
+    "tel": "బ్రక్క",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139016",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "bracha",
+    "FLeng": "b",
+    "tel": "బ్రోచ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139017",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bradi",
+    "FLeng": "B",
+    "tel": "బ్రది",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139018",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bradie",
+    "FLeng": "B",
+    "tel": "బ్రాడీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139019",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Braedin",
+    "FLeng": "B",
+    "tel": "బ్రాయిడిం",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139020",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Braeleigh",
+    "FLeng": "B",
+    "tel": "బ్రయీల్ప్గ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139021",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Braelyn",
+    "FLeng": "B",
+    "tel": "బ్రాల్య్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139022",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "braelyn",
+    "FLeng": "b",
+    "tel": "బ్రాల్య్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139023",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Braelynn",
+    "FLeng": "B",
+    "tel": "బ్రాల్య్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139024",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "braelynn",
+    "FLeng": "b",
+    "tel": "బ్రాల్య్న్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139025",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmacharini",
+    "FLeng": "B",
+    "tel": "బ్రహ్మచారిణి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139026",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmani",
+    "FLeng": "B",
+    "tel": "బ్రాహ్మణి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139027",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmattmika",
+    "FLeng": "B",
+    "tel": "బ్రహ్మత్త్మిక",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139028",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmavaadini",
+    "FLeng": "B",
+    "tel": "బ్రహ్మవాదిని",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139029",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmavathi",
+    "FLeng": "B",
+    "tel": "బ్రహ్మవతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139030",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmi",
+    "FLeng": "B",
+    "tel": "బ్రహ్మి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139031",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Brahmini",
+    "FLeng": "B",
+    "tel": "బ్రహ్మీని",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139032",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Brahmneet",
+    "FLeng": "B",
+    "tel": "బ్రాహామునీత్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139033",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Braila",
+    "FLeng": "B",
+    "tel": "బ్రైల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139034",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brailee",
+    "FLeng": "B",
+    "tel": "బ్రెయిలీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139035",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brailey",
+    "FLeng": "B",
+    "tel": "బ్రైలెయ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139036",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Braima",
+    "FLeng": "B",
+    "tel": "బ్రైమా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139037",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Bralynn",
+    "FLeng": "B",
+    "tel": "బ్రాలైన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139038",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bramhani",
+    "FLeng": "B",
+    "tel": "బ్రాహ్మణి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139039",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bramhasangeeta",
+    "FLeng": "B",
+    "tel": "బ్రహ్మసంగీత",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139040",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Bramhi",
+    "FLeng": "B",
+    "tel": "బ్రహ్మీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139041",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Bramhila",
+    "FLeng": "B",
+    "tel": "బ్రహ్మీల",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139042",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Branca",
+    "FLeng": "B",
+    "tel": "బ్రాంకే",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139043",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brancu",
+    "FLeng": "B",
+    "tel": "బ్రాంచు",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139044",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Branda",
+    "FLeng": "B",
+    "tel": "బ్రాండ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139045",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandais",
+    "FLeng": "B",
+    "tel": "బ్రాండైస్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139046",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brande",
+    "FLeng": "B",
+    "tel": "బ్రాండ్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139047",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandea",
+    "FLeng": "B",
+    "tel": "బ్రాండీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139048",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandee",
+    "FLeng": "B",
+    "tel": "బ్రాందీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139049",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandelyn",
+    "FLeng": "B",
+    "tel": "బ్రాండెలైన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139050",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandi",
+    "FLeng": "B",
+    "tel": "బ్రాందీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139051",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandice",
+    "FLeng": "B",
+    "tel": "బ్రాండ్స్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139052",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandie",
+    "FLeng": "B",
+    "tel": "బ్రాండీ",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139053",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandilyn",
+    "FLeng": "B",
+    "tel": "బ్రాందిలీన్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139054",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "brandissa",
+    "FLeng": "b",
+    "tel": "బ్రాందిస్స",
+    "FLtel": "బ"
+  },
+  {
+    "id": "139055",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Brandy",
+    "FLeng": "B",
+    "tel": "బ్రాందీ",
+    "FLtel": "బ"
+  }
+]

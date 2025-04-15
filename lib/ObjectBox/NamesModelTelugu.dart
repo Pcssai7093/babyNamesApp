@@ -5,19 +5,41 @@ class NameData {
   int id;
   @Index()
   String docId;
+  String gender;
+  String religion;
+  bool isLiked;
+
   String englishName;
-  String teluguName;
+  @Index()
   String firstLetterEnglish;
+
+  String teluguName;
   @Index()
   String firstLetterTelugu;
-  String gender;
-  String language;
-  String religion;
-  String meaningEnglish;
-  String meaningTelugu;
-  String origin;
-  List<String> tags;
-  bool isLiked;
+
+  // String hindiName;
+  // String firstLetterHindi;
+  //
+  // String bengaliName;
+  // String firstLetterBengali;
+  //
+  // String tamilName;
+  // String firstLetterTamil;
+  //
+  // String gujaratiName;
+  // String firstLetterGujarati;
+  //
+  // String kannadaName;
+  // String firstLetterKannada;
+  //
+  // String odiaName;
+  // String firstLetterOdia;
+  //
+  // String malayalamName;
+  // String firstLetterMalayalam;
+  //
+  // String punjabiName;
+  // String firstLetterPunjabi;
 
   NameData({
     this.id = 0,
@@ -27,31 +49,57 @@ class NameData {
     required this.firstLetterEnglish,
     required this.firstLetterTelugu,
     required this.gender,
-    required this.language,
     required this.religion,
-    required this.meaningEnglish,
-    required this.meaningTelugu,
-    required this.origin,
-    required this.tags,
     required this.isLiked,
+
+    // required this.hindiName,
+    // required this.firstLetterHindi,
+    // required this.bengaliName,
+    // required this.firstLetterBengali,
+    // required this.tamilName,
+    // required this.firstLetterTamil,
+    // required this.gujaratiName,
+    // required this.firstLetterGujarati,
+    // required this.kannadaName,
+    // required this.firstLetterKannada,
+    // required this.odiaName,
+    // required this.firstLetterOdia,
+    // required this.malayalamName,
+    // required this.firstLetterMalayalam,
+    // required this.punjabiName,
+    // required this.firstLetterPunjabi,
   });
 
-  factory NameData.fromJson(Map<String, dynamic> json, int objectBoxId, String docId, bool isLiked) { //Tags are now passed separately.
+  factory NameData.fromJson(
+      Map<String, dynamic> json, int objectBoxId, String docId, bool isLiked) {
+    //Tags are now passed separately.
     return NameData(
-      id: objectBoxId,
-      docId : docId,
-      englishName: json["eng"],
-      teluguName: json["tel"],
-      firstLetterEnglish: json["fLE"],
-      firstLetterTelugu: json["fLTel"],
-      gender: json["gen"],
-      language: json["language"] ?? "",
-      religion: json["rel"],
-      meaningEnglish: json["meanings"]?["english"] ?? "",
-      meaningTelugu: json["meanings"]?["telugu"] ?? "",
-      origin: json["origin"] ?? "",
-      tags: json["tags"]?.cast<String>() ?? [],
-      isLiked: isLiked
+        id: objectBoxId,
+        docId: docId,
+        englishName: json["eng"],
+        teluguName: json["tel"],
+        firstLetterEnglish: json["FLeng"],
+        firstLetterTelugu: json["FLtel"],
+        gender: json["gen"],
+        religion: json["rel"],
+        isLiked: isLiked,
+
+        // hindiName: json["hi"],
+        // firstLetterHindi: json["FLhi"],
+        // bengaliName: json["be"],
+        // firstLetterBengali: json["FLbe"],
+        // tamilName: json["ta"],
+        // firstLetterTamil: json["FLta"],
+        // gujaratiName: json["gu"],
+        // firstLetterGujarati: json["FLgu"],
+        // kannadaName: json["ka"],
+        // firstLetterKannada: json["FLka"],
+        // odiaName: json["od"],
+        // firstLetterOdia: json["FLod"],
+        // malayalamName: json["ma"],
+        // firstLetterMalayalam: json["FLma"],
+        // punjabiName: json["pu"],
+        // firstLetterPunjabi: json["FLpu"],
     );
   }
 }

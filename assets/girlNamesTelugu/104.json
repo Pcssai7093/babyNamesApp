@@ -1,0 +1,875 @@
+[
+  {
+    "id": "100536",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deangela",
+    "FLeng": "D",
+    "tel": "దెఆంజెలా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100537",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deanica",
+    "FLeng": "D",
+    "tel": "దేవునికే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100538",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deann",
+    "FLeng": "D",
+    "tel": "డీన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100539",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deanna",
+    "FLeng": "D",
+    "tel": "దేవున్న",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100540",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deanndra",
+    "FLeng": "D",
+    "tel": "దెన్ద్ర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100541",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deanne",
+    "FLeng": "D",
+    "tel": "దేవుణ్ణే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100542",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dearbhail",
+    "FLeng": "D",
+    "tel": "దెరభైల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100543",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dearbhla",
+    "FLeng": "D",
+    "tel": "దేఅర్భల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100544",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "dearbhla",
+    "FLeng": "d",
+    "tel": "దేఅర్భల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100545",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deb",
+    "FLeng": "D",
+    "tel": "దేబ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100546",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "deb",
+    "FLeng": "d",
+    "tel": "దేబ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100547",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debadrita",
+    "FLeng": "D",
+    "tel": "దేబద్రిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100548",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debadyuti",
+    "FLeng": "D",
+    "tel": "దేబాద్యుతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100549",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debangana",
+    "FLeng": "D",
+    "tel": "దెబంగానా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100550",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debanjali",
+    "FLeng": "D",
+    "tel": "దెబ్అంజలి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100551",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debanshi",
+    "FLeng": "D",
+    "tel": "దెబంధి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100552",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debaprita",
+    "FLeng": "D",
+    "tel": "దేబప్రిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100553",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debara",
+    "FLeng": "D",
+    "tel": "దుబారా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100554",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debarpita",
+    "FLeng": "D",
+    "tel": "దేబర్పిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100555",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debashmi",
+    "FLeng": "D",
+    "tel": "దేబష్మి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100556",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debashmita",
+    "FLeng": "D",
+    "tel": "దేబష్మిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100557",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debasma",
+    "FLeng": "D",
+    "tel": "దేబస్మా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100558",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debasmita",
+    "FLeng": "D",
+    "tel": "దేబస్మితా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100559",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debatri",
+    "FLeng": "D",
+    "tel": "దేబెరి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100560",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debbi",
+    "FLeng": "D",
+    "tel": "డెబ్బీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100561",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debbie",
+    "FLeng": "D",
+    "tel": "డెబ్బయి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100562",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debbra",
+    "FLeng": "D",
+    "tel": "దెబ్బర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100563",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debby",
+    "FLeng": "D",
+    "tel": "దెబ్బయ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100564",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debecca",
+    "FLeng": "D",
+    "tel": "దేబెకా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100565",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debelah",
+    "FLeng": "D",
+    "tel": "దేబెలాహ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100566",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debera",
+    "FLeng": "D",
+    "tel": "దేబెరా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100567",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debi",
+    "FLeng": "D",
+    "tel": "డెబి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100568",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debina",
+    "FLeng": "D",
+    "tel": "డెబైన",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100569",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debjani",
+    "FLeng": "D",
+    "tel": "డెబీజాని",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100570",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debleena",
+    "FLeng": "D",
+    "tel": "దిబ్లయీన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100571",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "debonnaire",
+    "FLeng": "d",
+    "tel": "దెబోన్నైరే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100572",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debopriya",
+    "FLeng": "D",
+    "tel": "దెబోప్రియ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100573",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debora",
+    "FLeng": "D",
+    "tel": "దెబోరా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100574",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deborah",
+    "FLeng": "D",
+    "tel": "డెబోరా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100575",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deboron",
+    "FLeng": "D",
+    "tel": "దెబోరాన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100576",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deborrah",
+    "FLeng": "D",
+    "tel": "దెబోర్రాహ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100577",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debosmita",
+    "FLeng": "D",
+    "tel": "దెబోస్మితా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100578",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debprasad",
+    "FLeng": "D",
+    "tel": "దెబ్ప్రసాద్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100579",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debra",
+    "FLeng": "D",
+    "tel": "డెబ్ర",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100580",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debrah",
+    "FLeng": "D",
+    "tel": "డెబ్రాహ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100581",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debralee",
+    "FLeng": "D",
+    "tel": "డెబ్రాలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100582",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Debrani",
+    "FLeng": "D",
+    "tel": "డెబ్రాని",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100583",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debriella",
+    "FLeng": "D",
+    "tel": "డెబ్రియేల్ల",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100584",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debroah",
+    "FLeng": "D",
+    "tel": "డెబ్రాహ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100585",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Debyanne",
+    "FLeng": "D",
+    "tel": "డేబియన్నే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100586",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "December",
+    "FLeng": "D",
+    "tel": "డిసెంబర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100587",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Dechen",
+    "FLeng": "D",
+    "tel": "దెచ్చెన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100588",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Decima",
+    "FLeng": "D",
+    "tel": "డెసిమ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100589",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "decla",
+    "FLeng": "d",
+    "tel": "డిక్లే",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100590",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dedeepya",
+    "FLeng": "D",
+    "tel": "దేదీప్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100591",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dedipya",
+    "FLeng": "D",
+    "tel": "దేదీప్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100592",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dedra",
+    "FLeng": "D",
+    "tel": "దెద్ర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100593",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dedre",
+    "FLeng": "D",
+    "tel": "దెద్రే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100594",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dee",
+    "FLeng": "D",
+    "tel": "డీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100595",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deeana",
+    "FLeng": "D",
+    "tel": "దీన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100596",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deeandra",
+    "FLeng": "D",
+    "tel": "దీయాంధ్ర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100597",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deeann",
+    "FLeng": "D",
+    "tel": "డీన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100598",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deeanna",
+    "FLeng": "D",
+    "tel": "డీఅన్న",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100599",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deeba",
+    "FLeng": "D",
+    "tel": "డీబా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100600",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deebasri",
+    "FLeng": "D",
+    "tel": "దీబస్రి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100601",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deebe",
+    "FLeng": "D",
+    "tel": "డీబీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100602",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deedipya",
+    "FLeng": "D",
+    "tel": "దేదీప్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100603",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Deedra",
+    "FLeng": "D",
+    "tel": "దీద్ర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100604",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deeher",
+    "FLeng": "D",
+    "tel": "డీహెర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100605",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekanya",
+    "FLeng": "D",
+    "tel": "దీకన్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100606",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deeksha",
+    "FLeng": "D",
+    "tel": "దీక్ష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100607",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshaa",
+    "FLeng": "D",
+    "tel": "దీక్షా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100608",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshana",
+    "FLeng": "D",
+    "tel": "దీక్షను",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100609",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshanya",
+    "FLeng": "D",
+    "tel": "దీక్షణ్యా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100610",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshi",
+    "FLeng": "D",
+    "tel": "దీక్ష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100611",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshika",
+    "FLeng": "D",
+    "tel": "దీక్షిక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100612",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshita",
+    "FLeng": "D",
+    "tel": "దీక్షిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100613",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshitha",
+    "FLeng": "D",
+    "tel": "దీక్షిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100614",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deekshya",
+    "FLeng": "D",
+    "tel": "దీక్ష",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100615",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Deema",
+    "FLeng": "D",
+    "tel": "ధీమా",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "100616",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deempal",
+    "FLeng": "D",
+    "tel": "దీపల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100617",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deena",
+    "FLeng": "D",
+    "tel": "దీన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100618",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Deenah",
+    "FLeng": "D",
+    "tel": "దీనాహ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100619",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deenal",
+    "FLeng": "D",
+    "tel": "దీనల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100620",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Deep-Kamal",
+    "FLeng": "D",
+    "tel": "డీప్-కమల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100621",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepa",
+    "FLeng": "D",
+    "tel": "దీప",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100622",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepaanshu",
+    "FLeng": "D",
+    "tel": "దీపాంశు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100623",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepabali",
+    "FLeng": "D",
+    "tel": "దీపబాలి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepak",
+    "FLeng": "D",
+    "tel": "దీపక్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100625",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepakala",
+    "FLeng": "D",
+    "tel": "దీపకాల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100626",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepakshi",
+    "FLeng": "D",
+    "tel": "దీపక్షి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100627",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepalee",
+    "FLeng": "D",
+    "tel": "దీపాలీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100628",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepali",
+    "FLeng": "D",
+    "tel": "దీపాలు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100629",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepamala",
+    "FLeng": "D",
+    "tel": "దీపంలా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100630",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepana",
+    "FLeng": "D",
+    "tel": "దీపన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100631",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepanjali",
+    "FLeng": "D",
+    "tel": "దీపాంజలి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Deepansha",
+    "FLeng": "D",
+    "tel": "దీపాంశ",
+    "FLtel": "ద"
+  }
+]

@@ -1,0 +1,821 @@
+[
+  {
+    "id": "6383",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dionysius",
+    "FLeng": "D",
+    "tel": "దీనీసిస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6384",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dionysus",
+    "FLeng": "d",
+    "tel": "డియోనిసస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6385",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Diora",
+    "FLeng": "D",
+    "tel": "దివురా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6386",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipak",
+    "FLeng": "D",
+    "tel": "దీపక్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6387",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipaka",
+    "FLeng": "D",
+    "tel": "డిపాక",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6388",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipakarni",
+    "FLeng": "D",
+    "tel": "దీపకర్ణి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6389",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipam",
+    "FLeng": "D",
+    "tel": "దీపం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6390",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipan",
+    "FLeng": "D",
+    "tel": "దీపం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6391",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipanjan",
+    "FLeng": "D",
+    "tel": "దీపాంజన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6392",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipankar",
+    "FLeng": "D",
+    "tel": "దీపాంకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6393",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Dipankara",
+    "FLeng": "D",
+    "tel": "దీపఙ్కర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6394",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipankura",
+    "FLeng": "D",
+    "tel": "దీపాంకురాం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6395",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipansh",
+    "FLeng": "D",
+    "tel": "దీపన్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6396",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipanshu",
+    "FLeng": "D",
+    "tel": "దీపాంశు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6397",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipapuspa",
+    "FLeng": "D",
+    "tel": "దీపపుష్ప",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6398",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipayan",
+    "FLeng": "D",
+    "tel": "డిపాయం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6399",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipen",
+    "FLeng": "D",
+    "tel": "ఢిపెన్",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "6400",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipendra",
+    "FLeng": "D",
+    "tel": "దీపేంద్ర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6401",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipendu",
+    "FLeng": "D",
+    "tel": "దీపేందు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6402",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipesh",
+    "FLeng": "D",
+    "tel": "దీపేష్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6403",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipin",
+    "FLeng": "D",
+    "tel": "డిపి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6404",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipinder",
+    "FLeng": "D",
+    "tel": "డిపిందెర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6405",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipita",
+    "FLeng": "D",
+    "tel": "దీపిత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6406",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipjit",
+    "FLeng": "D",
+    "tel": "డిపాజిట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6407",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipmani",
+    "FLeng": "D",
+    "tel": "దీపమని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6408",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipok",
+    "FLeng": "D",
+    "tel": "డిపోకు",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6409",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipra",
+    "FLeng": "D",
+    "tel": "దీపా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6410",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diprajit",
+    "FLeng": "D",
+    "tel": "డిపాజిట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6411",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptak",
+    "FLeng": "D",
+    "tel": "దీప్తక్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6412",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptanjan",
+    "FLeng": "D",
+    "tel": "దీప్తంజం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6413",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptanshu",
+    "FLeng": "D",
+    "tel": "దీప్తన్షు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6414",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptansu",
+    "FLeng": "D",
+    "tel": "దీప్తన్సు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6415",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptanu",
+    "FLeng": "D",
+    "tel": "దీప్తాను",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6416",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptapala",
+    "FLeng": "D",
+    "tel": "దీప్తపల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6417",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptash",
+    "FLeng": "D",
+    "tel": "దీప్తష్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6418",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptava",
+    "FLeng": "D",
+    "tel": "దీప్తావా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6419",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptavrna",
+    "FLeng": "D",
+    "tel": "దీప్తవర్ణా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6420",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipten",
+    "FLeng": "D",
+    "tel": "దీప్తేన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptesh",
+    "FLeng": "D",
+    "tel": "దీప్తేషు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6422",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptiman",
+    "FLeng": "D",
+    "tel": "దీప్తిమం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6423",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptmana",
+    "FLeng": "D",
+    "tel": "దీప్తిమన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6424",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Diptosh",
+    "FLeng": "D",
+    "tel": "డీపీతోష్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6425",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dipul",
+    "FLeng": "D",
+    "tel": "డింపుల్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6426",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dirar",
+    "FLeng": "D",
+    "tel": "దీరారు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6427",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Diras",
+    "FLeng": "D",
+    "tel": "దిరస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6428",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dirash",
+    "FLeng": "D",
+    "tel": "దీరాష్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6429",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dirbas",
+    "FLeng": "D",
+    "tel": "దోర్బస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6430",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Direndar",
+    "FLeng": "D",
+    "tel": "దీరేందర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6431",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Dirgh",
+    "FLeng": "D",
+    "tel": "దీర్గ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6432",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dirgha",
+    "FLeng": "D",
+    "tel": "దీర్ఘ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6433",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dirgham",
+    "FLeng": "D",
+    "tel": "దీర్ఘం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6434",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Diricus",
+    "FLeng": "D",
+    "tel": "దిరిక్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6435",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dirigo",
+    "FLeng": "d",
+    "tel": "దిరిగి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6436",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dirk",
+    "FLeng": "D",
+    "tel": "డిర్క్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6437",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dirk",
+    "FLeng": "d",
+    "tel": "డిర్క్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6438",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dirke",
+    "FLeng": "D",
+    "tel": "డిర్క్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6439",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Diryas",
+    "FLeng": "D",
+    "tel": "దిర్యస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6440",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dish",
+    "FLeng": "D",
+    "tel": "డిష్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishaan",
+    "FLeng": "D",
+    "tel": "దిశాం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6442",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dishan",
+    "FLeng": "D",
+    "tel": "డిశం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6443",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishank",
+    "FLeng": "D",
+    "tel": "దిశాంక్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6444",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishant",
+    "FLeng": "D",
+    "tel": "దిశాంత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6445",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishanta",
+    "FLeng": "D",
+    "tel": "దిశాంత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6446",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishanth",
+    "FLeng": "D",
+    "tel": "దిశాంత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishapaul",
+    "FLeng": "D",
+    "tel": "దిశాపాల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6448",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Dishapreet",
+    "FLeng": "D",
+    "tel": "దిశాప్రీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6449",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishen",
+    "FLeng": "D",
+    "tel": "డిశెం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6450",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Disht",
+    "FLeng": "D",
+    "tel": "డిస్ట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6451",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dishyanth",
+    "FLeng": "D",
+    "tel": "దిశయంత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6452",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Disler",
+    "FLeng": "D",
+    "tel": "డిస్లెర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6453",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "dismas",
+    "FLeng": "d",
+    "tel": "దిసమస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6454",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Disnu",
+    "FLeng": "D",
+    "tel": "దిశను",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6455",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dissaith",
+    "FLeng": "D",
+    "tel": "డిసేత్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6456",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Disung",
+    "FLeng": "D",
+    "tel": "దీసింగ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6457",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Dit",
+    "FLeng": "D",
+    "tel": "డైట్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6458",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ditaujas",
+    "FLeng": "D",
+    "tel": "డితుఁజస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6459",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ditikara",
+    "FLeng": "D",
+    "tel": "డీటీకర",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6460",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ditimat",
+    "FLeng": "D",
+    "tel": "డిటిమాట",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6461",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Diuaret",
+    "FLeng": "D",
+    "tel": "దివరెట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6462",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Diuclezzianu",
+    "FLeng": "D",
+    "tel": "డీయూకిజ్యెను",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6463",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Diuin",
+    "FLeng": "D",
+    "tel": "డియూయం",
+    "FLtel": "డ"
+  },
+  {
+    "id": "6464",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Diuma",
+    "FLeng": "D",
+    "tel": "దిఉమ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6465",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divaakar",
+    "FLeng": "D",
+    "tel": "దివాకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6466",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divadasa",
+    "FLeng": "D",
+    "tel": "దివాడస",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6467",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divagar",
+    "FLeng": "D",
+    "tel": "దివ్యాఘ్ర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6468",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divakar",
+    "FLeng": "D",
+    "tel": "దివాకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6469",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divakara",
+    "FLeng": "D",
+    "tel": "దివాకర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6470",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divakaran",
+    "FLeng": "D",
+    "tel": "దివాకరన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6471",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divam",
+    "FLeng": "D",
+    "tel": "దివం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6472",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divanand",
+    "FLeng": "D",
+    "tel": "దివానంద్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6473",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Divansh",
+    "FLeng": "D",
+    "tel": "దివంశ్",
+    "FLtel": "ద"
+  }
+]

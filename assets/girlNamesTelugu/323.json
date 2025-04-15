@@ -1,0 +1,830 @@
+[
+  {
+    "id": "121876",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nudra",
+    "FLeng": "N",
+    "tel": "ముద్ర",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121877",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nudrat",
+    "FLeng": "N",
+    "tel": "ముద్రతె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121878",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuen",
+    "FLeng": "N",
+    "tel": "నుఎం",
+    "FLtel": "న"
+  },
+  {
+    "id": "121879",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nufaisa",
+    "FLeng": "N",
+    "tel": "ముఫైసా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121880",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nufaysah",
+    "FLeng": "N",
+    "tel": "ముఫయిష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121881",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuha",
+    "FLeng": "N",
+    "tel": "నుహ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121882",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuhaa",
+    "FLeng": "N",
+    "tel": "నిహా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121883",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nujan",
+    "FLeng": "N",
+    "tel": "నిజం",
+    "FLtel": "న"
+  },
+  {
+    "id": "121884",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nujat",
+    "FLeng": "N",
+    "tel": "నిజాత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121885",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nujood",
+    "FLeng": "N",
+    "tel": "నుజూడఁ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121886",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nujud",
+    "FLeng": "N",
+    "tel": "కుజుడి",
+    "FLtel": "క"
+  },
+  {
+    "id": "121887",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuka",
+    "FLeng": "N",
+    "tel": "నూక",
+    "FLtel": "న"
+  },
+  {
+    "id": "121888",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nukriti",
+    "FLeng": "N",
+    "tel": "నుకృతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121889",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Num",
+    "FLeng": "N",
+    "tel": "నుం",
+    "FLtel": "న"
+  },
+  {
+    "id": "121890",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Numa",
+    "FLeng": "N",
+    "tel": "నుమా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121891",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nunah",
+    "FLeng": "N",
+    "tel": "ముఞ్చ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121892",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nunzia",
+    "FLeng": "N",
+    "tel": "నుంజిత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121893",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nunziatina",
+    "FLeng": "N",
+    "tel": "నుంజిట్టిన",
+    "FLtel": "న"
+  },
+  {
+    "id": "121894",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuo",
+    "FLeng": "N",
+    "tel": "నువు",
+    "FLtel": "న"
+  },
+  {
+    "id": "121895",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nuon",
+    "FLeng": "N",
+    "tel": "నూన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121896",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nupoor",
+    "FLeng": "N",
+    "tel": "నుపుర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121897",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nupur",
+    "FLeng": "N",
+    "tel": "నుపుర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121898",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nupura",
+    "FLeng": "N",
+    "tel": "నూపుర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121899",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nur",
+    "FLeng": "N",
+    "tel": "నూర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121900",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nur Al Huda",
+    "FLeng": "N",
+    "tel": "నూర్ అల హుడా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121901",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nura",
+    "FLeng": "N",
+    "tel": "నుర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121902",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurah",
+    "FLeng": "N",
+    "tel": "నురహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121903",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuralain",
+    "FLeng": "N",
+    "tel": "న్యూరాన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121904",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuralhuda",
+    "FLeng": "N",
+    "tel": "నూఱాళ్హుదా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121905",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuray",
+    "FLeng": "N",
+    "tel": "నూరాయ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121906",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurayda",
+    "FLeng": "N",
+    "tel": "నూరేదా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121907",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nureen",
+    "FLeng": "N",
+    "tel": "నూరీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121908",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuria",
+    "FLeng": "N",
+    "tel": "నూరియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121909",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuriah",
+    "FLeng": "N",
+    "tel": "నురయ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "121910",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurin",
+    "FLeng": "N",
+    "tel": "నూరిన",
+    "FLtel": "న"
+  },
+  {
+    "id": "121911",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuris",
+    "FLeng": "N",
+    "tel": "నూరీస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121912",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nurit",
+    "FLeng": "N",
+    "tel": "నూరిటి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121913",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuriya",
+    "FLeng": "N",
+    "tel": "నూరియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121914",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuriyah",
+    "FLeng": "N",
+    "tel": "నూరియాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121915",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurjahan",
+    "FLeng": "N",
+    "tel": "నూర్జహాన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121916",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurjamal",
+    "FLeng": "N",
+    "tel": "నూర్జామల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121917",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurjenna",
+    "FLeng": "N",
+    "tel": "నూర్జిన్న",
+    "FLtel": "న"
+  },
+  {
+    "id": "121918",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "nurten",
+    "FLeng": "n",
+    "tel": "నూరైన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121919",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuru",
+    "FLeng": "N",
+    "tel": "నూరు",
+    "FLtel": "న"
+  },
+  {
+    "id": "121920",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurul",
+    "FLeng": "N",
+    "tel": "నూరుల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121921",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nurul Sahar",
+    "FLeng": "N",
+    "tel": "నూరుల్ సహారా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121922",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuryn",
+    "FLeng": "N",
+    "tel": "నూరీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121923",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nusa",
+    "FLeng": "N",
+    "tel": "నుసి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121924",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusaiba",
+    "FLeng": "N",
+    "tel": "ముసాయిబా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121925",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusaibah",
+    "FLeng": "N",
+    "tel": "న్యూసైబ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121926",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusayba",
+    "FLeng": "N",
+    "tel": "ముసాయిబా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "121927",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusaybah",
+    "FLeng": "N",
+    "tel": "న్యూసైబ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121928",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nushi",
+    "FLeng": "N",
+    "tel": "నిశి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121929",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nushita",
+    "FLeng": "N",
+    "tel": "నిశిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121930",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nushka",
+    "FLeng": "N",
+    "tel": "నుష్క",
+    "FLtel": "న"
+  },
+  {
+    "id": "121931",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusrah",
+    "FLeng": "N",
+    "tel": "నుస్రహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121932",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusrath",
+    "FLeng": "N",
+    "tel": "నుస్రత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121933",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nusreta",
+    "FLeng": "N",
+    "tel": "నుసరిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "121934",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nutan",
+    "FLeng": "N",
+    "tel": "నూతన",
+    "FLtel": "న"
+  },
+  {
+    "id": "121935",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nuthan",
+    "FLeng": "N",
+    "tel": "నూతన",
+    "FLtel": "న"
+  },
+  {
+    "id": "121936",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nuthana",
+    "FLeng": "N",
+    "tel": "నూతన",
+    "FLtel": "న"
+  },
+  {
+    "id": "121937",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nuthija",
+    "FLeng": "N",
+    "tel": "నుతిజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121938",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nuti",
+    "FLeng": "N",
+    "tel": "నూతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121939",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nuwa",
+    "FLeng": "N",
+    "tel": "నువ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121940",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuwaira",
+    "FLeng": "N",
+    "tel": "నువైర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121941",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuwairah",
+    "FLeng": "N",
+    "tel": "నువైరహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121942",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuwayla",
+    "FLeng": "N",
+    "tel": "నువేల",
+    "FLtel": "న"
+  },
+  {
+    "id": "121943",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuwaylah",
+    "FLeng": "N",
+    "tel": "నువేలహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121944",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuwayrah",
+    "FLeng": "N",
+    "tel": "నువేరః",
+    "FLtel": "న"
+  },
+  {
+    "id": "121945",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuzar",
+    "FLeng": "N",
+    "tel": "నిజార్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121946",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuzha",
+    "FLeng": "N",
+    "tel": "నిజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121947",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuzhah",
+    "FLeng": "N",
+    "tel": "నుజహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121948",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nuzhat",
+    "FLeng": "N",
+    "tel": "నుజట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121949",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nweh",
+    "FLeng": "N",
+    "tel": "న్వేహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "121950",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nyaguthii",
+    "FLeng": "N",
+    "tel": "న్యగుత్తి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121951",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyah",
+    "FLeng": "N",
+    "tel": "ణ్యాహ",
+    "FLtel": "ణ"
+  },
+  {
+    "id": "121952",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyaja",
+    "FLeng": "N",
+    "tel": "న్యజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121953",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyakio",
+    "FLeng": "N",
+    "tel": "న్యకియో",
+    "FLtel": "న"
+  },
+  {
+    "id": "121954",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyala",
+    "FLeng": "N",
+    "tel": "న్యాల",
+    "FLtel": "న"
+  },
+  {
+    "id": "121955",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nyambura",
+    "FLeng": "N",
+    "tel": "న్యంబురా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121956",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nyanjera",
+    "FLeng": "N",
+    "tel": "నీఅంజీర",
+    "FLtel": "న"
+  },
+  {
+    "id": "121957",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyarai",
+    "FLeng": "N",
+    "tel": "నయరై",
+    "FLtel": "న"
+  },
+  {
+    "id": "121958",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nyari",
+    "FLeng": "N",
+    "tel": "న్యరి",
+    "FLtel": "న"
+  },
+  {
+    "id": "121959",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nyasa",
+    "FLeng": "N",
+    "tel": "న్యాస",
+    "FLtel": "న"
+  },
+  {
+    "id": "121960",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyasha",
+    "FLeng": "N",
+    "tel": "న్యశ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121961",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nyasia",
+    "FLeng": "N",
+    "tel": "న్యాసియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121962",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nyathera",
+    "FLeng": "N",
+    "tel": "న్యథేరా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121963",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Nyawira",
+    "FLeng": "N",
+    "tel": "న్యవిరా",
+    "FLtel": "న"
+  },
+  {
+    "id": "121964",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nyaya",
+    "FLeng": "N",
+    "tel": "న్యాయ",
+    "FLtel": "న"
+  },
+  {
+    "id": "121965",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nycole",
+    "FLeng": "N",
+    "tel": "నీకాలే",
+    "FLtel": "న"
+  },
+  {
+    "id": "121966",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nydhile",
+    "FLeng": "N",
+    "tel": "నీదిలే",
+    "FLtel": "న"
+  },
+  {
+    "id": "121967",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nydia",
+    "FLeng": "N",
+    "tel": "నీడై",
+    "FLtel": "న"
+  }
+]

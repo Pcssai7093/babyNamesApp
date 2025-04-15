@@ -1,0 +1,830 @@
+[
+  {
+    "id": "14106",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herculano",
+    "FLeng": "H",
+    "tel": "హెర్క్యూలనో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14107",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hercule",
+    "FLeng": "h",
+    "tel": "హెర్క్యూలే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14108",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hercules",
+    "FLeng": "H",
+    "tel": "హెర్క్యూలేస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14109",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hercules",
+    "FLeng": "h",
+    "tel": "హెర్క్యూలేస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14110",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Herdayal",
+    "FLeng": "H",
+    "tel": "హెర్ఢ్యల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14111",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Herebeald",
+    "FLeng": "H",
+    "tel": "హెరెబెల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14112",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Herebeard",
+    "FLeng": "H",
+    "tel": "హెరెబెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14113",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Herebehrt",
+    "FLeng": "H",
+    "tel": "హెరెబెహార్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14114",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herebeorht",
+    "FLeng": "H",
+    "tel": "హెరెబెర్హ్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14115",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Herebert",
+    "FLeng": "H",
+    "tel": "హెరెబెర్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14116",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hereburg",
+    "FLeng": "H",
+    "tel": "హెరెబుర్గ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14117",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hereca",
+    "FLeng": "H",
+    "tel": "హెరెక్యా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14118",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hereferth",
+    "FLeng": "H",
+    "tel": "హెరెఫెర్త్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14119",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hereford",
+    "FLeng": "H",
+    "tel": "హెరెఫోర్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14120",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herefrid",
+    "FLeng": "H",
+    "tel": "హెరెఫ్రిడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14121",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Herefrith",
+    "FLeng": "H",
+    "tel": "హెరెఫ్రిత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14122",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Heregeard",
+    "FLeng": "H",
+    "tel": "హెరెగెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14123",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Heregeorn",
+    "FLeng": "H",
+    "tel": "హెరెగెర్న్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14124",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Heregils",
+    "FLeng": "H",
+    "tel": "హెరెగిల్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14125",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Heregod",
+    "FLeng": "H",
+    "tel": "హెరెగోడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14126",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herelaf",
+    "FLeng": "H",
+    "tel": "హెరెలాఫ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14127",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herell",
+    "FLeng": "H",
+    "tel": "హెరెల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14128",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hereman",
+    "FLeng": "H",
+    "tel": "హెరెమం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14129",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heremod",
+    "FLeng": "H",
+    "tel": "హెరెమోడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14130",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "heremon",
+    "FLeng": "h",
+    "tel": "హెరెమోన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14131",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herered",
+    "FLeng": "H",
+    "tel": "హెరెరెడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14132",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hereric",
+    "FLeng": "H",
+    "tel": "హెరెరిక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14133",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heresa",
+    "FLeng": "H",
+    "tel": "హెరెస",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14134",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hereuuard",
+    "FLeng": "H",
+    "tel": "హెరెయూయూర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14135",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herewald",
+    "FLeng": "H",
+    "tel": "హెర్హ్వాల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14136",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hereward",
+    "FLeng": "h",
+    "tel": "హెరివార్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14137",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herewardus",
+    "FLeng": "H",
+    "tel": "హెరివార్డ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14138",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herewart",
+    "FLeng": "H",
+    "tel": "హెరివార్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14139",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hereweald",
+    "FLeng": "H",
+    "tel": "హెరెవెల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14140",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herford",
+    "FLeng": "H",
+    "tel": "హెరిఫోర్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14141",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hergualdi",
+    "FLeng": "H",
+    "tel": "హెర్గుల్లది",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14142",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hergualdus",
+    "FLeng": "H",
+    "tel": "హెర్గుల్డ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14143",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heribert",
+    "FLeng": "H",
+    "tel": "హెరిబెర్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14144",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heriberto",
+    "FLeng": "H",
+    "tel": "హెరిబెర్టో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14145",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heriburg",
+    "FLeng": "H",
+    "tel": "హేరీబుర్గ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14146",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Heriht",
+    "FLeng": "H",
+    "tel": "హీరహ్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herik",
+    "FLeng": "H",
+    "tel": "హెరిక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14148",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herimann",
+    "FLeng": "H",
+    "tel": "హెరిమన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14149",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herin",
+    "FLeng": "H",
+    "tel": "హీరయిన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hering",
+    "FLeng": "H",
+    "tel": "హెరింగ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14151",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herish",
+    "FLeng": "H",
+    "tel": "హేరిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14152",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herit",
+    "FLeng": "H",
+    "tel": "హేరిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herkash",
+    "FLeng": "H",
+    "tel": "హెర్కాష్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14154",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Herlbert",
+    "FLeng": "H",
+    "tel": "హెర్ల్బెర్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14155",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herlebeorht",
+    "FLeng": "H",
+    "tel": "హెర్లేబెర్హ్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14156",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "herleif",
+    "FLeng": "h",
+    "tel": "హెర్ల్య్ప్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14157",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "herleifr",
+    "FLeng": "h",
+    "tel": "హెర్ల్య్ప్ర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14158",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herluin",
+    "FLeng": "H",
+    "tel": "హెర్లుయిం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14159",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herman",
+    "FLeng": "H",
+    "tel": "హెర్మన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14160",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hermann",
+    "FLeng": "H",
+    "tel": "హెర్మన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14161",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hermas",
+    "FLeng": "H",
+    "tel": "హెర్మన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14162",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hermeias",
+    "FLeng": "h",
+    "tel": "హెర్మేయస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14163",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hermenegildo",
+    "FLeng": "H",
+    "tel": "హెర్మేనేజలదో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14164",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hermes",
+    "FLeng": "H",
+    "tel": "హీర్మేస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14165",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hermes",
+    "FLeng": "h",
+    "tel": "హీర్మేస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14166",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hermias",
+    "FLeng": "h",
+    "tel": "హెర్మియాన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14167",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hermin",
+    "FLeng": "H",
+    "tel": "హెర్మిన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14168",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hermind",
+    "FLeng": "H",
+    "tel": "హెర్మిన్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14169",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herminio",
+    "FLeng": "H",
+    "tel": "హెర్మీనియా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14170",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hermo",
+    "FLeng": "H",
+    "tel": "హెర్మో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14171",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hermon",
+    "FLeng": "H",
+    "tel": "హెర్మోన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14172",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hern",
+    "FLeng": "H",
+    "tel": "హెర్న్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14173",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hernan",
+    "FLeng": "H",
+    "tel": "హెర్నాం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14174",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hernando",
+    "FLeng": "H",
+    "tel": "హెర్నాండో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14175",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Herne",
+    "FLeng": "H",
+    "tel": "హెర్న్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14176",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hernox",
+    "FLeng": "H",
+    "tel": "హెర్నోస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14177",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "herod",
+    "FLeng": "h",
+    "tel": "హెరోడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14178",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Herold",
+    "FLeng": "H",
+    "tel": "హెరాల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14179",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Herolt",
+    "FLeng": "H",
+    "tel": "హీరోల్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14180",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Heron",
+    "FLeng": "H",
+    "tel": "హెరాన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14181",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Heros",
+    "FLeng": "H",
+    "tel": "హీరోస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14182",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Herould",
+    "FLeng": "H",
+    "tel": "హెరౌల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14183",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herrick",
+    "FLeng": "H",
+    "tel": "హెర్రిక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14184",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "herrick",
+    "FLeng": "h",
+    "tel": "హెర్రిక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14185",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herrik",
+    "FLeng": "H",
+    "tel": "హెర్రిక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14186",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Herrold",
+    "FLeng": "H",
+    "tel": "హెర్రోల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14187",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "herrold",
+    "FLeng": "h",
+    "tel": "హెర్రోల్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14188",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hersch",
+    "FLeng": "H",
+    "tel": "హెర్స్క్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14189",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Herschel",
+    "FLeng": "H",
+    "tel": "హెర్స్చేల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14190",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hersent",
+    "FLeng": "H",
+    "tel": "హెర్సెంట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14191",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "herson",
+    "FLeng": "h",
+    "tel": "హెర్స్న్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14192",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Hersz",
+    "FLeng": "H",
+    "tel": "హెర్స్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14193",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hertant",
+    "FLeng": "H",
+    "tel": "హెర్తన్త",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14194",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hertford",
+    "FLeng": "H",
+    "tel": "హెర్టుఫోర్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14195",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hertz",
+    "FLeng": "H",
+    "tel": "హెర్ట్జ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14196",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hertzel",
+    "FLeng": "h",
+    "tel": "హెర్ట్జర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Heruualdus",
+    "FLeng": "H",
+    "tel": "హెరూల్డ్స్",
+    "FLtel": "హ"
+  }
+]

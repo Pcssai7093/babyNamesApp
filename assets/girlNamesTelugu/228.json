@@ -1,0 +1,839 @@
+[
+  {
+    "id": "112619",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khasiba",
+    "FLeng": "K",
+    "tel": "ఖసీబా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112620",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khasvi",
+    "FLeng": "K",
+    "tel": "ఖాస్వి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112621",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khateeba",
+    "FLeng": "K",
+    "tel": "ఖతీబ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112622",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatera",
+    "FLeng": "K",
+    "tel": "కాట్రా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112623",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khaterah",
+    "FLeng": "K",
+    "tel": "ఖటిరాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112624",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khatereh",
+    "FLeng": "K",
+    "tel": "కటరెహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112625",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatiba",
+    "FLeng": "K",
+    "tel": "ఖాతిబ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112626",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatijah",
+    "FLeng": "K",
+    "tel": "ఖతీజహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112627",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatira",
+    "FLeng": "K",
+    "tel": "ఖతిరా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112628",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatoon",
+    "FLeng": "K",
+    "tel": "ఖాతూన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112629",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatra",
+    "FLeng": "K",
+    "tel": "కాట్రా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112630",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khatun",
+    "FLeng": "K",
+    "tel": "ఖాతూన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112631",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khaula",
+    "FLeng": "K",
+    "tel": "ఖయూల",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112632",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khavya",
+    "FLeng": "K",
+    "tel": "కావ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "112633",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Khawa",
+    "FLeng": "K",
+    "tel": "ఖర",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112634",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khawala",
+    "FLeng": "K",
+    "tel": "కావాలా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112635",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khawara",
+    "FLeng": "K",
+    "tel": "ఖవారే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112636",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayaal",
+    "FLeng": "K",
+    "tel": "ఖయాల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112637",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayali",
+    "FLeng": "K",
+    "tel": "ఖయాలి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112638",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayla",
+    "FLeng": "K",
+    "tel": "ఖాయిలా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112639",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayrah",
+    "FLeng": "K",
+    "tel": "ఖయారహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112640",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayrat",
+    "FLeng": "K",
+    "tel": "ఖయారత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112641",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayriyah",
+    "FLeng": "K",
+    "tel": "ఖయారియాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112642",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayriyya",
+    "FLeng": "K",
+    "tel": "ఖాయతియ్య",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112643",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khayriyyah",
+    "FLeng": "K",
+    "tel": "ఖాయిరియ్యహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112644",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khazanah",
+    "FLeng": "K",
+    "tel": "ఖజానహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112645",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khazbiika",
+    "FLeng": "K",
+    "tel": "ఖజబిలిక",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112646",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khazeena",
+    "FLeng": "K",
+    "tel": "ఖాజీనా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112647",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khejal",
+    "FLeng": "K",
+    "tel": "ఖేజల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112648",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khera",
+    "FLeng": "K",
+    "tel": "ఖేరా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112649",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kherington",
+    "FLeng": "K",
+    "tel": "ఖేరింగ్టన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112650",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khevna",
+    "FLeng": "K",
+    "tel": "కేవైనా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112651",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kheyali",
+    "FLeng": "K",
+    "tel": "కేయాలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112652",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khiaa",
+    "FLeng": "K",
+    "tel": "ఖిఆ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112653",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khidrah",
+    "FLeng": "K",
+    "tel": "ఖిద్రః",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112654",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khili",
+    "FLeng": "K",
+    "tel": "ఖిలీ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112655",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khilna",
+    "FLeng": "K",
+    "tel": "ఖిలన",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112656",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khilti",
+    "FLeng": "K",
+    "tel": "ఖిలాటి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112657",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "khione",
+    "FLeng": "k",
+    "tel": "ఖిలోనే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112658",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khiry",
+    "FLeng": "K",
+    "tel": "ఖిరి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112659",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khitam",
+    "FLeng": "K",
+    "tel": "ఖితం",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112660",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khitfa",
+    "FLeng": "K",
+    "tel": "ఖిట్ఫా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112661",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khivi",
+    "FLeng": "K",
+    "tel": "కివి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112662",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khkulay",
+    "FLeng": "K",
+    "tel": "ఖ్కులే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112663",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khloe",
+    "FLeng": "K",
+    "tel": "ఖ్లోఈ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112664",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "khloe",
+    "FLeng": "k",
+    "tel": "ఖ్లోఈ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112665",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khloee",
+    "FLeng": "K",
+    "tel": "ఖ్లోఈ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112666",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khloei",
+    "FLeng": "K",
+    "tel": "ఖ్లోఈ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112667",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khojassteh",
+    "FLeng": "K",
+    "tel": "ఖోజాస్తెహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112668",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khoza",
+    "FLeng": "K",
+    "tel": "ఖోజా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112669",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khristene",
+    "FLeng": "K",
+    "tel": "ఖ్రిస్తేనే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112670",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Khristina",
+    "FLeng": "K",
+    "tel": "ఖ్రిష్టినా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112671",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khristy",
+    "FLeng": "K",
+    "tel": "ఖ్రిస్త్య",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112672",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khrystalline",
+    "FLeng": "K",
+    "tel": "ఖ్రీస్టాలినే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112673",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Khrystyna",
+    "FLeng": "K",
+    "tel": "ఖ్రిస్టయిన",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112674",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Khuabpreet",
+    "FLeng": "K",
+    "tel": "ఖుల్బ్ప్రీత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112675",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khudamah",
+    "FLeng": "K",
+    "tel": "ఖుదామః",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112676",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khudeeja",
+    "FLeng": "K",
+    "tel": "ఖుదీజా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112677",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khudra",
+    "FLeng": "K",
+    "tel": "ఖుద్ర",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112678",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khudrah",
+    "FLeng": "K",
+    "tel": "ఖుద్రః",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112679",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khujara",
+    "FLeng": "K",
+    "tel": "ఖుజర",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112680",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khujasstah",
+    "FLeng": "K",
+    "tel": "ఖుజస్సుతః",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112681",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khuki",
+    "FLeng": "K",
+    "tel": "ఖుకి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112682",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khukumani",
+    "FLeng": "K",
+    "tel": "ఖుకుమని",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112683",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khulaifah",
+    "FLeng": "K",
+    "tel": "ఖులైఫాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112684",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khulat",
+    "FLeng": "K",
+    "tel": "ఖులాత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112685",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khulaybah",
+    "FLeng": "K",
+    "tel": "ఖులయఁబహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112686",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khuld",
+    "FLeng": "K",
+    "tel": "ఖుల్డ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112687",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khulood",
+    "FLeng": "K",
+    "tel": "ఖులూదు",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112688",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khuloud",
+    "FLeng": "K",
+    "tel": "ఖులౌడ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112689",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khun Mae",
+    "FLeng": "K",
+    "tel": "ఖుం మే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112690",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khurmi",
+    "FLeng": "K",
+    "tel": "ఖురేమి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112691",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khurshid Jahan",
+    "FLeng": "K",
+    "tel": "ఖుర్షిద్ జహాన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112692",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khusbakht",
+    "FLeng": "K",
+    "tel": "ఖుష్బ్యాక్ట్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112693",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khusboo",
+    "FLeng": "K",
+    "tel": "ఖుష్బూ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112694",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khusbu",
+    "FLeng": "K",
+    "tel": "ఖుష్బూ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112695",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khush Bakht",
+    "FLeng": "K",
+    "tel": "ఖుష్ బాక్ట్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112696",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khush Bakhta",
+    "FLeng": "K",
+    "tel": "ఖుష్ బఖ్ట",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112697",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushali",
+    "FLeng": "K",
+    "tel": "ఖుషాలి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112698",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushboo",
+    "FLeng": "K",
+    "tel": "ఖుష్బూ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112699",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushbu",
+    "FLeng": "K",
+    "tel": "ఖుష్బూ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112700",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Khushdeep",
+    "FLeng": "K",
+    "tel": "ఖుష్దీప్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112701",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushee",
+    "FLeng": "K",
+    "tel": "ఖుషీ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112702",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushi",
+    "FLeng": "K",
+    "tel": "ఖుషి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112703",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushie",
+    "FLeng": "K",
+    "tel": "ఖుషియే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112704",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushika",
+    "FLeng": "K",
+    "tel": "ఖుషీగా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112705",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Khushleen",
+    "FLeng": "K",
+    "tel": "ఖుశ్లీన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112706",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Khushmita",
+    "FLeng": "K",
+    "tel": "ఖుష్మిత",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112707",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Khushneet",
+    "FLeng": "K",
+    "tel": "ఖుష్నీత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112708",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Khushneet-Kaur",
+    "FLeng": "K",
+    "tel": "ఖుష్నీత్-కౌర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112709",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khushnood",
+    "FLeng": "K",
+    "tel": "ఖుష్ణూడ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112710",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Khushnuda",
+    "FLeng": "K",
+    "tel": "ఖుష్ణుడ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "112711",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Khushnuma",
+    "FLeng": "K",
+    "tel": "ఖుష్ణుమా",
+    "FLtel": "ఖ"
+  }
+]

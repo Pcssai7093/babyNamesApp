@@ -1,0 +1,749 @@
+[
+  {
+    "id": "106048",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ainiti",
+    "FLeng": "A",
+    "tel": "అయినింటి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106049",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "aino",
+    "FLeng": "a",
+    "tel": "అయినా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106050",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ainu",
+    "FLeng": "A",
+    "tel": "ఐను",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106051",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aira",
+    "FLeng": "A",
+    "tel": "ఐర",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106052",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Airawati",
+    "FLeng": "A",
+    "tel": "ఐరావతి",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106053",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Airlia",
+    "FLeng": "A",
+    "tel": "నిర్లియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "106054",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aisa",
+    "FLeng": "A",
+    "tel": "ఐస",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106055",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aischa",
+    "FLeng": "A",
+    "tel": "నిశ్చ",
+    "FLtel": "న"
+  },
+  {
+    "id": "106056",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aish",
+    "FLeng": "A",
+    "tel": "ఐష్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106057",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aisha",
+    "FLeng": "A",
+    "tel": "ఐషా",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106058",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "aisha",
+    "FLeng": "a",
+    "tel": "ఐషా",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106059",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishaanya",
+    "FLeng": "A",
+    "tel": "ఐశాన్య",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106060",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aishah",
+    "FLeng": "A",
+    "tel": "ఐషా",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106061",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishani",
+    "FLeng": "A",
+    "tel": "ఐషాని",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106062",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aishatou",
+    "FLeng": "A",
+    "tel": "ఐషాటూ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106063",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aishatu",
+    "FLeng": "A",
+    "tel": "ఐషాటు",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106064",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishee",
+    "FLeng": "A",
+    "tel": "రిషీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "106065",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aisheeya",
+    "FLeng": "A",
+    "tel": "ఐషీయా",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106066",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishi",
+    "FLeng": "A",
+    "tel": "రిషి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "106067",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aishia",
+    "FLeng": "A",
+    "tel": "రిషిత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "106068",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aishiah",
+    "FLeng": "A",
+    "tel": "ఐశ్య్య",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106069",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishiki",
+    "FLeng": "A",
+    "tel": "కైశికి",
+    "FLtel": "క"
+  },
+  {
+    "id": "106070",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishini",
+    "FLeng": "A",
+    "tel": "నిషిని",
+    "FLtel": "న"
+  },
+  {
+    "id": "106071",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishita",
+    "FLeng": "A",
+    "tel": "నిశిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "106072",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishitha",
+    "FLeng": "A",
+    "tel": "నిశిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "106073",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Aishleen-Kaur",
+    "FLeng": "A",
+    "tel": "ఐషలీన్-కౌర్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106074",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishmani",
+    "FLeng": "A",
+    "tel": "ఐశ్మని",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106075",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishmin",
+    "FLeng": "A",
+    "tel": "ఐష్మిం",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106076",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishna",
+    "FLeng": "A",
+    "tel": "ఐష్ణ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106077",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishnia",
+    "FLeng": "A",
+    "tel": "ఐశ్ని",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106078",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishwaki",
+    "FLeng": "A",
+    "tel": "ఐశ్వకి",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106079",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishwariya",
+    "FLeng": "A",
+    "tel": "ఐశ్వరియ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106080",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishwarya",
+    "FLeng": "A",
+    "tel": "ఐశ్వర్య",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106081",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "aishwarya",
+    "FLeng": "a",
+    "tel": "ఐశ్వర్య",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106082",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aishya",
+    "FLeng": "A",
+    "tel": "ఐశ్య",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106083",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aisia",
+    "FLeng": "A",
+    "tel": "ఐసీఏ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106084",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aisiri",
+    "FLeng": "A",
+    "tel": "ఐసిరి",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106085",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aisla",
+    "FLeng": "A",
+    "tel": "ఐస్లా",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106086",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aislin",
+    "FLeng": "A",
+    "tel": "ఐస్లిన్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106087",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aisling",
+    "FLeng": "A",
+    "tel": "ఐస్లింగ్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106088",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aislinn",
+    "FLeng": "A",
+    "tel": "ఐస్లిన్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106089",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aislyn",
+    "FLeng": "A",
+    "tel": "ఐస్లీన్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106090",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aiswarika",
+    "FLeng": "A",
+    "tel": "ఐశ్వరీ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106091",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aiswarya",
+    "FLeng": "A",
+    "tel": "ఐశ్వర్య",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106092",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "aithne",
+    "FLeng": "a",
+    "tel": "ఐతనే",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106093",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "aitne",
+    "FLeng": "a",
+    "tel": "ఐటీని",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106094",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aitri",
+    "FLeng": "A",
+    "tel": "గాయిత్రి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106095",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aixa",
+    "FLeng": "A",
+    "tel": "ఐస్త్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106096",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aiya",
+    "FLeng": "A",
+    "tel": "అయ్యా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106097",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aiyad",
+    "FLeng": "A",
+    "tel": "రియాద్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "106098",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aiyanna",
+    "FLeng": "A",
+    "tel": "ఐయన్న",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106099",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aiyla",
+    "FLeng": "A",
+    "tel": "ఐలా",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106100",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aiyushi",
+    "FLeng": "A",
+    "tel": "ఐయుషి",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106101",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aiza",
+    "FLeng": "A",
+    "tel": "నిజ",
+    "FLtel": "న"
+  },
+  {
+    "id": "106102",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Aizah",
+    "FLeng": "A",
+    "tel": "ఐజాహ్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106103",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Aizel",
+    "FLeng": "A",
+    "tel": "ఐజెల్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106104",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aizlynn",
+    "FLeng": "A",
+    "tel": "ఐజలీన్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106105",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Aizza",
+    "FLeng": "A",
+    "tel": "ఐజజ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "106106",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajaamukhi",
+    "FLeng": "A",
+    "tel": "అజాముఖి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106107",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajaani",
+    "FLeng": "A",
+    "tel": "రాజాని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "106108",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ajaar",
+    "FLeng": "A",
+    "tel": "అజార్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106109",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajabu",
+    "FLeng": "A",
+    "tel": "అజాబు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106110",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajagandha",
+    "FLeng": "A",
+    "tel": "అజగన్దా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106111",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajala",
+    "FLeng": "A",
+    "tel": "అజాల",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106112",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajamukhi",
+    "FLeng": "A",
+    "tel": "అజముఖి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106113",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajanta",
+    "FLeng": "A",
+    "tel": "అజంతా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106114",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajantha",
+    "FLeng": "A",
+    "tel": "అజంతా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106115",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajapati",
+    "FLeng": "A",
+    "tel": "అజాపతి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106116",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ajarae",
+    "FLeng": "A",
+    "tel": "అజరే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106117",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ajas",
+    "FLeng": "A",
+    "tel": "అజస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106118",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajastha",
+    "FLeng": "A",
+    "tel": "అజస్త",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106119",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajatha",
+    "FLeng": "A",
+    "tel": "అజాత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106120",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ajeebah",
+    "FLeng": "A",
+    "tel": "అజీబాహ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106121",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajeenkya",
+    "FLeng": "A",
+    "tel": "అజీన్క్యా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106122",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajeeta",
+    "FLeng": "A",
+    "tel": "అజిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106123",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajeitha",
+    "FLeng": "A",
+    "tel": "అజేయుత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106124",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajeya",
+    "FLeng": "A",
+    "tel": "అజేయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106125",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajia",
+    "FLeng": "A",
+    "tel": "అజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106126",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajija",
+    "FLeng": "A",
+    "tel": "అజీజా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106127",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ajilea",
+    "FLeng": "A",
+    "tel": "మజిలీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "106128",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Ajinder",
+    "FLeng": "A",
+    "tel": "అజిందర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106129",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajira",
+    "FLeng": "A",
+    "tel": "అజిరా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "106130",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ajita",
+    "FLeng": "A",
+    "tel": "అజిత",
+    "FLtel": "అ"
+  }
+]

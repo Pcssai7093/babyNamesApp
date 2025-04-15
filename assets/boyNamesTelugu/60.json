@@ -1,0 +1,542 @@
+[
+  {
+    "id": "46306",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ardam",
+    "FLeng": "A",
+    "tel": "అర్ధం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46307",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ardaman",
+    "FLeng": "A",
+    "tel": "అర్ధమాన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46308",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardan",
+    "FLeng": "A",
+    "tel": "అర్దాం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46309",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ardaviraf",
+    "FLeng": "A",
+    "tel": "అర్థవిరాఫ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46310",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ardeep",
+    "FLeng": "A",
+    "tel": "ఆర్దీప్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46311",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardel",
+    "FLeng": "A",
+    "tel": "ఆర్డల్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46312",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardell",
+    "FLeng": "A",
+    "tel": "ఆరేడేళ్ల",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46313",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ardhendru",
+    "FLeng": "A",
+    "tel": "అర్దెన్రు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46314",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ardhendu",
+    "FLeng": "A",
+    "tel": "అర్దెన్డు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46315",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ardhik",
+    "FLeng": "A",
+    "tel": "ఆర్ధిక",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46316",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ardhy",
+    "FLeng": "A",
+    "tel": "అరుదే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46317",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardit",
+    "FLeng": "A",
+    "tel": "ఆర్డీటీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46318",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardley",
+    "FLeng": "A",
+    "tel": "ఆర్డల్య్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46319",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardolf",
+    "FLeng": "A",
+    "tel": "ఆరుడోల్ఫ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46320",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardolph",
+    "FLeng": "A",
+    "tel": "ఆరుడోల్ఫ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46321",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ardon",
+    "FLeng": "A",
+    "tel": "ఆర్డన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46322",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ardvan",
+    "FLeng": "A",
+    "tel": "అర్డవం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46323",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ardwahisht",
+    "FLeng": "A",
+    "tel": "అర్ద్వహిష్ట్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46324",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ardwolf",
+    "FLeng": "A",
+    "tel": "ఆర్డవల్ఫ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46325",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Are",
+    "FLeng": "A",
+    "tel": "అర్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46326",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arean",
+    "FLeng": "A",
+    "tel": "ఆరేయాన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46327",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Areeb",
+    "FLeng": "A",
+    "tel": "అరీబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46328",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Areehah",
+    "FLeng": "A",
+    "tel": "అరీహః",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46329",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Areen",
+    "FLeng": "A",
+    "tel": "అరీం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46330",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Aref",
+    "FLeng": "A",
+    "tel": "ఆరిఫ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46331",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arefin",
+    "FLeng": "A",
+    "tel": "అరిఫైన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46332",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Arek",
+    "FLeng": "A",
+    "tel": "ఆర్క్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46333",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arekh",
+    "FLeng": "A",
+    "tel": "ఆర్క్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46334",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Arele",
+    "FLeng": "A",
+    "tel": "సరేలే",
+    "FLtel": "స"
+  },
+  {
+    "id": "46335",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Areman",
+    "FLeng": "A",
+    "tel": "ఆరెమం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46336",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Arend",
+    "FLeng": "A",
+    "tel": "ఆరెండు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46337",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "arend",
+    "FLeng": "a",
+    "tel": "ఆరెండు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46338",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Arent",
+    "FLeng": "A",
+    "tel": "వారెంట్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "46339",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ares",
+    "FLeng": "A",
+    "tel": "ఆరేస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46340",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Aresh",
+    "FLeng": "A",
+    "tel": "అరెష్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46341",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arfaan",
+    "FLeng": "A",
+    "tel": "ఆర్ఫాన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46342",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arfaha",
+    "FLeng": "A",
+    "tel": "అర్ఫాహ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46343",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arfan",
+    "FLeng": "A",
+    "tel": "ఆర్ఫాన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46344",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arfaz",
+    "FLeng": "A",
+    "tel": "అర్ఫాజ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46345",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arfeen",
+    "FLeng": "A",
+    "tel": "అర్ఫీన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46346",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Argaios",
+    "FLeng": "A",
+    "tel": "ఆర్గయస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46347",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Argh",
+    "FLeng": "A",
+    "tel": "ఆర్గ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46348",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Argha",
+    "FLeng": "A",
+    "tel": "అర్ఘ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46349",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arghya",
+    "FLeng": "A",
+    "tel": "అర్ఘ్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46350",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "argo",
+    "FLeng": "a",
+    "tel": "అర్గో",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46351",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Argus",
+    "FLeng": "A",
+    "tel": "ఆర్గుస్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46352",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arha",
+    "FLeng": "A",
+    "tel": "అర్హ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46353",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arhaa",
+    "FLeng": "A",
+    "tel": "అరహా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46354",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arhaan",
+    "FLeng": "A",
+    "tel": "అర్హయాం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46355",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arhab",
+    "FLeng": "A",
+    "tel": "అర్హబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46356",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Arhadas",
+    "FLeng": "A",
+    "tel": "అర్హదాస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46357",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arhal",
+    "FLeng": "A",
+    "tel": "అర్హల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46358",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arham",
+    "FLeng": "A",
+    "tel": "అర్హం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46359",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arhan",
+    "FLeng": "A",
+    "tel": "అర్హన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46360",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arhant",
+    "FLeng": "A",
+    "tel": "అరిహంత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46361",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arhat",
+    "FLeng": "A",
+    "tel": "అర్హత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46362",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Arhnath",
+    "FLeng": "A",
+    "tel": "అరహన్త",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46363",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Arhum",
+    "FLeng": "A",
+    "tel": "అర్హుమ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "46364",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Arhya",
+    "FLeng": "A",
+    "tel": "ఆరుహ్య",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "46365",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ariabood",
+    "FLeng": "A",
+    "tel": "అరియబోవుడ్",
+    "FLtel": "అ"
+  }
+]

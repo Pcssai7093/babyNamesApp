@@ -3,7 +3,9 @@ import 'package:baby_names/Components/bottomNavBar.dart';
 import 'package:baby_names/ObjectBox/NamesModelTeluguLiked.dart';
 import 'package:baby_names/Pages/LikedList/nameItem.dart';
 import 'package:flutter/material.dart';
+import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:provider/provider.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 import '../../Components/bottomBannerAd.dart';
 import '../../Providers/darkMode.dart';
@@ -46,22 +48,70 @@ class _nameListState extends State<nameList> {
   List<NameDataLiked> names = [];
   String selectedLetter = "ఆ";
   bool isLoading = false;
+  bool isLoading2 = false;
 
   final nameBoxLiked = objectbox.store.box<NameDataLiked>();
 
 
   void filterHandler(String firstLetter) async {
-    setLoader(true);
+    setLoader2(true);
+    await Future.delayed(Duration(seconds: 1));
+    setState(() {
+      names = [];
+    });
     await Future.delayed(Duration(seconds: 1));
     print("selected filters: ,${firstLetter}");
+    var prefs = await SharedPreferences.getInstance();
+    String prefLang = prefs.getString("prefLang") ?? "telugu";
+
+    dynamic condition;
+    dynamic condition2;
+
+    switch (prefLang) {
+      case 'english':
+        condition = NameDataLiked_.firstLetterEnglish.equals(firstLetter);
+        condition2 = NameDataLiked_.firstLetterEnglish.notEquals(firstLetter);
+        break;
+      case 'telugu':
+        condition = NameDataLiked_.firstLetterTelugu.equals(firstLetter);
+        condition2 = NameDataLiked_.firstLetterTelugu.notEquals(firstLetter);
+        break;
+      // case 'hindi':
+      //   condition = NameDataLiked_.firstLetterHindi.equals(firstLetter);
+      //   break;
+      // case 'bengali':
+      //   condition = NameDataLiked_.firstLetterBengali.equals(firstLetter);
+      //   break;
+      // case 'tamil':
+      //   condition = NameDataLiked_.firstLetterTamil.equals(firstLetter);
+      //   break;
+      // case 'gujarati':
+      //   condition = NameDataLiked_.firstLetterGujarati.equals(firstLetter);
+      //   break;
+      // case 'kannada':
+      //   condition = NameDataLiked_.firstLetterKannada.equals(firstLetter);
+      //   break;
+      // case 'odia':
+      //   condition = NameDataLiked_.firstLetterOdia.equals(firstLetter);
+      //   break;
+      // case 'malayalam':
+      //   condition = NameDataLiked_.firstLetterMalayalam.equals(firstLetter);
+      //   break;
+      // case 'punjabi':
+      //   condition = NameDataLiked_.firstLetterPunjabi.equals(firstLetter);
+        break;
+      default:
+        print('No match found for language: $prefLang');
+    }
+
     final query = nameBoxLiked
-        .query(NameDataLiked_.firstLetterTelugu.equals(firstLetter))
+        .query(condition)
         .build();
     final results = query.find();
     query.close();
 
     final query2 = nameBoxLiked
-        .query(NameDataLiked_.firstLetterTelugu.notEquals(firstLetter))
+        .query(condition2)
         .build();
     final results2 = query2.find();
     query2.close();
@@ -71,7 +121,7 @@ class _nameListState extends State<nameList> {
     });
     }
     print(names.length);
-    setLoader(false);
+    setLoader2(false);
   }
 
   void setLoader(bool value) {
@@ -79,6 +129,14 @@ class _nameListState extends State<nameList> {
     setState(() {
       isLoading = value;
     });
+    }
+  }
+
+  void setLoader2(bool value) {
+    if(mounted){
+      setState(() {
+        isLoading2 = value;
+      });
     }
   }
 
@@ -140,6 +198,13 @@ class _nameListState extends State<nameList> {
             ),
             bottomNavBar(prefLangSelectHanlder:prefLangSelectHanlder),
             bottomBannerAd(),
+            if(isLoading || isLoading2)
+              Center(
+                child: LoadingAnimationWidget.staggeredDotsWave(
+                  color: Colors.blueAccent,
+                  size: 50,
+                ),
+              ),
           ],
         ),
       ),

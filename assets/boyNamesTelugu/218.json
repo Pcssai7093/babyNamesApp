@@ -1,0 +1,839 @@
+[
+  {
+    "id": "11143",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Giandharam",
+    "FLeng": "G",
+    "tel": "గిఅందరం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11144",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Giandheer",
+    "FLeng": "G",
+    "tel": "జియాంధీర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11145",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Giandhiaan",
+    "FLeng": "G",
+    "tel": "గిఅందిఆం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11146",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gianender",
+    "FLeng": "G",
+    "tel": "గిఆన్న్డర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianfranco",
+    "FLeng": "G",
+    "tel": "జియాన్ఫ్రాంకో",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11148",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Giangeet",
+    "FLeng": "G",
+    "tel": "గిఅంగీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11149",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianinder",
+    "FLeng": "G",
+    "tel": "గిన్నిన్డెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11150",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianjas",
+    "FLeng": "G",
+    "tel": "జియాంజస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11151",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianjeet",
+    "FLeng": "G",
+    "tel": "జియాంజీత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11152",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianjeevan",
+    "FLeng": "G",
+    "tel": "జియాంజీవం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11153",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianjog",
+    "FLeng": "G",
+    "tel": "గిఅంజోగ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11154",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianjot",
+    "FLeng": "G",
+    "tel": "గిఅంజోత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11155",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Giankamal",
+    "FLeng": "G",
+    "tel": "గిఅంకమల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11156",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianluca",
+    "FLeng": "G",
+    "tel": "గియాన్లకే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11157",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianluigi",
+    "FLeng": "G",
+    "tel": "జిఎంలుగి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11158",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianmarco",
+    "FLeng": "G",
+    "tel": "గియాన్మార్కో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11159",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianmeet",
+    "FLeng": "G",
+    "tel": "గిఆన్మీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11160",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giannes",
+    "FLeng": "G",
+    "tel": "గిన్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11161",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianni",
+    "FLeng": "G",
+    "tel": "గీతాన్ని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11162",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giannino",
+    "FLeng": "G",
+    "tel": "గియాన్నినో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11163",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giannis",
+    "FLeng": "G",
+    "tel": "గియాన్నీస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11164",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianpaolo",
+    "FLeng": "G",
+    "tel": "గిఆన్పాలో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11165",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianparkash",
+    "FLeng": "G",
+    "tel": "గిఆన్పర్కాష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11166",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianpiero",
+    "FLeng": "G",
+    "tel": "జీఎంపైరో",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11167",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gianprakash",
+    "FLeng": "G",
+    "tel": "గిఆన్ప్రకాష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11168",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianprem",
+    "FLeng": "G",
+    "tel": "గిఆన్ప్రేమ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11169",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianrang",
+    "FLeng": "G",
+    "tel": "గిఆన్రంగ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11170",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianras",
+    "FLeng": "G",
+    "tel": "గిఆన్రస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11171",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianratan",
+    "FLeng": "G",
+    "tel": "గిఆన్రాటం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11172",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gianrico",
+    "FLeng": "G",
+    "tel": "గిహీన్రికో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11173",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianroop",
+    "FLeng": "G",
+    "tel": "గిఆన్రూప్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11174",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianseetal",
+    "FLeng": "G",
+    "tel": "గిఆన్సీతల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11175",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Giansh",
+    "FLeng": "G",
+    "tel": "గిఆన్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11176",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Giantek",
+    "FLeng": "G",
+    "tel": "గిఅంటేక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11177",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianutaam",
+    "FLeng": "G",
+    "tel": "జిన్నుతాం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11178",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianveer",
+    "FLeng": "G",
+    "tel": "గియాన్వీర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11179",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianvichaar",
+    "FLeng": "G",
+    "tel": "గియాన్విచారు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11180",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Gianwant",
+    "FLeng": "G",
+    "tel": "గిఆన్వాన్త",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11181",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giasone",
+    "FLeng": "G",
+    "tel": "గిల్స్లోనే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11182",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gib",
+    "FLeng": "G",
+    "tel": "గిబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11183",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibb",
+    "FLeng": "G",
+    "tel": "గిబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11184",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibbes",
+    "FLeng": "G",
+    "tel": "గిబ్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11185",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibbesone",
+    "FLeng": "G",
+    "tel": "గిబ్బెసోనే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11186",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibbon",
+    "FLeng": "G",
+    "tel": "గిబ్బన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11187",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibbons",
+    "FLeng": "G",
+    "tel": "గిబ్బన్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11188",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibbs",
+    "FLeng": "G",
+    "tel": "గిబ్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11189",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gibby",
+    "FLeng": "G",
+    "tel": "గిబ్య్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11190",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gibran",
+    "FLeng": "G",
+    "tel": "గిబ్రాన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11191",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gibson",
+    "FLeng": "G",
+    "tel": "గిబ్సన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11192",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gibson",
+    "FLeng": "g",
+    "tel": "గిబ్సన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11193",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giby",
+    "FLeng": "G",
+    "tel": "గిబ్య్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11194",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gichinga",
+    "FLeng": "G",
+    "tel": "గిచ్చినఁగ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11195",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gicicio",
+    "FLeng": "G",
+    "tel": "జిసిసివ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11196",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gicsa",
+    "FLeng": "G",
+    "tel": "గీకేసా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gide",
+    "FLeng": "g",
+    "tel": "గిదే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11198",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gideon",
+    "FLeng": "G",
+    "tel": "గిడోన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11199",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gideone",
+    "FLeng": "G",
+    "tel": "గిదేవుని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11200",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gidon",
+    "FLeng": "G",
+    "tel": "గిదోన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11201",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gie",
+    "FLeng": "G",
+    "tel": "గై",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11202",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giedda",
+    "FLeng": "G",
+    "tel": "గైడ్డ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11203",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giffard",
+    "FLeng": "G",
+    "tel": "జఫ్ఫార్డ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11204",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gifferd",
+    "FLeng": "G",
+    "tel": "జఫర్డ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11205",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gifflet",
+    "FLeng": "G",
+    "tel": "గిఫ్ఫ్లేట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11206",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gifford",
+    "FLeng": "G",
+    "tel": "గిఫ్ర్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11207",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gift",
+    "FLeng": "G",
+    "tel": "గిఫ్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11208",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gifuhard",
+    "FLeng": "G",
+    "tel": "జీఫుహర్డ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11209",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gig",
+    "FLeng": "g",
+    "tel": "గిగ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11210",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Giga",
+    "FLeng": "G",
+    "tel": "గిగా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11211",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "giglio",
+    "FLeng": "g",
+    "tel": "గిగ్లియో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11212",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gignesh",
+    "FLeng": "G",
+    "tel": "జిగ్నేష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11213",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gigyansh",
+    "FLeng": "G",
+    "tel": "గిబ్యాన్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11214",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Gihan",
+    "FLeng": "G",
+    "tel": "జహాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11215",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Giichi",
+    "FLeng": "G",
+    "tel": "గిరిచి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11216",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gijsbert",
+    "FLeng": "G",
+    "tel": "జిజ్స్బెర్త్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11217",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gijsbert",
+    "FLeng": "g",
+    "tel": "జిజ్స్బెర్త్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11218",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gikuyu",
+    "FLeng": "G",
+    "tel": "గీకుయు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11219",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gil",
+    "FLeng": "G",
+    "tel": "గిల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11220",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilad",
+    "FLeng": "G",
+    "tel": "గిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11221",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Giladi",
+    "FLeng": "G",
+    "tel": "గిలాడి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11222",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gilam",
+    "FLeng": "G",
+    "tel": "జలం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "11223",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilberd",
+    "FLeng": "G",
+    "tel": "గిల్బెర్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11224",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilbert",
+    "FLeng": "G",
+    "tel": "గిల్బర్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11225",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilberto",
+    "FLeng": "G",
+    "tel": "గిల్బెర్టో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11226",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilbertus",
+    "FLeng": "G",
+    "tel": "గిల్బెర్ట్స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11227",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilburt",
+    "FLeng": "G",
+    "tel": "గిల్బర్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11228",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilby",
+    "FLeng": "G",
+    "tel": "గిల్బ్య",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11229",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gildardo",
+    "FLeng": "G",
+    "tel": "గిల్డార్డో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11230",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gildas",
+    "FLeng": "G",
+    "tel": "గిల్డస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11231",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gilderoy",
+    "FLeng": "G",
+    "tel": "గిల్డెరోయ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11232",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Gildo",
+    "FLeng": "G",
+    "tel": "గోల్డో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11233",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Gildun",
+    "FLeng": "G",
+    "tel": "గిలాదున్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11234",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Gilead",
+    "FLeng": "G",
+    "tel": "గిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "11235",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "gilead",
+    "FLeng": "g",
+    "tel": "గిల్డ్",
+    "FLtel": "గ"
+  }
+]

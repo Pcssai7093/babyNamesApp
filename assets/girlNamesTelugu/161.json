@@ -1,0 +1,830 @@
+[
+  {
+    "id": "106208",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gungan",
+    "FLeng": "G",
+    "tel": "గుంగం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106209",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gungun",
+    "FLeng": "G",
+    "tel": "గుంగున్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106210",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunhild",
+    "FLeng": "G",
+    "tel": "గుంహిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106211",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gunhild",
+    "FLeng": "g",
+    "tel": "గుంహిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106212",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunhilda",
+    "FLeng": "G",
+    "tel": "గుంహిల్డా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106213",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunhilde",
+    "FLeng": "G",
+    "tel": "గుంహిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106214",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunika",
+    "FLeng": "G",
+    "tel": "గుణిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106215",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunilla",
+    "FLeng": "G",
+    "tel": "గునీళ్ల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106216",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunisha",
+    "FLeng": "G",
+    "tel": "గుణీశ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106217",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunita",
+    "FLeng": "G",
+    "tel": "గణిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106218",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunitha",
+    "FLeng": "G",
+    "tel": "గణిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106219",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunja",
+    "FLeng": "G",
+    "tel": "గుంజ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106220",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunjali",
+    "FLeng": "G",
+    "tel": "గుంజాలి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106221",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunjana",
+    "FLeng": "G",
+    "tel": "గుంజన",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106222",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunjeet",
+    "FLeng": "G",
+    "tel": "గుంజీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106223",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunjika",
+    "FLeng": "G",
+    "tel": "గుంజిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106224",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunjita",
+    "FLeng": "G",
+    "tel": "గుంజిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106225",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunjitha",
+    "FLeng": "G",
+    "tel": "గుంజిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106226",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunjun",
+    "FLeng": "G",
+    "tel": "గుంజుం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106227",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunkirit",
+    "FLeng": "G",
+    "tel": "కుంకీరిత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "106228",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunleen",
+    "FLeng": "G",
+    "tel": "గుంలీన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106229",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunmeet",
+    "FLeng": "G",
+    "tel": "గుంమీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106230",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunn",
+    "FLeng": "G",
+    "tel": "గున్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106231",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnda­s",
+    "FLeng": "G",
+    "tel": "గున్నదా­స్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106232",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnel",
+    "FLeng": "G",
+    "tel": "గున్నెల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106233",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnell",
+    "FLeng": "G",
+    "tel": "గున్నెల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106234",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunneuare",
+    "FLeng": "G",
+    "tel": "గున్నెవరు",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106235",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnhild",
+    "FLeng": "G",
+    "tel": "గున్నహిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106236",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnhildr",
+    "FLeng": "G",
+    "tel": "గుంన్హిల్డర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106237",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunnika",
+    "FLeng": "G",
+    "tel": "గున్నిక",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106238",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnild",
+    "FLeng": "G",
+    "tel": "గున్నిల్డ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106239",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnilda",
+    "FLeng": "G",
+    "tel": "గున్నిల్డా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106240",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnilde",
+    "FLeng": "G",
+    "tel": "గున్నిల్దె",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106241",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnildes",
+    "FLeng": "G",
+    "tel": "గున్నిల్దెస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106242",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnilla",
+    "FLeng": "G",
+    "tel": "గున్నీళ్లా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106243",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnilt",
+    "FLeng": "G",
+    "tel": "గున్నిల్ట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106244",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnlod",
+    "FLeng": "G",
+    "tel": "గుంన్లోడ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106245",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnor",
+    "FLeng": "G",
+    "tel": "గున్నోర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106246",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnora",
+    "FLeng": "G",
+    "tel": "గున్నోరా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106247",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnore",
+    "FLeng": "G",
+    "tel": "గుననోరే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106248",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnota",
+    "FLeng": "G",
+    "tel": "గుంనోట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106249",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunnote",
+    "FLeng": "G",
+    "tel": "గున్నోటే",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106250",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunora",
+    "FLeng": "G",
+    "tel": "గుణోర",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106251",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunreet",
+    "FLeng": "G",
+    "tel": "గుంరీటీ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106252",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunrekha",
+    "FLeng": "G",
+    "tel": "గుంరేఖ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106253",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunsakhi",
+    "FLeng": "G",
+    "tel": "గుణసఖి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106254",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gunsaki",
+    "FLeng": "G",
+    "tel": "గుంజాకి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106255",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunvanti",
+    "FLeng": "G",
+    "tel": "గున్వంటి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106256",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunvara",
+    "FLeng": "G",
+    "tel": "గుంవారా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106257",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunvinder",
+    "FLeng": "G",
+    "tel": "గుంవిండెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106258",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gunvor",
+    "FLeng": "G",
+    "tel": "గుంవోర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106259",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gunwanti",
+    "FLeng": "G",
+    "tel": "గుంవన్తి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106260",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Gunwar",
+    "FLeng": "G",
+    "tel": "గున్వార్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106261",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Guo",
+    "FLeng": "G",
+    "tel": "గువో",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106262",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gupti",
+    "FLeng": "G",
+    "tel": "గుప్తి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106263",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Guramrit",
+    "FLeng": "G",
+    "tel": "గురమ్రిత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106264",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurasees",
+    "FLeng": "G",
+    "tel": "గురసీస్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106265",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gurbani",
+    "FLeng": "G",
+    "tel": "గుర్బాని",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106266",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurden",
+    "FLeng": "G",
+    "tel": "గురుడెన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106267",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurdisha",
+    "FLeng": "G",
+    "tel": "గురదిశ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106268",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurdita",
+    "FLeng": "G",
+    "tel": "గురుడిత",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106269",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurditta",
+    "FLeng": "G",
+    "tel": "గురుదిట్ట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106270",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "GUrdun",
+    "FLeng": "G",
+    "tel": "గురుడుం",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106271",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gureet",
+    "FLeng": "G",
+    "tel": "గురీతి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106272",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurgian",
+    "FLeng": "G",
+    "tel": "గురిగిఆన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106273",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurhimmat",
+    "FLeng": "G",
+    "tel": "గర్హిమ్మట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106274",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurisha",
+    "FLeng": "G",
+    "tel": "గురిష",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106275",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gurit",
+    "FLeng": "G",
+    "tel": "గురిట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106276",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "gurit",
+    "FLeng": "g",
+    "tel": "గురిట్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106277",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Guriya",
+    "FLeng": "G",
+    "tel": "గురియ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106278",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gurjari",
+    "FLeng": "G",
+    "tel": "గుర్జరి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106279",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurjeet",
+    "FLeng": "G",
+    "tel": "గుర్జీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106280",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Gurjinder",
+    "FLeng": "G",
+    "tel": "గర్జిండెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106281",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurka",
+    "FLeng": "G",
+    "tel": "ఘర్కా",
+    "FLtel": "ఘ"
+  },
+  {
+    "id": "106282",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurkiran",
+    "FLeng": "G",
+    "tel": "గురుకిరణ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106283",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurkirtan",
+    "FLeng": "G",
+    "tel": "గురికీర్తన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106284",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurlakhsmi",
+    "FLeng": "G",
+    "tel": "గుర్లాక్ష్మి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106285",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurlaxmi",
+    "FLeng": "G",
+    "tel": "గుర్లాష్మి",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106286",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurleen",
+    "FLeng": "G",
+    "tel": "గుర్లీన్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106287",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gurli",
+    "FLeng": "G",
+    "tel": "గుర్ల",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106288",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmail",
+    "FLeng": "G",
+    "tel": "గురమైల్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106289",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmander",
+    "FLeng": "G",
+    "tel": "గురుమందిర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106290",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmanpreet",
+    "FLeng": "G",
+    "tel": "గురుమాన్ప్రీత్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106291",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Gurmeeta",
+    "FLeng": "G",
+    "tel": "గురుమీట",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106292",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmehek",
+    "FLeng": "G",
+    "tel": "గురుమెహెక్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106293",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmeher",
+    "FLeng": "G",
+    "tel": "గుర్మీహెర్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106294",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmillie",
+    "FLeng": "G",
+    "tel": "గురుమిల్లియ",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106295",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurmithra",
+    "FLeng": "G",
+    "tel": "గుర్మీత్య్రా",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106296",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurnamaskar",
+    "FLeng": "G",
+    "tel": "గుర్నామస్కార్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106297",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurnav",
+    "FLeng": "G",
+    "tel": "గుర్నావ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106298",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurneesh",
+    "FLeng": "G",
+    "tel": "గుర్నీష్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "106299",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Gurneet",
+    "FLeng": "G",
+    "tel": "గుర్నీట్",
+    "FLtel": "గ"
+  }
+]

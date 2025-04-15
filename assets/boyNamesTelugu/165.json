@@ -1,0 +1,740 @@
+[
+  {
+    "id": "6030",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhishan",
+    "FLeng": "D",
+    "tel": "దిశా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6031",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhivakar",
+    "FLeng": "D",
+    "tel": "దివాకర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6032",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhivanit",
+    "FLeng": "D",
+    "tel": "దివ్యానిటీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6033",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhiveen",
+    "FLeng": "D",
+    "tel": "థివీం",
+    "FLtel": "థ"
+  },
+  {
+    "id": "6034",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhivyansh",
+    "FLeng": "D",
+    "tel": "దివ్యాన్స్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6035",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhiyaan",
+    "FLeng": "D",
+    "tel": "థియాన్",
+    "FLtel": "థ"
+  },
+  {
+    "id": "6036",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhonu",
+    "FLeng": "D",
+    "tel": "ధోని",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6037",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhoomravarna",
+    "FLeng": "D",
+    "tel": "ధూమ్రవర్ణ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6038",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhoop",
+    "FLeng": "D",
+    "tel": "ధూప్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6039",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhoraj",
+    "FLeng": "D",
+    "tel": "దొరజ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6040",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhore",
+    "FLeng": "D",
+    "tel": "దొరే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6041",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhridh",
+    "FLeng": "D",
+    "tel": "ధ్రిద్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6042",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhridhakarmaavu",
+    "FLeng": "D",
+    "tel": "ధ్రిదకర్మఅవు",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6043",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhridharathaasraya",
+    "FLeng": "D",
+    "tel": "ధ్రిధారతాశ్రయ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6044",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrish",
+    "FLeng": "D",
+    "tel": "ద్రిష్హ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6045",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrishat",
+    "FLeng": "D",
+    "tel": "ధరిషత్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6046",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrishay",
+    "FLeng": "D",
+    "tel": "ద్రిశాయ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6047",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrishnu",
+    "FLeng": "D",
+    "tel": "ధ్రిష్ణు",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6048",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhristadhyumna",
+    "FLeng": "D",
+    "tel": "ధ్రిష్టద్యుమ్న",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6049",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrit",
+    "FLeng": "D",
+    "tel": "ధ్రిట్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6050",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhritarastra",
+    "FLeng": "D",
+    "tel": "ధ్రితరాష్ట్ర",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6051",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhritil",
+    "FLeng": "D",
+    "tel": "ధ్రిటిల్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6052",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhritiman",
+    "FLeng": "D",
+    "tel": "ధ్రిటిమం",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6053",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhroneshwar",
+    "FLeng": "D",
+    "tel": "ద్రోణేశ్వర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6054",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrtarcis",
+    "FLeng": "D",
+    "tel": "ధృతరాసిస్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6055",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrtasena",
+    "FLeng": "D",
+    "tel": "ధృతసేన",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6056",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrtatman",
+    "FLeng": "D",
+    "tel": "ధృతాత్మాన్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6057",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrtimat",
+    "FLeng": "D",
+    "tel": "ధృతిమాట",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6058",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrtvan",
+    "FLeng": "D",
+    "tel": "ధృత్వాన్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6059",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruba",
+    "FLeng": "D",
+    "tel": "ధృబ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6060",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruddavrat",
+    "FLeng": "D",
+    "tel": "ధృద్దవ్రత్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6061",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruddavrata",
+    "FLeng": "D",
+    "tel": "ధృద్దవ్రత",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6062",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrumil",
+    "FLeng": "D",
+    "tel": "ద్రుమిల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6063",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrumit",
+    "FLeng": "D",
+    "tel": "ద్రుమిటీ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6064",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrunil",
+    "FLeng": "D",
+    "tel": "ధ్రునిల్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6065",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrupad",
+    "FLeng": "D",
+    "tel": "ద్రుపద్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6066",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrupal",
+    "FLeng": "D",
+    "tel": "ధ్రుపల్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6067",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrupat",
+    "FLeng": "D",
+    "tel": "ధ్రుపట్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6068",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrushil",
+    "FLeng": "D",
+    "tel": "దృషిల్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6069",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrushn",
+    "FLeng": "D",
+    "tel": "దృష్ణ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6070",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrushya",
+    "FLeng": "D",
+    "tel": "దృశ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6071",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrut",
+    "FLeng": "D",
+    "tel": "ధృతి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6072",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhrutav",
+    "FLeng": "D",
+    "tel": "ధృతావ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6073",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruthik",
+    "FLeng": "D",
+    "tel": "ధృతిక్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6074",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruv",
+    "FLeng": "D",
+    "tel": "ధృవ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6075",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvak",
+    "FLeng": "D",
+    "tel": "ధ్రువాక్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6076",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvaka",
+    "FLeng": "D",
+    "tel": "ధృవక",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6077",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruval",
+    "FLeng": "D",
+    "tel": "ధ్రువాల",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6078",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvam",
+    "FLeng": "D",
+    "tel": "ధృవం",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6079",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvan",
+    "FLeng": "D",
+    "tel": "ధృవం",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6080",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvansh",
+    "FLeng": "D",
+    "tel": "ధృవంశ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6081",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvaraj",
+    "FLeng": "D",
+    "tel": "ధృవరాజ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6082",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvasva",
+    "FLeng": "D",
+    "tel": "ధృవస్వ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6083",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvav",
+    "FLeng": "D",
+    "tel": "ధ్రువ్వ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6084",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruven",
+    "FLeng": "D",
+    "tel": "ధ్రువ్న్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6085",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvesh",
+    "FLeng": "D",
+    "tel": "ధ్రువ్స్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6086",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvik",
+    "FLeng": "D",
+    "tel": "ధృవీక",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6087",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvin",
+    "FLeng": "D",
+    "tel": "ధ్రువిన్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6088",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvish",
+    "FLeng": "D",
+    "tel": "ధ్రువిష్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6089",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvit",
+    "FLeng": "D",
+    "tel": "ధృవీత్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6090",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvpad",
+    "FLeng": "D",
+    "tel": "ధ్రువపడి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6091",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruvraj",
+    "FLeng": "D",
+    "tel": "ధృవరాజ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6092",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhruwaksh",
+    "FLeng": "D",
+    "tel": "ధృవక్ష",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6093",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dhu-L-Jalali",
+    "FLeng": "D",
+    "tel": "దు-ల-జలాలు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6094",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Dhul",
+    "FLeng": "D",
+    "tel": "ధూల్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6095",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhula",
+    "FLeng": "D",
+    "tel": "దుల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6096",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhulipala",
+    "FLeng": "D",
+    "tel": "ధూళిపాళ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6097",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhumal",
+    "FLeng": "D",
+    "tel": "ధుమాళ్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6098",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhumini",
+    "FLeng": "D",
+    "tel": "దుమిని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6099",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhumra",
+    "FLeng": "D",
+    "tel": "ధూమ్ర",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6100",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhumraksha",
+    "FLeng": "D",
+    "tel": "ధూమ్రాక్ష",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6101",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhumrasva",
+    "FLeng": "D",
+    "tel": "ధూమ్రశ్వ",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6102",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhuna",
+    "FLeng": "D",
+    "tel": "దున",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6103",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhundhi",
+    "FLeng": "D",
+    "tel": "దుంది",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6104",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhundumat",
+    "FLeng": "D",
+    "tel": "దుందుమాట",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6105",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhunun",
+    "FLeng": "D",
+    "tel": "దునుం",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6106",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhupa",
+    "FLeng": "D",
+    "tel": "ధూప",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6107",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhupala",
+    "FLeng": "D",
+    "tel": "ధూపాల",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6108",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhurai",
+    "FLeng": "D",
+    "tel": "దురై",
+    "FLtel": "ద"
+  },
+  {
+    "id": "6109",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhureen",
+    "FLeng": "D",
+    "tel": "ధురీన్",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6110",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhurjati",
+    "FLeng": "D",
+    "tel": "ధూర్జటి",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "6111",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Dhurkaram",
+    "FLeng": "D",
+    "tel": "దురుకారం",
+    "FLtel": "ద"
+  }
+]

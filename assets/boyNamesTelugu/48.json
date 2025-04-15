@@ -1,0 +1,515 @@
+[
+  {
+    "id": "36113",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anahath",
+    "FLeng": "A",
+    "tel": "అనాహత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36114",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anak",
+    "FLeng": "A",
+    "tel": "అనేక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36115",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anakh",
+    "FLeng": "A",
+    "tel": "నానక్",
+    "FLtel": "న"
+  },
+  {
+    "id": "36116",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Anakin",
+    "FLeng": "A",
+    "tel": "అనాకిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36117",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "anakin",
+    "FLeng": "a",
+    "tel": "అనాకిన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36118",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "anakoni",
+    "FLeng": "a",
+    "tel": "అనుకోని",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36119",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anakul",
+    "FLeng": "A",
+    "tel": "అంకుల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36120",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Analadi",
+    "FLeng": "A",
+    "tel": "అనాలది",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36121",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Analaksha",
+    "FLeng": "A",
+    "tel": "అనలాక్ష",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36122",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anam",
+    "FLeng": "A",
+    "tel": "ఆనం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36123",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anamay",
+    "FLeng": "A",
+    "tel": "మనమే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "36124",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anamaya",
+    "FLeng": "A",
+    "tel": "అన్నయ్య",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36125",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anami",
+    "FLeng": "A",
+    "tel": "అనామి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36126",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Anamul",
+    "FLeng": "A",
+    "tel": "అనముల్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36127",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "anan",
+    "FLeng": "a",
+    "tel": "ఆనం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36128",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ananada",
+    "FLeng": "A",
+    "tel": "ఆనంద",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36129",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananahad",
+    "FLeng": "A",
+    "tel": "అఞ్ఞహాడ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36130",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananay",
+    "FLeng": "A",
+    "tel": "అణ్నాయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36131",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anand",
+    "FLeng": "A",
+    "tel": "ఆనంద్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36132",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "anand",
+    "FLeng": "a",
+    "tel": "ఆనంద్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36133",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananda - joy",
+    "FLeng": "A",
+    "tel": "ఆనంద - జాయ్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36134",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandagiri",
+    "FLeng": "A",
+    "tel": "ఆనందగిరి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36135",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandamay",
+    "FLeng": "A",
+    "tel": "ఆనందమే",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36136",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandamaya",
+    "FLeng": "A",
+    "tel": "ఆనందమయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36137",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandan",
+    "FLeng": "A",
+    "tel": "ఆనందం",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36138",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandashankar",
+    "FLeng": "A",
+    "tel": "ఆనందశంకర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36139",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandhu",
+    "FLeng": "A",
+    "tel": "ఆనందు",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36140",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandji",
+    "FLeng": "A",
+    "tel": "ఆనందజీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36141",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anandjot",
+    "FLeng": "A",
+    "tel": "అనాన్డజోత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36142",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anandleen",
+    "FLeng": "A",
+    "tel": "ఆనందలీన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36143",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandmohan",
+    "FLeng": "A",
+    "tel": "ఆనందమోహన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36144",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandmoorti",
+    "FLeng": "A",
+    "tel": "ఆనందమూర్తి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36145",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anando",
+    "FLeng": "A",
+    "tel": "ఆనందో",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36146",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anandroop",
+    "FLeng": "A",
+    "tel": "ఆనందరూప్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36147",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandsagar",
+    "FLeng": "A",
+    "tel": "ఆనందసాగర్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36148",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anandsar",
+    "FLeng": "A",
+    "tel": "ఆనందసార్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36149",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Anandu",
+    "FLeng": "A",
+    "tel": "అనాన్డు",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36150",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anandvardhan",
+    "FLeng": "A",
+    "tel": "ఆనందవర్ధన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "36151",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Anane",
+    "FLeng": "A",
+    "tel": "అఞ్ఞే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36152",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anang",
+    "FLeng": "A",
+    "tel": "అనంగ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36153",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananga",
+    "FLeng": "A",
+    "tel": "హీనంగా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "36154",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ananias",
+    "FLeng": "A",
+    "tel": "అనానిమస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36155",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ananias",
+    "FLeng": "a",
+    "tel": "అనానిమస్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36156",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananinay",
+    "FLeng": "A",
+    "tel": "అనానినే",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36157",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananmay",
+    "FLeng": "A",
+    "tel": "అఞ్ఞమయ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36158",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ananmaya",
+    "FLeng": "A",
+    "tel": "అఞ్ఞమయ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36159",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anant",
+    "FLeng": "A",
+    "tel": "అనంత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36160",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantachidrupamayam",
+    "FLeng": "A",
+    "tel": "అనన్తచిద్రూపమయం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36161",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantadrishti",
+    "FLeng": "A",
+    "tel": "అనంతాద్రిష్టి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36162",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantaguna",
+    "FLeng": "A",
+    "tel": "అనంతగునా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36163",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantajeet",
+    "FLeng": "A",
+    "tel": "అనంతజీత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36164",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantajit",
+    "FLeng": "A",
+    "tel": "అనంతజిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36165",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anantar",
+    "FLeng": "A",
+    "tel": "అనంతర",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36166",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantaram",
+    "FLeng": "A",
+    "tel": "అనంతరం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36167",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantaranga",
+    "FLeng": "A",
+    "tel": "అనంతరంగా",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36168",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Anantarjot",
+    "FLeng": "A",
+    "tel": "అనన్తరజోత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "36169",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Anantbir",
+    "FLeng": "A",
+    "tel": "అనన్తబీర్",
+    "FLtel": "అ"
+  }
+]

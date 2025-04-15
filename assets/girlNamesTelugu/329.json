@@ -1,0 +1,821 @@
+[
+  {
+    "id": "122409",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ortrude",
+    "FLeng": "O",
+    "tel": "ఒర్త్రుడే",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122410",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Orugle",
+    "FLeng": "O",
+    "tel": "ఓరుగలే",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122411",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Orundhoti",
+    "FLeng": "O",
+    "tel": "ఒరుందోటి",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122412",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Orva",
+    "FLeng": "O",
+    "tel": "ఓర్వ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122413",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Orvalee",
+    "FLeng": "O",
+    "tel": "ఓర్వలేదు",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122414",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Orvokki",
+    "FLeng": "O",
+    "tel": "ఓర్వాక్కి",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122415",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Orwiya",
+    "FLeng": "O",
+    "tel": "వుర్వియా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122416",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Orynko",
+    "FLeng": "O",
+    "tel": "ఉరికొ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "122417",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Orzala",
+    "FLeng": "O",
+    "tel": "వురిజాల",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122418",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osa",
+    "FLeng": "O",
+    "tel": "ఓశ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122419",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osana",
+    "FLeng": "O",
+    "tel": "ఆసన",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122420",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osanna",
+    "FLeng": "O",
+    "tel": "ఆసన్న",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122421",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Osarogie",
+    "FLeng": "O",
+    "tel": "ఓసారోగియే",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122422",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osburga",
+    "FLeng": "O",
+    "tel": "ఒస్బుర్గ",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122423",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osgifu",
+    "FLeng": "O",
+    "tel": "కొస్గిఫు",
+    "FLtel": "క"
+  },
+  {
+    "id": "122424",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Osha",
+    "FLeng": "O",
+    "tel": "ఆశ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122425",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Oshana",
+    "FLeng": "O",
+    "tel": "పోషణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "122426",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Oshee",
+    "FLeng": "O",
+    "tel": "ఆశీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122427",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Oshma",
+    "FLeng": "O",
+    "tel": "ఆశ్మ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122428",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Oshmi",
+    "FLeng": "O",
+    "tel": "ఆష్మి",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122429",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Oshopriya",
+    "FLeng": "O",
+    "tel": "ఓషోప్రియ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122430",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osiana",
+    "FLeng": "O",
+    "tel": "ఓషియానా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122431",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osith",
+    "FLeng": "O",
+    "tel": "అసిత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "122432",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ositha",
+    "FLeng": "O",
+    "tel": "అసిత",
+    "FLtel": "అ"
+  },
+  {
+    "id": "122433",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Osk",
+    "FLeng": "O",
+    "tel": "ఆస్క్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122434",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osla",
+    "FLeng": "O",
+    "tel": "ఒస్లా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122435",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Oslafa",
+    "FLeng": "O",
+    "tel": "ఒస్లాఫా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122436",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Oslo",
+    "FLeng": "O",
+    "tel": "ఓస్లో",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122437",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Oslow",
+    "FLeng": "O",
+    "tel": "ఓసలౌ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122438",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Osman",
+    "FLeng": "O",
+    "tel": "ఉస్మాన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "122439",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Osoka",
+    "FLeng": "O",
+    "tel": "అశోక",
+    "FLtel": "అ"
+  },
+  {
+    "id": "122440",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ossenna",
+    "FLeng": "O",
+    "tel": "ఒస్సేన్న",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122441",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ossi",
+    "FLeng": "O",
+    "tel": "యస్సి",
+    "FLtel": "య"
+  },
+  {
+    "id": "122442",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ostara",
+    "FLeng": "O",
+    "tel": "వస్తారా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122443",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osthryd",
+    "FLeng": "O",
+    "tel": "ఓస్త్రైడ్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122444",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Osthryth",
+    "FLeng": "O",
+    "tel": "ఓస్త్రైత",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122445",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ostryd",
+    "FLeng": "O",
+    "tel": "ఓస్ట్రీడ్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122446",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Otelia",
+    "FLeng": "O",
+    "tel": "ఒతేలియా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122447",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Otha",
+    "FLeng": "O",
+    "tel": "కొత్త",
+    "FLtel": "క"
+  },
+  {
+    "id": "122448",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Othelia",
+    "FLeng": "O",
+    "tel": "దళిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "122449",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Otieno",
+    "FLeng": "O",
+    "tel": "ఓషనో",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122450",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Otilia",
+    "FLeng": "O",
+    "tel": "ఓటిలియా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122451",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Otilie",
+    "FLeng": "O",
+    "tel": "ఓటీలై",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122452",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Otka",
+    "FLeng": "O",
+    "tel": "యోత్క",
+    "FLtel": "య"
+  },
+  {
+    "id": "122453",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Otta",
+    "FLeng": "O",
+    "tel": "కొత్త",
+    "FLtel": "క"
+  },
+  {
+    "id": "122454",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottaline",
+    "FLeng": "O",
+    "tel": "కొత్తలోనే",
+    "FLtel": "క"
+  },
+  {
+    "id": "122455",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ottava",
+    "FLeng": "o",
+    "tel": "ఒట్టవ",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122456",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottavia",
+    "FLeng": "O",
+    "tel": "వుత్తవిగా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122457",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottelien",
+    "FLeng": "O",
+    "tel": "ఒత్తెలైన్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122458",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "otthild",
+    "FLeng": "o",
+    "tel": "వుట్ఠిల్డ్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122459",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Otthilda",
+    "FLeng": "O",
+    "tel": "వుట్ఠహిల్డా",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122460",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Otthilde",
+    "FLeng": "O",
+    "tel": "ఒత్తిల్దె",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122461",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottie",
+    "FLeng": "O",
+    "tel": "ఒట్టియే",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122462",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ottila",
+    "FLeng": "O",
+    "tel": "ఒత్తిళ్ల",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122463",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottilia",
+    "FLeng": "O",
+    "tel": "ఒత్తిలియా",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122464",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottilie",
+    "FLeng": "O",
+    "tel": "ఒట్టులై",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122465",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ottiline",
+    "FLeng": "O",
+    "tel": "ఒట్టులై",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122466",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ottokar",
+    "FLeng": "O",
+    "tel": "ఒట్టోకర్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122467",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ottoline",
+    "FLeng": "o",
+    "tel": "ఒట్టోలీనే",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122468",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Otway",
+    "FLeng": "O",
+    "tel": "ఓటువే",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122469",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Otylia",
+    "FLeng": "O",
+    "tel": "ఓటైలిల్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122470",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ouarda",
+    "FLeng": "O",
+    "tel": "బురద",
+    "FLtel": "బ"
+  },
+  {
+    "id": "122471",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Oudsiyya",
+    "FLeng": "O",
+    "tel": "ఔడ్సియ్య",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122472",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ouida",
+    "FLeng": "O",
+    "tel": "ఔయిదా",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122473",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ourania",
+    "FLeng": "O",
+    "tel": "ఔరని",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122474",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ourdolat",
+    "FLeng": "O",
+    "tel": "ఔర్డాల్ట్",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122475",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ourratulain",
+    "FLeng": "O",
+    "tel": "ఔఱతులైన",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122476",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Oursoula",
+    "FLeng": "O",
+    "tel": "ఔర్వసౌలా",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122477",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ova",
+    "FLeng": "O",
+    "tel": "ోవ",
+    "FLtel": "ో"
+  },
+  {
+    "id": "122478",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ovee",
+    "FLeng": "O",
+    "tel": "ఓవీ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122479",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ovelle",
+    "FLeng": "O",
+    "tel": "వల్లే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122480",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ovia",
+    "FLeng": "O",
+    "tel": "ఓవియా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122481",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ovidiu",
+    "FLeng": "O",
+    "tel": "ఓవిడియూ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122482",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Oviya",
+    "FLeng": "O",
+    "tel": "ఓవియా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122483",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "OviyaKodi",
+    "FLeng": "O",
+    "tel": "ఒవియాకుడి",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122484",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ovya",
+    "FLeng": "O",
+    "tel": "ఓవియా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122485",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ovyaa",
+    "FLeng": "O",
+    "tel": "ఓవియా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122486",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Owaissa",
+    "FLeng": "O",
+    "tel": "ఓరిస్సా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122487",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Owena",
+    "FLeng": "O",
+    "tel": "వన",
+    "FLtel": "వ"
+  },
+  {
+    "id": "122488",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Owi",
+    "FLeng": "O",
+    "tel": "అవి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "122489",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ownah",
+    "FLeng": "O",
+    "tel": "ఔనః",
+    "FLtel": "ఔ"
+  },
+  {
+    "id": "122490",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Oxana",
+    "FLeng": "O",
+    "tel": "ఆక్సన",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122491",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Oya",
+    "FLeng": "O",
+    "tel": "ఆయా",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "122492",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "oydis",
+    "FLeng": "o",
+    "tel": "ఒయాసిస్",
+    "FLtel": "ఒ"
+  },
+  {
+    "id": "122493",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Oyshee",
+    "FLeng": "O",
+    "tel": "ఓయిషీ",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122494",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ozaine",
+    "FLeng": "O",
+    "tel": "ఓజాయిన్",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122495",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ozanna",
+    "FLeng": "O",
+    "tel": "యోజనా",
+    "FLtel": "య"
+  },
+  {
+    "id": "122496",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ozanne",
+    "FLeng": "O",
+    "tel": "ఓజాన్నే",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122497",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ozara",
+    "FLeng": "o",
+    "tel": "ఓజారా",
+    "FLtel": "ఓ"
+  },
+  {
+    "id": "122498",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ozella",
+    "FLeng": "O",
+    "tel": "జల్లా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "122499",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Ozette",
+    "FLeng": "O",
+    "tel": "జట్టే",
+    "FLtel": "జ"
+  }
+]

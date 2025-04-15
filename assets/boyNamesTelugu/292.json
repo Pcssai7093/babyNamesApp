@@ -1,0 +1,884 @@
+[
+  {
+    "id": "18144",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jord",
+    "FLeng": "J",
+    "tel": "జోర్డ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18145",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jordan",
+    "FLeng": "J",
+    "tel": "జోర్డాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18146",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jordan-3",
+    "FLeng": "j",
+    "tel": "జోర్డాన్-త్రీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18147",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jordanka",
+    "FLeng": "J",
+    "tel": "జోర్డాన్క",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18148",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jordanna",
+    "FLeng": "J",
+    "tel": "జోర్డాన్న",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18149",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jordao",
+    "FLeng": "j",
+    "tel": "జోర్డావు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18150",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorda£o",
+    "FLeng": "J",
+    "tel": "జోర్డా£ఓ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18151",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jordell",
+    "FLeng": "J",
+    "tel": "జోర్డ్ల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18152",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jorden",
+    "FLeng": "J",
+    "tel": "జొర్డెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18153",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jorden",
+    "FLeng": "j",
+    "tel": "జొర్డెన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18154",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jordi",
+    "FLeng": "J",
+    "tel": "జార్డి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18155",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jordin",
+    "FLeng": "J",
+    "tel": "జార్డిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18156",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jordon",
+    "FLeng": "J",
+    "tel": "జోర్డాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18157",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jordon",
+    "FLeng": "j",
+    "tel": "జోర్డాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18158",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jordy",
+    "FLeng": "J",
+    "tel": "జోర్ఢ్య",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18159",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jordyn",
+    "FLeng": "J",
+    "tel": "జోర్ఢ్యం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18160",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jordyn-2",
+    "FLeng": "j",
+    "tel": "జోర్ఢ్యం-౨",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18161",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorel",
+    "FLeng": "J",
+    "tel": "జోరెల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18162",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorell",
+    "FLeng": "J",
+    "tel": "జోరెల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18163",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorelle",
+    "FLeng": "J",
+    "tel": "జోరెళ్ళే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18164",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joren",
+    "FLeng": "J",
+    "tel": "జోరేనా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18165",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorey",
+    "FLeng": "J",
+    "tel": "జోరేయ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18166",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorg",
+    "FLeng": "J",
+    "tel": "జార్జ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18167",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jorg",
+    "FLeng": "j",
+    "tel": "జార్జ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18168",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorge",
+    "FLeng": "J",
+    "tel": "జార్జి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18169",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorgen",
+    "FLeng": "J",
+    "tel": "జార్జిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18170",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jorgen",
+    "FLeng": "j",
+    "tel": "జార్జిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18171",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jorginho",
+    "FLeng": "j",
+    "tel": "జొరఁగింహో",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18172",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jori",
+    "FLeng": "J",
+    "tel": "జారీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18173",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorian",
+    "FLeng": "J",
+    "tel": "జోరియాన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18174",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorik",
+    "FLeng": "J",
+    "tel": "జోరిక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18175",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Jorin",
+    "FLeng": "J",
+    "tel": "జారిన",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18176",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Joris",
+    "FLeng": "J",
+    "tel": "జోరీస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18177",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorma",
+    "FLeng": "J",
+    "tel": "జోర్మ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18178",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorn",
+    "FLeng": "J",
+    "tel": "జొరఁ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18179",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorrel",
+    "FLeng": "J",
+    "tel": "జోరెల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18180",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorrell",
+    "FLeng": "J",
+    "tel": "జోరెల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18181",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorrin",
+    "FLeng": "J",
+    "tel": "జాఱిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18182",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jorrin",
+    "FLeng": "j",
+    "tel": "జాఱిన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18183",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorun",
+    "FLeng": "J",
+    "tel": "జోరును",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18184",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorunn",
+    "FLeng": "J",
+    "tel": "జోరున్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18185",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jorvik",
+    "FLeng": "J",
+    "tel": "జొర్విక్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18186",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jory",
+    "FLeng": "J",
+    "tel": "జారీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18187",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jorya",
+    "FLeng": "J",
+    "tel": "జొర్యా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18188",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jos",
+    "FLeng": "J",
+    "tel": "జొస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18189",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josa",
+    "FLeng": "J",
+    "tel": "జోస",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18190",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josae",
+    "FLeng": "J",
+    "tel": "జోసే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18191",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josafat",
+    "FLeng": "J",
+    "tel": "జోసెఫ్ట్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18192",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Jose",
+    "FLeng": "J",
+    "tel": "జోస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18193",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jose",
+    "FLeng": "j",
+    "tel": "జోస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18194",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jose Luis",
+    "FLeng": "J",
+    "tel": "జోస్ లూయిస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18195",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jose-luis",
+    "FLeng": "J",
+    "tel": "జోస్-లూయిస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18196",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josea",
+    "FLeng": "J",
+    "tel": "జోసేత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18197",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joseantonio",
+    "FLeng": "J",
+    "tel": "జోసెఅంతోనీవు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18198",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joseba",
+    "FLeng": "J",
+    "tel": "జోసెబా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18199",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Josef",
+    "FLeng": "J",
+    "tel": "జోసెఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18200",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joselito",
+    "FLeng": "J",
+    "tel": "జోసేలితో",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18201",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Joseluis",
+    "FLeng": "J",
+    "tel": "జోసెలుఇస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18202",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josemaria",
+    "FLeng": "J",
+    "tel": "జోసెమారీయా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18203",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josep",
+    "FLeng": "J",
+    "tel": "జోసెఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18204",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joseph",
+    "FLeng": "J",
+    "tel": "జోసెఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18205",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "joseph",
+    "FLeng": "j",
+    "tel": "జోసెఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18206",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josephus",
+    "FLeng": "J",
+    "tel": "జోసెఫ్స్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18207",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "joses",
+    "FLeng": "j",
+    "tel": "జోసెస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18208",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Josh",
+    "FLeng": "J",
+    "tel": "జోష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18209",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "josh",
+    "FLeng": "j",
+    "tel": "జోష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18210",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Josha",
+    "FLeng": "J",
+    "tel": "జోష",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18211",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshal",
+    "FLeng": "J",
+    "tel": "జోషల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18212",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Joshef Ali",
+    "FLeng": "J",
+    "tel": "జోషేప్ అలీ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18213",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshi",
+    "FLeng": "J",
+    "tel": "జోషి",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18214",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshil",
+    "FLeng": "J",
+    "tel": "జోషిల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18215",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshit",
+    "FLeng": "J",
+    "tel": "జోషీట్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18216",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshith",
+    "FLeng": "J",
+    "tel": "జోషిత్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18217",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Joshka",
+    "FLeng": "J",
+    "tel": "జొష్క",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18218",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshnav",
+    "FLeng": "J",
+    "tel": "జోష్నావ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18219",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshua",
+    "FLeng": "J",
+    "tel": "జాషువు",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18220",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joshuah",
+    "FLeng": "J",
+    "tel": "జోషుఅహ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18221",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joshue",
+    "FLeng": "J",
+    "tel": "జోషులే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18222",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Joshva",
+    "FLeng": "J",
+    "tel": "జాషువా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18223",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joshwa",
+    "FLeng": "J",
+    "tel": "జోష్వా",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18224",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joshy",
+    "FLeng": "J",
+    "tel": "జోషే",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18225",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Josiah",
+    "FLeng": "J",
+    "tel": "జోసయ్య",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18226",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "josiah",
+    "FLeng": "j",
+    "tel": "జోసయ్య",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18227",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josian",
+    "FLeng": "J",
+    "tel": "జోసియన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18228",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josias",
+    "FLeng": "J",
+    "tel": "జోసియస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18229",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josif",
+    "FLeng": "J",
+    "tel": "జోషిఫ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18230",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Josip",
+    "FLeng": "J",
+    "tel": "జోషిప్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18231",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "joska",
+    "FLeng": "j",
+    "tel": "జొస్క",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18232",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Joss",
+    "FLeng": "J",
+    "tel": "జోస్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18233",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jost",
+    "FLeng": "J",
+    "tel": "జోష్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18234",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josua",
+    "FLeng": "J",
+    "tel": "జాజుల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18235",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Josue",
+    "FLeng": "J",
+    "tel": "జోసుఏ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18236",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "josue",
+    "FLeng": "j",
+    "tel": "జోసుఏ",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18237",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "josé",
+    "FLeng": "j",
+    "tel": "జొస్é",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18238",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Jotham",
+    "FLeng": "J",
+    "tel": "జాతం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18239",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "jothan",
+    "FLeng": "j",
+    "tel": "జాతం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18240",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Jothiraj",
+    "FLeng": "J",
+    "tel": "జోతిరాజ్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "18241",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Jotipal",
+    "FLeng": "J",
+    "tel": "జోటిపల్",
+    "FLtel": "జ"
+  }
+]

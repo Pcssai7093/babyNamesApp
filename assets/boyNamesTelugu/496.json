@@ -1,0 +1,740 @@
+[
+  {
+    "id": "37580",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Selvasundaram",
+    "FLeng": "S",
+    "tel": "సెల్వసుందరం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37581",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Selvathurai",
+    "FLeng": "S",
+    "tel": "సెల్వతురై",
+    "FLtel": "స"
+  },
+  {
+    "id": "37582",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Selven",
+    "FLeng": "S",
+    "tel": "సెలవెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37583",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Selver",
+    "FLeng": "S",
+    "tel": "సిల్వర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37584",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Selvyn",
+    "FLeng": "S",
+    "tel": "సెల్ప్య్న",
+    "FLtel": "స"
+  },
+  {
+    "id": "37585",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Selwin",
+    "FLeng": "S",
+    "tel": "సెలవిం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37586",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Selwine",
+    "FLeng": "S",
+    "tel": "సెలవినే",
+    "FLtel": "స"
+  },
+  {
+    "id": "37587",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Selwinn",
+    "FLeng": "S",
+    "tel": "సెలవిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37588",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Sem",
+    "FLeng": "S",
+    "tel": "సేమ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37589",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Semaj",
+    "FLeng": "S",
+    "tel": "సేమాజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37590",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Semal",
+    "FLeng": "S",
+    "tel": "జమాల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37591",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sembiyan",
+    "FLeng": "S",
+    "tel": "సెంబియన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37592",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Semih",
+    "FLeng": "S",
+    "tel": "సెమిహ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37593",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "semih",
+    "FLeng": "s",
+    "tel": "సెమిహ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37594",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Semjon",
+    "FLeng": "S",
+    "tel": "సెంజోను",
+    "FLtel": "స"
+  },
+  {
+    "id": "37595",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Semmal",
+    "FLeng": "S",
+    "tel": "సెమ్మల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37596",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Semuel",
+    "FLeng": "S",
+    "tel": "జముల్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37597",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sena",
+    "FLeng": "S",
+    "tel": "సేన",
+    "FLtel": "స"
+  },
+  {
+    "id": "37598",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senaany",
+    "FLeng": "S",
+    "tel": "సేనాని",
+    "FLtel": "స"
+  },
+  {
+    "id": "37599",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senaculus",
+    "FLeng": "S",
+    "tel": "సేనాక్యూల్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37600",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senacvs",
+    "FLeng": "S",
+    "tel": "సేనాసీవ్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37601",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Senadin",
+    "FLeng": "S",
+    "tel": "సేనాదిం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37602",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senajit",
+    "FLeng": "S",
+    "tel": "సేనజిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senan",
+    "FLeng": "S",
+    "tel": "జనం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37604",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "senan",
+    "FLeng": "s",
+    "tel": "జనం",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37605",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senani",
+    "FLeng": "S",
+    "tel": "సేనాని",
+    "FLtel": "స"
+  },
+  {
+    "id": "37606",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senapati",
+    "FLeng": "S",
+    "tel": "సేనాపతి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37607",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Senay",
+    "FLeng": "S",
+    "tel": "సినాయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37608",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sendan",
+    "FLeng": "S",
+    "tel": "సెందన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37609",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sender",
+    "FLeng": "s",
+    "tel": "శెందెర్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37610",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sendhil",
+    "FLeng": "S",
+    "tel": "సెంథిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37611",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sendhilnathan",
+    "FLeng": "S",
+    "tel": "సెంధిల్నాథన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37612",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sendhilvel",
+    "FLeng": "S",
+    "tel": "సెంధిల్వెల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37613",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sendooran",
+    "FLeng": "S",
+    "tel": "సెందూరం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37614",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Seneca",
+    "FLeng": "S",
+    "tel": "సేనేక",
+    "FLtel": "స"
+  },
+  {
+    "id": "37615",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senehauz",
+    "FLeng": "S",
+    "tel": "సెనేహౌజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37616",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senemagli",
+    "FLeng": "S",
+    "tel": "సినెమాగ్లీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senemaglos",
+    "FLeng": "S",
+    "tel": "సినెమాగ్లా",
+    "FLtel": "స"
+  },
+  {
+    "id": "37618",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senen",
+    "FLeng": "S",
+    "tel": "సెనెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37619",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sener",
+    "FLeng": "S",
+    "tel": "సెనేర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37620",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sengannan",
+    "FLeng": "S",
+    "tel": "సెంగన్నం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37621",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sengodan",
+    "FLeng": "S",
+    "tel": "సెంగోడం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37622",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senguttuvan",
+    "FLeng": "S",
+    "tel": "సెంగుత్తువం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Seni",
+    "FLeng": "S",
+    "tel": "సినీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37624",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senicla",
+    "FLeng": "S",
+    "tel": "సేనిక్లా",
+    "FLtel": "స"
+  },
+  {
+    "id": "37625",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senil",
+    "FLeng": "S",
+    "tel": "సేల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37626",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senkadir",
+    "FLeng": "S",
+    "tel": "సెంకదిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37627",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senmal",
+    "FLeng": "S",
+    "tel": "జన్మల",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sennet",
+    "FLeng": "S",
+    "tel": "సెనెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37629",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sennett",
+    "FLeng": "s",
+    "tel": "సెనెట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senni",
+    "FLeng": "S",
+    "tel": "సెన్ని",
+    "FLtel": "స"
+  },
+  {
+    "id": "37631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sennianus",
+    "FLeng": "S",
+    "tel": "సెన్నిఅనుస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37632",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sennimalai",
+    "FLeng": "S",
+    "tel": "సినిమాలై",
+    "FLtel": "స"
+  },
+  {
+    "id": "37633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senomagli",
+    "FLeng": "S",
+    "tel": "సెనోమఙ్గలి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senomaglos",
+    "FLeng": "S",
+    "tel": "సెనోమాగ్లా",
+    "FLtel": "స"
+  },
+  {
+    "id": "37635",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senorix",
+    "FLeng": "S",
+    "tel": "సెనోరిస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37636",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sens",
+    "FLeng": "S",
+    "tel": "సెన్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37637",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Senta",
+    "FLeng": "S",
+    "tel": "సెంట",
+    "FLtel": "స"
+  },
+  {
+    "id": "37638",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sente",
+    "FLeng": "S",
+    "tel": "సెంట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37639",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senthamarai",
+    "FLeng": "S",
+    "tel": "సేంతామరై",
+    "FLtel": "స"
+  },
+  {
+    "id": "37640",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senthan",
+    "FLeng": "S",
+    "tel": "సేంతం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37641",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senthil",
+    "FLeng": "S",
+    "tel": "సెంథిల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37642",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senthil Kumar",
+    "FLeng": "S",
+    "tel": "సెంథిల్ కుమార్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37643",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Senthur",
+    "FLeng": "S",
+    "tel": "జన్తుర్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37644",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sentraille",
+    "FLeng": "S",
+    "tel": "సెంట్రిల్లె",
+    "FLtel": "స"
+  },
+  {
+    "id": "37645",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sentwine",
+    "FLeng": "S",
+    "tel": "సెన్త్వినే",
+    "FLtel": "స"
+  },
+  {
+    "id": "37646",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "seoc",
+    "FLeng": "s",
+    "tel": "సేవక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37647",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Seofeca",
+    "FLeng": "S",
+    "tel": "సెయోఫికే",
+    "FLtel": "స"
+  },
+  {
+    "id": "37648",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Seok",
+    "FLeng": "S",
+    "tel": "సేవక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37649",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Seoras",
+    "FLeng": "S",
+    "tel": "సేవరస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37650",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "seoras",
+    "FLeng": "s",
+    "tel": "సేవరస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37651",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sepi",
+    "FLeng": "S",
+    "tel": "సీపీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37652",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sepp",
+    "FLeng": "S",
+    "tel": "సేపు",
+    "FLtel": "స"
+  },
+  {
+    "id": "37653",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "seppo",
+    "FLeng": "s",
+    "tel": "సెప్పొ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37654",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Septimus",
+    "FLeng": "S",
+    "tel": "సెప్టిమస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37655",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "septimus",
+    "FLeng": "s",
+    "tel": "సెప్టిమస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37656",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Serafim",
+    "FLeng": "S",
+    "tel": "సెరాఫిం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37657",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Serafino",
+    "FLeng": "S",
+    "tel": "సెరాఫింవు",
+    "FLtel": "స"
+  },
+  {
+    "id": "37658",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "serafino",
+    "FLeng": "s",
+    "tel": "సెరాఫింవు",
+    "FLtel": "స"
+  },
+  {
+    "id": "37659",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Seraiah",
+    "FLeng": "S",
+    "tel": "సురైః",
+    "FLtel": "స"
+  },
+  {
+    "id": "37660",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "seraiah",
+    "FLeng": "s",
+    "tel": "సురైః",
+    "FLtel": "స"
+  },
+  {
+    "id": "37661",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Seraph",
+    "FLeng": "S",
+    "tel": "సిరఫ్",
+    "FLtel": "స"
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "id": "31202",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pepijn",
+    "FLeng": "p",
+    "tel": "పేపిజెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31203",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pepin",
+    "FLeng": "P",
+    "tel": "పెపిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31204",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pepin",
+    "FLeng": "p",
+    "tel": "పెపిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31205",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pepito",
+    "FLeng": "P",
+    "tel": "పీపీతో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31206",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pepper",
+    "FLeng": "P",
+    "tel": "పెప్పర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31207",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peppin",
+    "FLeng": "P",
+    "tel": "పెప్పీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31208",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peppino",
+    "FLeng": "P",
+    "tel": "పెప్పినో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31209",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Per",
+    "FLeng": "P",
+    "tel": "పేర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31210",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "per",
+    "FLeng": "p",
+    "tel": "పేర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31211",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Peralagan",
+    "FLeng": "P",
+    "tel": "పెరలాగాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31212",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Peran",
+    "FLeng": "P",
+    "tel": "పేరం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31213",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perarasan",
+    "FLeng": "P",
+    "tel": "పేరరసం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31214",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perarasi",
+    "FLeng": "P",
+    "tel": "పెరటాశి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31215",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Percard",
+    "FLeng": "P",
+    "tel": "పెర్చర్డ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31216",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Perce",
+    "FLeng": "P",
+    "tel": "పేర్చే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31217",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perceval",
+    "FLeng": "P",
+    "tel": "పేర్చేవాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31218",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Percey",
+    "FLeng": "P",
+    "tel": "పేర్చేయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31219",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Percia",
+    "FLeng": "P",
+    "tel": "పురుష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31220",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Percival",
+    "FLeng": "P",
+    "tel": "పర్సివాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31221",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "percival",
+    "FLeng": "p",
+    "tel": "పర్సివాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31222",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Percivale",
+    "FLeng": "P",
+    "tel": "పర్సివాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31223",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Percy",
+    "FLeng": "P",
+    "tel": "పెర్సీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31224",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "percy",
+    "FLeng": "p",
+    "tel": "పెర్సీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31225",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perdido",
+    "FLeng": "p",
+    "tel": "పేరడిదో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31226",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Perdikkas",
+    "FLeng": "P",
+    "tel": "పేరడిక్కాస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31227",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pere",
+    "FLeng": "P",
+    "tel": "పేరే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31228",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peredur",
+    "FLeng": "P",
+    "tel": "పేరెదురు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31229",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peregrin",
+    "FLeng": "P",
+    "tel": "పెర్గ్రీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31230",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perekin",
+    "FLeng": "P",
+    "tel": "పేరేకిం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31231",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perenis",
+    "FLeng": "P",
+    "tel": "పేరెన్నిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31232",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perfecto",
+    "FLeng": "p",
+    "tel": "పర్ఫెక్టో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31233",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perhonen",
+    "FLeng": "p",
+    "tel": "పెర్హోనేం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31234",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Peri",
+    "FLeng": "P",
+    "tel": "పెరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31235",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pericles",
+    "FLeng": "P",
+    "tel": "పెరికిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31236",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pericles",
+    "FLeng": "p",
+    "tel": "పెరికిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31237",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perico",
+    "FLeng": "P",
+    "tel": "పెరికా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31238",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perico",
+    "FLeng": "p",
+    "tel": "పెరికా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31239",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perimones",
+    "FLeng": "P",
+    "tel": "పెరిమోనిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31240",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perinbam",
+    "FLeng": "P",
+    "tel": "పేరంభం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31241",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peris",
+    "FLeng": "P",
+    "tel": "పెరిష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31242",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Periyakaruppan",
+    "FLeng": "P",
+    "tel": "పెరియాకరుప్పన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31243",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Periyanambi",
+    "FLeng": "P",
+    "tel": "పెరియనంబి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31244",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Periyannan",
+    "FLeng": "P",
+    "tel": "పెరియాన్నం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31245",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Periyathambi",
+    "FLeng": "P",
+    "tel": "పెరియతంబి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31246",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perjanya",
+    "FLeng": "P",
+    "tel": "ప్ర్జన్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31247",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perkin",
+    "FLeng": "P",
+    "tel": "పెర్కిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31248",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perkin",
+    "FLeng": "p",
+    "tel": "పెర్కిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31249",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perkins",
+    "FLeng": "p",
+    "tel": "పెర్కిన్స్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31250",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perkinson",
+    "FLeng": "P",
+    "tel": "పెర్కిన్సన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31251",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perkyn",
+    "FLeng": "P",
+    "tel": "పెర్క్య్న",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31252",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Perley",
+    "FLeng": "P",
+    "tel": "పేర్లెయ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31253",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pernel",
+    "FLeng": "P",
+    "tel": "వెర్నెల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "31254",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pernell",
+    "FLeng": "P",
+    "tel": "వెర్నెల్",
+    "FLtel": "వ"
+  },
+  {
+    "id": "31255",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pernelle",
+    "FLeng": "P",
+    "tel": "వెర్నెల్లే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "31256",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pernelle",
+    "FLeng": "p",
+    "tel": "వెర్నెల్లే",
+    "FLtel": "వ"
+  },
+  {
+    "id": "31257",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pero",
+    "FLeng": "P",
+    "tel": "పేరో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31258",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peronell",
+    "FLeng": "P",
+    "tel": "పేరొనాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31259",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Peros",
+    "FLeng": "P",
+    "tel": "పేరోస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31260",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perramurthi",
+    "FLeng": "P",
+    "tel": "పెఱ్ఱముర్తి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31261",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perren",
+    "FLeng": "P",
+    "tel": "పేరెన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31262",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perrin",
+    "FLeng": "P",
+    "tel": "పెర్రిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31263",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pers",
+    "FLeng": "P",
+    "tel": "పేర్లు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31264",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Persant",
+    "FLeng": "P",
+    "tel": "పెర్సన్ట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31265",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perses",
+    "FLeng": "p",
+    "tel": "పెర్సెస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31266",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perseus",
+    "FLeng": "P",
+    "tel": "పెర్స్యస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31267",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perseus",
+    "FLeng": "p",
+    "tel": "పెర్స్యస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31268",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pershing",
+    "FLeng": "p",
+    "tel": "పెర్శింగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31269",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Persia",
+    "FLeng": "P",
+    "tel": "పర్షియా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31270",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Persian",
+    "FLeng": "P",
+    "tel": "పెర్షియన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31271",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Persiannan",
+    "FLeng": "P",
+    "tel": "పెర్సిఅన్నం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31272",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Persides",
+    "FLeng": "P",
+    "tel": "పెర్సిడిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31273",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pertel",
+    "FLeng": "P",
+    "tel": "ప్ర్టల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31274",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perth",
+    "FLeng": "p",
+    "tel": "పెర్త్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31275",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pertolepe",
+    "FLeng": "P",
+    "tel": "పేట్రోల్ప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31276",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pertti",
+    "FLeng": "P",
+    "tel": "పెర్త్తి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31277",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "perttu",
+    "FLeng": "p",
+    "tel": "ప్ర్ట్టు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31278",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peru",
+    "FLeng": "P",
+    "tel": "పేరు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31279",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peruk",
+    "FLeng": "P",
+    "tel": "పేరుకే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31280",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perumaan",
+    "FLeng": "P",
+    "tel": "పెరుమాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31281",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perumagan",
+    "FLeng": "P",
+    "tel": "పెరుమాగన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31282",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perumal",
+    "FLeng": "P",
+    "tel": "పెరుమాళ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31283",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perumalsami",
+    "FLeng": "P",
+    "tel": "పెరుమాళ్సామి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31284",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Peruman",
+    "FLeng": "P",
+    "tel": "పెరుమాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31285",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perumudi",
+    "FLeng": "P",
+    "tel": "పెనుమూడి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31286",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perundhevan",
+    "FLeng": "P",
+    "tel": "పేరుందేవం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31287",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perunthagai",
+    "FLeng": "P",
+    "tel": "పేరుంతగై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31288",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pervis",
+    "FLeng": "P",
+    "tel": "పర్వీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31289",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pervis",
+    "FLeng": "p",
+    "tel": "పర్వీన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31290",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Perwira",
+    "FLeng": "P",
+    "tel": "పెర్విరా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31291",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Perye",
+    "FLeng": "P",
+    "tel": "పేరై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31292",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Perzo",
+    "FLeng": "P",
+    "tel": "పేరాజో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31293",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pesach",
+    "FLeng": "P",
+    "tel": "పిశాచ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31294",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pesach",
+    "FLeng": "p",
+    "tel": "పిశాచ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "31295",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pesah",
+    "FLeng": "p",
+    "tel": "పేష",
+    "FLtel": "ప"
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "id": "132039",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangakin",
+    "FLeng": "T",
+    "tel": "టాంగాకిం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132040",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tangamagal",
+    "FLeng": "T",
+    "tel": "తంగమగళ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132041",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangela",
+    "FLeng": "T",
+    "tel": "తంగేలా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132042",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "tangela",
+    "FLeng": "t",
+    "tel": "తంగేలా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132043",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangenne",
+    "FLeng": "T",
+    "tel": "తంగెన్నె",
+    "FLtel": "త"
+  },
+  {
+    "id": "132044",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangerina",
+    "FLeng": "T",
+    "tel": "టాంగేరిన",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132045",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangerine",
+    "FLeng": "T",
+    "tel": "టాంగేరినీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132046",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangia",
+    "FLeng": "T",
+    "tel": "టాంగిల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132047",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanginika",
+    "FLeng": "T",
+    "tel": "తంగినికా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132048",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tangwystl",
+    "FLeng": "T",
+    "tel": "షగ్వయిస్టల్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "132049",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanhi",
+    "FLeng": "T",
+    "tel": "తఞ్హి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132050",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tania",
+    "FLeng": "T",
+    "tel": "తని",
+    "FLtel": "త"
+  },
+  {
+    "id": "132051",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taniamitra",
+    "FLeng": "T",
+    "tel": "తనియమిత్ర",
+    "FLtel": "త"
+  },
+  {
+    "id": "132052",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanice",
+    "FLeng": "T",
+    "tel": "తణిసు",
+    "FLtel": "త"
+  },
+  {
+    "id": "132053",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanika",
+    "FLeng": "T",
+    "tel": "తనిఖ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132054",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "tanika",
+    "FLeng": "t",
+    "tel": "తనిఖ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132055",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanima",
+    "FLeng": "T",
+    "tel": "తనిమా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132056",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanirika",
+    "FLeng": "T",
+    "tel": "తమిరికా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132057",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "tanisha",
+    "FLeng": "t",
+    "tel": "తానిషా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132058",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanishi",
+    "FLeng": "T",
+    "tel": "తనిషి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132059",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanishia",
+    "FLeng": "T",
+    "tel": "తానీషియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132060",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanishka",
+    "FLeng": "T",
+    "tel": "తనిష్క",
+    "FLtel": "త"
+  },
+  {
+    "id": "132061",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanishree",
+    "FLeng": "T",
+    "tel": "తనిశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132062",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanisi",
+    "FLeng": "T",
+    "tel": "తనిసి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132063",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taniska",
+    "FLeng": "T",
+    "tel": "తనిష్క",
+    "FLtel": "త"
+  },
+  {
+    "id": "132064",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taniskha",
+    "FLeng": "T",
+    "tel": "తణిసుఖ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132065",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanit",
+    "FLeng": "T",
+    "tel": "తేనీటి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132066",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanita",
+    "FLeng": "T",
+    "tel": "తానింత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132067",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanith",
+    "FLeng": "T",
+    "tel": "తనిత్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132068",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Taniya",
+    "FLeng": "T",
+    "tel": "తనీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132069",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Taniyah",
+    "FLeng": "T",
+    "tel": "తనియ్హ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132070",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "taniyah",
+    "FLeng": "t",
+    "tel": "తనియ్హ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132071",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanja",
+    "FLeng": "T",
+    "tel": "తాజా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132072",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanjan",
+    "FLeng": "T",
+    "tel": "తాంజన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132073",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tanjia",
+    "FLeng": "T",
+    "tel": "టాంజిత్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132074",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tanjika",
+    "FLeng": "T",
+    "tel": "టాంజిక",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132075",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanmana",
+    "FLeng": "T",
+    "tel": "తన్మనా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132076",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanmayasri",
+    "FLeng": "T",
+    "tel": "తన్మయశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132077",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanmayatha",
+    "FLeng": "T",
+    "tel": "తన్మయత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132078",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanmayee",
+    "FLeng": "T",
+    "tel": "తన్మయీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132079",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanmayi",
+    "FLeng": "T",
+    "tel": "తన్మయి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132080",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Tanmeet",
+    "FLeng": "T",
+    "tel": "షమీత్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "132081",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tanna",
+    "FLeng": "T",
+    "tel": "తన్న",
+    "FLtel": "త"
+  },
+  {
+    "id": "132082",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tannaz",
+    "FLeng": "T",
+    "tel": "తనోజ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132083",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tanney",
+    "FLeng": "T",
+    "tel": "తానే",
+    "FLtel": "త"
+  },
+  {
+    "id": "132084",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanni",
+    "FLeng": "T",
+    "tel": "తన్ని",
+    "FLtel": "త"
+  },
+  {
+    "id": "132085",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tannia",
+    "FLeng": "T",
+    "tel": "తన్నింది",
+    "FLtel": "త"
+  },
+  {
+    "id": "132086",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tannishtha",
+    "FLeng": "T",
+    "tel": "తంనిష్ఠా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132087",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tannistha",
+    "FLeng": "T",
+    "tel": "తన్నిస్తా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132088",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tannushri",
+    "FLeng": "T",
+    "tel": "తనుశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132089",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Tansanee",
+    "FLeng": "T",
+    "tel": "తంసనీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132090",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tanseem",
+    "FLeng": "T",
+    "tel": "తాంసీమ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132091",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tansi",
+    "FLeng": "T",
+    "tel": "తాంసి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132092",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tansin",
+    "FLeng": "T",
+    "tel": "టాన్సిన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132093",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Tansy",
+    "FLeng": "T",
+    "tel": "తాంసి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132094",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "tansy",
+    "FLeng": "t",
+    "tel": "తాంసి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132095",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanu Prava",
+    "FLeng": "T",
+    "tel": "తాను ప్రవ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132096",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanu Priya",
+    "FLeng": "T",
+    "tel": "తాను ప్రియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132097",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanubhava",
+    "FLeng": "T",
+    "tel": "తానుభవ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132098",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanugna",
+    "FLeng": "T",
+    "tel": "తనుజ్ఞ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132099",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanuja",
+    "FLeng": "T",
+    "tel": "తనూజ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132100",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanujashree",
+    "FLeng": "T",
+    "tel": "తనూజశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132101",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanuka",
+    "FLeng": "T",
+    "tel": "తానుగా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132102",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanulata",
+    "FLeng": "T",
+    "tel": "తనూలత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132103",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanupa",
+    "FLeng": "T",
+    "tel": "తానుప",
+    "FLtel": "త"
+  },
+  {
+    "id": "132104",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanurikia",
+    "FLeng": "T",
+    "tel": "తణురియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132105",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanuruchi",
+    "FLeng": "T",
+    "tel": "తనూరుచి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132106",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanusha",
+    "FLeng": "T",
+    "tel": "తానిషా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132107",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanushi",
+    "FLeng": "T",
+    "tel": "తనుషి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132108",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanushka",
+    "FLeng": "T",
+    "tel": "తనుష్క",
+    "FLtel": "త"
+  },
+  {
+    "id": "132109",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanushree",
+    "FLeng": "T",
+    "tel": "తనుశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132110",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanushri",
+    "FLeng": "T",
+    "tel": "తనుశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132111",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanushritha",
+    "FLeng": "T",
+    "tel": "తనుశ్రీత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132112",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanushsee",
+    "FLeng": "T",
+    "tel": "తనుశ్సీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132113",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanusiya",
+    "FLeng": "T",
+    "tel": "తనుసియా",
+    "FLtel": "త"
+  },
+  {
+    "id": "132114",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanusya",
+    "FLeng": "T",
+    "tel": "తనుష్య",
+    "FLtel": "త"
+  },
+  {
+    "id": "132115",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanuta",
+    "FLeng": "T",
+    "tel": "తనుత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132116",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanuvi",
+    "FLeng": "T",
+    "tel": "తనువు",
+    "FLtel": "త"
+  },
+  {
+    "id": "132117",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvaya",
+    "FLeng": "T",
+    "tel": "తన్వయ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132118",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvee",
+    "FLeng": "T",
+    "tel": "తన్వీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132119",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Tanveen",
+    "FLeng": "T",
+    "tel": "తాన్వీన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132120",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Tanveet",
+    "FLeng": "T",
+    "tel": "తాన్వీట్",
+    "FLtel": "త"
+  },
+  {
+    "id": "132121",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvi",
+    "FLeng": "T",
+    "tel": "తన్వి",
+    "FLtel": "త"
+  },
+  {
+    "id": "132122",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvi Sree",
+    "FLeng": "T",
+    "tel": "తన్వి శ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132123",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvika",
+    "FLeng": "T",
+    "tel": "తాన్విక",
+    "FLtel": "త"
+  },
+  {
+    "id": "132124",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvisha",
+    "FLeng": "T",
+    "tel": "తాన్విష",
+    "FLtel": "త"
+  },
+  {
+    "id": "132125",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvisree",
+    "FLeng": "T",
+    "tel": "తాన్విశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132126",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvita",
+    "FLeng": "T",
+    "tel": "తాన్విత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132127",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvitasri",
+    "FLeng": "T",
+    "tel": "తాన్వితాశ్రీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "132128",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvitha",
+    "FLeng": "T",
+    "tel": "తాన్విత",
+    "FLtel": "త"
+  },
+  {
+    "id": "132129",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanvyuha",
+    "FLeng": "T",
+    "tel": "ట్యాంవ్యూహ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132130",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Tanweer",
+    "FLeng": "T",
+    "tel": "ట్యాంవీర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "132131",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Tanwesha",
+    "FLeng": "T",
+    "tel": "తాన్వేష",
+    "FLtel": "త"
+  }
+]

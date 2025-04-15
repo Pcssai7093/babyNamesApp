@@ -4,6 +4,8 @@ import 'package:loading_animation_widget/loading_animation_widget.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../Providers/prefLanguageProvider.dart';
+
 class bottomNavBar extends StatefulWidget {
   const bottomNavBar({super.key, required this.prefLangSelectHanlder});
 
@@ -18,16 +20,15 @@ class _bottomNavBarState extends State<bottomNavBar> {
 
   Map<String, String> firstAlphabets = {
     "english": "A", // Latin
-    "hindi": "अ", // Devanagari
-    "bengali": "অ", // Bengali
-    "marathi": "अ", // Devanagari
     "telugu": "అ", // Telugu
-    "tamil": "அ", // Tamil
-    "gujarati": "અ", // Gujarati
-    "kannada": "ಅ", // Kannada
-    "odia": "ଅ", // Odia
-    "malayalam": "അ", // Malayalam
-    "punjabi": "ਅ" // Gurmukhi
+    // "hindi": "अ", // Devanagari
+    // "bengali": "অ", // Bengali
+    // "tamil": "அ", // Tamil
+    // "gujarati": "અ", // Gujarati
+    // "kannada": "ಅ", // Kannada
+    // "odia": "ଅ", // Odia
+    // "malayalam": "അ", // Malayalam
+    // "punjabi": "ਅ" // Gurmukhi
   };
 
   bool isMoreToolsSelected = false;
@@ -37,6 +38,7 @@ class _bottomNavBarState extends State<bottomNavBar> {
   bool _isNavigating = false;
 
   late DarkModeProvder darkModeProvder;
+  late PrefLanguageProvider prefLanguageProvider;
 
   bool isLoading = false;
 
@@ -86,12 +88,11 @@ class _bottomNavBarState extends State<bottomNavBar> {
     showDialog(
         context: context,
         builder: (BuildContext context) {
-          String prefLanguageState = prefs.getString("prefLang") ?? "";
+          String prefLanguageState = prefs.getString("prefLang") ?? "telugu";
 
           return StatefulBuilder(
             builder: (context, setState) {
               return AlertDialog(
-                title: Text(title),
                 backgroundColor: darkModeProvder.isDarkMode
                     ? Colors.blueGrey.shade400
                     : Colors.blueAccent,
@@ -116,34 +117,36 @@ class _bottomNavBarState extends State<bottomNavBar> {
                               prefs.getString("prefLang") ?? "";
                           bool isLangSelected = language == prefLanguage;
                           return Container(
-                              alignment: Alignment.center,
-                              decoration: BoxDecoration(
-                                color: isLangSelected
-                                    ? Colors.pinkAccent
-                                    : Colors.greenAccent,
-                                borderRadius: BorderRadius.circular(12),
-                              ),
-                              child: GestureDetector(
-                                onTap: () {
-                                  setState(() {
-                                    isLoading = true;
-                                  });
-                                  Future.delayed(Duration(seconds: 3),
-                                      () async {
-                                    setState(() {
-                                      prefLanguageState = language;
+                            alignment: Alignment.center,
+                            decoration: BoxDecoration(
+                              color: isLangSelected
+                                  ? Colors.pinkAccent
+                                  : Colors.greenAccent,
+                              borderRadius: BorderRadius.circular(10),
+                            ),
+                            child: TextButton(
+                              onPressed: () {
+                                setState(() {
+                                  isLoading = true;
+                                });
+                                Future.delayed(Duration(seconds: 1),
+                                        () async {
+                                      setState(() {
+                                        prefLanguageState = language;
+                                      });
+                                      prefLanguageProvider.setLanguage(language);
+                                      setState(() {
+                                        isLoading = false;
+                                      });
                                     });
-                                    await prefs.setString("prefLang", language);
-                                    setState(() {
-                                      isLoading = false;
-                                    });
-                                  });
-                                },
-                                child: Text(
-                                  entry.value,
-                                  style: TextStyle(fontSize: 20),
-                                ),
-                              ));
+                              },
+                              child: Container(
+                                  child: Text(
+                                    entry.value,
+                                    style: TextStyle(fontSize: 20),
+                                  )),
+                            ),
+                          );
                         },
                       ),
                     ),
@@ -182,6 +185,7 @@ class _bottomNavBarState extends State<bottomNavBar> {
   Widget build(BuildContext context) {
     selectedPage = ModalRoute.of(context)?.settings.name;
     darkModeProvder = Provider.of<DarkModeProvder>(context);
+    prefLanguageProvider = Provider.of<PrefLanguageProvider>(context);
 
     return Positioned(
       left: 20,
@@ -281,9 +285,8 @@ class _bottomNavBarState extends State<bottomNavBar> {
                                   margin: EdgeInsets.only(left: 5, right: 5),
                                   padding: EdgeInsets.all(5),
                                   decoration: BoxDecoration(),
-                                  child: darkModeProvder.isDarkMode
-                                      ? Image.asset(
-                                          "assets/images/bulbOff.png",
+                                  child: Image.asset(
+                                          "assets/images/lang.png",
                                           height: MediaQuery.of(context)
                                                   .size
                                                   .height *
@@ -293,17 +296,6 @@ class _bottomNavBarState extends State<bottomNavBar> {
                                                   .height *
                                               0.05,
                                         )
-                                      : Image.asset(
-                                          "assets/images/bulbOn.png",
-                                          height: MediaQuery.of(context)
-                                                  .size
-                                                  .height *
-                                              0.05,
-                                          width: MediaQuery.of(context)
-                                                  .size
-                                                  .height *
-                                              0.05,
-                                        ),
                                 ),
                               ),
                             ],

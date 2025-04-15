@@ -1,0 +1,776 @@
+[
+  {
+    "id": "33559",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ramizuddin",
+    "FLeng": "R",
+    "tel": "రామిజుద్దీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33560",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramjas",
+    "FLeng": "R",
+    "tel": "రంజాన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33561",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramjee",
+    "FLeng": "R",
+    "tel": "రంజీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33562",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramjeet",
+    "FLeng": "R",
+    "tel": "రంజిత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33563",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramjeevan",
+    "FLeng": "R",
+    "tel": "రంజీవం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33564",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramji",
+    "FLeng": "R",
+    "tel": "రంజీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33565",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramjot",
+    "FLeng": "R",
+    "tel": "రంజోత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33566",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramkishore",
+    "FLeng": "R",
+    "tel": "రాంకిశోరే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33567",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramkrishna",
+    "FLeng": "R",
+    "tel": "రామకృష్ణ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33568",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramkumar",
+    "FLeng": "R",
+    "tel": "రాంకుమార్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33569",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramm",
+    "FLeng": "R",
+    "tel": "రామ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33570",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rammi",
+    "FLeng": "R",
+    "tel": "రమ్మీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33571",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rammohan",
+    "FLeng": "R",
+    "tel": "రామ్మోహన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33572",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramnarayan",
+    "FLeng": "R",
+    "tel": "రాంనారాయణ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33573",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramnath",
+    "FLeng": "R",
+    "tel": "రాంనాథ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33574",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramneet",
+    "FLeng": "R",
+    "tel": "రంజీత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33575",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramniklal",
+    "FLeng": "R",
+    "tel": "రమణిలాల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33576",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramnivas",
+    "FLeng": "R",
+    "tel": "రాంనివాస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33577",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramoji",
+    "FLeng": "R",
+    "tel": "రామోజీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33578",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramon",
+    "FLeng": "R",
+    "tel": "రామం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33579",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ramon",
+    "FLeng": "r",
+    "tel": "రామం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33580",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramond",
+    "FLeng": "R",
+    "tel": "రేమాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33581",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramonde",
+    "FLeng": "R",
+    "tel": "రామాండె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33582",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramone",
+    "FLeng": "R",
+    "tel": "రామోన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33583",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramos",
+    "FLeng": "R",
+    "tel": "రమేష్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33584",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Rampal",
+    "FLeng": "R",
+    "tel": "రాంపాల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33585",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Rampiari",
+    "FLeng": "R",
+    "tel": "రంపియరీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33586",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramprabhu",
+    "FLeng": "R",
+    "tel": "రామప్రభు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33587",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Rampraksah",
+    "FLeng": "R",
+    "tel": "రాంప్రకాష",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33588",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramprasad",
+    "FLeng": "R",
+    "tel": "రాంప్రసాద్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33589",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Rampratap",
+    "FLeng": "R",
+    "tel": "రామప్రతాప్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33590",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramraj",
+    "FLeng": "R",
+    "tel": "రాంరాజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33591",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramrang",
+    "FLeng": "R",
+    "tel": "రామ్రాన్గ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33592",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramras",
+    "FLeng": "R",
+    "tel": "రాందాస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33593",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramrasan",
+    "FLeng": "R",
+    "tel": "రామరసం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33594",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramratan",
+    "FLeng": "R",
+    "tel": "రామ్రాతం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33595",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramroop",
+    "FLeng": "R",
+    "tel": "రామరూప్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33596",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramsagar",
+    "FLeng": "R",
+    "tel": "రాంసాగర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33597",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramsay",
+    "FLeng": "R",
+    "tel": "రంజాయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33598",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramsden",
+    "FLeng": "R",
+    "tel": "రంసిడెన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33599",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramsey",
+    "FLeng": "R",
+    "tel": "రాంసేయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33600",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ramsey",
+    "FLeng": "r",
+    "tel": "రాంసేయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33601",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramshanker",
+    "FLeng": "R",
+    "tel": "రాంశంకర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33602",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramsukh",
+    "FLeng": "R",
+    "tel": "రామసుఖ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramsundar",
+    "FLeng": "R",
+    "tel": "రమాసుందరి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33604",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramsunder",
+    "FLeng": "R",
+    "tel": "రామసుందర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33605",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramswaroop",
+    "FLeng": "R",
+    "tel": "రామస్వరూప్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33606",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramtej",
+    "FLeng": "R",
+    "tel": "రంతేజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33607",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramtek",
+    "FLeng": "R",
+    "tel": "రాంటెక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33608",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramu",
+    "FLeng": "R",
+    "tel": "రాము",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33609",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramudu",
+    "FLeng": "R",
+    "tel": "రాముడు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33610",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ramvichaar",
+    "FLeng": "R",
+    "tel": "రామవిచారః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33611",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ramy",
+    "FLeng": "R",
+    "tel": "రామి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33612",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ramyak",
+    "FLeng": "R",
+    "tel": "రమ్యకు",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33613",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ramzee",
+    "FLeng": "R",
+    "tel": "రంజీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33614",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ramzey",
+    "FLeng": "R",
+    "tel": "రంజైయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33615",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ramzy",
+    "FLeng": "R",
+    "tel": "రంజయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33616",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranadeva",
+    "FLeng": "R",
+    "tel": "రణదేవ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33617",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranadheer",
+    "FLeng": "R",
+    "tel": "రణధీర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33618",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranadip",
+    "FLeng": "R",
+    "tel": "రణదీప్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33619",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranajay",
+    "FLeng": "R",
+    "tel": "రణజయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33620",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranajit",
+    "FLeng": "R",
+    "tel": "రణజిత్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33621",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranak",
+    "FLeng": "R",
+    "tel": "ర్యాంక్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33622",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ranald",
+    "FLeng": "R",
+    "tel": "రోనాల్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33623",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ranald",
+    "FLeng": "r",
+    "tel": "రోనాల్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33624",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranav",
+    "FLeng": "R",
+    "tel": "రానవ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33625",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranbeer",
+    "FLeng": "R",
+    "tel": "రన్బీర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33626",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranbir",
+    "FLeng": "R",
+    "tel": "రన్బీర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33627",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rance",
+    "FLeng": "R",
+    "tel": "ట్రాన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "33628",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rance",
+    "FLeng": "r",
+    "tel": "ట్రాన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "33629",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranchhod",
+    "FLeng": "R",
+    "tel": "ర్యాంచ్చోద",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ranchod",
+    "FLeng": "R",
+    "tel": "రాంచోడ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Rand",
+    "FLeng": "R",
+    "tel": "రాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "rand",
+    "FLeng": "r",
+    "tel": "రాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33633",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Randal",
+    "FLeng": "R",
+    "tel": "రాన్డల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33634",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Randale",
+    "FLeng": "R",
+    "tel": "రాండల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33635",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Randall",
+    "FLeng": "R",
+    "tel": "రాండల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33636",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "randall",
+    "FLeng": "r",
+    "tel": "రాండల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33637",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Randeep",
+    "FLeng": "R",
+    "tel": "రాందేవ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33638",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Randel",
+    "FLeng": "R",
+    "tel": "రండేల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33639",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Randell",
+    "FLeng": "R",
+    "tel": "రెండేళ్ల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33640",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Randev",
+    "FLeng": "R",
+    "tel": "రాందేవ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33641",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Randheer",
+    "FLeng": "R",
+    "tel": "రణధీర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33642",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Randhir",
+    "FLeng": "R",
+    "tel": "రణధీర్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33643",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Randin",
+    "FLeng": "R",
+    "tel": "రండి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "33644",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Randip",
+    "FLeng": "R",
+    "tel": "రందీప్",
+    "FLtel": "ర"
+  }
+]

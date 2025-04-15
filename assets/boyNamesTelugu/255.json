@@ -1,0 +1,731 @@
+[
+  {
+    "id": "14492",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ho",
+    "FLeng": "H",
+    "tel": "హోం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14493",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hob",
+    "FLeng": "H",
+    "tel": "హాబీ",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14494",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hobard",
+    "FLeng": "H",
+    "tel": "హోబార్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14495",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hobart",
+    "FLeng": "H",
+    "tel": "హోబార్త్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14496",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hobart",
+    "FLeng": "h",
+    "tel": "హోబార్త్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14497",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hobbard",
+    "FLeng": "H",
+    "tel": "హుబ్బర్డ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14498",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hobbes",
+    "FLeng": "h",
+    "tel": "హాబ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14499",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hobbs",
+    "FLeng": "H",
+    "tel": "హాబ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14500",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hoben",
+    "FLeng": "H",
+    "tel": "హుబెన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hobert",
+    "FLeng": "H",
+    "tel": "హుబెర్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14502",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Hobson",
+    "FLeng": "H",
+    "tel": "హాబ్సన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14503",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hobson",
+    "FLeng": "h",
+    "tel": "హాబ్సన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14504",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hoc",
+    "FLeng": "H",
+    "tel": "హా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14505",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hod",
+    "FLeng": "H",
+    "tel": "హుద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14506",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hodard",
+    "FLeng": "H",
+    "tel": "హోదార్ద్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14507",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hoder",
+    "FLeng": "H",
+    "tel": "హోదరు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14508",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hodge",
+    "FLeng": "H",
+    "tel": "హోడ్జ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14509",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hodges",
+    "FLeng": "H",
+    "tel": "హోడ్జ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14510",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hodgson",
+    "FLeng": "H",
+    "tel": "హోడ్గ్సన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14511",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hodippa",
+    "FLeng": "H",
+    "tel": "హొడిప్ప",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14512",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hodo",
+    "FLeng": "H",
+    "tel": "హోండా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14513",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hodor",
+    "FLeng": "h",
+    "tel": "హోదోర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14514",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hoel",
+    "FLeng": "H",
+    "tel": "హోల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14515",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hoenir",
+    "FLeng": "H",
+    "tel": "హొయనీర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14516",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hofa",
+    "FLeng": "H",
+    "tel": "హొఫా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14517",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hogan",
+    "FLeng": "H",
+    "tel": "హొగన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14518",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hogarth",
+    "FLeng": "H",
+    "tel": "హొగార్త్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14519",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Hogg",
+    "FLeng": "H",
+    "tel": "హోగ్గ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14520",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Hoh",
+    "FLeng": "H",
+    "tel": "హుహ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14521",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hohberht",
+    "FLeng": "H",
+    "tel": "హొహ్బెర్హ్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14522",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hohepa",
+    "FLeng": "H",
+    "tel": "హోహిప",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14523",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hohpe",
+    "FLeng": "H",
+    "tel": "హొహ్పే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14524",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Hojan",
+    "FLeng": "H",
+    "tel": "హాజన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14525",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hoks",
+    "FLeng": "H",
+    "tel": "హుక్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14526",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holbrook",
+    "FLeng": "H",
+    "tel": "హాబ్రూక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14527",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "holbrook",
+    "FLeng": "h",
+    "tel": "హాబ్రూక్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14528",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holbrooke",
+    "FLeng": "H",
+    "tel": "హాబ్రూకే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14529",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holcomb",
+    "FLeng": "H",
+    "tel": "హోల్కమ్బ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14530",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holcombe",
+    "FLeng": "H",
+    "tel": "హోల్కమ్బ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14531",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holden",
+    "FLeng": "H",
+    "tel": "హోల్డెన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14532",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holdin",
+    "FLeng": "H",
+    "tel": "హాడిన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14533",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holdyn",
+    "FLeng": "H",
+    "tel": "హోల్డయ్న",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14534",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Holecomb",
+    "FLeng": "H",
+    "tel": "హొళెకంబు",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14535",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Holecombe",
+    "FLeng": "H",
+    "tel": "హోలీకాబ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14536",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holgate",
+    "FLeng": "H",
+    "tel": "హాగతే",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14537",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holger",
+    "FLeng": "H",
+    "tel": "హోల్గెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14538",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "holger",
+    "FLeng": "h",
+    "tel": "హోల్గెర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14539",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holic",
+    "FLeng": "H",
+    "tel": "హోలిక",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14540",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hollaman",
+    "FLeng": "H",
+    "tel": "హాళ్ళమం",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14541",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hollis",
+    "FLeng": "H",
+    "tel": "హాల్లీస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14542",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holman",
+    "FLeng": "H",
+    "tel": "హోల్మన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14543",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holmes",
+    "FLeng": "H",
+    "tel": "హోమ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14544",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holmstein",
+    "FLeng": "H",
+    "tel": "హామ్స్టయిన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14545",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holokai",
+    "FLeng": "H",
+    "tel": "హోలోకై",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14546",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holt",
+    "FLeng": "H",
+    "tel": "హాల్ట్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14547",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Holwell",
+    "FLeng": "H",
+    "tel": "హావెల్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14548",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homair",
+    "FLeng": "H",
+    "tel": "హోమైర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14549",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homar",
+    "FLeng": "H",
+    "tel": "హోమర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14550",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homayoon",
+    "FLeng": "H",
+    "tel": "హుమాయూన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14551",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homeira",
+    "FLeng": "H",
+    "tel": "హోంకిరా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14552",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homen",
+    "FLeng": "H",
+    "tel": "హోంన్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14553",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homer",
+    "FLeng": "H",
+    "tel": "హోమర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14554",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homero",
+    "FLeng": "H",
+    "tel": "హోంరో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14555",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Homesh",
+    "FLeng": "H",
+    "tel": "హోమ్స్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14556",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Homeswar",
+    "FLeng": "H",
+    "tel": "హోమేశ్వర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14557",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Homith",
+    "FLeng": "H",
+    "tel": "హోమిత్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14558",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Homobono",
+    "FLeng": "H",
+    "tel": "హోమోబోనో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14559",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "homobono",
+    "FLeng": "h",
+    "tel": "హోమోబోనో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14560",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Homraj",
+    "FLeng": "H",
+    "tel": "హోంరాజ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14561",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hondscio",
+    "FLeng": "H",
+    "tel": "హొండ్స్కిమో",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14562",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Hong",
+    "FLeng": "H",
+    "tel": "చొంగ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "14563",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hongvi",
+    "FLeng": "h",
+    "tel": "హొంగ్వి",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14564",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Honhar",
+    "FLeng": "H",
+    "tel": "హొంహార్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14565",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "honi",
+    "FLeng": "h",
+    "tel": "హాని",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14566",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Honna",
+    "FLeng": "H",
+    "tel": "హొన్న",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14567",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Honor",
+    "FLeng": "H",
+    "tel": "హానర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14568",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Honorius",
+    "FLeng": "H",
+    "tel": "హోనోరిస్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14569",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Honza",
+    "FLeng": "H",
+    "tel": "హొంజా",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14570",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hood",
+    "FLeng": "H",
+    "tel": "హుడ్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14571",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "hooker",
+    "FLeng": "h",
+    "tel": "హూకర్",
+    "FLtel": "హ"
+  },
+  {
+    "id": "14572",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Hooman",
+    "FLeng": "H",
+    "tel": "హోమం",
+    "FLtel": "హ"
+  }
+]

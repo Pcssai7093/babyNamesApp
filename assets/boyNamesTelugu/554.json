@@ -1,0 +1,839 @@
+[
+  {
+    "id": "41879",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tortgith",
+    "FLeng": "T",
+    "tel": "టోర్ట్జిత్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41880",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tortgyth",
+    "FLeng": "T",
+    "tel": "టోర్ట్గ్య్త్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41881",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Torthred",
+    "FLeng": "T",
+    "tel": "టోర్త్రేడ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41882",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Torvald",
+    "FLeng": "T",
+    "tel": "టోర్వల్డ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41883",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Toryal",
+    "FLeng": "T",
+    "tel": "టోరియల్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41884",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Toryn",
+    "FLeng": "T",
+    "tel": "టోరీన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41885",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tosh",
+    "FLeng": "T",
+    "tel": "తోష్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41886",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Toshan",
+    "FLeng": "T",
+    "tel": "తోశాను",
+    "FLtel": "త"
+  },
+  {
+    "id": "41887",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Toshanav",
+    "FLeng": "T",
+    "tel": "తోశానవ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41888",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Toshin",
+    "FLeng": "T",
+    "tel": "తోషిం",
+    "FLtel": "త"
+  },
+  {
+    "id": "41889",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Toshiro",
+    "FLeng": "T",
+    "tel": "తొషిరో",
+    "FLtel": "త"
+  },
+  {
+    "id": "41890",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Toshit",
+    "FLeng": "T",
+    "tel": "తొషిట్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41891",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Tosia",
+    "FLeng": "T",
+    "tel": "తోసినా",
+    "FLtel": "త"
+  },
+  {
+    "id": "41892",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tosin",
+    "FLeng": "T",
+    "tel": "టోసిన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41893",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tostig",
+    "FLeng": "T",
+    "tel": "తొస్టిగ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41894",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tota",
+    "FLeng": "T",
+    "tel": "తోట",
+    "FLtel": "త"
+  },
+  {
+    "id": "41895",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Totasingh",
+    "FLeng": "T",
+    "tel": "తోతాసింగ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41896",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Totavali",
+    "FLeng": "T",
+    "tel": "తోటవాలి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41897",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Totavalus",
+    "FLeng": "T",
+    "tel": "తోటవల్స్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41898",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Toti",
+    "FLeng": "T",
+    "tel": "తోటి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41899",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Totie",
+    "FLeng": "T",
+    "tel": "తోటీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41900",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Totta",
+    "FLeng": "T",
+    "tel": "తొట్ట",
+    "FLtel": "త"
+  },
+  {
+    "id": "41901",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Touilt",
+    "FLeng": "T",
+    "tel": "టౌప్ల్ట్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41902",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Toukere",
+    "FLeng": "T",
+    "tel": "టౌకెరె",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41903",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Touma",
+    "FLeng": "T",
+    "tel": "టూమా",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41904",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Toumani",
+    "FLeng": "T",
+    "tel": "టౌమని",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41905",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Touran",
+    "FLeng": "T",
+    "tel": "తౌరాన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41906",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tourin",
+    "FLeng": "T",
+    "tel": "టూరి",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41907",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tournour",
+    "FLeng": "T",
+    "tel": "టౌర్నొర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41908",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Toussaint",
+    "FLeng": "T",
+    "tel": "టౌస్సేన్ట్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41909",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Tovi",
+    "FLeng": "T",
+    "tel": "తోవి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41910",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "tovi",
+    "FLeng": "t",
+    "tel": "తోవి",
+    "FLtel": "త"
+  },
+  {
+    "id": "41911",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Towley",
+    "FLeng": "T",
+    "tel": "తౌలెయ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41912",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townes",
+    "FLeng": "T",
+    "tel": "తౌన్స్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41913",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townlea",
+    "FLeng": "T",
+    "tel": "తౌన్లీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41914",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townlee",
+    "FLeng": "T",
+    "tel": "తౌన్లీ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41915",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townleigh",
+    "FLeng": "T",
+    "tel": "తౌన్లేఇఘ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41916",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townley",
+    "FLeng": "T",
+    "tel": "తౌన్ల్య్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41917",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townlie",
+    "FLeng": "T",
+    "tel": "తౌన్లై",
+    "FLtel": "త"
+  },
+  {
+    "id": "41918",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townly",
+    "FLeng": "T",
+    "tel": "తౌన్ల్య్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41919",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Townsend",
+    "FLeng": "T",
+    "tel": "తౌన్సేండ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41920",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Towny",
+    "FLeng": "T",
+    "tel": "తౌన్య్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41921",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Toyah",
+    "FLeng": "T",
+    "tel": "తోయహ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41922",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Toyaj",
+    "FLeng": "T",
+    "tel": "తోయజ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Toyesh",
+    "FLeng": "T",
+    "tel": "టోయ్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41924",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "toygar",
+    "FLeng": "t",
+    "tel": "టోయ్గర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41925",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ToÅ¡e",
+    "FLeng": "T",
+    "tel": "తోÅ¡ఏ",
+    "FLtel": "త"
+  },
+  {
+    "id": "41926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Traaman",
+    "FLeng": "T",
+    "tel": "ట్రామం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41927",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Traanan",
+    "FLeng": "T",
+    "tel": "త్రాణం",
+    "FLtel": "త"
+  },
+  {
+    "id": "41928",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tracen",
+    "FLeng": "T",
+    "tel": "ట్రేసన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41929",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tradelmans",
+    "FLeng": "T",
+    "tel": "త్రాడేల్మన్స్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41930",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trader",
+    "FLeng": "T",
+    "tel": "ట్రేడర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41931",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trae",
+    "FLeng": "T",
+    "tel": "ట్రె",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41932",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trahaearn",
+    "FLeng": "T",
+    "tel": "ట్రాహెర్న్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41933",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trahern",
+    "FLeng": "T",
+    "tel": "త్రహీర్న్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41934",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trai",
+    "FLeng": "T",
+    "tel": "ట్రై",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41935",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traian",
+    "FLeng": "T",
+    "tel": "ట్రైయాం",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41936",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traianu",
+    "FLeng": "T",
+    "tel": "ట్రైను",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41937",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Trailokva",
+    "FLeng": "T",
+    "tel": "త్రైలోక్వా",
+    "FLtel": "త"
+  },
+  {
+    "id": "41938",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Traimbak",
+    "FLeng": "T",
+    "tel": "ట్రైమ్బాక్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41939",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traiton",
+    "FLeng": "T",
+    "tel": "ట్రిటోన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41940",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trajan",
+    "FLeng": "T",
+    "tel": "ట్రాజన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41941",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trallonus",
+    "FLeng": "T",
+    "tel": "ట్రాల్లోన్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41942",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tram",
+    "FLeng": "T",
+    "tel": "త్రం",
+    "FLtel": "త"
+  },
+  {
+    "id": "41943",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tramaine",
+    "FLeng": "T",
+    "tel": "ట్రమైనే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41944",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Trambak",
+    "FLeng": "T",
+    "tel": "త్రయంబక్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41945",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Trambakeshwar",
+    "FLeng": "T",
+    "tel": "త్రయంబకేశ్వర",
+    "FLtel": "త"
+  },
+  {
+    "id": "41946",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trampas",
+    "FLeng": "T",
+    "tel": "ట్రంపెస్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41947",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "transito",
+    "FLeng": "t",
+    "tel": "ట్రాన్సితో",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41948",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tranter",
+    "FLeng": "T",
+    "tel": "ట్రన్ట్ర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41949",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trapper",
+    "FLeng": "T",
+    "tel": "ట్రప్పెర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41950",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traugott",
+    "FLeng": "T",
+    "tel": "ట్రూగొట్ట",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41951",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trausti",
+    "FLeng": "T",
+    "tel": "ట్రూస్తి",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41952",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Travara",
+    "FLeng": "T",
+    "tel": "త్రవ్వరా",
+    "FLtel": "త"
+  },
+  {
+    "id": "41953",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traveon",
+    "FLeng": "T",
+    "tel": "ట్రావెన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41954",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traver",
+    "FLeng": "T",
+    "tel": "ట్రావెర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Travers",
+    "FLeng": "T",
+    "tel": "ట్రావెర్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Travion",
+    "FLeng": "T",
+    "tel": "త్రావిన్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41957",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tray",
+    "FLeng": "T",
+    "tel": "ట్రే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41958",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Trayaksh",
+    "FLeng": "T",
+    "tel": "ట్ర్యాక్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41959",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trayger",
+    "FLeng": "T",
+    "tel": "ట్రయిజర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41960",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Traynor",
+    "FLeng": "T",
+    "tel": "ట్రయినోర్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41961",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trayton",
+    "FLeng": "T",
+    "tel": "ట్రాయిటోన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41962",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trayvon",
+    "FLeng": "T",
+    "tel": "ట్రయివోన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41963",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Trazana",
+    "FLeng": "T",
+    "tel": "ట్రజన",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41964",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Treadway",
+    "FLeng": "T",
+    "tel": "త్రేతాద్వాయ్",
+    "FLtel": "త"
+  },
+  {
+    "id": "41965",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Treasure",
+    "FLeng": "T",
+    "tel": "ట్రెఅసురే",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41966",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Treasures",
+    "FLeng": "T",
+    "tel": "ట్రెఅసురేష్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41967",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Treat",
+    "FLeng": "T",
+    "tel": "ట్రీట్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41968",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tredon",
+    "FLeng": "T",
+    "tel": "ట్రెడాన్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Tredway",
+    "FLeng": "T",
+    "tel": "ట్రెడ్వాయ్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41970",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Treef",
+    "FLeng": "T",
+    "tel": "ట్రీప్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "41971",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Treeve",
+    "FLeng": "T",
+    "tel": "త్రీవే",
+    "FLtel": "త"
+  }
+]

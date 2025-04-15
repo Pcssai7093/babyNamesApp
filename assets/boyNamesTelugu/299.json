@@ -1,0 +1,875 @@
+[
+  {
+    "id": "18788",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalanath",
+    "FLeng": "K",
+    "tel": "కలనాథ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18789",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalanemi",
+    "FLeng": "K",
+    "tel": "కాలనేమి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18790",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalanithi",
+    "FLeng": "K",
+    "tel": "కాలనీతి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18791",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalanjiyam",
+    "FLeng": "K",
+    "tel": "కళంజియం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18792",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalap",
+    "FLeng": "K",
+    "tel": "కలప",
+    "FLtel": "క"
+  },
+  {
+    "id": "18793",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalapak",
+    "FLeng": "K",
+    "tel": "కలపాక",
+    "FLtel": "క"
+  },
+  {
+    "id": "18794",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalaparan",
+    "FLeng": "K",
+    "tel": "కలపరం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18795",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalapee",
+    "FLeng": "K",
+    "tel": "కళాపీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18796",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalapin",
+    "FLeng": "K",
+    "tel": "కలపి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18797",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalappan",
+    "FLeng": "K",
+    "tel": "కలప్పన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18798",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalappasami",
+    "FLeng": "K",
+    "tel": "కళాపిపాసామి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18799",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kalapreet",
+    "FLeng": "K",
+    "tel": "కలప్రీత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18800",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kalaprem",
+    "FLeng": "K",
+    "tel": "కళాప్రేమ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18801",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalapriya",
+    "FLeng": "K",
+    "tel": "కళాప్రియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18802",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalaraja",
+    "FLeng": "K",
+    "tel": "కాలరాజా",
+    "FLtel": "క"
+  },
+  {
+    "id": "18803",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalari",
+    "FLeng": "K",
+    "tel": "క్యాలరీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18804",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalas",
+    "FLeng": "K",
+    "tel": "కలసి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18805",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalasanth",
+    "FLeng": "K",
+    "tel": "కలశాంత్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18806",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalash",
+    "FLeng": "K",
+    "tel": "కలశ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18807",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalasin",
+    "FLeng": "K",
+    "tel": "కలసిన",
+    "FLtel": "క"
+  },
+  {
+    "id": "18808",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalasinha",
+    "FLeng": "K",
+    "tel": "కలసిన్హా",
+    "FLtel": "క"
+  },
+  {
+    "id": "18809",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalatapaswi",
+    "FLeng": "K",
+    "tel": "కళాతపస్వి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18810",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalateeta",
+    "FLeng": "K",
+    "tel": "కాలాతీత",
+    "FLtel": "క"
+  },
+  {
+    "id": "18811",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalathar",
+    "FLeng": "K",
+    "tel": "కళాధర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18812",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalathinathan",
+    "FLeng": "K",
+    "tel": "కాలాతినాథన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18813",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalavan",
+    "FLeng": "K",
+    "tel": "కలవం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18814",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalawati",
+    "FLeng": "K",
+    "tel": "కళావతి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18815",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalayavan",
+    "FLeng": "K",
+    "tel": "కలయవన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18816",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalb",
+    "FLeng": "K",
+    "tel": "కల్బ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18817",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kalb",
+    "FLeng": "k",
+    "tel": "కల్బ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18818",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalbi",
+    "FLeng": "K",
+    "tel": "కాల్బి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18819",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Kalbir",
+    "FLeng": "K",
+    "tel": "కాల్బిర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18820",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kaldeep",
+    "FLeng": "K",
+    "tel": "కుల్దీప్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18821",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaldhuta",
+    "FLeng": "K",
+    "tel": "కల్దుట",
+    "FLtel": "క"
+  },
+  {
+    "id": "18822",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kale",
+    "FLeng": "K",
+    "tel": "కాలే",
+    "FLtel": "క"
+  },
+  {
+    "id": "18823",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kale",
+    "FLeng": "k",
+    "tel": "కాలే",
+    "FLtel": "క"
+  },
+  {
+    "id": "18824",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalead",
+    "FLeng": "K",
+    "tel": "కాల్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18825",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kaleb",
+    "FLeng": "K",
+    "tel": "కాలేబు",
+    "FLtel": "క"
+  },
+  {
+    "id": "18826",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kaleb",
+    "FLeng": "k",
+    "tel": "కాలేబు",
+    "FLtel": "క"
+  },
+  {
+    "id": "18827",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaleecharan",
+    "FLeng": "K",
+    "tel": "కాళీచరణ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18828",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kaleel",
+    "FLeng": "K",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "18829",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kaleem",
+    "FLeng": "K",
+    "tel": "కాలేయం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18830",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalel",
+    "FLeng": "K",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "18831",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kalel",
+    "FLeng": "k",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "18832",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kalem",
+    "FLeng": "K",
+    "tel": "కాలేయం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18833",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "kalem",
+    "FLeng": "k",
+    "tel": "కాలేయం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18834",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalendu",
+    "FLeng": "K",
+    "tel": "కాలేదు",
+    "FLtel": "క"
+  },
+  {
+    "id": "18835",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kaleph",
+    "FLeng": "K",
+    "tel": "కాలిఫ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18836",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalesh",
+    "FLeng": "K",
+    "tel": "కాల్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18837",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalford",
+    "FLeng": "K",
+    "tel": "కాలిఫోర్డ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18838",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalfr",
+    "FLeng": "K",
+    "tel": "కాల్ఫ్ర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18839",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalhan",
+    "FLeng": "K",
+    "tel": "కలహం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18840",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalhana",
+    "FLeng": "K",
+    "tel": "కల్హణ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18841",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalhans",
+    "FLeng": "K",
+    "tel": "కల్హన్స్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18842",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalhar",
+    "FLeng": "K",
+    "tel": "కల్హర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18843",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalhara",
+    "FLeng": "K",
+    "tel": "కల్హార",
+    "FLtel": "క"
+  },
+  {
+    "id": "18844",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalia",
+    "FLeng": "K",
+    "tel": "కలియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18845",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kaliannan",
+    "FLeng": "K",
+    "tel": "కలిఅన్నన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18846",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kaliappa",
+    "FLeng": "K",
+    "tel": "కాళియప్ప",
+    "FLtel": "క"
+  },
+  {
+    "id": "18847",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaliappan",
+    "FLeng": "K",
+    "tel": "కాళియప్పన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18848",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalib",
+    "FLeng": "K",
+    "tel": "గాలిబ్",
+    "FLtel": "గ"
+  },
+  {
+    "id": "18849",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalicharan",
+    "FLeng": "K",
+    "tel": "కలిచారం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18850",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalidaas",
+    "FLeng": "K",
+    "tel": "కాళిదాస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18851",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalidas",
+    "FLeng": "K",
+    "tel": "కాళిదాస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18852",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalidasa",
+    "FLeng": "K",
+    "tel": "కాళిదాస",
+    "FLtel": "క"
+  },
+  {
+    "id": "18853",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalidass",
+    "FLeng": "K",
+    "tel": "కాళిదాస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18854",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalidoss",
+    "FLeng": "K",
+    "tel": "కలిదోస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18855",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalifah",
+    "FLeng": "K",
+    "tel": "ఖలీఫహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "18856",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalijan",
+    "FLeng": "K",
+    "tel": "కలిజం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalikesh",
+    "FLeng": "K",
+    "tel": "కాలికేష్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18858",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalil",
+    "FLeng": "K",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "18859",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalim",
+    "FLeng": "K",
+    "tel": "కాలిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18860",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalim-Ud-Din",
+    "FLeng": "K",
+    "tel": "కాలిం-ఉడ్-దిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18861",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalimohan",
+    "FLeng": "K",
+    "tel": "కాళీమోహన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18862",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalimuddin",
+    "FLeng": "K",
+    "tel": "కలీముద్దీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18863",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kalimullah",
+    "FLeng": "K",
+    "tel": "కలీముల్లాహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18864",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalin",
+    "FLeng": "K",
+    "tel": "కాలిం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18865",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalind",
+    "FLeng": "K",
+    "tel": "కాలింది",
+    "FLtel": "క"
+  },
+  {
+    "id": "18866",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalindra",
+    "FLeng": "K",
+    "tel": "కాలిన్ద్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "18867",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaling",
+    "FLeng": "K",
+    "tel": "కాలింగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18868",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalinga",
+    "FLeng": "K",
+    "tel": "కళింగ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18869",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalingan",
+    "FLeng": "K",
+    "tel": "కాలింగం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18870",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalipada",
+    "FLeng": "K",
+    "tel": "కలిపాడా",
+    "FLtel": "క"
+  },
+  {
+    "id": "18871",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Kaliph",
+    "FLeng": "K",
+    "tel": "కాలిఫ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18872",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kalipi",
+    "FLeng": "K",
+    "tel": "కలిపి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18873",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaliprasanna",
+    "FLeng": "K",
+    "tel": "కలిప్రసన్న",
+    "FLtel": "క"
+  },
+  {
+    "id": "18874",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Kaliram",
+    "FLeng": "K",
+    "tel": "కలిరం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18875",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaliranjan",
+    "FLeng": "K",
+    "tel": "కలిరంజన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18876",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalirathinam",
+    "FLeng": "K",
+    "tel": "కలిరతినం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18877",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalit",
+    "FLeng": "K",
+    "tel": "క్వాలిటీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18878",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalith",
+    "FLeng": "K",
+    "tel": "కలిత",
+    "FLtel": "క"
+  },
+  {
+    "id": "18879",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kalix",
+    "FLeng": "K",
+    "tel": "కలిస్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18880",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaliya",
+    "FLeng": "K",
+    "tel": "కలియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "18881",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaliyah",
+    "FLeng": "K",
+    "tel": "కలియహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "18882",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kaliyugavaradhan",
+    "FLeng": "K",
+    "tel": "కలియుగావరదం",
+    "FLtel": "క"
+  },
+  {
+    "id": "18883",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalki",
+    "FLeng": "K",
+    "tel": "కల్కి",
+    "FLtel": "క"
+  },
+  {
+    "id": "18884",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kalkin",
+    "FLeng": "K",
+    "tel": "కల్కిన్",
+    "FLtel": "క"
+  }
+]

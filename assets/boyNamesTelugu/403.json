@@ -1,0 +1,821 @@
+[
+  {
+    "id": "29010",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Noll",
+    "FLeng": "N",
+    "tel": "నోల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29011",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "noll",
+    "FLeng": "n",
+    "tel": "నోల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29012",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nollie",
+    "FLeng": "N",
+    "tel": "నొల్లదు",
+    "FLtel": "న"
+  },
+  {
+    "id": "29013",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nollie",
+    "FLeng": "n",
+    "tel": "నొల్లదు",
+    "FLtel": "న"
+  },
+  {
+    "id": "29014",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nomaan",
+    "FLeng": "N",
+    "tel": "నోమాన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29015",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Nomar",
+    "FLeng": "N",
+    "tel": "నోమార్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29016",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nomesh",
+    "FLeng": "N",
+    "tel": "నోమెష్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29017",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nomit",
+    "FLeng": "N",
+    "tel": "నోమిటీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "29018",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nomita",
+    "FLeng": "N",
+    "tel": "నోమిటా",
+    "FLtel": "న"
+  },
+  {
+    "id": "29019",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Nonu",
+    "FLeng": "N",
+    "tel": "నేను",
+    "FLtel": "న"
+  },
+  {
+    "id": "29020",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nooa",
+    "FLeng": "N",
+    "tel": "నూతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "29021",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "nooa",
+    "FLeng": "n",
+    "tel": "నూతి",
+    "FLtel": "న"
+  },
+  {
+    "id": "29022",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Noodan",
+    "FLeng": "N",
+    "tel": "నూదన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29023",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Noodanan",
+    "FLeng": "N",
+    "tel": "నూదనం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29024",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nooh",
+    "FLeng": "N",
+    "tel": "నూహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29025",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noomyalay",
+    "FLeng": "N",
+    "tel": "నూమ్యాలే",
+    "FLtel": "న"
+  },
+  {
+    "id": "29026",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noon",
+    "FLeng": "N",
+    "tel": "నూన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29027",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noor al din",
+    "FLeng": "N",
+    "tel": "నూర్ అల దిం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29028",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noor Muhammad",
+    "FLeng": "N",
+    "tel": "నూర్ ముహమ్మద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29029",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noor Udeen",
+    "FLeng": "N",
+    "tel": "నూర్ ఉద్దీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29030",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Noordeep",
+    "FLeng": "N",
+    "tel": "నూరుదీప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29031",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Noordev",
+    "FLeng": "N",
+    "tel": "నూరుదేవ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29032",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nooreen",
+    "FLeng": "N",
+    "tel": "నూరీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29033",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noori",
+    "FLeng": "N",
+    "tel": "నూరి",
+    "FLtel": "న"
+  },
+  {
+    "id": "29034",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noormuhammad",
+    "FLeng": "N",
+    "tel": "నోర్ముహమ్మద్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29035",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Noorneet",
+    "FLeng": "N",
+    "tel": "నూరానీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29036",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Noorpreet",
+    "FLeng": "N",
+    "tel": "నూరిప్రీత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29037",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nooruddeen",
+    "FLeng": "N",
+    "tel": "నూరుద్దీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29038",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nooruddin",
+    "FLeng": "N",
+    "tel": "నూరుద్దీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29039",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorudean",
+    "FLeng": "N",
+    "tel": "నూరుడీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29040",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorudeen",
+    "FLeng": "N",
+    "tel": "నూరుద్దీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29041",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorul Absar",
+    "FLeng": "N",
+    "tel": "నూరుల్ అబ్సర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29042",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorul Ayn",
+    "FLeng": "N",
+    "tel": "నూరుల్ ఐన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29043",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorul Huda",
+    "FLeng": "N",
+    "tel": "నూరుల్ హుడా",
+    "FLtel": "న"
+  },
+  {
+    "id": "29044",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorulabsar",
+    "FLeng": "N",
+    "tel": "నూరులబ్సర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29045",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorulayn",
+    "FLeng": "N",
+    "tel": "నూరులయఁ",
+    "FLtel": "న"
+  },
+  {
+    "id": "29046",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noorullah",
+    "FLeng": "N",
+    "tel": "నూరుల్లాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29047",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nooruz Zaman",
+    "FLeng": "N",
+    "tel": "నూరుజ్ జామున్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29048",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Nooruzia",
+    "FLeng": "N",
+    "tel": "నూరుజిత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29049",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Nopaltzin",
+    "FLeng": "N",
+    "tel": "నోపల్టజిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29050",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nor",
+    "FLeng": "N",
+    "tel": "నొర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29051",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noraiz",
+    "FLeng": "N",
+    "tel": "నోరైజ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29052",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Noralee",
+    "FLeng": "N",
+    "tel": "నోరాలీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "29053",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norbert",
+    "FLeng": "N",
+    "tel": "నోరుబెర్ట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29054",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "norbert",
+    "FLeng": "n",
+    "tel": "నోరుబెర్ట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29055",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norberto",
+    "FLeng": "N",
+    "tel": "నోరుబెర్టో",
+    "FLtel": "న"
+  },
+  {
+    "id": "29056",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norcross",
+    "FLeng": "N",
+    "tel": "నోర్క్రోస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29057",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nordman",
+    "FLeng": "N",
+    "tel": "నోర్డ్మం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29058",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Noreaksey",
+    "FLeng": "N",
+    "tel": "నోరెలాక్సెయ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29059",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "norfolk",
+    "FLeng": "n",
+    "tel": "నార్ఫోక్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29060",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norgales",
+    "FLeng": "N",
+    "tel": "నోరుగల్స్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29061",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Norice",
+    "FLeng": "N",
+    "tel": "నొరిసి",
+    "FLtel": "న"
+  },
+  {
+    "id": "29062",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norin",
+    "FLeng": "N",
+    "tel": "నోరిన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29063",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Noris",
+    "FLeng": "N",
+    "tel": "నోరిస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29064",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Noritaka",
+    "FLeng": "N",
+    "tel": "నోరిటాకే",
+    "FLtel": "న"
+  },
+  {
+    "id": "29065",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norm",
+    "FLeng": "N",
+    "tel": "నొర్ం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29066",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "norm",
+    "FLeng": "n",
+    "tel": "నొర్ం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29067",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norma",
+    "FLeng": "N",
+    "tel": "నార్మా",
+    "FLtel": "న"
+  },
+  {
+    "id": "29068",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norman",
+    "FLeng": "N",
+    "tel": "నార్మన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29069",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "norman",
+    "FLeng": "n",
+    "tel": "నార్మన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29070",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Normand",
+    "FLeng": "N",
+    "tel": "నార్మాండ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29071",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Normann",
+    "FLeng": "N",
+    "tel": "నార్మన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29072",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Normannus",
+    "FLeng": "N",
+    "tel": "నోర్మాన్స్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29073",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Normen",
+    "FLeng": "N",
+    "tel": "నార్మెన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29074",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Normie",
+    "FLeng": "N",
+    "tel": "నొరమై",
+    "FLtel": "న"
+  },
+  {
+    "id": "29075",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Normy",
+    "FLeng": "N",
+    "tel": "నోర్మ్య్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29076",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Norr",
+    "FLeng": "N",
+    "tel": "నోరు",
+    "FLtel": "న"
+  },
+  {
+    "id": "29077",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norris",
+    "FLeng": "N",
+    "tel": "నోరూరిస్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29078",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norrshant",
+    "FLeng": "N",
+    "tel": "నోర్వర్షన్ట్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29079",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norryl",
+    "FLeng": "N",
+    "tel": "నోర్య్ల",
+    "FLtel": "న"
+  },
+  {
+    "id": "29080",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nortan",
+    "FLeng": "N",
+    "tel": "నార్తన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29081",
+    "gen": "male",
+    "rel": "others",
+    "eng": "North",
+    "FLeng": "N",
+    "tel": "నార్త్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29082",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northclif",
+    "FLeng": "N",
+    "tel": "నోర్త్క్లిఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29083",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northcliff",
+    "FLeng": "N",
+    "tel": "నోర్త్క్లిఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29084",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "northcliff",
+    "FLeng": "n",
+    "tel": "నోర్త్క్లిఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29085",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northcliffe",
+    "FLeng": "N",
+    "tel": "నోర్త్క్లిఫ్ఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29086",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northclyf",
+    "FLeng": "N",
+    "tel": "నోర్థ్సీలీఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29087",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northclyff",
+    "FLeng": "N",
+    "tel": "నోర్థ్సీలీఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29088",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northclyffe",
+    "FLeng": "N",
+    "tel": "నోర్థ్సీలీఫ్ఫ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29089",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northman",
+    "FLeng": "N",
+    "tel": "నోరుత్మం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29090",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northrop",
+    "FLeng": "N",
+    "tel": "నోర్థ్రోప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29091",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "northrop",
+    "FLeng": "n",
+    "tel": "నోర్థ్రోప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29092",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northrup",
+    "FLeng": "N",
+    "tel": "నొర్తృప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29093",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northtun",
+    "FLeng": "N",
+    "tel": "నోర్త్తుం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29094",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Northwode",
+    "FLeng": "N",
+    "tel": "నోర్థ్వడే",
+    "FLtel": "న"
+  },
+  {
+    "id": "29095",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nortin",
+    "FLeng": "N",
+    "tel": "నార్తిం",
+    "FLtel": "న"
+  },
+  {
+    "id": "29096",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Norton",
+    "FLeng": "N",
+    "tel": "నార్టన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29097",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "norton",
+    "FLeng": "n",
+    "tel": "నార్టన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29098",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nortrop",
+    "FLeng": "N",
+    "tel": "నోర్ట్రోపీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "29099",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Nortrup",
+    "FLeng": "N",
+    "tel": "నోర్తృప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "29100",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Norulhuda",
+    "FLeng": "N",
+    "tel": "నొరులహుదా",
+    "FLtel": "న"
+  }
+]

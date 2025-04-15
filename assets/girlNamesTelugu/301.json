@@ -1,0 +1,722 @@
+[
+  {
+    "id": "119770",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muniya",
+    "FLeng": "M",
+    "tel": "మునియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119771",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muniza",
+    "FLeng": "M",
+    "tel": "మునిజ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119772",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Munize",
+    "FLeng": "M",
+    "tel": "మునిజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119773",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Munjula",
+    "FLeng": "M",
+    "tel": "మంజుల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119774",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Munmun",
+    "FLeng": "M",
+    "tel": "మున్ముం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119775",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Munni",
+    "FLeng": "M",
+    "tel": "మున్ని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119776",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muntaha",
+    "FLeng": "M",
+    "tel": "ముంతహా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119777",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muntaz",
+    "FLeng": "M",
+    "tel": "ముంతాజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119778",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Murdiyyah",
+    "FLeng": "M",
+    "tel": "మూర్దియ్యహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119779",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Murial",
+    "FLeng": "M",
+    "tel": "మురియల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119780",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Muriel",
+    "FLeng": "M",
+    "tel": "మురియల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119781",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Murigo",
+    "FLeng": "M",
+    "tel": "మురిగి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119782",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Murisa",
+    "FLeng": "M",
+    "tel": "మురిసా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119783",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Murjanah",
+    "FLeng": "M",
+    "tel": "మురజనః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119784",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "murran",
+    "FLeng": "m",
+    "tel": "ముర్రం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119785",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Murshidah",
+    "FLeng": "M",
+    "tel": "ముర్షిదాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119786",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Murthel",
+    "FLeng": "M",
+    "tel": "మూర్తేల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119787",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Murudi",
+    "FLeng": "M",
+    "tel": "మురుడి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119788",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Murugalakshmi",
+    "FLeng": "M",
+    "tel": "మురుగలక్ష్మి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119789",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Murugeswari",
+    "FLeng": "M",
+    "tel": "మురుగేశ్వరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119790",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muruj",
+    "FLeng": "M",
+    "tel": "మురుజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119791",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Musaykah",
+    "FLeng": "M",
+    "tel": "ముసాయికాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119792",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "muse",
+    "FLeng": "m",
+    "tel": "మూస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119793",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "musetta",
+    "FLeng": "m",
+    "tel": "మూసేత్తా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119794",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Musfirah",
+    "FLeng": "M",
+    "tel": "ముసఫరాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119795",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Musharrifa",
+    "FLeng": "M",
+    "tel": "మూశారరీఫే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119796",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Musheera",
+    "FLeng": "M",
+    "tel": "ముషీరా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119797",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mushira",
+    "FLeng": "M",
+    "tel": "ముషీరా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119798",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muskaan",
+    "FLeng": "M",
+    "tel": "ముస్కాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119799",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muskan",
+    "FLeng": "M",
+    "tel": "ముస్కాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119800",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muslimah",
+    "FLeng": "M",
+    "tel": "ముస్లిమాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119801",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Musn",
+    "FLeng": "M",
+    "tel": "మూసను",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119802",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Musnah",
+    "FLeng": "M",
+    "tel": "ముసనః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119803",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mussah",
+    "FLeng": "M",
+    "tel": "ముస్సహః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119804",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mussaret",
+    "FLeng": "M",
+    "tel": "ముస్సారేట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119805",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mustika",
+    "FLeng": "M",
+    "tel": "ముష్ఠిక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119806",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mutahharah",
+    "FLeng": "M",
+    "tel": "ముతహరః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119807",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Mutazah",
+    "FLeng": "M",
+    "tel": "ముతాజాహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119808",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mutha",
+    "FLeng": "M",
+    "tel": "ముథ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119809",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthalagi",
+    "FLeng": "M",
+    "tel": "ముఠాలాగి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119810",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthamil",
+    "FLeng": "M",
+    "tel": "ముతమిల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119811",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthamizharasi",
+    "FLeng": "M",
+    "tel": "ముత్తమీజరసి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119812",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthammal",
+    "FLeng": "M",
+    "tel": "ముతమ్మాల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119813",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mutharasi",
+    "FLeng": "M",
+    "tel": "ముతరాసి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119814",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthelil",
+    "FLeng": "M",
+    "tel": "ముతేలిల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119815",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mutholi",
+    "FLeng": "M",
+    "tel": "ముథాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119816",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Muthoni",
+    "FLeng": "M",
+    "tel": "ముథాని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119817",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthulakshmi",
+    "FLeng": "M",
+    "tel": "ముత్తులక్ష్మి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119818",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthumalai",
+    "FLeng": "M",
+    "tel": "ముత్తుమలై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119819",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthumari",
+    "FLeng": "M",
+    "tel": "ముత్తుమరి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119820",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthunagai",
+    "FLeng": "M",
+    "tel": "ముథునాగై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119821",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muthuselvi",
+    "FLeng": "M",
+    "tel": "ముథుసెల్వి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119822",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Muyal",
+    "FLeng": "M",
+    "tel": "మూయాలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119823",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muzaynah",
+    "FLeng": "M",
+    "tel": "ముజాయినః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119824",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muzhirah",
+    "FLeng": "M",
+    "tel": "ముజహీరహ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119825",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muzna",
+    "FLeng": "M",
+    "tel": "ముజన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119826",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Muznah",
+    "FLeng": "M",
+    "tel": "ముజనః",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119827",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mwassaa",
+    "FLeng": "M",
+    "tel": "మరస్సా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119828",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "my",
+    "FLeng": "m",
+    "tel": "మై",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119829",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mya",
+    "FLeng": "M",
+    "tel": "మ్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119830",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mya",
+    "FLeng": "m",
+    "tel": "మ్య",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119831",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myah",
+    "FLeng": "m",
+    "tel": "ముయ్హ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119832",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mychaela",
+    "FLeng": "M",
+    "tel": "మైఖేల్త్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119833",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mydrede",
+    "FLeng": "M",
+    "tel": "మిడ్రేడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119834",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Myiesha",
+    "FLeng": "M",
+    "tel": "మైయిషా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119835",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myla",
+    "FLeng": "m",
+    "tel": "మిల",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119836",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myldrede",
+    "FLeng": "M",
+    "tel": "మిల్డ్రేడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119837",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mylecent",
+    "FLeng": "M",
+    "tel": "మిలెసెంట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119838",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mylee",
+    "FLeng": "m",
+    "tel": "మిలీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119839",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mylene",
+    "FLeng": "M",
+    "tel": "మిలెనే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119840",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mylla",
+    "FLeng": "M",
+    "tel": "మైళ్ళ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119841",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mylle",
+    "FLeng": "M",
+    "tel": "మిల్లె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119842",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myna",
+    "FLeng": "M",
+    "tel": "మైన",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119843",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mynah",
+    "FLeng": "M",
+    "tel": "మినహా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119844",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mynavathi",
+    "FLeng": "M",
+    "tel": "మైనవతి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119845",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "mynte",
+    "FLeng": "m",
+    "tel": "మైనంటే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119846",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myosotis",
+    "FLeng": "m",
+    "tel": "మయోసిటిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119847",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myra",
+    "FLeng": "m",
+    "tel": "మీరు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119848",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myranda",
+    "FLeng": "M",
+    "tel": "మిరాండా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119849",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Myreen",
+    "FLeng": "M",
+    "tel": "మిరీన్",
+    "FLtel": "మ"
+  }
+]

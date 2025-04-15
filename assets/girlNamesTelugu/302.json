@@ -1,0 +1,758 @@
+[
+  {
+    "id": "119850",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myria",
+    "FLeng": "M",
+    "tel": "మిరియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119851",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myriam",
+    "FLeng": "M",
+    "tel": "మిరియం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119852",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myrle",
+    "FLeng": "M",
+    "tel": "మిథిలే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119853",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myrna",
+    "FLeng": "m",
+    "tel": "మిరం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119854",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myrthe",
+    "FLeng": "m",
+    "tel": "మిరితే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119855",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myrtis",
+    "FLeng": "M",
+    "tel": "మైర్టిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119856",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "myrtle",
+    "FLeng": "m",
+    "tel": "మిర్ట్లే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119857",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mysa",
+    "FLeng": "M",
+    "tel": "మిస",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119858",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mysha",
+    "FLeng": "M",
+    "tel": "మిష",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119859",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mystee",
+    "FLeng": "M",
+    "tel": "మిస్తీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119860",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mysti",
+    "FLeng": "M",
+    "tel": "మిస్తీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119861",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mysticah",
+    "FLeng": "M",
+    "tel": "మిష్టికాహా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119862",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythili",
+    "FLeng": "M",
+    "tel": "మైథిలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119863",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythilli",
+    "FLeng": "M",
+    "tel": "మైథిలి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119864",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythily",
+    "FLeng": "M",
+    "tel": "మైథిలీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119865",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythradevi",
+    "FLeng": "M",
+    "tel": "మిత్రాదేవి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119866",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythrashini",
+    "FLeng": "M",
+    "tel": "మిత్రశిని",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119867",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythreyi",
+    "FLeng": "M",
+    "tel": "మైత్రేయి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119868",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythri",
+    "FLeng": "M",
+    "tel": "మైత్రి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119869",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Mythula",
+    "FLeng": "M",
+    "tel": "మిథులా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119870",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mytria",
+    "FLeng": "M",
+    "tel": "మిత్రిణా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119871",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Mytrice",
+    "FLeng": "M",
+    "tel": "మైత్రీస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119872",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myung Hee",
+    "FLeng": "M",
+    "tel": "మ్యూన్గ్ హీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119873",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Myung-Ok",
+    "FLeng": "M",
+    "tel": "మ్యూన్గ్-ఓకే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "119874",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Na",
+    "FLeng": "N",
+    "tel": "న",
+    "FLtel": "న"
+  },
+  {
+    "id": "119875",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Na'ilah",
+    "FLeng": "N",
+    "tel": "న'ఇలాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119876",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Na'ima",
+    "FLeng": "N",
+    "tel": "న'ఇమా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119877",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Na'imah",
+    "FLeng": "N",
+    "tel": "న'యమః",
+    "FLtel": "న"
+  },
+  {
+    "id": "119878",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naa'irah",
+    "FLeng": "N",
+    "tel": "నా'ఇరః",
+    "FLtel": "న"
+  },
+  {
+    "id": "119879",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naadavalli",
+    "FLeng": "N",
+    "tel": "నడవాలి",
+    "FLtel": "న"
+  },
+  {
+    "id": "119880",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naadha",
+    "FLeng": "N",
+    "tel": "నాధా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119881",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naadhira",
+    "FLeng": "N",
+    "tel": "నాదిరా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119882",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naadia",
+    "FLeng": "N",
+    "tel": "నాడియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119883",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naadira",
+    "FLeng": "N",
+    "tel": "నాదిరా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119884",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Naadirah",
+    "FLeng": "N",
+    "tel": "నాదిరాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119885",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naafi",
+    "FLeng": "N",
+    "tel": "నాఫై",
+    "FLtel": "న"
+  },
+  {
+    "id": "119886",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naagadhvani",
+    "FLeng": "N",
+    "tel": "నాగధ్వని",
+    "FLtel": "న"
+  },
+  {
+    "id": "119887",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naagasree",
+    "FLeng": "N",
+    "tel": "నాగశ్రీ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119888",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naagavalli",
+    "FLeng": "N",
+    "tel": "నాగవల్లి",
+    "FLtel": "న"
+  },
+  {
+    "id": "119889",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naailah",
+    "FLeng": "N",
+    "tel": "నాఇలాహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119890",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naajia",
+    "FLeng": "N",
+    "tel": "నాజియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119891",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naajidah",
+    "FLeng": "N",
+    "tel": "నాజిదః",
+    "FLtel": "న"
+  },
+  {
+    "id": "119892",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naakaiah",
+    "FLeng": "N",
+    "tel": "నాకేయ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "119893",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naama",
+    "FLeng": "N",
+    "tel": "నామ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119894",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naamagal",
+    "FLeng": "N",
+    "tel": "నామగళ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119895",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naamah",
+    "FLeng": "N",
+    "tel": "నమః",
+    "FLtel": "న"
+  },
+  {
+    "id": "119896",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naami",
+    "FLeng": "N",
+    "tel": "నామి",
+    "FLtel": "న"
+  },
+  {
+    "id": "119897",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naamkeerat",
+    "FLeng": "N",
+    "tel": "నామకీరత్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119898",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Naamnirmal",
+    "FLeng": "N",
+    "tel": "నాంనిర్మలః",
+    "FLtel": "న"
+  },
+  {
+    "id": "119899",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Naamroop",
+    "FLeng": "N",
+    "tel": "నామరూప్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119900",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Naamseetal",
+    "FLeng": "N",
+    "tel": "నాంసీతల్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119901",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Naamsukh",
+    "FLeng": "N",
+    "tel": "నాంసుఖ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119902",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naana",
+    "FLeng": "N",
+    "tel": "నానా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119903",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naandhi",
+    "FLeng": "N",
+    "tel": "నాంది",
+    "FLtel": "న"
+  },
+  {
+    "id": "119904",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naarah",
+    "FLeng": "N",
+    "tel": "నరః",
+    "FLtel": "న"
+  },
+  {
+    "id": "119905",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naarayani",
+    "FLeng": "N",
+    "tel": "నారాయణి",
+    "FLtel": "న"
+  },
+  {
+    "id": "119906",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naasima",
+    "FLeng": "N",
+    "tel": "నాసీమ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119907",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naasira",
+    "FLeng": "N",
+    "tel": "నాసిర",
+    "FLtel": "న"
+  },
+  {
+    "id": "119908",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Naasya",
+    "FLeng": "N",
+    "tel": "నాస్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "119909",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naatika",
+    "FLeng": "N",
+    "tel": "నాటిక",
+    "FLtel": "న"
+  },
+  {
+    "id": "119910",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naava",
+    "FLeng": "N",
+    "tel": "నావ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119911",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "naava",
+    "FLeng": "n",
+    "tel": "నావ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119912",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naavah",
+    "FLeng": "N",
+    "tel": "నావహ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119913",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Naavya",
+    "FLeng": "N",
+    "tel": "నవ్య",
+    "FLtel": "న"
+  },
+  {
+    "id": "119914",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Naayantara",
+    "FLeng": "N",
+    "tel": "నాయంటారా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119915",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naaz",
+    "FLeng": "N",
+    "tel": "నాజ్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119916",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naazima",
+    "FLeng": "N",
+    "tel": "నాజిమ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119917",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naazira",
+    "FLeng": "N",
+    "tel": "నాజిరా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119918",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naazneen",
+    "FLeng": "N",
+    "tel": "నాజనీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119919",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Naazreen",
+    "FLeng": "N",
+    "tel": "నాజ్రీన్",
+    "FLtel": "న"
+  },
+  {
+    "id": "119920",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Naba",
+    "FLeng": "N",
+    "tel": "నాబా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119921",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nabah",
+    "FLeng": "N",
+    "tel": "నాభ",
+    "FLtel": "న"
+  },
+  {
+    "id": "119922",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nabaha",
+    "FLeng": "N",
+    "tel": "నాభా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119923",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabakalika",
+    "FLeng": "N",
+    "tel": "నబాకలికా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119924",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabamallika",
+    "FLeng": "N",
+    "tel": "నాబామల్లికా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119925",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabami",
+    "FLeng": "N",
+    "tel": "నాబామి",
+    "FLtel": "న"
+  },
+  {
+    "id": "119926",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabamita",
+    "FLeng": "N",
+    "tel": "నాబామిటా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119927",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Nabaneeta",
+    "FLeng": "N",
+    "tel": "నాభానేత",
+    "FLtel": "న"
+  },
+  {
+    "id": "119928",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabani",
+    "FLeng": "N",
+    "tel": "నాభాని",
+    "FLtel": "న"
+  },
+  {
+    "id": "119929",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabanipa",
+    "FLeng": "N",
+    "tel": "నాబానిపై",
+    "FLtel": "న"
+  },
+  {
+    "id": "119930",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabanita",
+    "FLeng": "N",
+    "tel": "నాబాణిత",
+    "FLtel": "న"
+  },
+  {
+    "id": "119931",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Nabanna",
+    "FLeng": "N",
+    "tel": "నాబన్న",
+    "FLtel": "న"
+  },
+  {
+    "id": "119932",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nabawiya",
+    "FLeng": "N",
+    "tel": "నాబావియా",
+    "FLtel": "న"
+  },
+  {
+    "id": "119933",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Nabeeha",
+    "FLeng": "N",
+    "tel": "నబీహా",
+    "FLtel": "న"
+  }
+]

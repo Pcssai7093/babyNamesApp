@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:baby_names/ObjectBox/NamesModelTelugu.dart';
 import 'package:baby_names/ObjectBox/NamesModelTeluguLiked.dart';
 import 'package:flutter/material.dart';
-// import 'package:flutter_tts/flutter_tts.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 
 import '../../main.dart';
 import '../../objectbox.g.dart';
@@ -27,13 +27,13 @@ class _nameItemState extends State<nameItem> {
 
   bool isLiked = false;
 
-  // void speakText(String text) async {
-  //   await flutterTts.speak(text);
-  // }
-  //
-  // void stopSpeaking() async {
-  //   await flutterTts.stop();
-  // }
+  void speakText(String text) async {
+    await flutterTts.speak(text);
+  }
+
+  void stopSpeaking() async {
+    await flutterTts.stop();
+  }
 
   void initState(){
     super.initState();
@@ -174,7 +174,7 @@ class _nameItemState extends State<nameItem> {
                 child: InkWell(
                   onTap: () {
                     print("Tapped2!");
-                    // flutterTts.speak(widget.nameData?.teluguName ?? "");
+                    flutterTts.speak(widget.nameData?.teluguName ?? "");
                   },
                   splashColor: Colors.blue.withOpacity(1), // Ripple effect
                   highlightColor: Colors.blue.withOpacity(0.2), // Pressed effect

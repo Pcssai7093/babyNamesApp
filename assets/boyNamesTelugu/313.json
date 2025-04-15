@@ -1,0 +1,803 @@
+[
+  {
+    "id": "20253",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "keylor",
+    "FLeng": "k",
+    "tel": "కీలా",
+    "FLtel": "క"
+  },
+  {
+    "id": "20254",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Keyon",
+    "FLeng": "K",
+    "tel": "కెయిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20255",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "keyon",
+    "FLeng": "k",
+    "tel": "కెయిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20256",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Keyona",
+    "FLeng": "K",
+    "tel": "కేయినా",
+    "FLtel": "క"
+  },
+  {
+    "id": "20257",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Keytcn",
+    "FLeng": "K",
+    "tel": "కీటకన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20258",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Keyton",
+    "FLeng": "K",
+    "tel": "కీటోన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20259",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Keyur",
+    "FLeng": "K",
+    "tel": "కేయూర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20260",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Keyurin",
+    "FLeng": "K",
+    "tel": "కేయూరిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20261",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Keyush",
+    "FLeng": "K",
+    "tel": "కేయూష్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20262",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Keziah",
+    "FLeng": "K",
+    "tel": "కేజ్రీయాహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20263",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kezziah",
+    "FLeng": "K",
+    "tel": "కేజ్య్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "20264",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Kfir",
+    "FLeng": "K",
+    "tel": "కఫ",
+    "FLtel": "క"
+  },
+  {
+    "id": "20265",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Kh",
+    "FLeng": "K",
+    "tel": "ఖ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20266",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaadim",
+    "FLeng": "K",
+    "tel": "ఖాసిమ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20267",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaalid",
+    "FLeng": "K",
+    "tel": "ఖాలిద్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20268",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khaathwik",
+    "FLeng": "K",
+    "tel": "ఖాత్విక్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20269",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaatir",
+    "FLeng": "K",
+    "tel": "ఖాతిర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20270",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaawar",
+    "FLeng": "K",
+    "tel": "ఖావర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20271",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaazin",
+    "FLeng": "K",
+    "tel": "ఖాజిన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20272",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khabbab",
+    "FLeng": "K",
+    "tel": "కబ్బబ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20273",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khabeer",
+    "FLeng": "K",
+    "tel": "కబీర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20274",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khabir",
+    "FLeng": "K",
+    "tel": "కబీర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20275",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Khadavaprastha",
+    "FLeng": "K",
+    "tel": "ఖాదవప్రస్థా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20276",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khadeem",
+    "FLeng": "K",
+    "tel": "ఖాదీం",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20277",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khader",
+    "FLeng": "K",
+    "tel": "ఖదీర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20278",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khadga",
+    "FLeng": "K",
+    "tel": "ఖడ్గ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20279",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khadim",
+    "FLeng": "K",
+    "tel": "ఖండిం",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20280",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khadin",
+    "FLeng": "K",
+    "tel": "ఖండిం",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20281",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khadir",
+    "FLeng": "K",
+    "tel": "ఖాదిర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20282",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khadri",
+    "FLeng": "K",
+    "tel": "ఖాద్రి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20283",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Khadyotana",
+    "FLeng": "K",
+    "tel": "ఖద్యోతన",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20284",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khadyothan",
+    "FLeng": "K",
+    "tel": "ఖద్యోతను",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20285",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khafid",
+    "FLeng": "K",
+    "tel": "ఖాఫిడ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20286",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khafiz",
+    "FLeng": "K",
+    "tel": "ఖాఫిజ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20287",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Khaga",
+    "FLeng": "K",
+    "tel": "కాగా",
+    "FLtel": "క"
+  },
+  {
+    "id": "20288",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khagendra",
+    "FLeng": "K",
+    "tel": "ఖగేంద్ర",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20289",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khagesh",
+    "FLeng": "K",
+    "tel": "ఖగేష్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20290",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Khagesha",
+    "FLeng": "K",
+    "tel": "ఖగేశా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20291",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaghalay",
+    "FLeng": "K",
+    "tel": "ఖగ్గలే",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20292",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khai",
+    "FLeng": "K",
+    "tel": "ఖై",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20293",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khair Al Din",
+    "FLeng": "K",
+    "tel": "ఖైర్ ఆల్ దిన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20294",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khair Udeen",
+    "FLeng": "K",
+    "tel": "ఖైర్ ఉద్దీన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20295",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairaat",
+    "FLeng": "K",
+    "tel": "ఖైరాత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20296",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairaldin",
+    "FLeng": "K",
+    "tel": "ఖైరాలందిం",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20297",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairi",
+    "FLeng": "K",
+    "tel": "ఖైరి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20298",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairuddin",
+    "FLeng": "K",
+    "tel": "ఖైరుద్దీన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20299",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairudeen",
+    "FLeng": "K",
+    "tel": "ఖైరుద్దీన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20300",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairudin",
+    "FLeng": "K",
+    "tel": "ఖైరుడి",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20301",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairul",
+    "FLeng": "K",
+    "tel": "ఖైరుల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20302",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairul Bashar",
+    "FLeng": "K",
+    "tel": "ఖైరుల్ బాశారు",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20303",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairulbashar",
+    "FLeng": "K",
+    "tel": "ఖైరుల్బషర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20304",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khairy",
+    "FLeng": "K",
+    "tel": "ఖైరీ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20305",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khajan",
+    "FLeng": "K",
+    "tel": "ఖజానా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20306",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khajeer",
+    "FLeng": "K",
+    "tel": "ఖాజీర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20307",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khajit",
+    "FLeng": "K",
+    "tel": "ఖాజిత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20308",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khajith",
+    "FLeng": "K",
+    "tel": "ఖాజిత్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20309",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khak",
+    "FLeng": "K",
+    "tel": "కాక్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20310",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "khal",
+    "FLeng": "k",
+    "tel": "ఖాలీ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20311",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalaf",
+    "FLeng": "K",
+    "tel": "ఖలాఫ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20312",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalaf Hasan",
+    "FLeng": "K",
+    "tel": "ఖలాఫ్ హాసన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20313",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalafhasan",
+    "FLeng": "K",
+    "tel": "ఖళఫసం",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20314",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Khalakveer",
+    "FLeng": "K",
+    "tel": "ఖలక్వీర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20315",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalam",
+    "FLeng": "K",
+    "tel": "కాలం",
+    "FLtel": "క"
+  },
+  {
+    "id": "20316",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaldoon",
+    "FLeng": "K",
+    "tel": "ఖల్డూన్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20317",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaldun",
+    "FLeng": "K",
+    "tel": "ఖలీడును",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20318",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaled",
+    "FLeng": "K",
+    "tel": "ఖాలెద్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20319",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "khaled",
+    "FLeng": "k",
+    "tel": "ఖాలెద్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20320",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalee",
+    "FLeng": "K",
+    "tel": "ఖాళీ",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20321",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaleed",
+    "FLeng": "K",
+    "tel": "ఖలీద్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20322",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaleefa",
+    "FLeng": "K",
+    "tel": "ఖలీఫా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20323",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaleel",
+    "FLeng": "K",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20324",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "khaleel",
+    "FLeng": "k",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20325",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khaleem",
+    "FLeng": "K",
+    "tel": "ఖలీమ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20326",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalial",
+    "FLeng": "K",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20327",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalid",
+    "FLeng": "K",
+    "tel": "ఖాలిద్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20328",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalid Bin Walid",
+    "FLeng": "K",
+    "tel": "ఖాలిద్ బిన్ వ్యాలిడ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20329",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalidbinwalid",
+    "FLeng": "K",
+    "tel": "ఖాలీద్బింవాలిద్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20330",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalif",
+    "FLeng": "K",
+    "tel": "కాలిఫ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "20331",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalifa",
+    "FLeng": "K",
+    "tel": "ఖలీఫా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20332",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalifah",
+    "FLeng": "K",
+    "tel": "ఖలీఫహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20333",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalig",
+    "FLeng": "K",
+    "tel": "ఖాళీగా",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20334",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalil",
+    "FLeng": "K",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20335",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "khalil",
+    "FLeng": "k",
+    "tel": "ఖలీల్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20336",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalil Al Allah",
+    "FLeng": "K",
+    "tel": "ఖలీల్ అల అల్లాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20337",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalilalallah",
+    "FLeng": "K",
+    "tel": "ఖాళీలలల్లాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20338",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalillah",
+    "FLeng": "K",
+    "tel": "ఖాలిల్లాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20339",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalilullah",
+    "FLeng": "K",
+    "tel": "ఖలీలుల్లాహ్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20340",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Khalilur",
+    "FLeng": "K",
+    "tel": "ఖాళీలూర్",
+    "FLtel": "ఖ"
+  },
+  {
+    "id": "20341",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Khalipha",
+    "FLeng": "K",
+    "tel": "ఖలీఫా",
+    "FLtel": "ఖ"
+  }
+]

@@ -1,0 +1,659 @@
+[
+  {
+    "id": "2932",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chatriya",
+    "FLeng": "C",
+    "tel": "చత్రీయ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2933",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chattarbhoop",
+    "FLeng": "C",
+    "tel": "ఛత్తరభూప్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2934",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chattarbir",
+    "FLeng": "C",
+    "tel": "చట్టరూబీర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2935",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chattarmeet",
+    "FLeng": "C",
+    "tel": "ఛత్తరమీత్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2936",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chattarpal",
+    "FLeng": "C",
+    "tel": "చట్టరూపల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2937",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chattarwant",
+    "FLeng": "C",
+    "tel": "ఛత్తర్వాన్ట్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2938",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chatur",
+    "FLeng": "C",
+    "tel": "చతుర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2939",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaturaanan",
+    "FLeng": "C",
+    "tel": "చతురాణాం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2940",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaturanan",
+    "FLeng": "C",
+    "tel": "చతురాణాం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2941",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaturbahave",
+    "FLeng": "C",
+    "tel": "చతుర్బాహవే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2942",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaturbahu",
+    "FLeng": "C",
+    "tel": "చతుర్బాహు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2943",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaturbhuj",
+    "FLeng": "C",
+    "tel": "చతుర్భుజ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2944",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chaturvedi",
+    "FLeng": "C",
+    "tel": "చతుర్వేది",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2945",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chatwin",
+    "FLeng": "C",
+    "tel": "ఛాత్విన్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2946",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Chatzkel",
+    "FLeng": "C",
+    "tel": "చాట్స్క్ల్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2947",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaucer",
+    "FLeng": "C",
+    "tel": "చౌసెర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2948",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaun",
+    "FLeng": "C",
+    "tel": "చావుం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2949",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaunce",
+    "FLeng": "C",
+    "tel": "చౌన్సు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2950",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaunceler",
+    "FLeng": "C",
+    "tel": "చౌన్సులేరు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2951",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chauncey",
+    "FLeng": "C",
+    "tel": "ఛాఉంచేయ్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2952",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chauncy",
+    "FLeng": "C",
+    "tel": "చౌన్సీ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2953",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chavdar",
+    "FLeng": "C",
+    "tel": "చావదార్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2954",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chavez",
+    "FLeng": "C",
+    "tel": "చావెజ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2955",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chavez",
+    "FLeng": "c",
+    "tel": "చావెజ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2956",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chaviv",
+    "FLeng": "c",
+    "tel": "చవివ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2957",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chavrik",
+    "FLeng": "C",
+    "tel": "చావరిక్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2958",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chawish",
+    "FLeng": "C",
+    "tel": "చవిష్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2959",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chayan",
+    "FLeng": "C",
+    "tel": "చయం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2960",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chayan",
+    "FLeng": "c",
+    "tel": "చయం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2961",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chayank",
+    "FLeng": "C",
+    "tel": "ఛాయాంక్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2962",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chayanka",
+    "FLeng": "C",
+    "tel": "చయంకా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2963",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chayim",
+    "FLeng": "C",
+    "tel": "చేయిం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2964",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chayo",
+    "FLeng": "C",
+    "tel": "ఛాయా",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2965",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chayse",
+    "FLeng": "C",
+    "tel": "ఛాయిస్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2966",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaytan",
+    "FLeng": "C",
+    "tel": "చేయటం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2967",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chayton",
+    "FLeng": "C",
+    "tel": "ఛైతోం",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2968",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chaz",
+    "FLeng": "C",
+    "tel": "చేజ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2969",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chazaiah",
+    "FLeng": "c",
+    "tel": "చజయ్య",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2970",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "chazon",
+    "FLeng": "c",
+    "tel": "చజొన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2971",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chazz",
+    "FLeng": "C",
+    "tel": "చేజ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2972",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Che",
+    "FLeng": "C",
+    "tel": "చే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2973",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chea",
+    "FLeng": "C",
+    "tel": "చేయా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2974",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Checo",
+    "FLeng": "C",
+    "tel": "ఛేకో",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2975",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chedi",
+    "FLeng": "C",
+    "tel": "చెడి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2976",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Cheekoo",
+    "FLeng": "C",
+    "tel": "చీకూ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2977",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "cheever",
+    "FLeng": "c",
+    "tel": "చీవర్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2978",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chege",
+    "FLeng": "C",
+    "tel": "ఛేజ్",
+    "FLtel": "ఛ"
+  },
+  {
+    "id": "2979",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Chehzaad",
+    "FLeng": "C",
+    "tel": "చేహజాద్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2980",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Cheikho",
+    "FLeng": "C",
+    "tel": "చేరిఖో",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2981",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chekitana",
+    "FLeng": "C",
+    "tel": "చేకితానా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2982",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chelan",
+    "FLeng": "C",
+    "tel": "చెలం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2983",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Chelem",
+    "FLeng": "C",
+    "tel": "చెల్లి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2984",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cheliiyan",
+    "FLeng": "C",
+    "tel": "చెలిమియం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2985",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cheliyan",
+    "FLeng": "C",
+    "tel": "చెలియం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2986",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chellakilli",
+    "FLeng": "C",
+    "tel": "చెల్లకిళ్ళి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2987",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chellamani",
+    "FLeng": "C",
+    "tel": "చెలామణి",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2988",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chellamuthu",
+    "FLeng": "C",
+    "tel": "చెల్లముతు",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2989",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chellan",
+    "FLeng": "C",
+    "tel": "చెల్లం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2990",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chellapan",
+    "FLeng": "C",
+    "tel": "చెల్లపాం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2991",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chellis",
+    "FLeng": "C",
+    "tel": "చిల్లీస్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2992",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chellvan",
+    "FLeng": "C",
+    "tel": "చెల్లవన్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2993",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chelone",
+    "FLeng": "C",
+    "tel": "చేలోనే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2994",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chelton",
+    "FLeng": "C",
+    "tel": "కెళ్తోం",
+    "FLtel": "క"
+  },
+  {
+    "id": "2995",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Cheluva",
+    "FLeng": "C",
+    "tel": "చెలువ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2996",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chema",
+    "FLeng": "C",
+    "tel": "చేమ",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2997",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chemmal",
+    "FLeng": "C",
+    "tel": "చెమ్మాళ్",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2998",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chemmani",
+    "FLeng": "C",
+    "tel": "చెమ్మని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "2999",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chen",
+    "FLeng": "C",
+    "tel": "చెం",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3000",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chencho",
+    "FLeng": "C",
+    "tel": "చెంచా",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3001",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chenna",
+    "FLeng": "C",
+    "tel": "చిన్న",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3002",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chenni",
+    "FLeng": "C",
+    "tel": "చిన్ని",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3003",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Chente",
+    "FLeng": "C",
+    "tel": "చెంతే",
+    "FLtel": "చ"
+  },
+  {
+    "id": "3004",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Chentu",
+    "FLeng": "C",
+    "tel": "చేన్తు",
+    "FLtel": "చ"
+  }
+]

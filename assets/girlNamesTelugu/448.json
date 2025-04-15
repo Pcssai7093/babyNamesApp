@@ -1,0 +1,866 @@
+[
+  {
+    "id": "133834",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uruvi",
+    "FLeng": "U",
+    "tel": "ఉరువి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133835",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urva",
+    "FLeng": "U",
+    "tel": "ఉర్వ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133836",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Urvana",
+    "FLeng": "U",
+    "tel": "ఉర్వణ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133837",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvara",
+    "FLeng": "U",
+    "tel": "ఉర్వారు",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133838",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvashee",
+    "FLeng": "U",
+    "tel": "ఊర్వశీ",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "133839",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvashi",
+    "FLeng": "U",
+    "tel": "ఊర్వశి",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "133840",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvasi",
+    "FLeng": "U",
+    "tel": "ఊర్వశి",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "133841",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvassy",
+    "FLeng": "U",
+    "tel": "ఉర్వస్య్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133842",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urveen",
+    "FLeng": "U",
+    "tel": "ఉర్వీన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133843",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvi",
+    "FLeng": "U",
+    "tel": "ఉర్వి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133844",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Urvija",
+    "FLeng": "U",
+    "tel": "ఉర్విజ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133845",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Urzula",
+    "FLeng": "U",
+    "tel": "రుజుల",
+    "FLtel": "ర"
+  },
+  {
+    "id": "133846",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Usaimah",
+    "FLeng": "U",
+    "tel": "ఉసైమః",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133847",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usaravali",
+    "FLeng": "U",
+    "tel": "ఉసరవాలి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133848",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Usaymah   ,",
+    "FLeng": "U",
+    "tel": "ఉసైమః   ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133849",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Uschi",
+    "FLeng": "U",
+    "tel": "ఉశ్చి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133850",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ush-Rani",
+    "FLeng": "U",
+    "tel": "ఉష్-రాణి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133851",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usha",
+    "FLeng": "U",
+    "tel": "ఉష",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133852",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "usha",
+    "FLeng": "u",
+    "tel": "ఉష",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133853",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usha Lakshi",
+    "FLeng": "U",
+    "tel": "ఉషా లక్షి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133854",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushadevi",
+    "FLeng": "U",
+    "tel": "ఉషాదేవి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133855",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushakiran",
+    "FLeng": "U",
+    "tel": "ఉషాకిరణ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133856",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushalakshi",
+    "FLeng": "U",
+    "tel": "ఉషలక్షి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133857",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushana",
+    "FLeng": "U",
+    "tel": "ఉష్ణ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133858",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usharani",
+    "FLeng": "U",
+    "tel": "ఉషారాణి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133859",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usharvi",
+    "FLeng": "U",
+    "tel": "ఉషార్వి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133860",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushashi",
+    "FLeng": "U",
+    "tel": "ఉశశి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133861",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushasi",
+    "FLeng": "U",
+    "tel": "ఉషాసి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133862",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushasree",
+    "FLeng": "U",
+    "tel": "ఉషశ్రీ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133863",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushasri",
+    "FLeng": "U",
+    "tel": "ఉషశ్రీ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133864",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushassu",
+    "FLeng": "U",
+    "tel": "ఉషస్సు",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133865",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushasvini",
+    "FLeng": "U",
+    "tel": "ఉశస్విని",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133866",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushi",
+    "FLeng": "U",
+    "tel": "ఉషి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133867",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushija",
+    "FLeng": "U",
+    "tel": "ఉషిజా",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133868",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushika",
+    "FLeng": "U",
+    "tel": "ఉషిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133869",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushma",
+    "FLeng": "U",
+    "tel": "ఊష్మ",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "133870",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushmi",
+    "FLeng": "U",
+    "tel": "ఉష్మి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133871",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushmil",
+    "FLeng": "U",
+    "tel": "ఉష్మిలు",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133872",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ushna",
+    "FLeng": "U",
+    "tel": "ఉష్ణ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133873",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushnaa",
+    "FLeng": "U",
+    "tel": "ఉష్ణా",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133874",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushoshi",
+    "FLeng": "U",
+    "tel": "ఉషోషి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133875",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ushra",
+    "FLeng": "U",
+    "tel": "ఆశ్ర",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "133876",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Ushta",
+    "FLeng": "U",
+    "tel": "అష్ట",
+    "FLtel": "అ"
+  },
+  {
+    "id": "133877",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Uskuihha",
+    "FLeng": "U",
+    "tel": "ఉస్సాకుఇహ్హ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133878",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usma",
+    "FLeng": "U",
+    "tel": "ఉస్మా",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133879",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usmi",
+    "FLeng": "U",
+    "tel": "అస్మి",
+    "FLtel": "అ"
+  },
+  {
+    "id": "133880",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usra",
+    "FLeng": "U",
+    "tel": "ఊసర",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "133881",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Usri",
+    "FLeng": "U",
+    "tel": "ఉసిరి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133882",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Ussala",
+    "FLeng": "U",
+    "tel": "ఉస్సాల",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133883",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Ustat",
+    "FLeng": "U",
+    "tel": "యూస్టేట్",
+    "FLtel": "య"
+  },
+  {
+    "id": "133884",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Uswa",
+    "FLeng": "U",
+    "tel": "అశ్వ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "133885",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Uswah",
+    "FLeng": "U",
+    "tel": "కుశ్వాహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "133886",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utalika",
+    "FLeng": "U",
+    "tel": "ఉతాళిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133887",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utalita",
+    "FLeng": "U",
+    "tel": "ఉతాళిత",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133888",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utanika",
+    "FLeng": "U",
+    "tel": "యూతనికా",
+    "FLtel": "య"
+  },
+  {
+    "id": "133889",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Utaybah",
+    "FLeng": "U",
+    "tel": "యూటీఐబాహ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "133890",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Utayk",
+    "FLeng": "U",
+    "tel": "ఉతాయ్క్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133891",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "ute",
+    "FLeng": "u",
+    "tel": "యూటీ",
+    "FLtel": "య"
+  },
+  {
+    "id": "133892",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uthama",
+    "FLeng": "U",
+    "tel": "ఉత్తమ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133893",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uthami",
+    "FLeng": "U",
+    "tel": "ఊతమి",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "133894",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uthisha",
+    "FLeng": "U",
+    "tel": "అతిశ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "133895",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uthra",
+    "FLeng": "U",
+    "tel": "ఉత్ర",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133896",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uti",
+    "FLeng": "U",
+    "tel": "టీ",
+    "FLtel": "ట"
+  },
+  {
+    "id": "133897",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkala",
+    "FLeng": "U",
+    "tel": "ఉత్కళ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133898",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkalika",
+    "FLeng": "U",
+    "tel": "ఉత్కళిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133899",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkalita",
+    "FLeng": "U",
+    "tel": "ఉత్కళిత",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133900",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkanti",
+    "FLeng": "U",
+    "tel": "ఉత్కంఠి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133901",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkarika",
+    "FLeng": "U",
+    "tel": "ఉత్కరిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133902",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkartini",
+    "FLeng": "U",
+    "tel": "ఉత్కర్తిని",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133903",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkashana",
+    "FLeng": "U",
+    "tel": "ఉత్కషణ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133904",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utkuja",
+    "FLeng": "U",
+    "tel": "యూత్కుజ",
+    "FLtel": "య"
+  },
+  {
+    "id": "133905",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utpala",
+    "FLeng": "U",
+    "tel": "ఉత్పల",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133906",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utpalabha",
+    "FLeng": "U",
+    "tel": "ఉత్పలాభ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133907",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utpalakshi",
+    "FLeng": "U",
+    "tel": "ఉత్పలాక్షి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133908",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utpalini",
+    "FLeng": "U",
+    "tel": "ఉత్పలిని",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133909",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utpatti",
+    "FLeng": "U",
+    "tel": "ఉత్పత్తి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133910",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utpreksha",
+    "FLeng": "U",
+    "tel": "ఉత్ప్రేక్ష",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133911",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utsa",
+    "FLeng": "U",
+    "tel": "ఉత్స",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133912",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utsaah",
+    "FLeng": "U",
+    "tel": "ఉత్సాహ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133913",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utsavi",
+    "FLeng": "U",
+    "tel": "ఉత్సవి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133914",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Utsuka",
+    "FLeng": "U",
+    "tel": "ఉత్సుక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133915",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uttalika",
+    "FLeng": "U",
+    "tel": "ఉత్తళిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133916",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uttamika",
+    "FLeng": "U",
+    "tel": "ఉత్తమిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133917",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Uttamleen",
+    "FLeng": "U",
+    "tel": "ఉత్తంలీన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133918",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Uttamliv",
+    "FLeng": "U",
+    "tel": "ఉత్తములైవ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133919",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uttara",
+    "FLeng": "U",
+    "tel": "ఉత్తర",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133920",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uttarika",
+    "FLeng": "U",
+    "tel": "ఉత్తరికా",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133921",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uttora",
+    "FLeng": "U",
+    "tel": "ఉట్టోరు",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133922",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Uuordgiue",
+    "FLeng": "U",
+    "tel": "ఉఊరడిగియుఎ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133923",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Uwaisah",
+    "FLeng": "U",
+    "tel": "ఉవైష",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133924",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Uxa­a",
+    "FLeng": "U",
+    "tel": "ఉక్స­ఆ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133925",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uyir",
+    "FLeng": "U",
+    "tel": "ఉయిర్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133926",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Uyirmani",
+    "FLeng": "U",
+    "tel": "ఉయిరేమని",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133927",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Uzma",
+    "FLeng": "U",
+    "tel": "యూజమా",
+    "FLtel": "య"
+  },
+  {
+    "id": "133928",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Uzza",
+    "FLeng": "U",
+    "tel": "ఉజ్ల్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "133929",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Vaagai",
+    "FLeng": "V",
+    "tel": "వాగై",
+    "FLtel": "వ"
+  }
+]

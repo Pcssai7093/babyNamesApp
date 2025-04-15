@@ -1,0 +1,812 @@
+[
+  {
+    "id": "100177",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshayani",
+    "FLeng": "D",
+    "tel": "దాక్షాయణి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100178",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshayini",
+    "FLeng": "D",
+    "tel": "దాక్షాయణి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100179",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshhtha",
+    "FLeng": "D",
+    "tel": "దక్షహత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100180",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshika",
+    "FLeng": "D",
+    "tel": "దక్షిక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100181",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshin",
+    "FLeng": "D",
+    "tel": "దక్షిణ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100182",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshina",
+    "FLeng": "D",
+    "tel": "దక్షిణ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100183",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshinya",
+    "FLeng": "D",
+    "tel": "దాక్షిణ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100184",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshita",
+    "FLeng": "D",
+    "tel": "దక్షత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100185",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dakshitha",
+    "FLeng": "D",
+    "tel": "దక్షత",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100186",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Daksina",
+    "FLeng": "D",
+    "tel": "దక్షిణ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100187",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "dalai",
+    "FLeng": "d",
+    "tel": "దలై",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100188",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dalaja",
+    "FLeng": "D",
+    "tel": "దలజా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100189",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Dalal",
+    "FLeng": "D",
+    "tel": "దళాలు",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100190",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dalbir",
+    "FLeng": "D",
+    "tel": "దల్బీర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100191",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalea",
+    "FLeng": "D",
+    "tel": "డాలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100192",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Daleah",
+    "FLeng": "D",
+    "tel": "డాలీహ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100193",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Daleela",
+    "FLeng": "D",
+    "tel": "డాలీల",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100194",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Daleka",
+    "FLeng": "D",
+    "tel": "డలేక",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100195",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalena",
+    "FLeng": "D",
+    "tel": "దలేనా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100196",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalene",
+    "FLeng": "D",
+    "tel": "దలేనె",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100197",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalenka",
+    "FLeng": "D",
+    "tel": "దలంక",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100198",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalenna",
+    "FLeng": "D",
+    "tel": "దాలున్న",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100199",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Daley",
+    "FLeng": "D",
+    "tel": "దాలెయ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100200",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "daleyza",
+    "FLeng": "d",
+    "tel": "దాలియఁజా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100201",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Dali",
+    "FLeng": "D",
+    "tel": "డాలి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100202",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Dalia",
+    "FLeng": "D",
+    "tel": "దళిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100203",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalibora",
+    "FLeng": "D",
+    "tel": "దళిబొరా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100204",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalila",
+    "FLeng": "D",
+    "tel": "దళిలా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100205",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "dalila",
+    "FLeng": "d",
+    "tel": "దళిలా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100206",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalin",
+    "FLeng": "D",
+    "tel": "దళిన్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100207",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalina",
+    "FLeng": "D",
+    "tel": "దలైన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100208",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalinda",
+    "FLeng": "D",
+    "tel": "డలిందా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100209",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Daline",
+    "FLeng": "D",
+    "tel": "దళినే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100210",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalis",
+    "FLeng": "D",
+    "tel": "దాలిస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100211",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Dalisha",
+    "FLeng": "D",
+    "tel": "డాలీషా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100212",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalit",
+    "FLeng": "D",
+    "tel": "దళిత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100213",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Daliya",
+    "FLeng": "D",
+    "tel": "దలియా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100214",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Daliyah",
+    "FLeng": "D",
+    "tel": "దళియహ్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100215",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalka",
+    "FLeng": "D",
+    "tel": "డల్క",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100216",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalla",
+    "FLeng": "D",
+    "tel": "డల్ల",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100217",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalleen",
+    "FLeng": "D",
+    "tel": "ఢల్లీన్",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100218",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dallis",
+    "FLeng": "D",
+    "tel": "డాల్లస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100219",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dally",
+    "FLeng": "D",
+    "tel": "డాలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100220",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "dally",
+    "FLeng": "d",
+    "tel": "డాలీ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100221",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "dallyce",
+    "FLeng": "d",
+    "tel": "డాలీస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100222",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dallys",
+    "FLeng": "D",
+    "tel": "డాలీస్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100223",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalma",
+    "FLeng": "D",
+    "tel": "దాల్మా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100224",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalmatia",
+    "FLeng": "D",
+    "tel": "డాల్మాటియా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100225",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dalr",
+    "FLeng": "D",
+    "tel": "డాలర్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100226",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Daluchi",
+    "FLeng": "D",
+    "tel": "దలచి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100227",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Daluh",
+    "FLeng": "D",
+    "tel": "డాలూహ్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100228",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Dalwinder",
+    "FLeng": "D",
+    "tel": "దళవిండెర్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100229",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dama",
+    "FLeng": "D",
+    "tel": "దామ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100230",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Damali",
+    "FLeng": "D",
+    "tel": "దమాలి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100231",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damalis",
+    "FLeng": "D",
+    "tel": "దమలీస్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100232",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damandeep",
+    "FLeng": "D",
+    "tel": "దమన్దీప్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100233",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Damanpreet",
+    "FLeng": "D",
+    "tel": "దమన్ప్రీత్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100234",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damara",
+    "FLeng": "D",
+    "tel": "దామెర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100235",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damari",
+    "FLeng": "D",
+    "tel": "దమరి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100236",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damarugapriya",
+    "FLeng": "D",
+    "tel": "ఢమరుగప్రియ",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100237",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damaruki",
+    "FLeng": "D",
+    "tel": "ఢమరుకి",
+    "FLtel": "ఢ"
+  },
+  {
+    "id": "100238",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damayanthi",
+    "FLeng": "D",
+    "tel": "దమయంతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100239",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damayanti",
+    "FLeng": "D",
+    "tel": "దమయంతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100240",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "damayanti",
+    "FLeng": "d",
+    "tel": "దమయంతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100241",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dame",
+    "FLeng": "D",
+    "tel": "దమే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100242",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dameka",
+    "FLeng": "D",
+    "tel": "డమేకా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100243",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dameta",
+    "FLeng": "D",
+    "tel": "దామెర",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100244",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damhnait",
+    "FLeng": "D",
+    "tel": "దామ్హ్నైట్",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100245",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damian",
+    "FLeng": "D",
+    "tel": "డామియన్",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100246",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "damica",
+    "FLeng": "d",
+    "tel": "దుమికే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100247",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damini",
+    "FLeng": "D",
+    "tel": "దామిని",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100248",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damisona",
+    "FLeng": "D",
+    "tel": "డామిసోనా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100249",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damita",
+    "FLeng": "D",
+    "tel": "డామిటా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100250",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "damita",
+    "FLeng": "d",
+    "tel": "డామిటా",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100251",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damiti",
+    "FLeng": "D",
+    "tel": "డామిటి",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100252",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damiya",
+    "FLeng": "D",
+    "tel": "డామియ",
+    "FLtel": "డ"
+  },
+  {
+    "id": "100253",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Damla",
+    "FLeng": "D",
+    "tel": "దంలా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100254",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "damla",
+    "FLeng": "d",
+    "tel": "దంలా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100255",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "damma",
+    "FLeng": "d",
+    "tel": "ధమ్మా",
+    "FLtel": "ధ"
+  },
+  {
+    "id": "100256",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "damonica",
+    "FLeng": "d",
+    "tel": "దామోనికా",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100257",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Damrina",
+    "FLeng": "D",
+    "tel": "దంరిన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100258",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Damsa",
+    "FLeng": "D",
+    "tel": "ద్వంస",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100259",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Damya",
+    "FLeng": "D",
+    "tel": "దంయ",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100260",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Damyanti",
+    "FLeng": "D",
+    "tel": "దమయంతి",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100261",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Dana",
+    "FLeng": "D",
+    "tel": "దన",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100262",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Danae",
+    "FLeng": "D",
+    "tel": "దనే",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100263",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Danah",
+    "FLeng": "D",
+    "tel": "దనః",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100264",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Danaiah",
+    "FLeng": "D",
+    "tel": "దానయ్య",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100265",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Danala",
+    "FLeng": "D",
+    "tel": "దానాల",
+    "FLtel": "ద"
+  },
+  {
+    "id": "100266",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Danalyn",
+    "FLeng": "D",
+    "tel": "దానాలిన్",
+    "FLtel": "ద"
+  }
+]

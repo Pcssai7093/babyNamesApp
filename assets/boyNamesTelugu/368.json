@@ -1,0 +1,740 @@
+[
+  {
+    "id": "25501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "menelaus",
+    "FLeng": "m",
+    "tel": "మేనెలస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25502",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Menhalom",
+    "FLeng": "M",
+    "tel": "మెంహాలొమ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25503",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mennatulla",
+    "FLeng": "M",
+    "tel": "మెన్నతుల్లా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25504",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Menon",
+    "FLeng": "M",
+    "tel": "మీనన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25505",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mensa",
+    "FLeng": "M",
+    "tel": "మేన్స",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25506",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mensur",
+    "FLeng": "M",
+    "tel": "మెన్సుర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25507",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Menta",
+    "FLeng": "M",
+    "tel": "మెంత",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25508",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mentor",
+    "FLeng": "M",
+    "tel": "మెంటార్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25509",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Menzies",
+    "FLeng": "M",
+    "tel": "ఎంఎంజిఎస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "25510",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "menzies",
+    "FLeng": "m",
+    "tel": "ఎంఎంజిఎస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "25511",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "meo",
+    "FLeng": "m",
+    "tel": "మెమో",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25512",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Meoc",
+    "FLeng": "M",
+    "tel": "మీకొక",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25513",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mer",
+    "FLeng": "M",
+    "tel": "మెర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25514",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Meraj",
+    "FLeng": "M",
+    "tel": "మేరేజ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25515",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merald",
+    "FLeng": "M",
+    "tel": "మెరాల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25516",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Meraman",
+    "FLeng": "M",
+    "tel": "మెరామ్యాన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25517",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merari",
+    "FLeng": "M",
+    "tel": "మెరారి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25518",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "merari",
+    "FLeng": "m",
+    "tel": "మెరారి",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25519",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Meraugis",
+    "FLeng": "M",
+    "tel": "మెఱుఁగున్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25520",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mercer",
+    "FLeng": "M",
+    "tel": "మెర్సెర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25521",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchbiu",
+    "FLeng": "M",
+    "tel": "మీర్చిబియూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25522",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchelm",
+    "FLeng": "M",
+    "tel": "మీరేచెల్మ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25523",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchguinus",
+    "FLeng": "M",
+    "tel": "మెర్చ్గిన్స్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25524",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchia",
+    "FLeng": "M",
+    "tel": "మిర్చియా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25525",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchiaun",
+    "FLeng": "M",
+    "tel": "మీర్చిఅం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25526",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchion",
+    "FLeng": "M",
+    "tel": "మీర్చిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25527",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchitir",
+    "FLeng": "M",
+    "tel": "నేర్చితిర్",
+    "FLtel": "న"
+  },
+  {
+    "id": "25528",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchuino",
+    "FLeng": "M",
+    "tel": "మీర్చుయినా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25529",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merchuiu",
+    "FLeng": "M",
+    "tel": "మీర్చుఇయూ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25530",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mercier",
+    "FLeng": "M",
+    "tel": "మెరిసిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25531",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mercury",
+    "FLeng": "M",
+    "tel": "మెర్క్యూరీ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25532",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mercutio",
+    "FLeng": "M",
+    "tel": "మెర్క్యూటివ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25533",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "mercutio",
+    "FLeng": "m",
+    "tel": "మెర్క్యూటివ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25534",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merdasan",
+    "FLeng": "M",
+    "tel": "మెర్డ్సన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25535",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mere",
+    "FLeng": "M",
+    "tel": "మేరె",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25536",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Meredith",
+    "FLeng": "M",
+    "tel": "మెరెడిత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25537",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merefin",
+    "FLeng": "M",
+    "tel": "మెరిఫైన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25538",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merehwit",
+    "FLeng": "M",
+    "tel": "మెరెహెవిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25539",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merestun",
+    "FLeng": "M",
+    "tel": "మెరుస్తుం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25540",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merethe",
+    "FLeng": "M",
+    "tel": "మీరితే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25541",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merewala",
+    "FLeng": "M",
+    "tel": "మేరేవాలా",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25542",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merewald",
+    "FLeng": "M",
+    "tel": "మేరేవాల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25543",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merewode",
+    "FLeng": "M",
+    "tel": "మీరేవడే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25544",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merewood",
+    "FLeng": "M",
+    "tel": "మేరేవూడ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25545",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merezban",
+    "FLeng": "M",
+    "tel": "మెర్జ్బం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25546",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merget",
+    "FLeng": "M",
+    "tel": "మెర్జెట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25547",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Meriadok",
+    "FLeng": "M",
+    "tel": "మేరియాడొకఁ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25548",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merick",
+    "FLeng": "M",
+    "tel": "మెరిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25549",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Meridian",
+    "FLeng": "M",
+    "tel": "మెరిడియన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25550",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Meridith",
+    "FLeng": "M",
+    "tel": "మెరిడిత్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25551",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "merijn",
+    "FLeng": "m",
+    "tel": "మెరిజన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25552",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merik",
+    "FLeng": "M",
+    "tel": "మెరిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25553",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merild",
+    "FLeng": "M",
+    "tel": "మెరిల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25554",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Meritt",
+    "FLeng": "M",
+    "tel": "మెరిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25555",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merlan",
+    "FLeng": "M",
+    "tel": "మెర్లను",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25556",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "merlin",
+    "FLeng": "m",
+    "tel": "మెర్లిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25557",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merlow",
+    "FLeng": "M",
+    "tel": "మెర్లౌ",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25558",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merovius",
+    "FLeng": "M",
+    "tel": "మేరోవిస్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25559",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merowald",
+    "FLeng": "M",
+    "tel": "మీరొవల్డ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25560",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merrel",
+    "FLeng": "M",
+    "tel": "మెరెల్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25561",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merrett",
+    "FLeng": "M",
+    "tel": "మార్ట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25562",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merric",
+    "FLeng": "M",
+    "tel": "మెర్రిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25563",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "merric",
+    "FLeng": "m",
+    "tel": "మెర్రిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25564",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merrick",
+    "FLeng": "M",
+    "tel": "మెర్రిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25565",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merrion",
+    "FLeng": "M",
+    "tel": "మెర్రిన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25566",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merrit",
+    "FLeng": "M",
+    "tel": "మెర్రిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25567",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merritt",
+    "FLeng": "M",
+    "tel": "మెర్రిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25568",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Merryweather",
+    "FLeng": "M",
+    "tel": "మెరివీధిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25569",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "merryweather",
+    "FLeng": "m",
+    "tel": "మెరివీధిర్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25570",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Mersc",
+    "FLeng": "M",
+    "tel": "మెర్స్క్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25571",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Mert",
+    "FLeng": "M",
+    "tel": "మెరిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25572",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "mert",
+    "FLeng": "m",
+    "tel": "మెరిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25573",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merton",
+    "FLeng": "M",
+    "tel": "మెట్రోను",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25574",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Meru",
+    "FLeng": "M",
+    "tel": "మీరు",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25575",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Merv",
+    "FLeng": "M",
+    "tel": "మెర్వ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25576",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "merv",
+    "FLeng": "m",
+    "tel": "మెర్వ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25577",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mervan",
+    "FLeng": "M",
+    "tel": "మెరవం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25578",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Merve",
+    "FLeng": "M",
+    "tel": "మెర్వ్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25579",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Mervin",
+    "FLeng": "M",
+    "tel": "మెర్విన్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25580",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Mervyn",
+    "FLeng": "M",
+    "tel": "మెర్వ్య్న్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25581",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Meryasek",
+    "FLeng": "M",
+    "tel": "మేరియాసిక్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "25582",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "meryk",
+    "FLeng": "m",
+    "tel": "మెరిక్",
+    "FLtel": "మ"
+  }
+]

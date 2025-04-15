@@ -1,0 +1,794 @@
+[
+  {
+    "id": "112121",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavika",
+    "FLeng": "K",
+    "tel": "కావిక",
+    "FLtel": "క"
+  },
+  {
+    "id": "112122",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavikuil",
+    "FLeng": "K",
+    "tel": "కవికుయిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112123",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "KaviKuyil",
+    "FLeng": "K",
+    "tel": "కవికుయిల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112124",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavimalar",
+    "FLeng": "K",
+    "tel": "కవిమలార్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112125",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavina",
+    "FLeng": "K",
+    "tel": "కావున",
+    "FLtel": "క"
+  },
+  {
+    "id": "112126",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinavya",
+    "FLeng": "K",
+    "tel": "కవినవ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "112127",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinaya",
+    "FLeng": "K",
+    "tel": "కవినాయ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112128",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavini",
+    "FLeng": "K",
+    "tel": "కవిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "112129",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinila",
+    "FLeng": "K",
+    "tel": "కవినిలా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112130",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinilavu",
+    "FLeng": "K",
+    "tel": "కవినీలావు",
+    "FLtel": "క"
+  },
+  {
+    "id": "112131",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinna",
+    "FLeng": "K",
+    "tel": "కవిన్న",
+    "FLtel": "క"
+  },
+  {
+    "id": "112132",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinthra",
+    "FLeng": "K",
+    "tel": "కవీంథ్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "112133",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavinya",
+    "FLeng": "K",
+    "tel": "కవిన్యా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112134",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavip Priya",
+    "FLeng": "K",
+    "tel": "కేవీపీ ప్రియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112135",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavipranita",
+    "FLeng": "K",
+    "tel": "కవిప్రణిత",
+    "FLtel": "క"
+  },
+  {
+    "id": "112136",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavipriya",
+    "FLeng": "K",
+    "tel": "కవిప్రియ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112137",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavishri",
+    "FLeng": "K",
+    "tel": "కవిశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112138",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavisri",
+    "FLeng": "K",
+    "tel": "కవిశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112139",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavita",
+    "FLeng": "K",
+    "tel": "కవిత",
+    "FLtel": "క"
+  },
+  {
+    "id": "112140",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavitha",
+    "FLeng": "K",
+    "tel": "కవిత",
+    "FLtel": "క"
+  },
+  {
+    "id": "112141",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavithahini",
+    "FLeng": "K",
+    "tel": "కవితాభిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "112142",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavithajini",
+    "FLeng": "K",
+    "tel": "కవితాజిని",
+    "FLtel": "క"
+  },
+  {
+    "id": "112143",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavitheswari",
+    "FLeng": "K",
+    "tel": "కవితేశ్వరి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112144",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavithra",
+    "FLeng": "K",
+    "tel": "కవిత్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "112145",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kavitva",
+    "FLeng": "K",
+    "tel": "కవిత్వ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112146",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaviya",
+    "FLeng": "K",
+    "tel": "కావియా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112147",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kaviyasri",
+    "FLeng": "K",
+    "tel": "కవియశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112148",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Kavneer",
+    "FLeng": "K",
+    "tel": "కావనీర్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112149",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavni",
+    "FLeng": "K",
+    "tel": "కావని",
+    "FLtel": "క"
+  },
+  {
+    "id": "112150",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Kavnoor",
+    "FLeng": "K",
+    "tel": "కావనూరు",
+    "FLtel": "క"
+  },
+  {
+    "id": "112151",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavya",
+    "FLeng": "K",
+    "tel": "కావ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "112152",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavya Shri",
+    "FLeng": "K",
+    "tel": "కావ్య శ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112153",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavyanjali",
+    "FLeng": "K",
+    "tel": "కావ్యఞ్జలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112154",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavyashree",
+    "FLeng": "K",
+    "tel": "కావ్యశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112155",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavyashri",
+    "FLeng": "K",
+    "tel": "కావ్యశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112156",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavyasree",
+    "FLeng": "K",
+    "tel": "కావ్యశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112157",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavyasri",
+    "FLeng": "K",
+    "tel": "కావ్యశ్రీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112158",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kavyasudha",
+    "FLeng": "K",
+    "tel": "కావయసుధ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112159",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kawakib",
+    "FLeng": "K",
+    "tel": "క్వాకిబ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112160",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kawal",
+    "FLeng": "K",
+    "tel": "కావాలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112161",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaweria",
+    "FLeng": "K",
+    "tel": "కావెరియే",
+    "FLtel": "క"
+  },
+  {
+    "id": "112162",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kawya",
+    "FLeng": "K",
+    "tel": "కావ్య",
+    "FLtel": "క"
+  },
+  {
+    "id": "112163",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kay",
+    "FLeng": "K",
+    "tel": "కే",
+    "FLtel": "క"
+  },
+  {
+    "id": "112164",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Kaya",
+    "FLeng": "K",
+    "tel": "కయ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112165",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kaya",
+    "FLeng": "k",
+    "tel": "కయ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112166",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayah",
+    "FLeng": "K",
+    "tel": "కాయహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112167",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kayal",
+    "FLeng": "K",
+    "tel": "కమల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112168",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kayalvili",
+    "FLeng": "K",
+    "tel": "కాయ్లవిలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112169",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kayalvizhi",
+    "FLeng": "K",
+    "tel": "కాయ్లవిజహి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112170",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kayana",
+    "FLeng": "K",
+    "tel": "కాయన",
+    "FLtel": "క"
+  },
+  {
+    "id": "112171",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kayani",
+    "FLeng": "K",
+    "tel": "కాయని",
+    "FLtel": "క"
+  },
+  {
+    "id": "112172",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kayanna",
+    "FLeng": "K",
+    "tel": "కాయన్న",
+    "FLtel": "క"
+  },
+  {
+    "id": "112173",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayashta",
+    "FLeng": "K",
+    "tel": "కాయష్ట",
+    "FLtel": "క"
+  },
+  {
+    "id": "112174",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayce",
+    "FLeng": "K",
+    "tel": "కేసు",
+    "FLtel": "క"
+  },
+  {
+    "id": "112175",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaycee",
+    "FLeng": "K",
+    "tel": "కేసుఈ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112176",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaycie",
+    "FLeng": "K",
+    "tel": "కేసీఏ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112177",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kayda",
+    "FLeng": "K",
+    "tel": "కాయిదా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112178",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaydee",
+    "FLeng": "K",
+    "tel": "కేడీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112179",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaydence",
+    "FLeng": "K",
+    "tel": "కేడెన్సు",
+    "FLtel": "క"
+  },
+  {
+    "id": "112180",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kaydence",
+    "FLeng": "k",
+    "tel": "కేడెన్సు",
+    "FLtel": "క"
+  },
+  {
+    "id": "112181",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaydra",
+    "FLeng": "K",
+    "tel": "కేద్ర",
+    "FLtel": "క"
+  },
+  {
+    "id": "112182",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaye",
+    "FLeng": "K",
+    "tel": "కాయే",
+    "FLtel": "క"
+  },
+  {
+    "id": "112183",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kayeeda",
+    "FLeng": "K",
+    "tel": "కాయిదా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112184",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayelee",
+    "FLeng": "K",
+    "tel": "కాయెలీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112185",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayiyn",
+    "FLeng": "K",
+    "tel": "కయీయఁ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112186",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kayla",
+    "FLeng": "K",
+    "tel": "కాయల",
+    "FLtel": "క"
+  },
+  {
+    "id": "112187",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylah",
+    "FLeng": "K",
+    "tel": "కేలాహ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112188",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylana",
+    "FLeng": "K",
+    "tel": "కేలన",
+    "FLtel": "క"
+  },
+  {
+    "id": "112189",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kaylea",
+    "FLeng": "K",
+    "tel": "కాయాలి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112190",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylee",
+    "FLeng": "K",
+    "tel": "కేళీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112191",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kaylee",
+    "FLeng": "k",
+    "tel": "కేళీ",
+    "FLtel": "క"
+  },
+  {
+    "id": "112192",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayleen",
+    "FLeng": "K",
+    "tel": "కేలీన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112193",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kaylei",
+    "FLeng": "K",
+    "tel": "కేలెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112194",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayleigh",
+    "FLeng": "K",
+    "tel": "కేళేఇఘ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112195",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kayleigh",
+    "FLeng": "k",
+    "tel": "కేళేఇఘ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112196",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylen",
+    "FLeng": "K",
+    "tel": "కేలెం",
+    "FLtel": "క"
+  },
+  {
+    "id": "112197",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kayley",
+    "FLeng": "K",
+    "tel": "కేలెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112198",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kayley",
+    "FLeng": "k",
+    "tel": "కేలెయ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112199",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Kayli",
+    "FLeng": "K",
+    "tel": "కేళి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112200",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Kayliana",
+    "FLeng": "K",
+    "tel": "కేలియానా",
+    "FLtel": "క"
+  },
+  {
+    "id": "112201",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylie",
+    "FLeng": "K",
+    "tel": "కేలియే",
+    "FLtel": "క"
+  },
+  {
+    "id": "112202",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "kaylie",
+    "FLeng": "k",
+    "tel": "కేలియే",
+    "FLtel": "క"
+  },
+  {
+    "id": "112203",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayliegh",
+    "FLeng": "K",
+    "tel": "కేలియేగ్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112204",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylil",
+    "FLeng": "K",
+    "tel": "కేళి",
+    "FLtel": "క"
+  },
+  {
+    "id": "112205",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Kaylila",
+    "FLeng": "K",
+    "tel": "కేలిల",
+    "FLtel": "క"
+  },
+  {
+    "id": "112206",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylin",
+    "FLeng": "K",
+    "tel": "కేళిన్",
+    "FLtel": "క"
+  },
+  {
+    "id": "112207",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kayloni",
+    "FLeng": "K",
+    "tel": "కాయలోని",
+    "FLtel": "క"
+  },
+  {
+    "id": "112208",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Kaylor",
+    "FLeng": "K",
+    "tel": "కేలా",
+    "FLtel": "క"
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "id": "124201",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pulkita",
+    "FLeng": "P",
+    "tel": "పుల్కిట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124202",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puloma",
+    "FLeng": "P",
+    "tel": "పులోమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124203",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puma",
+    "FLeng": "P",
+    "tel": "పుమా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124204",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pumima",
+    "FLeng": "P",
+    "tel": "పూమిమా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124205",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Pummy",
+    "FLeng": "P",
+    "tel": "పూమ్మీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124206",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punai",
+    "FLeng": "P",
+    "tel": "పునై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124207",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punam",
+    "FLeng": "P",
+    "tel": "పూనమ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124208",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punarnava",
+    "FLeng": "P",
+    "tel": "పునర్నవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124209",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punarnavi",
+    "FLeng": "P",
+    "tel": "పునర్నవి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124210",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punarvika",
+    "FLeng": "P",
+    "tel": "పునర్వికా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124211",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punasvitha",
+    "FLeng": "P",
+    "tel": "పునస్విత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124212",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punati",
+    "FLeng": "P",
+    "tel": "పూనాటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124213",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pundari",
+    "FLeng": "P",
+    "tel": "పండరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124214",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puneeta",
+    "FLeng": "P",
+    "tel": "పునీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124215",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puneetha",
+    "FLeng": "P",
+    "tel": "పునీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124216",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puneswari",
+    "FLeng": "P",
+    "tel": "పుణేశ్వరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124217",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punguzhali",
+    "FLeng": "P",
+    "tel": "పుంగుజలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124218",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punita",
+    "FLeng": "P",
+    "tel": "పునీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124219",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punitha",
+    "FLeng": "P",
+    "tel": "పునీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124220",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punom",
+    "FLeng": "P",
+    "tel": "పునామ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124221",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Punpreet",
+    "FLeng": "P",
+    "tel": "పుంప్రీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124222",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punthali",
+    "FLeng": "P",
+    "tel": "పుంతలు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124223",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punthea",
+    "FLeng": "P",
+    "tel": "పున్తరా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124224",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punyaa",
+    "FLeng": "P",
+    "tel": "పుణ్యా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124225",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punyageha",
+    "FLeng": "P",
+    "tel": "పుణ్యగేహా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124226",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punyakeerthi",
+    "FLeng": "P",
+    "tel": "పుణ్యకీర్తి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124227",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punyapriya",
+    "FLeng": "P",
+    "tel": "పుణ్యప్రియ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124228",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Punyavati",
+    "FLeng": "P",
+    "tel": "పుణ్యవతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124229",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pura",
+    "FLeng": "P",
+    "tel": "పుర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124230",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purabi",
+    "FLeng": "P",
+    "tel": "పురబి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124231",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purala",
+    "FLeng": "P",
+    "tel": "పురాల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124232",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purandeswari",
+    "FLeng": "P",
+    "tel": "పురందేశ్వరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124233",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purandhri",
+    "FLeng": "P",
+    "tel": "పురంధ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124234",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purani",
+    "FLeng": "P",
+    "tel": "పురాని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124235",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Pureza",
+    "FLeng": "P",
+    "tel": "పురేజా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124236",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Purgav",
+    "FLeng": "P",
+    "tel": "పుర్గవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124237",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puri",
+    "FLeng": "P",
+    "tel": "పూరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124238",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puribai",
+    "FLeng": "P",
+    "tel": "పురీబై",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124239",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Purificacion",
+    "FLeng": "P",
+    "tel": "ప్యూరిఫికేసిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124240",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Purity",
+    "FLeng": "P",
+    "tel": "పురిటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124241",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Purlie",
+    "FLeng": "P",
+    "tel": "ప్యూర్లీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124242",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purnasha",
+    "FLeng": "P",
+    "tel": "పూర్ణశ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124243",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purnashri",
+    "FLeng": "P",
+    "tel": "పూర్ణశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124244",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Purnele",
+    "FLeng": "P",
+    "tel": "పూర్నేలీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124245",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Purnelle",
+    "FLeng": "P",
+    "tel": "పూర్ణేల్లె",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124246",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purnima",
+    "FLeng": "P",
+    "tel": "పూర్ణిమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124247",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "purnima",
+    "FLeng": "p",
+    "tel": "పూర్ణిమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124248",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purnita",
+    "FLeng": "P",
+    "tel": "పుర్ణిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124249",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purobi",
+    "FLeng": "P",
+    "tel": "పురోభి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124250",
+    "gen": "female",
+    "rel": "others",
+    "eng": "Purti",
+    "FLeng": "P",
+    "tel": "పూర్తీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124251",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purushaakriti",
+    "FLeng": "P",
+    "tel": "పురుషాకృతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124252",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puruva",
+    "FLeng": "P",
+    "tel": "పురువ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124253",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Puruvi",
+    "FLeng": "P",
+    "tel": "పురువి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124254",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purva",
+    "FLeng": "P",
+    "tel": "పూర్వ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124255",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purvaja",
+    "FLeng": "P",
+    "tel": "పూర్వజా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124256",
+    "gen": "female",
+    "rel": "Sikh",
+    "eng": "Purvanshi",
+    "FLeng": "P",
+    "tel": "పూర్వాంషి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124257",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purvee",
+    "FLeng": "P",
+    "tel": "పూర్వీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124258",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purvi",
+    "FLeng": "P",
+    "tel": "పూర్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124259",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purvika",
+    "FLeng": "P",
+    "tel": "పూర్వీక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124260",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purvil",
+    "FLeng": "P",
+    "tel": "పుర్విల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124261",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Purvita",
+    "FLeng": "P",
+    "tel": "పుర్వీత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124262",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pusha",
+    "FLeng": "P",
+    "tel": "పూష",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124263",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushaan",
+    "FLeng": "P",
+    "tel": "పుషాన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124264",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushana",
+    "FLeng": "P",
+    "tel": "పుషణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124265",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpa",
+    "FLeng": "P",
+    "tel": "పుష్ప",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124266",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "pushpa",
+    "FLeng": "p",
+    "tel": "పుష్ప",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124267",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpagandha",
+    "FLeng": "P",
+    "tel": "పుష్పగంధి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124268",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpaja",
+    "FLeng": "P",
+    "tel": "పుష్పజా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124269",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpaki",
+    "FLeng": "P",
+    "tel": "పుష్పాకి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124270",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpalata",
+    "FLeng": "P",
+    "tel": "పుష్పలత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124271",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpalatha",
+    "FLeng": "P",
+    "tel": "పుష్పలత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124272",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpalathika",
+    "FLeng": "P",
+    "tel": "పుష్పాలతికా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124273",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpamanjari",
+    "FLeng": "P",
+    "tel": "పుష్పమంజరి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124274",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpangata",
+    "FLeng": "P",
+    "tel": "పుష్పాంగత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124275",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpangi",
+    "FLeng": "P",
+    "tel": "పుష్పాంగి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124276",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpanjali",
+    "FLeng": "P",
+    "tel": "పుష్పాంజలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124277",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpasri",
+    "FLeng": "P",
+    "tel": "పుష్పశ్రీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124278",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpavali",
+    "FLeng": "P",
+    "tel": "పుష్పవాలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124279",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpavathi",
+    "FLeng": "P",
+    "tel": "పుష్పావతి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124280",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpi",
+    "FLeng": "P",
+    "tel": "పుష్పి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124281",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpika",
+    "FLeng": "P",
+    "tel": "పుష్పిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124282",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpinder",
+    "FLeng": "P",
+    "tel": "పుష్పిండెర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124283",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpita",
+    "FLeng": "P",
+    "tel": "పుష్పితా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124284",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushpitha",
+    "FLeng": "P",
+    "tel": "పుష్పితాః",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124285",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushta",
+    "FLeng": "P",
+    "tel": "పుష్ట",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124286",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushthi",
+    "FLeng": "P",
+    "tel": "పుష్తి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124287",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushti",
+    "FLeng": "P",
+    "tel": "పుష్టి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124288",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushya",
+    "FLeng": "P",
+    "tel": "పుష్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "124289",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Pushyaja",
+    "FLeng": "P",
+    "tel": "పుష్యజ",
+    "FLtel": "ప"
+  }
+]

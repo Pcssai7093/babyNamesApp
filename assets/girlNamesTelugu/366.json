@@ -1,0 +1,812 @@
+[
+  {
+    "id": "125880",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rooroo",
+    "FLeng": "R",
+    "tel": "రూరూ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125881",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roos",
+    "FLeng": "R",
+    "tel": "రోస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125882",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roosje",
+    "FLeng": "R",
+    "tel": "రూస్జే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125883",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rootra",
+    "FLeng": "R",
+    "tel": "రోత్రా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125884",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rooyi",
+    "FLeng": "R",
+    "tel": "రూయి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125885",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Ros",
+    "FLeng": "R",
+    "tel": "రోస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125886",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rosa",
+    "FLeng": "R",
+    "tel": "రోసా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125887",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosabel",
+    "FLeng": "R",
+    "tel": "రోసబెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125888",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "rosabel",
+    "FLeng": "r",
+    "tel": "రోసబెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125889",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosabella",
+    "FLeng": "R",
+    "tel": "రోసబెల్లా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125890",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosabelle",
+    "FLeng": "R",
+    "tel": "రోసబెల్లె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125891",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaelia",
+    "FLeng": "R",
+    "tel": "రోసెలియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125892",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalba",
+    "FLeng": "R",
+    "tel": "రోస్లబ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125893",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaleah",
+    "FLeng": "R",
+    "tel": "రొసోలీహ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125894",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalee",
+    "FLeng": "R",
+    "tel": "రొసోలీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125895",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaleen",
+    "FLeng": "R",
+    "tel": "రొసోలీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125896",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaleigh",
+    "FLeng": "R",
+    "tel": "రోసాలేఇఘ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125897",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosali",
+    "FLeng": "R",
+    "tel": "రొసోలీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125898",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalia",
+    "FLeng": "R",
+    "tel": "రోసలియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125899",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalie",
+    "FLeng": "R",
+    "tel": "రోస్లయి",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125900",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalina",
+    "FLeng": "R",
+    "tel": "రోసలైన",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125901",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalind",
+    "FLeng": "R",
+    "tel": "రోసలిండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125902",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "rosalind",
+    "FLeng": "r",
+    "tel": "రోసలిండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125903",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalinda",
+    "FLeng": "R",
+    "tel": "రోసలిన్దా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125904",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaline",
+    "FLeng": "R",
+    "tel": "రొసోలీనే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125905",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalva",
+    "FLeng": "R",
+    "tel": "రోస్లవ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125906",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalyn",
+    "FLeng": "R",
+    "tel": "రొసోలీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125907",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "rosalyn",
+    "FLeng": "r",
+    "tel": "రొసోలీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125908",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalynd",
+    "FLeng": "R",
+    "tel": "రోస్లయిన్డ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125909",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosalynn",
+    "FLeng": "R",
+    "tel": "రొసోలీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125910",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosamaria",
+    "FLeng": "R",
+    "tel": "రోసమారియా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125911",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosamond",
+    "FLeng": "R",
+    "tel": "రోశమొండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125912",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosamonde",
+    "FLeng": "R",
+    "tel": "రోశమొండె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125913",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosamund",
+    "FLeng": "R",
+    "tel": "రోసముంద్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125914",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosamunda",
+    "FLeng": "R",
+    "tel": "రోషముందా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125915",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosamunde",
+    "FLeng": "R",
+    "tel": "రోషముందే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125916",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosana",
+    "FLeng": "R",
+    "tel": "రోసణ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125917",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosangela",
+    "FLeng": "R",
+    "tel": "రోసంగేలా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125918",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosangelica",
+    "FLeng": "R",
+    "tel": "రోసంగెలికే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125919",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosann",
+    "FLeng": "R",
+    "tel": "రోషన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125920",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosanna",
+    "FLeng": "R",
+    "tel": "రోసన్న",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125921",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosannah",
+    "FLeng": "R",
+    "tel": "రోసంనః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125922",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosanne",
+    "FLeng": "R",
+    "tel": "రాసాన్నే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125923",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaria",
+    "FLeng": "R",
+    "tel": "రోసారిఆ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125924",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosarita",
+    "FLeng": "R",
+    "tel": "రోసారిత",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125925",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosarja",
+    "FLeng": "R",
+    "tel": "రోసర్జ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125926",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosary",
+    "FLeng": "R",
+    "tel": "రోసారీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125927",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosaura",
+    "FLeng": "R",
+    "tel": "రోసౌర",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125928",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rose",
+    "FLeng": "R",
+    "tel": "రోజ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125929",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosealyn",
+    "FLeng": "R",
+    "tel": "రోసేయాలిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125930",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roseann",
+    "FLeng": "R",
+    "tel": "రోసెన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125931",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roseanna",
+    "FLeng": "R",
+    "tel": "రోసీన్న",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125932",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roseanne",
+    "FLeng": "R",
+    "tel": "రోసీన్నే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125933",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roseen",
+    "FLeng": "R",
+    "tel": "రోసీన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125934",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Rosei",
+    "FLeng": "R",
+    "tel": "రోసెయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125935",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roseia",
+    "FLeng": "R",
+    "tel": "రోసేయ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125936",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosel",
+    "FLeng": "R",
+    "tel": "రోషెల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125937",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselen",
+    "FLeng": "R",
+    "tel": "రోసెలైన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125938",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselet",
+    "FLeng": "R",
+    "tel": "రోసెలెట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125939",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselie",
+    "FLeng": "R",
+    "tel": "రోసెలై",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125940",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselin",
+    "FLeng": "R",
+    "tel": "రోసెలిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125941",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselina",
+    "FLeng": "R",
+    "tel": "రోసెలినా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125942",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roseline",
+    "FLeng": "R",
+    "tel": "రోసెలిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125943",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosella",
+    "FLeng": "R",
+    "tel": "రోజల్లా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125944",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselle",
+    "FLeng": "R",
+    "tel": "రోసెల్లె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125945",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselma",
+    "FLeng": "R",
+    "tel": "రోసెల్మ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125946",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselyn",
+    "FLeng": "R",
+    "tel": "రోసెలైన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125947",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roselyne",
+    "FLeng": "R",
+    "tel": "రోసెలైన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125948",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Rosemah",
+    "FLeng": "R",
+    "tel": "రోసెమః",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125949",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosemarie",
+    "FLeng": "R",
+    "tel": "రోసెమారీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125950",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosemary",
+    "FLeng": "R",
+    "tel": "రోసెమారీ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125951",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosemond",
+    "FLeng": "R",
+    "tel": "రోసేమాండ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125952",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosemonde",
+    "FLeng": "R",
+    "tel": "రోసెమొండె",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125953",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosemunda",
+    "FLeng": "R",
+    "tel": "రాసేముందా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125954",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosen",
+    "FLeng": "R",
+    "tel": "రోసెన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125955",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosena",
+    "FLeng": "R",
+    "tel": "రోజన",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125956",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosene",
+    "FLeng": "R",
+    "tel": "రోజని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125957",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosepelt",
+    "FLeng": "R",
+    "tel": "రోసెప్ల్ట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125958",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosephanye",
+    "FLeng": "R",
+    "tel": "రోసెఫాన్యే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125959",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Roses",
+    "FLeng": "R",
+    "tel": "రొసెస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125960",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosetta",
+    "FLeng": "R",
+    "tel": "రోసెట్టా",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125961",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosette",
+    "FLeng": "R",
+    "tel": "రోసేత్తే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125962",
+    "gen": "female",
+    "rel": "Christian",
+    "eng": "Rosey",
+    "FLeng": "R",
+    "tel": "రోసెయ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125963",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Roshana",
+    "FLeng": "R",
+    "tel": "రోషన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125964",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Roshanak",
+    "FLeng": "R",
+    "tel": "రోషణకే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125965",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Roshaney",
+    "FLeng": "R",
+    "tel": "రోషనే",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125966",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Roshani",
+    "FLeng": "R",
+    "tel": "రోషాని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125967",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Roshika",
+    "FLeng": "R",
+    "tel": "రాధిక",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125968",
+    "gen": "female",
+    "rel": "Muslim",
+    "eng": "Roshina",
+    "FLeng": "R",
+    "tel": "రోషిని",
+    "FLtel": "ర"
+  },
+  {
+    "id": "125969",
+    "gen": "female",
+    "rel": "Hindu",
+    "eng": "Roshine",
+    "FLeng": "R",
+    "tel": "రోషిని",
+    "FLtel": "ర"
+  }
+]

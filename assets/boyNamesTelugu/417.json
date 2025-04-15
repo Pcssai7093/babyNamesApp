@@ -1,0 +1,875 @@
+[
+  {
+    "id": "30401",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pancham",
+    "FLeng": "P",
+    "tel": "పంచమ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30402",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchanaana",
+    "FLeng": "P",
+    "tel": "పంచనామా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30403",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchanan",
+    "FLeng": "P",
+    "tel": "పంచనం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30404",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panchapallav",
+    "FLeng": "P",
+    "tel": "పంచపల్లవ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30405",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panchaswar",
+    "FLeng": "P",
+    "tel": "పంచస్వర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30406",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchavaktra",
+    "FLeng": "P",
+    "tel": "పఞ్చవక్త్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30407",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchavati",
+    "FLeng": "P",
+    "tel": "పంచవటి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30408",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panchika",
+    "FLeng": "P",
+    "tel": "పంచిక",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30409",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchjanya",
+    "FLeng": "P",
+    "tel": "పాంచజన్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30410",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Pancho",
+    "FLeng": "P",
+    "tel": "పాంచో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30411",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "pancho",
+    "FLeng": "p",
+    "tel": "పాంచో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30412",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pancholi",
+    "FLeng": "P",
+    "tel": "పంచోలి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30413",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchsheel",
+    "FLeng": "P",
+    "tel": "పంచశీల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30414",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panchu",
+    "FLeng": "P",
+    "tel": "పంచు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30415",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pancratius",
+    "FLeng": "P",
+    "tel": "పాంక్రేటిస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30416",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pancrazio",
+    "FLeng": "P",
+    "tel": "పాంక్రేజియో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30417",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pandala",
+    "FLeng": "P",
+    "tel": "పందాల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30418",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandalavasan",
+    "FLeng": "P",
+    "tel": "పందళవాసం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30419",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pandava",
+    "FLeng": "P",
+    "tel": "పాండవ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30420",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pandavas",
+    "FLeng": "P",
+    "tel": "పాండవాస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandhari",
+    "FLeng": "P",
+    "tel": "పంధారి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30422",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandi",
+    "FLeng": "P",
+    "tel": "పండి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30423",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandian",
+    "FLeng": "P",
+    "tel": "పాండియన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30424",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandinadan",
+    "FLeng": "P",
+    "tel": "పండినదం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30425",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandit",
+    "FLeng": "P",
+    "tel": "పండిట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30426",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandita",
+    "FLeng": "P",
+    "tel": "పండిత",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30427",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandiyan",
+    "FLeng": "P",
+    "tel": "పాండియన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30428",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandiyaraj",
+    "FLeng": "P",
+    "tel": "పాండియరాజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30429",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pandragon",
+    "FLeng": "P",
+    "tel": "పంద్రాగన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30430",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandu",
+    "FLeng": "P",
+    "tel": "పండు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30431",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panduloha",
+    "FLeng": "P",
+    "tel": "పండులోహ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30432",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandurang",
+    "FLeng": "P",
+    "tel": "పాండురంగ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30433",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panduranga",
+    "FLeng": "P",
+    "tel": "పాండురంగ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30434",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandurangan",
+    "FLeng": "P",
+    "tel": "పాండురంగం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30435",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pandya",
+    "FLeng": "P",
+    "tel": "పాండ్య",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30436",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panfilo",
+    "FLeng": "P",
+    "tel": "పంఫిలో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30437",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panick",
+    "FLeng": "P",
+    "tel": "పానిక్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30438",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paniman",
+    "FLeng": "P",
+    "tel": "మినిమం",
+    "FLtel": "మ"
+  },
+  {
+    "id": "30439",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panine",
+    "FLeng": "P",
+    "tel": "పనినే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30440",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paniraj",
+    "FLeng": "P",
+    "tel": "ఫణిరాజ్",
+    "FLtel": "ఫ"
+  },
+  {
+    "id": "30441",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panit",
+    "FLeng": "P",
+    "tel": "మినిట్",
+    "FLtel": "మ"
+  },
+  {
+    "id": "30442",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panjab",
+    "FLeng": "P",
+    "tel": "పంజాబ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30443",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panjatram",
+    "FLeng": "P",
+    "tel": "పంజరం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30444",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panju",
+    "FLeng": "P",
+    "tel": "పంజా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30445",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panjumani",
+    "FLeng": "P",
+    "tel": "పంజుమని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30446",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panjwani",
+    "FLeng": "P",
+    "tel": "పఞ్జరని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankaj",
+    "FLeng": "P",
+    "tel": "పంకజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30448",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankajaja",
+    "FLeng": "P",
+    "tel": "పంకజజ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30449",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pankajaksha",
+    "FLeng": "P",
+    "tel": "పంకజాక్షి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30450",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankajalochana",
+    "FLeng": "P",
+    "tel": "పంకజలోచన",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30451",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankajam",
+    "FLeng": "P",
+    "tel": "పంకజం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30452",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankajan",
+    "FLeng": "P",
+    "tel": "పంకజం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30453",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pankajanetra",
+    "FLeng": "P",
+    "tel": "పంకజనేత్ర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30454",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pankajdeep",
+    "FLeng": "P",
+    "tel": "పంకజదీప్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30455",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankajeet",
+    "FLeng": "P",
+    "tel": "పంకజీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30456",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pankajpreet",
+    "FLeng": "P",
+    "tel": "పంకజప్రీత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30457",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankajsinh",
+    "FLeng": "P",
+    "tel": "పంకజసింహ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30458",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankanabh",
+    "FLeng": "P",
+    "tel": "పంకణభ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30459",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankil",
+    "FLeng": "P",
+    "tel": "పంకిల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30460",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankit",
+    "FLeng": "P",
+    "tel": "పంకిట్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30461",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pankoj",
+    "FLeng": "P",
+    "tel": "పాంకోజ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30462",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panmoli",
+    "FLeng": "P",
+    "tel": "పనిమొళి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30463",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pann Gesh",
+    "FLeng": "P",
+    "tel": "పాన్ గెస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30464",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pann-gesh",
+    "FLeng": "P",
+    "tel": "పాన్-గెస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30465",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Pannalal",
+    "FLeng": "P",
+    "tel": "పన్నాలాల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30466",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panneer",
+    "FLeng": "P",
+    "tel": "పన్నీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30467",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panneerdoss",
+    "FLeng": "P",
+    "tel": "పన్నీరుడోస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30468",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panner",
+    "FLeng": "P",
+    "tel": "పన్నీర్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30469",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panngesh",
+    "FLeng": "P",
+    "tel": "పన్నగేష్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30470",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panos",
+    "FLeng": "P",
+    "tel": "పనోస్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30471",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panshu",
+    "FLeng": "P",
+    "tel": "పాంశు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30472",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panshul",
+    "FLeng": "P",
+    "tel": "పెన్షుల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30473",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pant",
+    "FLeng": "P",
+    "tel": "ప్యాంటు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30474",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panteleimon",
+    "FLeng": "P",
+    "tel": "పంటలేయమం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30475",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pantelion",
+    "FLeng": "P",
+    "tel": "పంటలిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30476",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Panth",
+    "FLeng": "P",
+    "tel": "పంత్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30477",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panthin",
+    "FLeng": "P",
+    "tel": "పంథిన్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30478",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pantni",
+    "FLeng": "P",
+    "tel": "పాంటీని",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30479",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panvi",
+    "FLeng": "P",
+    "tel": "పాన్వి",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30480",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Panyala",
+    "FLeng": "P",
+    "tel": "పంటల",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30481",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "paolo",
+    "FLeng": "p",
+    "tel": "పాయలో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30482",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Paolo",
+    "FLeng": "P",
+    "tel": "పాయలో",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30483",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Papa",
+    "FLeng": "P",
+    "tel": "పాపా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30484",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Papahara",
+    "FLeng": "P",
+    "tel": "పాపహర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30485",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Papaharana",
+    "FLeng": "P",
+    "tel": "పాపహరణ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30486",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pappu",
+    "FLeng": "P",
+    "tel": "పప్పు",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30487",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Pappuyan",
+    "FLeng": "P",
+    "tel": "పప్పూయం",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30488",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Pappy",
+    "FLeng": "P",
+    "tel": "పప్పీ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30489",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paraag",
+    "FLeng": "P",
+    "tel": "పరాగ్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30490",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paraaga",
+    "FLeng": "P",
+    "tel": "పరాగ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30491",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paraashar",
+    "FLeng": "P",
+    "tel": "పరాశర",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30492",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "parable",
+    "FLeng": "p",
+    "tel": "పెరల్",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30493",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parabrahma",
+    "FLeng": "P",
+    "tel": "పరబ్రహ్మ",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30494",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parabrahmana",
+    "FLeng": "P",
+    "tel": "పరబ్రహ్మను",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30495",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parabrahmane",
+    "FLeng": "P",
+    "tel": "పరబ్రహ్మనే",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30496",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Parada",
+    "FLeng": "P",
+    "tel": "పరదా",
+    "FLtel": "ప"
+  },
+  {
+    "id": "30497",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Paradeep",
+    "FLeng": "P",
+    "tel": "పరాదీప్",
+    "FLtel": "ప"
+  }
+]

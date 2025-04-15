@@ -1,0 +1,830 @@
+[
+  {
+    "id": "36357",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samadar",
+    "FLeng": "S",
+    "tel": "సందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36358",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samadarshi",
+    "FLeng": "S",
+    "tel": "సమాదర్షి",
+    "FLtel": "స"
+  },
+  {
+    "id": "36359",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samadhan",
+    "FLeng": "S",
+    "tel": "సమాధానం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36360",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Samagan",
+    "FLeng": "S",
+    "tel": "సంగం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36361",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samai",
+    "FLeng": "S",
+    "tel": "సమై",
+    "FLtel": "స"
+  },
+  {
+    "id": "36362",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samaj",
+    "FLeng": "S",
+    "tel": "సమాజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36363",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samajas",
+    "FLeng": "S",
+    "tel": "సమాజస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36364",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samajya",
+    "FLeng": "S",
+    "tel": "సామాజ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "36365",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samak",
+    "FLeng": "S",
+    "tel": "సమక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36366",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samaksh",
+    "FLeng": "S",
+    "tel": "సమక్ష్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36367",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Samal",
+    "FLeng": "S",
+    "tel": "సమాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36368",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saman",
+    "FLeng": "S",
+    "tel": "సమం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36369",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Samandar",
+    "FLeng": "S",
+    "tel": "సమందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36370",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samang",
+    "FLeng": "S",
+    "tel": "సమంగా",
+    "FLtel": "స"
+  },
+  {
+    "id": "36371",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samanjas",
+    "FLeng": "S",
+    "tel": "సమంజస",
+    "FLtel": "స"
+  },
+  {
+    "id": "36372",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samant",
+    "FLeng": "S",
+    "tel": "సమంత",
+    "FLtel": "స"
+  },
+  {
+    "id": "36373",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Samantbhadra",
+    "FLeng": "S",
+    "tel": "సమన్తభాద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "36374",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samanth",
+    "FLeng": "S",
+    "tel": "సమంత",
+    "FLtel": "స"
+  },
+  {
+    "id": "36375",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samanvay",
+    "FLeng": "S",
+    "tel": "సమన్వయ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36376",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samanvaya",
+    "FLeng": "S",
+    "tel": "సమన్వయ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36377",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samanvey",
+    "FLeng": "S",
+    "tel": "సమానవే",
+    "FLtel": "స"
+  },
+  {
+    "id": "36378",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samanyu",
+    "FLeng": "S",
+    "tel": "సామాన్యు",
+    "FLtel": "స"
+  },
+  {
+    "id": "36379",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarajit",
+    "FLeng": "S",
+    "tel": "సమరజిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36380",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samaran",
+    "FLeng": "S",
+    "tel": "సమరం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36381",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarath",
+    "FLeng": "S",
+    "tel": "సమరత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36382",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarbir",
+    "FLeng": "S",
+    "tel": "సమార్బిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36383",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samardeep",
+    "FLeng": "S",
+    "tel": "సమర్దీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36384",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samardh",
+    "FLeng": "S",
+    "tel": "సామర్ద్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36385",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarendra",
+    "FLeng": "S",
+    "tel": "సమరేంద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "36386",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarendu",
+    "FLeng": "S",
+    "tel": "సమరెందు",
+    "FLtel": "స"
+  },
+  {
+    "id": "36387",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samargeet",
+    "FLeng": "S",
+    "tel": "సమర్జీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36388",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarinder",
+    "FLeng": "S",
+    "tel": "సమారిందెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36389",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarjeet",
+    "FLeng": "S",
+    "tel": "సమర్జీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36390",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarjit",
+    "FLeng": "S",
+    "tel": "సమార్జిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36391",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarjith",
+    "FLeng": "S",
+    "tel": "సమార్జిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36392",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarjot",
+    "FLeng": "S",
+    "tel": "సామర్జోత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36393",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarpal",
+    "FLeng": "S",
+    "tel": "సమర్పల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36394",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarpan",
+    "FLeng": "S",
+    "tel": "సమర్పణ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36395",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarpit",
+    "FLeng": "S",
+    "tel": "సమర్పిట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36396",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samarpreet",
+    "FLeng": "S",
+    "tel": "సామర్ప్రీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36397",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarth",
+    "FLeng": "S",
+    "tel": "సామర్థ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36398",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samartha",
+    "FLeng": "S",
+    "tel": "సమర్థ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36399",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarthi",
+    "FLeng": "S",
+    "tel": "సమర్తి",
+    "FLtel": "స"
+  },
+  {
+    "id": "36400",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samarvir",
+    "FLeng": "S",
+    "tel": "సమర్విర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36401",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samashray",
+    "FLeng": "S",
+    "tel": "సమాశ్రయ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36402",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samat",
+    "FLeng": "S",
+    "tel": "సంత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36403",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samavart",
+    "FLeng": "S",
+    "tel": "సమన్వర్ట్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36404",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samay",
+    "FLeng": "S",
+    "tel": "సమయ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36405",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samba",
+    "FLeng": "S",
+    "tel": "సాంబ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36406",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambaran",
+    "FLeng": "S",
+    "tel": "సంబరం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36407",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambasivan",
+    "FLeng": "S",
+    "tel": "సాంబశివం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36408",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambath",
+    "FLeng": "S",
+    "tel": "సంబాత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36409",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambh",
+    "FLeng": "S",
+    "tel": "సంభ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36410",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambha",
+    "FLeng": "S",
+    "tel": "సంభ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36411",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhaji",
+    "FLeng": "S",
+    "tel": "శంభాజీ",
+    "FLtel": "శ"
+  },
+  {
+    "id": "36412",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhar",
+    "FLeng": "S",
+    "tel": "సాంబార్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36413",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambharm",
+    "FLeng": "S",
+    "tel": "సంబరం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36414",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhashiv",
+    "FLeng": "S",
+    "tel": "సాంబశివ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36415",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhav",
+    "FLeng": "S",
+    "tel": "సంభవః",
+    "FLtel": "స"
+  },
+  {
+    "id": "36416",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Sambhavnath",
+    "FLeng": "S",
+    "tel": "సంభవనాథ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36417",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhddha",
+    "FLeng": "S",
+    "tel": "సమ్భద్ధ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36418",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhram",
+    "FLeng": "S",
+    "tel": "సంభ్రం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36419",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambhu",
+    "FLeng": "S",
+    "tel": "శంభు",
+    "FLtel": "శ"
+  },
+  {
+    "id": "36420",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambi",
+    "FLeng": "S",
+    "tel": "సంబి",
+    "FLtel": "స"
+  },
+  {
+    "id": "36421",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambit",
+    "FLeng": "S",
+    "tel": "సంబిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36422",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambodh",
+    "FLeng": "S",
+    "tel": "సంబోధ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36423",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Samborn",
+    "FLeng": "S",
+    "tel": "సంబోర్న్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36424",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambu",
+    "FLeng": "S",
+    "tel": "సంబు",
+    "FLtel": "స"
+  },
+  {
+    "id": "36425",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sambuddha",
+    "FLeng": "S",
+    "tel": "సమ్బుద్ధా",
+    "FLtel": "స"
+  },
+  {
+    "id": "36426",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Samdani",
+    "FLeng": "S",
+    "tel": "సందని",
+    "FLtel": "స"
+  },
+  {
+    "id": "36427",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samdarshi",
+    "FLeng": "S",
+    "tel": "సందర్శి",
+    "FLtel": "స"
+  },
+  {
+    "id": "36428",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Samdeep",
+    "FLeng": "S",
+    "tel": "సందీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36429",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samedh",
+    "FLeng": "S",
+    "tel": "సమ్మెద్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36430",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Samee",
+    "FLeng": "S",
+    "tel": "సామీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36431",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameed",
+    "FLeng": "S",
+    "tel": "సమీద",
+    "FLtel": "స"
+  },
+  {
+    "id": "36432",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameeh",
+    "FLeng": "S",
+    "tel": "సమీహ",
+    "FLtel": "స"
+  },
+  {
+    "id": "36433",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameen",
+    "FLeng": "S",
+    "tel": "సమీం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36434",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sameep",
+    "FLeng": "S",
+    "tel": "సమీప",
+    "FLtel": "స"
+  },
+  {
+    "id": "36435",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameer",
+    "FLeng": "S",
+    "tel": "సమీర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36436",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameere",
+    "FLeng": "S",
+    "tel": "సమీరే",
+    "FLtel": "స"
+  },
+  {
+    "id": "36437",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameern",
+    "FLeng": "S",
+    "tel": "సమీఱం",
+    "FLtel": "స"
+  },
+  {
+    "id": "36438",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameeullah",
+    "FLeng": "S",
+    "tel": "సమీముల్లాహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36439",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sameh",
+    "FLeng": "S",
+    "tel": "సామెహ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36440",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samen",
+    "FLeng": "S",
+    "tel": "సమ్మెను",
+    "FLtel": "స"
+  },
+  {
+    "id": "36441",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samendra",
+    "FLeng": "S",
+    "tel": "సోమేంద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "36442",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samendu",
+    "FLeng": "S",
+    "tel": "సమెందు",
+    "FLtel": "స"
+  },
+  {
+    "id": "36443",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Samer",
+    "FLeng": "S",
+    "tel": "సమీర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36444",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samesh",
+    "FLeng": "S",
+    "tel": "సోమేశ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36445",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samgram",
+    "FLeng": "S",
+    "tel": "సంగ్రామ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "36446",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samhit",
+    "FLeng": "S",
+    "tel": "సంహిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "36447",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samhith",
+    "FLeng": "S",
+    "tel": "సంహిత",
+    "FLtel": "స"
+  },
+  {
+    "id": "36448",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Samich",
+    "FLeng": "S",
+    "tel": "సమీక్",
+    "FLtel": "స"
+  }
+]

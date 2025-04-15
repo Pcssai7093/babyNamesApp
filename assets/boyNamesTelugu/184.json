@@ -1,0 +1,632 @@
+[
+  {
+    "id": "7889",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eitri",
+    "FLeng": "E",
+    "tel": "ఈత్రి",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "7890",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eivind",
+    "FLeng": "E",
+    "tel": "ఈవింద్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "7891",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eja",
+    "FLeng": "e",
+    "tel": "ఏజ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7892",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ejaaz",
+    "FLeng": "E",
+    "tel": "ఎజాజ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7893",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ejaz",
+    "FLeng": "E",
+    "tel": "ఎజాజ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7894",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ejaz Ahemad",
+    "FLeng": "E",
+    "tel": "ఎజాజ్ అహేమద్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7895",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ejlaal",
+    "FLeng": "E",
+    "tel": "ఏజిలాల్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7896",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ejub",
+    "FLeng": "E",
+    "tel": "ఈజాబ్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "7897",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekaagar",
+    "FLeng": "E",
+    "tel": "ఏకాగర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaakshara",
+    "FLeng": "E",
+    "tel": "ఏకాక్షరి",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaakshu",
+    "FLeng": "E",
+    "tel": "ఏకాక్షు",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7900",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekabhakta",
+    "FLeng": "E",
+    "tel": "ఏకభక్త",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7901",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekacakra",
+    "FLeng": "E",
+    "tel": "ఏకచక్ర",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekachakra",
+    "FLeng": "E",
+    "tel": "ఏకచక్ర",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7903",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekachandra",
+    "FLeng": "E",
+    "tel": "ఏకచ్చంద్ర",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekachit",
+    "FLeng": "E",
+    "tel": "ఏకచిత్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7905",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekachith",
+    "FLeng": "E",
+    "tel": "ఏకచిత్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekacuda",
+    "FLeng": "E",
+    "tel": "ఎకకడ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7907",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadant",
+    "FLeng": "E",
+    "tel": "ఏకదంట",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7908",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadanta",
+    "FLeng": "E",
+    "tel": "ఏకదంతా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7909",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadantha",
+    "FLeng": "E",
+    "tel": "ఏకదంతా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7910",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadanthan",
+    "FLeng": "E",
+    "tel": "ఏకదంతం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7911",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadeha",
+    "FLeng": "E",
+    "tel": "ఏకదేహా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7912",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadeva",
+    "FLeng": "E",
+    "tel": "ఏకదేవా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7913",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadrina",
+    "FLeng": "E",
+    "tel": "ఏకదేరిన",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7914",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadrishta",
+    "FLeng": "E",
+    "tel": "ఏకదృష్ట",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7915",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekadyu",
+    "FLeng": "E",
+    "tel": "ఎకడయు",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7916",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekagar",
+    "FLeng": "E",
+    "tel": "ఏకగర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7917",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekagra",
+    "FLeng": "E",
+    "tel": "ఏకాగ్ర",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7918",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekagrah",
+    "FLeng": "E",
+    "tel": "ఏకాగ్రహః",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7919",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ekaijinko",
+    "FLeng": "E",
+    "tel": "ఏకైజింకో",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7920",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaj",
+    "FLeng": "E",
+    "tel": "ఏకాజ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7921",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekajata",
+    "FLeng": "E",
+    "tel": "ఏకజాత",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7922",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekajyotis",
+    "FLeng": "E",
+    "tel": "ఏకజ్యోతిస్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekak",
+    "FLeng": "E",
+    "tel": "ఎక్క",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7924",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaksh",
+    "FLeng": "E",
+    "tel": "ఏకాక్షి",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7925",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaksha",
+    "FLeng": "E",
+    "tel": "ఏకాక్ష",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekakshara",
+    "FLeng": "E",
+    "tel": "ఏకాక్షరి",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7927",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekala",
+    "FLeng": "E",
+    "tel": "ఈకల",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "7928",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekalavya",
+    "FLeng": "E",
+    "tel": "ఏకలవ్య",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7929",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaling",
+    "FLeng": "E",
+    "tel": "ఏకలింగ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7930",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekalinga",
+    "FLeng": "E",
+    "tel": "ఏకలింగ",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7931",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekama",
+    "FLeng": "E",
+    "tel": "ఏకంగా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7932",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekambar",
+    "FLeng": "E",
+    "tel": "ఏకాంబర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7933",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekambaram",
+    "FLeng": "E",
+    "tel": "ఏకాంబరం",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7934",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekambir",
+    "FLeng": "E",
+    "tel": "ఏకాంబీర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7935",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekamdeep",
+    "FLeng": "E",
+    "tel": "ఏకందీప్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7936",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekamjeet",
+    "FLeng": "E",
+    "tel": "ఏకాంజీత్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7937",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekamkar",
+    "FLeng": "E",
+    "tel": "ఏకాంకర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7938",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekamprem",
+    "FLeng": "E",
+    "tel": "ఏకంప్రెమ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7939",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekamukha",
+    "FLeng": "E",
+    "tel": "ఏకముఖ",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7940",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekana",
+    "FLeng": "E",
+    "tel": "ఏకంగా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7941",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekanai",
+    "FLeng": "E",
+    "tel": "ఇకనై",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "7942",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekanath",
+    "FLeng": "E",
+    "tel": "ఎకనాథ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7943",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekanatha",
+    "FLeng": "E",
+    "tel": "ఎకనాథ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7944",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekanayaka",
+    "FLeng": "E",
+    "tel": "ఎకనాయక",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7945",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekanga",
+    "FLeng": "E",
+    "tel": "ఏకంగా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7946",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekanjeet",
+    "FLeng": "E",
+    "tel": "ఏకాంజీత్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7947",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekanjot",
+    "FLeng": "E",
+    "tel": "ఏకాంజోత్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7948",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekankar",
+    "FLeng": "E",
+    "tel": "ఏకాంకర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7949",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekanpreet",
+    "FLeng": "E",
+    "tel": "ఎకాన్ప్రీత్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "7950",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekansh",
+    "FLeng": "E",
+    "tel": "ఏకాంశ",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7951",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekant",
+    "FLeng": "E",
+    "tel": "ఏకాంత",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7952",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekantaraj",
+    "FLeng": "E",
+    "tel": "ఏకాంతరాజ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7953",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekanthasai",
+    "FLeng": "E",
+    "tel": "ఏకాంతశై",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7954",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ekantpreet",
+    "FLeng": "E",
+    "tel": "ఏకన్తప్రీత్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7955",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekapad",
+    "FLeng": "E",
+    "tel": "ఏకపడి",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7956",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekapada",
+    "FLeng": "E",
+    "tel": "ఏకపద",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7957",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekaparusa",
+    "FLeng": "E",
+    "tel": "ఏకపరుస",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "7958",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ekapat",
+    "FLeng": "E",
+    "tel": "ఏకపాటి",
+    "FLtel": "ఏ"
+  }
+]

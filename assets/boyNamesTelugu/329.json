@@ -1,0 +1,902 @@
+[
+  {
+    "id": "21769",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lajjit",
+    "FLeng": "L",
+    "tel": "లజ్జిట్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21770",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Lajlaj",
+    "FLeng": "L",
+    "tel": "లాజలజ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21771",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lajos",
+    "FLeng": "L",
+    "tel": "లాజోస్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21772",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lajos",
+    "FLeng": "l",
+    "tel": "లాజోస్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21773",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lajpal",
+    "FLeng": "L",
+    "tel": "లాజ్పాల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21774",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lajpat",
+    "FLeng": "L",
+    "tel": "లజపత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21775",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lajpreet",
+    "FLeng": "L",
+    "tel": "లాజ్ప్రీత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21776",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lajprem",
+    "FLeng": "L",
+    "tel": "లాజ్ప్రీం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21777",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lajwant",
+    "FLeng": "L",
+    "tel": "లజ్వాన్ట్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21778",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lak",
+    "FLeng": "L",
+    "tel": "లాక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21779",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakar",
+    "FLeng": "L",
+    "tel": "లాకర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21780",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lake",
+    "FLeng": "L",
+    "tel": "లేక్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21781",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakely",
+    "FLeng": "L",
+    "tel": "లాకెల్లీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21782",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "lakely",
+    "FLeng": "l",
+    "tel": "లాకెల్లీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21783",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakesh",
+    "FLeng": "L",
+    "tel": "లక్ష్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21784",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Laketon",
+    "FLeng": "L",
+    "tel": "లాకెటోన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21785",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhabir",
+    "FLeng": "L",
+    "tel": "లక్షబిర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21786",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakhan",
+    "FLeng": "L",
+    "tel": "లఖన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21787",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakhani",
+    "FLeng": "L",
+    "tel": "లేఖని",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21788",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhbir",
+    "FLeng": "L",
+    "tel": "లఖ్బీర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21789",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakhith",
+    "FLeng": "L",
+    "tel": "లిఖిత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21790",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhmeet",
+    "FLeng": "L",
+    "tel": "లఖ్మీత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21791",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhminder",
+    "FLeng": "L",
+    "tel": "లక్మిన్డెర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21792",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhpreet",
+    "FLeng": "L",
+    "tel": "లఖ్ప్రీత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21793",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhprem",
+    "FLeng": "L",
+    "tel": "లఖ్ప్రీం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21794",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhsman",
+    "FLeng": "L",
+    "tel": "లక్షమం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21795",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhviar",
+    "FLeng": "L",
+    "tel": "లఖ్వీఆర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21796",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhvir",
+    "FLeng": "L",
+    "tel": "లఖ్వీర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21797",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Lakhwinder",
+    "FLeng": "L",
+    "tel": "లఖ్విండెర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21798",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakin",
+    "FLeng": "L",
+    "tel": "లాకిన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21799",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakit",
+    "FLeng": "L",
+    "tel": "లకిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21800",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Laksh",
+    "FLeng": "L",
+    "tel": "లక్ష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21801",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshagrah",
+    "FLeng": "L",
+    "tel": "లక్షాగ్రహః",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21802",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshak",
+    "FLeng": "L",
+    "tel": "లక్షకు",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21803",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshan",
+    "FLeng": "L",
+    "tel": "లక్షణ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21804",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshany",
+    "FLeng": "L",
+    "tel": "లక్షను",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21805",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshanya",
+    "FLeng": "L",
+    "tel": "లక్షణ్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21806",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshapati",
+    "FLeng": "L",
+    "tel": "లక్షపతి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21807",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshay",
+    "FLeng": "L",
+    "tel": "లక్షయ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21808",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshayaditya",
+    "FLeng": "L",
+    "tel": "లక్షాయాదిత్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21809",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshin",
+    "FLeng": "L",
+    "tel": "లక్షిం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21810",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshit",
+    "FLeng": "L",
+    "tel": "లక్షిత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21811",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshith",
+    "FLeng": "L",
+    "tel": "లక్షిత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21812",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshiv",
+    "FLeng": "L",
+    "tel": "లక్షివ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21813",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshman",
+    "FLeng": "L",
+    "tel": "లక్ష్మణ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21814",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmana",
+    "FLeng": "L",
+    "tel": "లక్ష్మణ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21815",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmanapranadata",
+    "FLeng": "L",
+    "tel": "లక్ష్మణప్రాణదాత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21816",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmanapranadatre",
+    "FLeng": "L",
+    "tel": "లక్ష్మణప్రాణదాత్రే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21817",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmeesh",
+    "FLeng": "L",
+    "tel": "లక్ష్మీశ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21818",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmi Gopal",
+    "FLeng": "L",
+    "tel": "లక్ష్మి గోపాల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21819",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmi Kant",
+    "FLeng": "L",
+    "tel": "లక్ష్మి కాంట్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21820",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmi Narayan",
+    "FLeng": "L",
+    "tel": "లక్ష్మి నారాయణ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21821",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmi Raman",
+    "FLeng": "L",
+    "tel": "లక్ష్మి రామం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21822",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmi-Lochan",
+    "FLeng": "L",
+    "tel": "లక్ష్మి-లోచన",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21823",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmibalan",
+    "FLeng": "L",
+    "tel": "లక్ష్మీబాలన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21824",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmibanta",
+    "FLeng": "L",
+    "tel": "లక్ష్మిబంట",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21825",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmidhar",
+    "FLeng": "L",
+    "tel": "లక్ష్మీధర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21826",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmigopal",
+    "FLeng": "L",
+    "tel": "లక్ష్మిగోపాల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21827",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshmikant",
+    "FLeng": "L",
+    "tel": "లక్ష్మీకాంత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21828",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmikanta",
+    "FLeng": "L",
+    "tel": "లక్ష్మీకాంతం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21829",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmikantam",
+    "FLeng": "L",
+    "tel": "లక్ష్మీకాంతం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21830",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmikanth",
+    "FLeng": "L",
+    "tel": "లక్ష్మీకాంత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21831",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshminarayan",
+    "FLeng": "L",
+    "tel": "లక్ష్మీనారాయణ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21832",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshminath",
+    "FLeng": "L",
+    "tel": "లక్ష్మీనాథ్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21833",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshmindara",
+    "FLeng": "L",
+    "tel": "లక్ష్మిన్దర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21834",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmipathi",
+    "FLeng": "L",
+    "tel": "లక్ష్మీపతి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21835",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmipathy",
+    "FLeng": "L",
+    "tel": "లక్ష్మీపతే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21836",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmipati",
+    "FLeng": "L",
+    "tel": "లక్ష్మీపతి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21837",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakshmiprasad",
+    "FLeng": "L",
+    "tel": "లక్ష్మీప్రసాద్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21838",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshmiram",
+    "FLeng": "L",
+    "tel": "లక్ష్మీరం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21839",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshmiraman",
+    "FLeng": "L",
+    "tel": "లక్ష్మీరామం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21840",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshmishree",
+    "FLeng": "L",
+    "tel": "లక్ష్మీశ్రీ",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21841",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakshyan",
+    "FLeng": "L",
+    "tel": "లక్ష్యాన్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21842",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Laksit",
+    "FLeng": "L",
+    "tel": "లక్షిత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21843",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Laksman",
+    "FLeng": "L",
+    "tel": "లక్షమం",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21844",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Laksmana",
+    "FLeng": "L",
+    "tel": "లక్స్మను",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21845",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Laksmibilash",
+    "FLeng": "L",
+    "tel": "లక్శ్మిభిలాష్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21846",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Laksmikanta",
+    "FLeng": "L",
+    "tel": "లక్ష్మికాంత",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21847",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Laksmiparasad",
+    "FLeng": "L",
+    "tel": "లక్ష్మిపరసాద్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21848",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Laksmipati",
+    "FLeng": "L",
+    "tel": "లక్ష్మిపతి",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21849",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lakviar",
+    "FLeng": "L",
+    "tel": "లక్వీర్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21850",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Lakyle",
+    "FLeng": "L",
+    "tel": "లాకీలే",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21851",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Lal",
+    "FLeng": "L",
+    "tel": "లాల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21852",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalat",
+    "FLeng": "L",
+    "tel": "లలిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21853",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalataksha",
+    "FLeng": "L",
+    "tel": "లలితాక్ష",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21854",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalatendu",
+    "FLeng": "L",
+    "tel": "లాలాటెందు",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21855",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Lalawethika",
+    "FLeng": "L",
+    "tel": "లాలావెతికా",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21856",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalchand",
+    "FLeng": "L",
+    "tel": "లలచంద్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21857",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalchandra",
+    "FLeng": "L",
+    "tel": "లలచంద్ర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21858",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalil",
+    "FLeng": "L",
+    "tel": "లళిల్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21859",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalip",
+    "FLeng": "L",
+    "tel": "లలిప్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21860",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalit",
+    "FLeng": "L",
+    "tel": "లలిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21861",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalit Kumar",
+    "FLeng": "L",
+    "tel": "లలిత్ కుమార్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21862",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalitaditya",
+    "FLeng": "L",
+    "tel": "లలితదిత్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21863",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalitchandra",
+    "FLeng": "L",
+    "tel": "లలితచంద్ర",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21864",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalitendu",
+    "FLeng": "L",
+    "tel": "లలితేందు",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21865",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalitesh",
+    "FLeng": "L",
+    "tel": "లలితేష్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21866",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalith",
+    "FLeng": "L",
+    "tel": "లలిత్",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21867",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalithaditya",
+    "FLeng": "L",
+    "tel": "లలితదిత్య",
+    "FLtel": "ల"
+  },
+  {
+    "id": "21868",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Lalitkishore",
+    "FLeng": "L",
+    "tel": "లలితకిశోరే",
+    "FLtel": "ల"
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "id": "8471",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Entilaka",
+    "FLeng": "E",
+    "tel": "ఇంతిలాక",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8472",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Entriken",
+    "FLeng": "E",
+    "tel": "ఎంట్రీకం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8473",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Enver",
+    "FLeng": "E",
+    "tel": "ఇన్వెర్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8474",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Enyon",
+    "FLeng": "E",
+    "tel": "యన్యోన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "8475",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Enzio",
+    "FLeng": "E",
+    "tel": "ఏంజిలో",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8476",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Enzo",
+    "FLeng": "E",
+    "tel": "ఎంజో",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8477",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Enzzo",
+    "FLeng": "E",
+    "tel": "ఏంజ్వు",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8478",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eofor",
+    "FLeng": "E",
+    "tel": "ఏఆర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8479",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoforheard",
+    "FLeng": "E",
+    "tel": "ఎఆర్హెర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8480",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoforich",
+    "FLeng": "E",
+    "tel": "ఎఆరిచ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8481",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoforweald",
+    "FLeng": "E",
+    "tel": "ఏఆయర్వేల్డ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8482",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoforwic",
+    "FLeng": "E",
+    "tel": "ఎఆర్విక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8483",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoghan",
+    "FLeng": "E",
+    "tel": "ఎగాన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8484",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eohhere",
+    "FLeng": "E",
+    "tel": "ఏఓహెహెరె",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8485",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eohric",
+    "FLeng": "E",
+    "tel": "ఏవోహరీక్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8486",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoin",
+    "FLeng": "E",
+    "tel": "ఏమోయిన్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8487",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eomer",
+    "FLeng": "E",
+    "tel": "ఎమర్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8488",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eonan",
+    "FLeng": "E",
+    "tel": "ఈయనం",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8489",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eoppa",
+    "FLeng": "E",
+    "tel": "ఏఒప్ప",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8490",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorcenbehrt",
+    "FLeng": "E",
+    "tel": "ఎవరుసెంబెహార్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8491",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorcna",
+    "FLeng": "E",
+    "tel": "ఏవోర్సీనా",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8492",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorconbeald",
+    "FLeng": "E",
+    "tel": "ఎర్కాంబీల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8493",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorconbehrt",
+    "FLeng": "E",
+    "tel": "ఎర్కాంబెహార్ట్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8494",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorcongota",
+    "FLeng": "E",
+    "tel": "ఎర్కాంగోట",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8495",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorconweald",
+    "FLeng": "E",
+    "tel": "ఎర్కాన్వేల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8496",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eored",
+    "FLeng": "E",
+    "tel": "ఎవరిది",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8497",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorkonweald",
+    "FLeng": "E",
+    "tel": "ఎర్కవున్వేల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8498",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorl",
+    "FLeng": "E",
+    "tel": "ఎర్ల్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8499",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorland",
+    "FLeng": "E",
+    "tel": "ఏఓర్లాండ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8500",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorlland",
+    "FLeng": "E",
+    "tel": "ఎర్ల్లాండ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8501",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorlson",
+    "FLeng": "E",
+    "tel": "ఎర్ల్సన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8502",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eormenburh",
+    "FLeng": "E",
+    "tel": "ఎవురిమెంబర్హ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8503",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eormengard",
+    "FLeng": "E",
+    "tel": "ఏఓర్మెన్గార్డ్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8504",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eormengild",
+    "FLeng": "E",
+    "tel": "ఎవర్మెంగిల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8505",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eormenraed",
+    "FLeng": "E",
+    "tel": "ఎవర్మెంరేడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8506",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eormenread",
+    "FLeng": "E",
+    "tel": "ఎవర్మెంరెడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8507",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorp",
+    "FLeng": "E",
+    "tel": "ఎర్ప్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8508",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorphere",
+    "FLeng": "E",
+    "tel": "ఏఓర్ఫేర్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8509",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eorpwald",
+    "FLeng": "E",
+    "tel": "ఎర్ప్వాల్డ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8510",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eosterwine",
+    "FLeng": "E",
+    "tel": "ఏఓస్టెర్విన్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8511",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ephai",
+    "FLeng": "e",
+    "tel": "ఎఫై",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8512",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ephesian",
+    "FLeng": "E",
+    "tel": "ఎఫేసియన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8513",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ephraim",
+    "FLeng": "E",
+    "tel": "ఎఫ్రాయిము",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8514",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ephram",
+    "FLeng": "E",
+    "tel": "ఎఫ్రాన్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8515",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ephrem",
+    "FLeng": "E",
+    "tel": "ఎఫ్ర్మ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8516",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ephron",
+    "FLeng": "E",
+    "tel": "ఎఫ్రోను",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8517",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ephron",
+    "FLeng": "e",
+    "tel": "ఎఫ్రోను",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8518",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Epifanio",
+    "FLeng": "E",
+    "tel": "ఎపిఫనీవు",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8519",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Epimetheus",
+    "FLeng": "E",
+    "tel": "ఎపిమేథిస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8520",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Epinegris",
+    "FLeng": "E",
+    "tel": "ఎపినెగ్రిస్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8521",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Epinegrus",
+    "FLeng": "E",
+    "tel": "ఎపినెగర్స్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8522",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eppa",
+    "FLeng": "E",
+    "tel": "ఎప్ప",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8523",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eppo",
+    "FLeng": "E",
+    "tel": "ఎప్పో",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8524",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Er",
+    "FLeng": "E",
+    "tel": "ఏర",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8525",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "eracio",
+    "FLeng": "e",
+    "tel": "రాశిలో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8526",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eragon",
+    "FLeng": "E",
+    "tel": "ఏర్గోన్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8527",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eral",
+    "FLeng": "E",
+    "tel": "రాల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8528",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eran",
+    "FLeng": "E",
+    "tel": "ఇరాన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "8529",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erardo",
+    "FLeng": "E",
+    "tel": "రార్డో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8530",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erasma",
+    "FLeng": "E",
+    "tel": "ఎరాస్మ",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8531",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erasmo",
+    "FLeng": "E",
+    "tel": "రసమో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8532",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erasmus",
+    "FLeng": "E",
+    "tel": "రాస్ముస్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8533",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erasto",
+    "FLeng": "E",
+    "tel": "రాస్తో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8534",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erastus",
+    "FLeng": "E",
+    "tel": "రాష్ట్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8535",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "erastus",
+    "FLeng": "e",
+    "tel": "రాష్ట్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8536",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Erbic",
+    "FLeng": "E",
+    "tel": "ఈబీసీ",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8537",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erbin",
+    "FLeng": "E",
+    "tel": "రాబిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8538",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Erbir",
+    "FLeng": "E",
+    "tel": "ఈబీర్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8539",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erchambaut",
+    "FLeng": "E",
+    "tel": "ఈచంబుఁట్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8540",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erchanbold",
+    "FLeng": "E",
+    "tel": "ఈచంబాద్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8541",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erchanhardt",
+    "FLeng": "E",
+    "tel": "ఈచంహర్డ్ట్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8542",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erchebald",
+    "FLeng": "E",
+    "tel": "ఎర్చేబ్లడ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8543",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erchembaut",
+    "FLeng": "E",
+    "tel": "రుచిమ్బుట్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8544",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ercole",
+    "FLeng": "E",
+    "tel": "ఈకలు",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8545",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erconbert",
+    "FLeng": "E",
+    "tel": "ఈకాంబెర్ట్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8546",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Erdelan",
+    "FLeng": "E",
+    "tel": "ఈదెలం",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "8547",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "erdem",
+    "FLeng": "e",
+    "tel": "రాదేం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8548",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erec",
+    "FLeng": "E",
+    "tel": "ఎరిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8549",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erek",
+    "FLeng": "E",
+    "tel": "ఎరిక్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8550",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erel",
+    "FLeng": "E",
+    "tel": "ఎర్ల్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8551",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eremias",
+    "FLeng": "E",
+    "tel": "ఏరేమియాస్",
+    "FLtel": "ఏ"
+  },
+  {
+    "id": "8552",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Eren",
+    "FLeng": "E",
+    "tel": "ఎరేం",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8553",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erez",
+    "FLeng": "E",
+    "tel": "ఎరేజ్",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8554",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Erezwa",
+    "FLeng": "E",
+    "tel": "ఎరేజవా",
+    "FLtel": "ఎ"
+  },
+  {
+    "id": "8555",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ergin",
+    "FLeng": "E",
+    "tel": "ర్జిన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "8556",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Erhard",
+    "FLeng": "E",
+    "tel": "ఈహర్డ్",
+    "FLtel": "ఈ"
+  }
+]

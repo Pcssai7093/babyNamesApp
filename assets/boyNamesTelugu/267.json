@@ -1,0 +1,704 @@
+[
+  {
+    "id": "15588",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Inzamam",
+    "FLeng": "I",
+    "tel": "ఇంజమామ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15589",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ioane",
+    "FLeng": "i",
+    "tel": "ఈయనే",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "15590",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ioann",
+    "FLeng": "i",
+    "tel": "యన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15591",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ioannes",
+    "FLeng": "I",
+    "tel": "యోన్స్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15592",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ioannis",
+    "FLeng": "i",
+    "tel": "యోగాన్నిస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15593",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ioco",
+    "FLeng": "I",
+    "tel": "ఐయోకో",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15594",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iocyn",
+    "FLeng": "I",
+    "tel": "ఈసీన్",
+    "FLtel": "ఈ"
+  },
+  {
+    "id": "15595",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iohannes",
+    "FLeng": "I",
+    "tel": "యోహాన్నెస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15596",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "iokepa",
+    "FLeng": "i",
+    "tel": "ఇఒకేప",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15597",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "iokua",
+    "FLeng": "i",
+    "tel": "యువకుల",
+    "FLtel": "య"
+  },
+  {
+    "id": "15598",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ion",
+    "FLeng": "I",
+    "tel": "ఇఒన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15599",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ionas",
+    "FLeng": "I",
+    "tel": "యోనాస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15600",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ionatan",
+    "FLeng": "I",
+    "tel": "యన్తం",
+    "FLtel": "య"
+  },
+  {
+    "id": "15601",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ionel",
+    "FLeng": "I",
+    "tel": "యోనెల్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15602",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Ionut",
+    "FLeng": "I",
+    "tel": "యనుట",
+    "FLtel": "య"
+  },
+  {
+    "id": "15603",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iorama",
+    "FLeng": "I",
+    "tel": "యరమ",
+    "FLtel": "య"
+  },
+  {
+    "id": "15604",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iordan",
+    "FLeng": "I",
+    "tel": "యర్దన్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15605",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iordanus",
+    "FLeng": "I",
+    "tel": "యర్దన్స్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15606",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iorghu",
+    "FLeng": "I",
+    "tel": "ఇవర్గు",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15607",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ioruert",
+    "FLeng": "I",
+    "tel": "ఇరుర్ట్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15608",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ioseb",
+    "FLeng": "I",
+    "tel": "ఐఓసీబీ",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15609",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ioseph",
+    "FLeng": "I",
+    "tel": "యోసెఫ్",
+    "FLtel": "య"
+  },
+  {
+    "id": "15610",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Iosif",
+    "FLeng": "I",
+    "tel": "ఐఒసిఫ్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15611",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "iosif",
+    "FLeng": "i",
+    "tel": "ఐఒసిఫ్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15612",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Iosua",
+    "FLeng": "I",
+    "tel": "యసుపై",
+    "FLtel": "య"
+  },
+  {
+    "id": "15613",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iotama",
+    "FLeng": "I",
+    "tel": "ఇఓటమా",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15614",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iouanaul",
+    "FLeng": "I",
+    "tel": "ఇఔఅనౌల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15615",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iovenali",
+    "FLeng": "I",
+    "tel": "యువనాలి",
+    "FLtel": "య"
+  },
+  {
+    "id": "15616",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "ioviano",
+    "FLeng": "i",
+    "tel": "యవీయానో",
+    "FLtel": "య"
+  },
+  {
+    "id": "15617",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ipa",
+    "FLeng": "I",
+    "tel": "ఇప",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15618",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ipela",
+    "FLeng": "I",
+    "tel": "ఐపీల",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15619",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ipil",
+    "FLeng": "I",
+    "tel": "ఐపిల్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15620",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ippa",
+    "FLeng": "I",
+    "tel": "ఇప్ప",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15621",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ipsit",
+    "FLeng": "I",
+    "tel": "ఇప్సిట్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15622",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraaivan",
+    "FLeng": "I",
+    "tel": "ఇఱైవన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15623",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraavanan",
+    "FLeng": "I",
+    "tel": "ఐరావణాం",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15624",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraianbu",
+    "FLeng": "I",
+    "tel": "ఇఱైఅంబు",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15625",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraivan",
+    "FLeng": "I",
+    "tel": "ఇరైవన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15626",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraiyan",
+    "FLeng": "I",
+    "tel": "ఇఱైయన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15627",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraiyannal",
+    "FLeng": "I",
+    "tel": "ఇఱైయన్నల్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15628",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraiyavan",
+    "FLeng": "I",
+    "tel": "ఇఱైయవం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15629",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irama",
+    "FLeng": "I",
+    "tel": "ఇరమ",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15630",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irana",
+    "FLeng": "I",
+    "tel": "ఇరాన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15631",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Iranola",
+    "FLeng": "I",
+    "tel": "ఇరానాల",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15632",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Irao",
+    "FLeng": "I",
+    "tel": "ఇరవు",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15633",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iravad",
+    "FLeng": "I",
+    "tel": "ఇరవడి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15634",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iravaj",
+    "FLeng": "I",
+    "tel": "ఇరవజ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15635",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iravan",
+    "FLeng": "I",
+    "tel": "ఇరావం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15636",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iravat",
+    "FLeng": "I",
+    "tel": "ఐరావత్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15637",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iraveta",
+    "FLeng": "I",
+    "tel": "ఇరవేత",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15638",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irawat",
+    "FLeng": "I",
+    "tel": "ఇటావా",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15639",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "irenaeus",
+    "FLeng": "i",
+    "tel": "ఐరెనేస్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15640",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ireneusz",
+    "FLeng": "I",
+    "tel": "ఐరెనేస్స్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15641",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irenpreet",
+    "FLeng": "I",
+    "tel": "ఐరేన్ప్రీత్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15642",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iresh",
+    "FLeng": "I",
+    "tel": "ఐరిష్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15643",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irfaan",
+    "FLeng": "I",
+    "tel": "ఇర్ఫాన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15644",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irfan",
+    "FLeng": "I",
+    "tel": "ఇర్ఫాన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15645",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irhsad",
+    "FLeng": "I",
+    "tel": "ఇరఃసాద్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15646",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Iri",
+    "FLeng": "I",
+    "tel": "ఇరి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15647",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irin",
+    "FLeng": "I",
+    "tel": "ఐరన్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15648",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irish",
+    "FLeng": "I",
+    "tel": "ఐరిష్",
+    "FLtel": "ఐ"
+  },
+  {
+    "id": "15649",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irith",
+    "FLeng": "I",
+    "tel": "ఇరిత్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15650",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irmaa",
+    "FLeng": "I",
+    "tel": "ఇర్మా",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15651",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irmand",
+    "FLeng": "I",
+    "tel": "ఇర్మాండ్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15652",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irmas",
+    "FLeng": "I",
+    "tel": "ఇర్మాస్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15653",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Irminric",
+    "FLeng": "I",
+    "tel": "ఇర్మింరిక్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15654",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ironside",
+    "FLeng": "I",
+    "tel": "ఇరోన్సిదే",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15655",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irshaad",
+    "FLeng": "I",
+    "tel": "ఇర్షాద్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15656",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irshad",
+    "FLeng": "I",
+    "tel": "ఇర్షాద్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15657",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Irtiza Husain",
+    "FLeng": "I",
+    "tel": "ఇర్తిజా హుసైన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15658",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irudayarasan",
+    "FLeng": "I",
+    "tel": "ఇరుదయరసం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15659",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irumporai",
+    "FLeng": "I",
+    "tel": "ఇరుమ్పోరై",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15660",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Irumudi",
+    "FLeng": "I",
+    "tel": "ఇరుముడి",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15661",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Irven",
+    "FLeng": "I",
+    "tel": "ఇర్వేం",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15662",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "irvin",
+    "FLeng": "i",
+    "tel": "ఇర్విన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15663",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Irvin",
+    "FLeng": "I",
+    "tel": "ఇర్విన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15664",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "irvine",
+    "FLeng": "i",
+    "tel": "ఇర్విన్",
+    "FLtel": "ఇ"
+  },
+  {
+    "id": "15665",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Irvine",
+    "FLeng": "I",
+    "tel": "ఇర్విన్",
+    "FLtel": "ఇ"
+  }
+]

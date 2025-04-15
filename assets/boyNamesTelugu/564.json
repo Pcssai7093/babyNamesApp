@@ -1,0 +1,821 @@
+[
+  {
+    "id": "42852",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Uraaj",
+    "FLeng": "U",
+    "tel": "ఉరాజ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42853",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Uraif",
+    "FLeng": "U",
+    "tel": "ఉరైప్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42854",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "uranus",
+    "FLeng": "u",
+    "tel": "యురేనస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "42855",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uras",
+    "FLeng": "U",
+    "tel": "ఉరస్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42856",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urav",
+    "FLeng": "U",
+    "tel": "యూరప్",
+    "FLtel": "య"
+  },
+  {
+    "id": "42857",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urbane",
+    "FLeng": "U",
+    "tel": "అర్బన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42858",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "urbano",
+    "FLeng": "u",
+    "tel": "ర్బనో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42859",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urbano",
+    "FLeng": "U",
+    "tel": "ర్బనో",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42860",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urbanus",
+    "FLeng": "U",
+    "tel": "ర్బన్స్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42861",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urbgen",
+    "FLeng": "U",
+    "tel": "రుబీజం",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42862",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urdahav",
+    "FLeng": "U",
+    "tel": "ఉర్దహవ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42863",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Uresta",
+    "FLeng": "U",
+    "tel": "అరెస్ట",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42864",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Urfee",
+    "FLeng": "U",
+    "tel": "ఆర్ఫీ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "42865",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urgan",
+    "FLeng": "U",
+    "tel": "ఆర్గాన్",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "42866",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uri",
+    "FLeng": "U",
+    "tel": "ఉరి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42867",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "uriah",
+    "FLeng": "u",
+    "tel": "రుయ్య",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42868",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Uriel",
+    "FLeng": "U",
+    "tel": "రియల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42869",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "uriel",
+    "FLeng": "u",
+    "tel": "రియల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42870",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urien",
+    "FLeng": "U",
+    "tel": "ఉరియన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42871",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uriens",
+    "FLeng": "U",
+    "tel": "ఉరైన్స్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42872",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "urijah",
+    "FLeng": "u",
+    "tel": "రిజ",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42873",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uril",
+    "FLeng": "U",
+    "tel": "రిల్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42874",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urjamedh",
+    "FLeng": "U",
+    "tel": "ఊర్జముద్",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "42875",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urjani",
+    "FLeng": "U",
+    "tel": "అర్జీ",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42876",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urjasvin",
+    "FLeng": "U",
+    "tel": "ఊర్జస్విం",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "42877",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urjit",
+    "FLeng": "U",
+    "tel": "ఉర్జిత్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42878",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urjita",
+    "FLeng": "U",
+    "tel": "ఆర్జిత",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "42879",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urjith",
+    "FLeng": "U",
+    "tel": "ఉర్జిత్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42880",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Urmia",
+    "FLeng": "U",
+    "tel": "ఊర్మిళ",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "42881",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urmik",
+    "FLeng": "U",
+    "tel": "ఉర్మిక్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42882",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urmil",
+    "FLeng": "U",
+    "tel": "ఊర్మిళ",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "42883",
+    "gen": "male",
+    "rel": "others",
+    "eng": "Urmish",
+    "FLeng": "U",
+    "tel": "ఉర్మిస్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42884",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urmit",
+    "FLeng": "U",
+    "tel": "ఉర్మిట్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42885",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urmiya",
+    "FLeng": "U",
+    "tel": "ఉర్మియా",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42886",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urnik",
+    "FLeng": "U",
+    "tel": "ఊర్నిక్",
+    "FLtel": "ఊ"
+  },
+  {
+    "id": "42887",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uros",
+    "FLeng": "U",
+    "tel": "యూరోస్",
+    "FLtel": "య"
+  },
+  {
+    "id": "42888",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Urrab",
+    "FLeng": "U",
+    "tel": "అర్నబ్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42889",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urre",
+    "FLeng": "U",
+    "tel": "ముర్రే",
+    "FLtel": "మ"
+  },
+  {
+    "id": "42890",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urs",
+    "FLeng": "U",
+    "tel": "టూర్స్",
+    "FLtel": "ట"
+  },
+  {
+    "id": "42891",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ursa",
+    "FLeng": "U",
+    "tel": "రుస",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42892",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "urso",
+    "FLeng": "u",
+    "tel": "ఉర్స్లో",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42893",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Urson",
+    "FLeng": "U",
+    "tel": "ర్సన్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42894",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ursus",
+    "FLeng": "U",
+    "tel": "ఉర్సుస్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42895",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urugay",
+    "FLeng": "U",
+    "tel": "ఉరుగై",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42896",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urumaiah",
+    "FLeng": "U",
+    "tel": "ఉరుమయ్య",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42897",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Uruthiran",
+    "FLeng": "U",
+    "tel": "ఉరుథిరన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42898",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvaksh",
+    "FLeng": "U",
+    "tel": "ఉర్వక్ష",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42899",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvang",
+    "FLeng": "U",
+    "tel": "రువాంగ్",
+    "FLtel": "ర"
+  },
+  {
+    "id": "42900",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Urveer",
+    "FLeng": "U",
+    "tel": "ఉర్వీర్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42901",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvesh",
+    "FLeng": "U",
+    "tel": "యూర్వేష్",
+    "FLtel": "య"
+  },
+  {
+    "id": "42902",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvik",
+    "FLeng": "U",
+    "tel": "ఉర్విక్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42903",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvil",
+    "FLeng": "U",
+    "tel": "ఉర్విల్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42904",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvinath",
+    "FLeng": "U",
+    "tel": "ఉర్వినాథ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42905",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvir",
+    "FLeng": "U",
+    "tel": "ఉర్వీర్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42906",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Urvish",
+    "FLeng": "U",
+    "tel": "ఉర్విష్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42907",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Urwah",
+    "FLeng": "U",
+    "tel": "ఉర్వాహ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42908",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usaamah",
+    "FLeng": "U",
+    "tel": "ఉసామః",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42909",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usaim",
+    "FLeng": "U",
+    "tel": "సాయిం",
+    "FLtel": "స"
+  },
+  {
+    "id": "42910",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usain",
+    "FLeng": "U",
+    "tel": "అసైన్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42911",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usama",
+    "FLeng": "U",
+    "tel": "సామ",
+    "FLtel": "స"
+  },
+  {
+    "id": "42912",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "usama",
+    "FLeng": "u",
+    "tel": "సామ",
+    "FLtel": "స"
+  },
+  {
+    "id": "42913",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usamah",
+    "FLeng": "U",
+    "tel": "ఉసమః",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42914",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usayd",
+    "FLeng": "U",
+    "tel": "ఉసైద్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42915",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Usbeorn",
+    "FLeng": "U",
+    "tel": "ఉస్బెర్న్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42916",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uscfrea",
+    "FLeng": "U",
+    "tel": "స్క్ఫ్రీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "42917",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushakanta",
+    "FLeng": "U",
+    "tel": "ఉషాకాంత",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42918",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ushal",
+    "FLeng": "U",
+    "tel": "కుషాల్",
+    "FLtel": "క"
+  },
+  {
+    "id": "42919",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushangu",
+    "FLeng": "U",
+    "tel": "ఉషాంగ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42920",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushapati",
+    "FLeng": "U",
+    "tel": "ఉషాపటి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42921",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Usharanjan",
+    "FLeng": "U",
+    "tel": "ఉషారంజన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42922",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushas",
+    "FLeng": "U",
+    "tel": "ఉషస్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42923",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushenya",
+    "FLeng": "U",
+    "tel": "ఉషేన్య",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42924",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "usher",
+    "FLeng": "u",
+    "tel": "ఉషేర్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42925",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushij",
+    "FLeng": "U",
+    "tel": "ఉశీఙ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42926",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushik",
+    "FLeng": "U",
+    "tel": "ఉషిక",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42927",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Ushmangani",
+    "FLeng": "U",
+    "tel": "ఉష్మంగాని",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42928",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ushnak",
+    "FLeng": "U",
+    "tel": "ఉష్ణకే",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42929",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushnik",
+    "FLeng": "U",
+    "tel": "ఉష్ణిక్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42930",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushnisin",
+    "FLeng": "U",
+    "tel": "ఉష్ణిసిం",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42931",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Ushwant",
+    "FLeng": "U",
+    "tel": "అశ్వంత్",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42932",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Ushwnathbalaji",
+    "FLeng": "U",
+    "tel": "ఉశ్వనాథబాలాజీ",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42933",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Uslunan",
+    "FLeng": "U",
+    "tel": "అస్లునం",
+    "FLtel": "అ"
+  },
+  {
+    "id": "42934",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usman",
+    "FLeng": "U",
+    "tel": "ఉస్మాన్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42935",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usmanah",
+    "FLeng": "U",
+    "tel": "ఉస్మానః",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42936",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "uso",
+    "FLeng": "u",
+    "tel": "ఉసి",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42937",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Usraat",
+    "FLeng": "U",
+    "tel": "ఆశ్రయ",
+    "FLtel": "ఆ"
+  },
+  {
+    "id": "42938",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Ut",
+    "FLeng": "U",
+    "tel": "యూత్",
+    "FLtel": "య"
+  },
+  {
+    "id": "42939",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Uta",
+    "FLeng": "U",
+    "tel": "ఉత",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42940",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Utaib",
+    "FLeng": "U",
+    "tel": "ఉటైబ్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42941",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Utaif",
+    "FLeng": "U",
+    "tel": "ఉటైప్",
+    "FLtel": "ఉ"
+  },
+  {
+    "id": "42942",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Utairah",
+    "FLeng": "U",
+    "tel": "ఉటైరః",
+    "FLtel": "ఉ"
+  }
+]

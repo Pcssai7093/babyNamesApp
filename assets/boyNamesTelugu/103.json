@@ -1,0 +1,560 @@
+[
+  {
+    "id": "326",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhoothanathan",
+    "FLeng": "B",
+    "tel": "భూతనాథం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "327",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhootnath",
+    "FLeng": "B",
+    "tel": "భూతనాథ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "328",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhor",
+    "FLeng": "B",
+    "tel": "బీహార్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "329",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhoumik",
+    "FLeng": "B",
+    "tel": "భౌమిక్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "330",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhowmik",
+    "FLeng": "B",
+    "tel": "భౌమిక్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "331",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhramar",
+    "FLeng": "B",
+    "tel": "భ్రమర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "332",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhramara",
+    "FLeng": "B",
+    "tel": "భ్రమర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "333",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhramatej",
+    "FLeng": "B",
+    "tel": "భ్రమటేజ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "334",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhrigu",
+    "FLeng": "B",
+    "tel": "భ్రిగు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "335",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhrihadbanu",
+    "FLeng": "B",
+    "tel": "భ్రిహద్బను",
+    "FLtel": "భ"
+  },
+  {
+    "id": "336",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhrij",
+    "FLeng": "B",
+    "tel": "భ్రిజ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "337",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhruvam",
+    "FLeng": "B",
+    "tel": "భృవం",
+    "FLtel": "భ"
+  },
+  {
+    "id": "338",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhubandeep",
+    "FLeng": "B",
+    "tel": "బహుబందీప్",
+    "FLtel": "బ"
+  },
+  {
+    "id": "339",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhudev",
+    "FLeng": "B",
+    "tel": "భూదేవీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "340",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhudeva",
+    "FLeng": "B",
+    "tel": "భూదేవి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "341",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhudhara",
+    "FLeng": "B",
+    "tel": "భూధర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "342",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhudhav",
+    "FLeng": "B",
+    "tel": "బుధవా",
+    "FLtel": "బ"
+  },
+  {
+    "id": "343",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhugarbha",
+    "FLeng": "B",
+    "tel": "భూగర్భ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "344",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhujaketu",
+    "FLeng": "B",
+    "tel": "భుజాకేటు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "345",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhujang",
+    "FLeng": "B",
+    "tel": "భుజంగ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "346",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhujanga",
+    "FLeng": "B",
+    "tel": "భుజంగ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "347",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuji",
+    "FLeng": "B",
+    "tel": "భుజి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "348",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhujyu",
+    "FLeng": "B",
+    "tel": "భుజ్యు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "349",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhulo",
+    "FLeng": "B",
+    "tel": "భులో",
+    "FLtel": "భ"
+  },
+  {
+    "id": "350",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhulpreet",
+    "FLeng": "B",
+    "tel": "భుల్ప్రీత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "351",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuman",
+    "FLeng": "B",
+    "tel": "భూమన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "352",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumanyu",
+    "FLeng": "B",
+    "tel": "భుమన్యు",
+    "FLtel": "భ"
+  },
+  {
+    "id": "353",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumat",
+    "FLeng": "B",
+    "tel": "బహుమతి",
+    "FLtel": "బ"
+  },
+  {
+    "id": "354",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhumeet",
+    "FLeng": "B",
+    "tel": "భూమీత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "355",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumidhar",
+    "FLeng": "B",
+    "tel": "భూమిధర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "356",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumik",
+    "FLeng": "B",
+    "tel": "భూమిక",
+    "FLtel": "భ"
+  },
+  {
+    "id": "357",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumin",
+    "FLeng": "B",
+    "tel": "భూమి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "358",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuminder",
+    "FLeng": "B",
+    "tel": "భూమిన్డర్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "359",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumindra",
+    "FLeng": "B",
+    "tel": "భూమిన్ద్ర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "360",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuminjaya",
+    "FLeng": "B",
+    "tel": "భూమింజయ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "361",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumipati",
+    "FLeng": "B",
+    "tel": "భూమిపతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "362",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumisaya",
+    "FLeng": "B",
+    "tel": "భూమిసాయ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "363",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumish",
+    "FLeng": "B",
+    "tel": "భూమిష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "364",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumit",
+    "FLeng": "B",
+    "tel": "భూమిటీ",
+    "FLtel": "భ"
+  },
+  {
+    "id": "365",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumitra",
+    "FLeng": "B",
+    "tel": "భూమిత్ర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "366",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhumya",
+    "FLeng": "B",
+    "tel": "భూమ్యా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "367",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhunayaka",
+    "FLeng": "B",
+    "tel": "భూనాయక",
+    "FLtel": "భ"
+  },
+  {
+    "id": "368",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhunetri",
+    "FLeng": "B",
+    "tel": "భునేత్రి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "369",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhup",
+    "FLeng": "B",
+    "tel": "భూప్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "370",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupa",
+    "FLeng": "B",
+    "tel": "భూమి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "371",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupad",
+    "FLeng": "B",
+    "tel": "భూపాడ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "372",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupal",
+    "FLeng": "B",
+    "tel": "భూపాల్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "373",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupala",
+    "FLeng": "B",
+    "tel": "భూపాల",
+    "FLtel": "భ"
+  },
+  {
+    "id": "374",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupan",
+    "FLeng": "B",
+    "tel": "భూపేన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "375",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupat",
+    "FLeng": "B",
+    "tel": "భూపతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "376",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupathi",
+    "FLeng": "B",
+    "tel": "భూపతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "377",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupati",
+    "FLeng": "B",
+    "tel": "భూపతి",
+    "FLtel": "భ"
+  },
+  {
+    "id": "378",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupen",
+    "FLeng": "B",
+    "tel": "భూపేన్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "379",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupendra",
+    "FLeng": "B",
+    "tel": "భూపేంద్ర",
+    "FLtel": "భ"
+  },
+  {
+    "id": "380",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupesh",
+    "FLeng": "B",
+    "tel": "భూపేష్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "381",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupinderjeet",
+    "FLeng": "B",
+    "tel": "భూపిందర్జీత్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "382",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Bhupinderpal",
+    "FLeng": "B",
+    "tel": "భుపిందెర్పాల్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "383",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhupraj",
+    "FLeng": "B",
+    "tel": "భూప్రజ్",
+    "FLtel": "భ"
+  },
+  {
+    "id": "384",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuputra",
+    "FLeng": "B",
+    "tel": "బహుపుత్ర",
+    "FLtel": "బ"
+  },
+  {
+    "id": "385",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhuribala",
+    "FLeng": "B",
+    "tel": "భూరిబల",
+    "FLtel": "భ"
+  },
+  {
+    "id": "386",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhurida",
+    "FLeng": "B",
+    "tel": "భూరిదా",
+    "FLtel": "భ"
+  },
+  {
+    "id": "387",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Bhurisravas",
+    "FLeng": "B",
+    "tel": "భూరిశ్రవన్",
+    "FLtel": "భ"
+  }
+]

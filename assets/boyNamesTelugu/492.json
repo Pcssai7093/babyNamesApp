@@ -1,0 +1,731 @@
+[
+  {
+    "id": "37252",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saumitr",
+    "FLeng": "S",
+    "tel": "సౌమిత్రి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37253",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saumitra",
+    "FLeng": "S",
+    "tel": "సౌమిత్రా",
+    "FLtel": "స"
+  },
+  {
+    "id": "37254",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saumy",
+    "FLeng": "S",
+    "tel": "సౌమి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37255",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saunak",
+    "FLeng": "S",
+    "tel": "సమునకు",
+    "FLtel": "స"
+  },
+  {
+    "id": "37256",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saunder",
+    "FLeng": "S",
+    "tel": "సౌందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37257",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "saunder",
+    "FLeng": "s",
+    "tel": "సౌందర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37258",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saunders",
+    "FLeng": "S",
+    "tel": "సౌండెర్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37259",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "saunders",
+    "FLeng": "s",
+    "tel": "సౌండెర్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37260",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saunderson",
+    "FLeng": "S",
+    "tel": "సౌండెర్సన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37261",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "saunderson",
+    "FLeng": "s",
+    "tel": "సౌండెర్సన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37262",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saurabh",
+    "FLeng": "S",
+    "tel": "సౌరభ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37263",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saurav",
+    "FLeng": "S",
+    "tel": "సౌరవ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37264",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saurendra",
+    "FLeng": "S",
+    "tel": "సౌరేంద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "37265",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saurin",
+    "FLeng": "S",
+    "tel": "సరిన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37266",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saurish",
+    "FLeng": "S",
+    "tel": "సౌరిస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37267",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Saurjyesh",
+    "FLeng": "S",
+    "tel": "సౌర్జ్యేష్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37268",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sauts",
+    "FLeng": "s",
+    "tel": "షూట్స్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37269",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sauvar",
+    "FLeng": "S",
+    "tel": "సౌవర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37270",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sauveer",
+    "FLeng": "S",
+    "tel": "సౌవీర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37271",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sava",
+    "FLeng": "S",
+    "tel": "సవా",
+    "FLtel": "స"
+  },
+  {
+    "id": "37272",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savan",
+    "FLeng": "S",
+    "tel": "శవం",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37273",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savant",
+    "FLeng": "S",
+    "tel": "సావంత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37274",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savanth",
+    "FLeng": "S",
+    "tel": "సావంత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37275",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savar",
+    "FLeng": "S",
+    "tel": "షవర్",
+    "FLtel": "ష"
+  },
+  {
+    "id": "37276",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savarimuthu",
+    "FLeng": "S",
+    "tel": "సవరిముత్తు",
+    "FLtel": "స"
+  },
+  {
+    "id": "37277",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Savarni",
+    "FLeng": "S",
+    "tel": "సావర్ణి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37278",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "savas",
+    "FLeng": "s",
+    "tel": "సవాస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37279",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saven",
+    "FLeng": "S",
+    "tel": "సెవెన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37280",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savendran",
+    "FLeng": "S",
+    "tel": "సావేంద్రన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37281",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saverio",
+    "FLeng": "S",
+    "tel": "సావేరిలో",
+    "FLtel": "స"
+  },
+  {
+    "id": "37282",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "saverio",
+    "FLeng": "s",
+    "tel": "సావేరిలో",
+    "FLtel": "స"
+  },
+  {
+    "id": "37283",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saviero",
+    "FLeng": "S",
+    "tel": "సావీరో",
+    "FLtel": "స"
+  },
+  {
+    "id": "37284",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Savinder",
+    "FLeng": "S",
+    "tel": "స్విండెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37285",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Savino",
+    "FLeng": "S",
+    "tel": "సవినో",
+    "FLtel": "స"
+  },
+  {
+    "id": "37286",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savio",
+    "FLeng": "S",
+    "tel": "సవిలో",
+    "FLtel": "స"
+  },
+  {
+    "id": "37287",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savir",
+    "FLeng": "S",
+    "tel": "సవిర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37288",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savit",
+    "FLeng": "S",
+    "tel": "సావిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37289",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savitendra",
+    "FLeng": "S",
+    "tel": "సవిటెన్ద్ర",
+    "FLtel": "స"
+  },
+  {
+    "id": "37290",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savith",
+    "FLeng": "S",
+    "tel": "సావిత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37291",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Savitinder",
+    "FLeng": "S",
+    "tel": "సావితిన్డ్ర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37292",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Savitoj",
+    "FLeng": "S",
+    "tel": "సవితోజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37293",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Savoy",
+    "FLeng": "S",
+    "tel": "సావోయ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37294",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Savraj",
+    "FLeng": "S",
+    "tel": "సవరాజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37295",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "savva",
+    "FLeng": "s",
+    "tel": "సవ్వ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37296",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Savvas",
+    "FLeng": "S",
+    "tel": "సవ్వస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37297",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savya",
+    "FLeng": "S",
+    "tel": "సవ్య",
+    "FLtel": "స"
+  },
+  {
+    "id": "37298",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savya Sachi",
+    "FLeng": "S",
+    "tel": "సవ్య సాచి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37299",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savyamoonth",
+    "FLeng": "S",
+    "tel": "సవ్యమూన్త్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37300",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savyasachi",
+    "FLeng": "S",
+    "tel": "సవ్యసాచి",
+    "FLtel": "స"
+  },
+  {
+    "id": "37301",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Savyashachee",
+    "FLeng": "S",
+    "tel": "సవ్యసాచీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37302",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sawa",
+    "FLeng": "S",
+    "tel": "సవా",
+    "FLtel": "స"
+  },
+  {
+    "id": "37303",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sawad",
+    "FLeng": "S",
+    "tel": "శరద్",
+    "FLtel": "శ"
+  },
+  {
+    "id": "37304",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sawal",
+    "FLeng": "S",
+    "tel": "సవాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37305",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sawan",
+    "FLeng": "S",
+    "tel": "సావాన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37306",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawanpreet",
+    "FLeng": "S",
+    "tel": "సావాన్ప్రీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37307",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawaraj",
+    "FLeng": "S",
+    "tel": "సవరాజ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37308",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawarajbir",
+    "FLeng": "S",
+    "tel": "సవరాజేబీర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37309",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawarajdeep",
+    "FLeng": "S",
+    "tel": "సవరాజదీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37310",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawarajpal",
+    "FLeng": "S",
+    "tel": "సవరాజ్పాల్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37311",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawarajpreet",
+    "FLeng": "S",
+    "tel": "సవరజ్ప్రీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37312",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawaran",
+    "FLeng": "S",
+    "tel": "సవరం",
+    "FLtel": "స"
+  },
+  {
+    "id": "37313",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawarandeep",
+    "FLeng": "S",
+    "tel": "సవరందీప్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37314",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawaranjeet",
+    "FLeng": "S",
+    "tel": "సవరంజీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37315",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawaranjot",
+    "FLeng": "S",
+    "tel": "సవరంజోత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37316",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawaranpreet",
+    "FLeng": "S",
+    "tel": "సవరన్ప్రీత్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37317",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saward",
+    "FLeng": "S",
+    "tel": "సవార్డ్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37318",
+    "gen": "male",
+    "rel": "Muslim",
+    "eng": "Sawin",
+    "FLeng": "S",
+    "tel": "సావిని",
+    "FLtel": "స"
+  },
+  {
+    "id": "37319",
+    "gen": "male",
+    "rel": "Sikh",
+    "eng": "Sawinder",
+    "FLeng": "S",
+    "tel": "సవిండెర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37320",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sawyere",
+    "FLeng": "S",
+    "tel": "సాయర్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37321",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Sawyers",
+    "FLeng": "S",
+    "tel": "సాయర్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37322",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "sax",
+    "FLeng": "s",
+    "tel": "సాస్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37323",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxan",
+    "FLeng": "S",
+    "tel": "జాక్సన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37324",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxe",
+    "FLeng": "S",
+    "tel": "సెక్సీ",
+    "FLtel": "స"
+  },
+  {
+    "id": "37325",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxen",
+    "FLeng": "S",
+    "tel": "జాక్సన్",
+    "FLtel": "జ"
+  },
+  {
+    "id": "37326",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxleue",
+    "FLeng": "S",
+    "tel": "సక్సలేటయే",
+    "FLtel": "స"
+  },
+  {
+    "id": "37327",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxon",
+    "FLeng": "S",
+    "tel": "సాక్సన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37328",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxons",
+    "FLeng": "S",
+    "tel": "సాక్సన్స్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37329",
+    "gen": "male",
+    "rel": "Christian",
+    "eng": "Saxton",
+    "FLeng": "S",
+    "tel": "సక్సటన్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37330",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Say",
+    "FLeng": "S",
+    "tel": "సే",
+    "FLtel": "స"
+  },
+  {
+    "id": "37331",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sayak",
+    "FLeng": "S",
+    "tel": "సాయక్",
+    "FLtel": "స"
+  },
+  {
+    "id": "37332",
+    "gen": "male",
+    "rel": "Hindu",
+    "eng": "Sayam",
+    "FLeng": "S",
+    "tel": "సాయం",
+    "FLtel": "స"
+  }
+]
