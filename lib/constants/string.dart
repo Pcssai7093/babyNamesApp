@@ -8,6 +8,7 @@ class Strings {
       "gender": "Gender",
       "religion": "Religion",
       "letter": "Letter",
+      "search":"search",
       "alphabets": ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
     },
     "hindi": {
@@ -26,6 +27,7 @@ class Strings {
       "gender": "లింగం",
       "religion": "మతం",
       "letter": "అక్షరం",
+      "search":"శోధన",
       "alphabets": ["అ", "ఆ", "ఇ", "ఈ", "ఉ", "ఊ", "ఎ", "ఐ", "ఒ", "ఔ", "క", "ఖ", "గ", "ఘ", "చ", "ఛ", "జ", "ఝ", "ట", "ఠ", "డ", "ఢ", "ణ", "త", "థ", "ద", "ధ", "న", "ప", "ఫ", "బ", "భ", "మ", "య", "ర", "ల", "వ", "శ", "ష", "స", "హ"]
     },
     "tamil": {

@@ -413,7 +413,7 @@ class _navbarState extends State<navbar> {
                       ),
                   ),
                   child: Text(
-                    "అన్వేషించు",
+                    Strings.constants[prefLanguageProvider.prefLang]["search"],
                     style: TextStyle(
                         color: Colors.white,
                         fontSize: 20,
