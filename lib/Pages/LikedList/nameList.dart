@@ -56,9 +56,11 @@ class _nameListState extends State<nameList> {
   void filterHandler(String firstLetter) async {
     setLoader2(true);
     await Future.delayed(Duration(seconds: 1));
-    setState(() {
-      names = [];
-    });
+    if(mounted){
+      setState(() {
+        names = [];
+      });
+    }
     await Future.delayed(Duration(seconds: 1));
     print("selected filters: ,${firstLetter}");
     var prefs = await SharedPreferences.getInstance();

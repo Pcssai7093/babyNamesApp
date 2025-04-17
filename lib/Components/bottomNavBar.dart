@@ -5,6 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../Providers/prefLanguageProvider.dart';
+import 'interstitial_ad_service.dart';
 
 class bottomNavBar extends StatefulWidget {
   const bottomNavBar({super.key, required this.prefLangSelectHanlder});
@@ -245,6 +246,7 @@ class _bottomNavBarState extends State<bottomNavBar> {
                               GestureDetector(
                                 onTap: () {
                                   toggleDarkMode();
+                                  // InterstitialAdService().showAd();
                                 },
                                 child: Container(
                                   margin: EdgeInsets.only(left: 5, right: 5),
@@ -329,10 +331,17 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         onTap: () {
                           if (!_isNavigating) {
                             _isNavigating = true;
-                            Navigator.pushReplacementNamed(context, "/")
-                                .then((_) {
-                              _isNavigating = false;
+                            InterstitialAdService().showAd(() {
+                              // Navigator.push(context, MaterialPageRoute(builder: (_) => NextPage()));
+                              Navigator.pushReplacementNamed(context, "/")
+                                  .then((_) {
+                                _isNavigating = false;
+                              });
                             });
+                            // Navigator.pushReplacementNamed(context, "/")
+                            //     .then((_) {
+                            //   _isNavigating = false;
+                            // });
                           }
 
                           // Navigator.pushNamed(context, "/");
@@ -357,10 +366,19 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         onTap: () {
                           if (!_isNavigating) {
                             _isNavigating = true;
-                            Navigator.pushReplacementNamed(context, "/nameList")
-                                .then((_) {
-                              _isNavigating = false;
+
+                            InterstitialAdService().showAd(() {
+                              // Navigator.push(context, MaterialPageRoute(builder: (_) => NextPage()));
+                              Navigator.pushReplacementNamed(context, "/nameList")
+                                  .then((_) {
+                                _isNavigating = false;
+                              });
                             });
+
+                            // Navigator.pushReplacementNamed(context, "/nameList")
+                            //     .then((_) {
+                            //   _isNavigating = false;
+                            // });
                           }
                           // Navigator.pushNamed(context, "/nameList");
                         },
@@ -385,11 +403,20 @@ class _bottomNavBarState extends State<bottomNavBar> {
                         onTap: () {
                           if (!_isNavigating) {
                             _isNavigating = true;
-                            Navigator.pushReplacementNamed(
-                                    context, "/likedList")
-                                .then((_) {
-                              _isNavigating = false;
+
+                            InterstitialAdService().showAd(() {
+                              // Navigator.push(context, MaterialPageRoute(builder: (_) => NextPage()));
+                              Navigator.pushReplacementNamed(context, "/likedList")
+                                  .then((_) {
+                                _isNavigating = false;
+                              });
                             });
+
+                            // Navigator.pushReplacementNamed(
+                            //         context, "/likedList")
+                            //     .then((_) {
+                            //   _isNavigating = false;
+                            // });
                           }
                           // Navigator.pushNamed(context, "/likedList");
                         },
