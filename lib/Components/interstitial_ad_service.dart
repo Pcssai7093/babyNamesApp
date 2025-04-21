@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
@@ -16,7 +17,15 @@ class InterstitialAdService {
       ? 'ca-app-pub-2071196384129241/6784688169' // Test ad unit
       : 'ca-app-pub-3940256099942544/4411468910';
 
-  void loadAd() {
+  void loadAd() async {
+    List<ConnectivityResult> connectivityResult = await Connectivity().checkConnectivity();
+
+    if (!(connectivityResult == ConnectivityResult.mobile ||
+        connectivityResult == ConnectivityResult.wifi ||
+        connectivityResult == ConnectivityResult.ethernet)) {
+      print("--------no net-------");
+      return;
+    }
     InterstitialAd.load(
       adUnitId: _adUnitId,
       request: const AdRequest(),
@@ -60,6 +69,7 @@ class InterstitialAdService {
       _lastAdTime = now;
       onAdComplete(); // continue after ad
     } else {
+      loadAd();
       onAdComplete(); // skip ad, continue immediately
     }
   }
